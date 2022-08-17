@@ -103,7 +103,7 @@ def main():
                 # st.write(probability)
                 # st.write(proba_sentiment)
                 proba_df = pd.DataFrame(probability,columns=pipe_lr.classes_)
-                proba_sent_df = pd.DataFrame(proba_sentiment,columns=pipe_ctm.classes_)
+                proba_sent_df = pd.DataFrame(proba_sentiment,columns=pipe_lr.classes_)
                 # st.write(proba_df.T)
                 # st.write(proba_sent_df.T)
                 # proba_df_clean = proba_df.T.reset_index()
