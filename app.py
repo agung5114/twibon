@@ -29,6 +29,19 @@ api = tweepy.API(auth)
 from PIL import Image
 
 # Fxn
+def get_tweet(kword,ntweet):
+    api = tweepy.API(auth, wait_on_rate_limit=True,wait_on_rate_limit_notify=True)
+    search_hashtag = tweepy.Cursor(api.search_tweets, q=kword,result_type='popular', tweet_mode = "extended").items(ntweet)
+    ids = []
+    tweets = []
+    users = []
+    for tweet in search_hashtag:
+        ids.append(tweet.user.id)
+        users.append(tweet.user.name)
+        tweets.append(tweet.full_text)
+    result = pd.DataFrame(list(zip(ids,users,tweets)),columns =['ID','User', 'Tweet'])
+    return result
+
 def predict_emotions(docx):
 	results = pipe_lr.predict([docx])
 	return results[0]
