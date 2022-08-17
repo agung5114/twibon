@@ -4,4 +4,5 @@ tweepy
 textblob
 pillow
 plotly-express
+altair
 joblib
