@@ -62,12 +62,12 @@ emotions_emoji_dict = {"anger":"😠","disgust":"🤮", "fear":"😨😱", "happ
 
 # Main Application
 def main():
-    st.title("Machine Learning Web Application")
-    menu = ["Tweet Analyzer","Tweet Network","Recommendation"]
-    choice = st.sidebar.selectbox("Select Menu", menu)
+    st.sidebar.title("Twitter Behavior Observation")
     search = st.sidebar.text_input("Input Twitter User",value="")
     if st.sidebar.button("Analyze User"):
       st.sidebar.write(f'Username  : {search}')
+    menu = ["Tweet Analyzer","Tweet Network","Recommendation"]
+    choice = st.sidebar.selectbox("Select Menu", menu)
     if choice == "Tweet Analyzer":
         st.subheader("Tweet Analyzer")
         with st.form(key='emotion_clf_form'):
