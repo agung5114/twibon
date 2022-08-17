@@ -76,7 +76,7 @@ def main():
             submit_text = st.form_submit_button(label='Submit')
 
         if submit_text:	
-            hasilSearch = api.search(q=str(search_text),count=2)
+            hasilSearch = api.search_tweets(q=str(search_text),count=2)
             texts = []
             for tweet in hasilSearch:
                 texts.append(tweet.text)
