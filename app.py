@@ -121,7 +121,7 @@ def main():
                 st.write(sns.heatmap(df.corr(),annot=True))
                 st.pyplot()
     elif choice == "Recommendation":
-	st.write("useful links")
+        st.write("Channel to follow")
 
 if __name__ == '__main__':
     main()
