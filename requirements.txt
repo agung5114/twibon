@@ -1,0 +1,6 @@
+streamlit
+tweepy
+textblob
+pillow
+plotly-express
+joblib
