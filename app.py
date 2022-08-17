@@ -51,12 +51,12 @@ emoji_sentiment = {"positif":"🤗","negatif":"😔","netral":"😐","tdk-releva
 # Main Application
 def main():
     st.title("Machine Learning Web Application")
-    menu = ["Tweet Analyzer","Network","Recommendation"]
+    menu = ["Tweet Analyzer","Tweet Network","Recommendation"]
     choice = st.sidebar.selectbox("Select Menu", menu)
     search = st.sidebar.text_input("Input Twitter User",value="")
     if st.sidebar.button("Analyze User"):
       st.sidebar.write(f'Username  : {search}')
-    if choice == "Sentiment":
+    if choice == "Tweet Analyzer":
         st.subheader("Tweet Analyzer")
         with st.form(key='emotion_clf_form'):
             search_text = st.text_area("Type Here")
@@ -104,7 +104,7 @@ def main():
                 # st.altair_chart(fig,use_container_width=True)
                 fig = alt.Chart(proba_df_sent_clean).mark_bar().encode(x='sentiments',y='probability',color='sentiments')
                 st.altair_chart(fig,use_container_width=True)
-    elif choice == "Network":
+    elif choice == "Tweet Network":
         data = st.file_uploader("Upload Dataset", type=["csv","txt"])
         if data is not None:
             df = pd.read_csv(data)
@@ -120,7 +120,8 @@ def main():
             if st.checkbox("Correlation Matrix"):
                 st.write(sns.heatmap(df.corr(),annot=True))
                 st.pyplot()
-    
+    elif choice == "Recommendation":
+	st.write("useful links")
 
 if __name__ == '__main__':
     main()
