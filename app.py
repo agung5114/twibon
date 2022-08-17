@@ -59,7 +59,6 @@ def get_sentiment_proba(docx):
 	return results
 
 emotions_emoji_dict = {"anger":"😠","disgust":"🤮", "fear":"😨😱", "happy":"🤗", "joy":"😂", "neutral":"😐", "sad":"😔", "sadness":"😔", "shame":"😳", "surprise":"😮"}
-emoji_sentiment = {"positif":"🤗","negatif":"😔","netral":"😐","tdk-relevan":"😮"}
 
 # Main Application
 def main():
@@ -98,7 +97,6 @@ def main():
                 emoji_icon = emotions_emoji_dict[prediction]
                 st.write("{}:{}".format(prediction,emoji_icon))
                 st.write("Confidence:{}".format(np.max(probability)))
-                st.write("{}:{}".format(sentiment,emoji_sentiment[sentiment]))
                 st.write("Confidence:{}".format(np.max(proba_sentiment)))
             with col2:
                 st.success("Prediction Probability")
