@@ -1,6 +1,6 @@
 # Core Pkgs
 import streamlit as st 
-import altair as alt
+# import altair as alt
 import plotly.express as px 
 import plotly.graph_objects as go
 
@@ -8,13 +8,13 @@ import plotly.graph_objects as go
 import pandas as pd 
 import numpy as np 
 from datetime import datetime
-import seaborn as sns
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# import seaborn as sns
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Utils
 import joblib 
 pipe_lr = joblib.load(open("modelnlp.pkl","rb"))
-pipe_ctm = joblib.load(open("model_custom.pkl","rb"))
+# pipe_ctm = joblib.load(open("model_custom.pkl","rb"))
 
 import tweepy
 api_key = st.secrets["api_key"]
@@ -38,11 +38,11 @@ def get_prediction_proba(docx):
 	return results
 
 def predict_sentiment(docx):
-    results = pipe_ctm.predict([docx])
+    results = pipe_lr.predict([docx])
     return results[0]
 
 def get_sentiment_proba(docx):
-	results = pipe_ctm.predict_proba([docx])
+	results = pipe_lr.predict_proba([docx])
 	return results
 
 emotions_emoji_dict = {"anger":"😠","disgust":"🤮", "fear":"😨😱", "happy":"🤗", "joy":"😂", "neutral":"😐", "sad":"😔", "sadness":"😔", "shame":"😳", "surprise":"😮"}
