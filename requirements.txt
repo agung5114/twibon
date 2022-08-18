@@ -7,3 +7,8 @@ plotly-express
 altair
 joblib
 neattext
+seaborn
+wordcloud
+git+https://github.com/JustAnotherArchivist/snscrape.git
+nltk
+gensim

@@ -1,61 +1,57 @@
 # Core Pkgs
 import streamlit as st 
 import altair as alt
-import plotly.express as px 
+import plotly.express as px
 import plotly.graph_objects as go
+import plotly.io as pio
+pio.templates.default = "plotly_white"
 
 # EDA Pkgs
 import pandas as pd 
-import numpy as np 
+import numpy as np
 from datetime import datetime
-# import seaborn as sns
-# st.set_option('deprecation.showPyplotGlobalUse', False)
+
+# wordcloud & sns
+from wordcloud import WordCloud
+import warnings
+warnings.filterwarnings('ignore')
+import matplotlib.pyplot as plt
+import seaborn as sns
+st.set_option('deprecation.showPyplotGlobalUse', False)
+colours = ['#1F77B4', '#FF7F0E', '#2CA02C', '#DB2728', '#9467BD', '#8C564B', '#E377C2','#7F7F7F', '#BCBD22', '#17BECF','#67E568','#257F27','#08420D','#FFF000','#FFB62B','#E56124','#E53E30','#7F2353','#F911FF','#9F8CA6']
+sns.set_palette(colours)
+# %matplotlib inline
+# import quantstats as qs
+plt.rcParams['figure.figsize'] = (9, 6)
+sns.set_style('darkgrid')
 
 #NLP
-from textblob import TextBlob
-from neattext import TextCleaner
+from textprep import tweet_sentiment
 
 # Utils
-import joblib 
+from tweets import api, get_tweet
+import joblib
 pipe_lr = joblib.load(open("modelnlp.pkl","rb"))
-# pipe_ctm = joblib.load(open("model_custom.pkl","rb"))
-
-import tweepy
-api_key = st.secrets["api_key"]
-api_secret_key = st.secrets["api_secret_key"]
-access_token = st.secrets["access_token"]
-access_token_secret = st.secrets["access_token_secret"]
-auth = tweepy.OAuthHandler(api_key,api_secret_key)
-auth.set_access_token(access_token,access_token_secret)
-api = tweepy.API(auth)
 
 # Image
 from PIL import Image
 
-# Fxn
-def get_tweet(kword,ntweet):
-    api = tweepy.API(auth, wait_on_rate_limit=True,wait_on_rate_limit_notify=True)
-    search_hashtag = tweepy.Cursor(api.search_tweets, q=kword,result_type='popular', tweet_mode = "extended").items(ntweet)
-    ids = []
-    tweets = []
-    users = []
-    for tweet in search_hashtag:
-        ids.append(tweet.user.id)
-        users.append(tweet.user.name)
-        tweets.append(tweet.full_text)
-    result = pd.DataFrame(list(zip(ids,users,tweets)),columns =['ID','User', 'Tweet'])
-    return result
+# Topic model
+from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
+import string
+
  
 def get_timeline(username):
 	timeline = api.user_timeline(
 		# user_id=userID,
 		screen_name=username,
-		count=10,
+		count=20,
 		include_rts = False,
-		  # Necessary to keep full_text 
+		  # Necessary to keep full_text
 		  # otherwise only the first 140 words are extracted
 		tweet_mode = 'extended'
-	      )
+		  )
 	ids = []
 	at = []
 	text = []
@@ -63,9 +59,9 @@ def get_timeline(username):
 		ids.append(info.id)
 		at.append(info.created_at)
 		text.append(info.full_text)
-	result = pd.DataFrame(list(zip(ids,at,text)),columns =['TweetID','Create_At','Tweet_Text'])
+	result = pd.DataFrame(list(zip(ids,at,text)),columns =['TweetID','Created','Tweet'])
 	return result
-
+#
 def predict_emotions(docx):
 	results = pipe_lr.predict([docx])
 	return results[0]
@@ -74,93 +70,102 @@ def get_prediction_proba(docx):
 	results = pipe_lr.predict_proba([docx])
 	return results
 
-def predict_sentiment(docx):
-    results = pipe_lr.predict([docx])
-    return results[0]
+@st.cache(allow_output_mutation=True)
+def getData(usr):
+	df = get_timeline(usr)
+	return df
 
-def get_sentiment_proba(docx):
-	results = pipe_lr.predict_proba([docx])
-	return results
+emotions_emoji_dict = {"anger":"😠", "fear":"😨😱", "sad":"😔", "sadness":"😔", "shame":"😳","disgust":"🤮", "surprise":"😮","neutral":"😐", "happy":"🤗", "joy":"😂"}
+color_discrete_map={"anger":"#de425b", "fear":"#e96678", "sad":"#f38794", "sadness":"#f38794", "shame":"#f7ada1","disgust":"#e8a985", "surprise":"#b2d7c8","neutral":"#ced4d0",
+					"happy":"#70bda0", "joy":"#00a27a"}
 
-emotions_emoji_dict = {"anger":"😠","disgust":"🤮", "fear":"😨😱", "happy":"🤗", "joy":"😂", "neutral":"😐", "sad":"😔", "sadness":"😔", "shame":"😳", "surprise":"😮"}
+sentiment_color={"Negative":"#e96678", "Neutral":"#ced4d0","Positive":"#70bda0"}
 
-# Main Application
-def main():
-    st.sidebar.title("Twitter Behavior Observation")
-    menu = ["User Monitoring","Tweet Analyzer","Tweet Network","Recommendation"]
-    choice = st.sidebar.selectbox("Select Menu", menu)
-    if choice == "User Monitoring":
-    	st.subheader("User's Behavior Monitoring") 
-    elif choice == "Tweet Analyzer":
-	usr = st.sidebar.text_input("Input Twitter User",value="")
-	if st.sidebar.button("Analyze User"):
-		st.sidebar.write(f'Twitter Username: {usr}')
-        	st.subheader("Tweet Analyzer")
-		df = get_timeline(usr)
-		search_text = df['Tweet'][0]
-        #with st.form(key='emotion_clf_form'):
-        #   search_text = st.text_area("Type Here")
-        #   submit_text = st.form_submit_button(label='Submit')
+st.sidebar.title("Twitter User Insight and Behavior Observation")
+usr = st.sidebar.text_input("Input Twitter User", value="")
+# if st.sidebar.button("Analyze User"):
+st.sidebar.write(f'Twitter Username: {usr}')
+menu = ["Tweet Analyzer", "Topic Graph Analysis", "Recommendation"]
+choice = st.sidebar.selectbox("Select Menu", menu)
+data = getData(usr)
+df = tweet_sentiment(data, 'Tweet')
+if choice == "Tweet Analyzer":
+	df['color']=df['Emotion'].map(color_discrete_map)
+	col1,col2 = st.columns((1,1))
+	with col1:
+		df["EmoScore"] = df["EmoScore"] * df["EmoProba"]
+		fig = px.pie(df, names='Emotion', values='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
+		# fig = go.Figure(data=[go.Pie(labels=df['Emotion'], values=df['EmoProba'], hole=.4)])
+		st.plotly_chart(fig)
+		fig1 = px.scatter(df, x="Created", y="EmoScore",
+						  color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
+		st.plotly_chart(fig1)
 
-        #if submit_text:	
-		hasilSearch = api.search_tweets(q=str(search_text),count=2)
-		texts = []
-		for tweet in hasilSearch:
-		texts.append(tweet.text)
-		# raw_text2 = texts[1]
-		raw_text = texts[0]
-		# translated = translator.translate(raw_text)
-		# translated = raw_text
-		prediction = predict_emotions(raw_text)
-		probability = get_prediction_proba(raw_text)
-		sentiment = predict_sentiment(raw_text)
-		proba_sentiment = get_sentiment_proba(raw_text)
-		col1,col2  = st.beta_columns(2)
-		with col1:
-		st.success("Search Result")
-		st.write(raw_text)
-		# st.write(raw_text2)
-		# st.write(translated.text)
-		st.success("Prediction")
-		emoji_icon = emotions_emoji_dict[prediction]
-		st.write("{}:{}".format(prediction,emoji_icon))
-		st.write("Confidence:{}".format(np.max(probability)))
-		st.write("Confidence:{}".format(np.max(proba_sentiment)))
-		with col2:
-		st.success("Prediction Probability")
-		# st.write(probability)
-		# st.write(proba_sentiment)
-		proba_df = pd.DataFrame(probability,columns=pipe_lr.classes_)
-		proba_sent_df = pd.DataFrame(proba_sentiment,columns=pipe_lr.classes_)
-		# st.write(proba_df.T)
-		# st.write(proba_sent_df.T)
-		# proba_df_clean = proba_df.T.reset_index()
-		# proba_df_clean.columns = ["emotions","probability"]
-		proba_df_sent_clean = proba_sent_df.T.reset_index()
-		proba_df_sent_clean.columns = ["sentiments","probability"]
+	with col2:
+		df1 = df.groupby('Sentiment', as_index=False).agg({'Count': 'sum'})
+		# fig0 = px.pie(df, names='Sentiment', values='Count', color='Sentiment', color_discrete_map=sentiment_color)
+		fig0 = px.bar(df, x='Sentiment', y='Count', color='Sentiment', color_discrete_map=sentiment_color)
+		st.plotly_chart(fig0)
+		sw = stopwords.words('english')
+		cek = df['Text_cleaned'].tolist()
+		wordcloud = WordCloud(
+			background_color='white',
+			width=650,
+			stopwords=set(
+				sw + ['https', 'http', 'co', 'PT', 'the', 'and', 'for', 'a', 'an', 'to', 'from', 'am', 'is', 'has',
+					  'have', 'had', 'do', 'did']),
+			height=400
+		).generate(' '.join(cek))
+		wc = px.imshow(wordcloud)
+		st.plotly_chart(wc)
+		# fig2 = px.bar(df1, x='Emotion', y='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
+		# st.plotly_chart(fig2)
 
-		# fig = alt.Chart(proba_df_clean).mark_bar().encode(x='emotions',y='probability',color='emotions')
-		# st.altair_chart(fig,use_container_width=True)
-		fig = alt.Chart(proba_df_sent_clean).mark_bar().encode(x='sentiments',y='probability',color='sentiments')
-		st.altair_chart(fig,use_container_width=True)
-    elif choice == "Tweet Network":
-	data = st.file_uploader("Upload Dataset", type=["csv","txt"])
-	if data is not None:
-	    df = pd.read_csv(data)
-	    st.dataframe(df.head())
-	else:
-	    st.write("No Dataset To Show")
-	st.subheader("Exploratory Data Analysis")
-	if data is not None:
-	    if st.checkbox("Show Shape"):
-		st.write(df.shape)
-	    if st.checkbox("Show Summary"):
-		st.write(df.describe())
-	    if st.checkbox("Correlation Matrix"):
-		st.write(sns.heatmap(df.corr(),annot=True))
-		st.pyplot()
-    elif choice == "Recommendation":
-        st.write("Channel to follow")
 
-if __name__ == '__main__':
-    main()
+	dff = df[['Tweet', 'Emotion','Sentiment','Emoji']]
+	st.dataframe(dff)
+
+elif choice == "Topic Graph Analysis":
+	stop = set(stopwords.words('english'))
+	exclude = set(string.punctuation)
+	lemma = WordNetLemmatizer()
+
+	def clean(doc):
+		stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
+		punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
+		normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())
+		return normalized
+
+	doc_clean = [clean(doc).split() for doc in df['Text_cleaned'].tolist()]
+	import gensim
+	from gensim import corpora
+
+	# Creating the term dictionary of our courpus, where every unique term is assigned an index.
+	dictionary = corpora.Dictionary(doc_clean)
+
+	# Converting list of documents (corpus) into Document Term Matrix using dictionary prepared above.
+	doc_term_matrix = [dictionary.doc2bow(doc) for doc in doc_clean]
+	Lda = gensim.models.ldamodel.LdaModel
+	ldamodel = Lda(doc_term_matrix, num_topics=3, id2word=dictionary, passes=50)
+	topic = ldamodel.print_topics(num_topics=3, num_words=1)
+	topic1 = topic[0][1]
+	topic2 = topic[1][1]
+	topic3 = topic[2][1]
+	topic_list = [topic1.split('*')[1][1:-1], topic2.split('*')[1][1:-1], topic3.split('*')[1][1:-1]]
+	st.write(topic_list)
+	def extract_hashtags(text):
+		hashtag_list = []
+		for word in text.split():
+			if word[0] == '#':
+				hashtag_list.append(word[1:])
+		return hashtag_list
+	df1 = get_tweet(topic_list[0],50)
+	# df2 = get_tweet(topic_list[1], 50)
+	# df3 = get_tweet(topic_list[2], 50)
+	# df1['hashtag'] = df1['Tweet'].apply(extract_hashtags)
+	st.dataframe(df1)
+	# st.dataframe(df2)
+	# st.dataframe(df3)
+	# doc1 = [clean(doc).split() for doc in df['Text_cleaned'].tolist()]
+elif choice == "Recommendation":
+	st.write("Channel to follow")
