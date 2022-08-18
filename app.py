@@ -11,6 +11,10 @@ from datetime import datetime
 # import seaborn as sns
 # st.set_option('deprecation.showPyplotGlobalUse', False)
 
+#NLP
+from textblob import TextBlob
+from neattext import TextCleaner
+
 # Utils
 import joblib 
 pipe_lr = joblib.load(open("modelnlp.pkl","rb"))
@@ -41,6 +45,27 @@ def get_tweet(kword,ntweet):
         tweets.append(tweet.full_text)
     result = pd.DataFrame(list(zip(ids,users,tweets)),columns =['ID','User', 'Tweet'])
     return result
+ 
+def get_timeline(username):
+	timeline = api.user_timeline(
+		# user_id=userID,
+		screen_name=username,
+		count=10,
+		include_rts = False,
+		  # Necessary to keep full_text 
+		  # otherwise only the first 140 words are extracted
+		tweet_mode = 'extended'
+	      )
+	ids = []
+	at = []
+	text = []
+
+	for info in timeline:
+	ids.append(info.id)
+	at.append(info.created_at)
+	text.append(info.full_text)
+	result = pd.DataFrame(list(zip(ids,at,text)),columns =['TweetID','Create_At','Tweet_Text'])
+	return result
 
 def predict_emotions(docx):
 	results = pipe_lr.predict([docx])
@@ -63,16 +88,18 @@ emotions_emoji_dict = {"anger":"😠","disgust":"🤮", "fear":"😨😱", "happ
 # Main Application
 def main():
     st.sidebar.title("Twitter Behavior Observation")
-    search = st.sidebar.text_input("Input Twitter User",value="")
+    usr = st.sidebar.text_input("Input Twitter User",value="")
     if st.sidebar.button("Analyze User"):
-      st.sidebar.write(f'Username  : {search}')
+      st.sidebar.write(f'Twitter Username: {usr}')
     menu = ["Tweet Analyzer","Tweet Network","Recommendation"]
     choice = st.sidebar.selectbox("Select Menu", menu)
     if choice == "Tweet Analyzer":
         st.subheader("Tweet Analyzer")
-        with st.form(key='emotion_clf_form'):
-            search_text = st.text_area("Type Here")
-            submit_text = st.form_submit_button(label='Submit')
+	df = get_timeline(usr)
+	search_text = df['Tweet'][0]
+        #with st.form(key='emotion_clf_form'):
+        #   search_text = st.text_area("Type Here")
+        #   submit_text = st.form_submit_button(label='Submit')
 
         if submit_text:	
             hasilSearch = api.search_tweets(q=str(search_text),count=2)
