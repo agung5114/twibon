@@ -1,5 +1,6 @@
 # Core Pkgs
-import streamlit as st 
+import streamlit as st
+st.set_page_config(page_title="Twibon", page_icon=None, layout="wide", initial_sidebar_state="auto", menu_items=None)
 import altair as alt
 import plotly.express as px
 import plotly.graph_objects as go
