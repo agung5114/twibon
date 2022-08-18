@@ -37,6 +37,7 @@ pipe_lr = joblib.load(open("modelnlp.pkl","rb"))
 from PIL import Image
 
 # Topic model
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 import string
