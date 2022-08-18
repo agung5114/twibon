@@ -1,1 +1,1 @@
-python -m nltk.downloader popular
+python -m nltk.downloader all
