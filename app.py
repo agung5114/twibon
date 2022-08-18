@@ -59,12 +59,11 @@ def get_timeline(username):
 	ids = []
 	at = []
 	text = []
-
 	for info in timeline:
-	ids.append(info.id)
-	at.append(info.created_at)
-	text.append(info.full_text)
-	result = pd.DataFrame(list(zip(ids,at,text)),columns =['TweetID','Create_At','Tweet_Text'])
+		ids.append(info.id)
+		at.append(info.created_at)
+		text.append(info.full_text)
+		result = pd.DataFrame(list(zip(ids,at,text)),columns =['TweetID','Create_At','Tweet_Text'])
 	return result
 
 def predict_emotions(docx):
