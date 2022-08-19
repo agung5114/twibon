@@ -227,5 +227,5 @@ elif choice == "Topic Graph Analysis":
 elif choice == "Recommendation":
     st.write("Channel to follow")
     import streamlit.components.v1 as components
-    import requests
-    components.html("<a class="twitter-timeline" href="https://twitter.com/HarvardHealth?ref_src=twsrc%5Etfw">Tweets by HarvardHealth</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>")
+    frm = components.html("<a class="twitter-timeline" href="https://twitter.com/HarvardHealth?ref_src=twsrc%5Etfw">Tweets by HarvardHealth</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>")
+    st.write(frm)
