@@ -10,8 +10,8 @@ import plotly.io as pio
 pio.templates.default = "plotly_white"
 
 import subprocess
-cmd2 = ['python3','-m','textblob.download_corpora']
-cmd1 = ['python3','-m','nltk.downloader all']
+cmd2 = ['python','-m','textblob.download_corpora']
+cmd1 = ['python','-m','nltk.downloader all']
 subprocess.run(cmd1)
 subprocess.run(cmd2)
 # import nltkdownload
