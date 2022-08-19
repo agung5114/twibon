@@ -10,6 +10,6 @@ joblib
 # seaborn
 wordcloud
 # git+https://github.com/JustAnotherArchivist/snscrape.git
-nltk
+# nltk
 # gensim
 networkx
