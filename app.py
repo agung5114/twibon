@@ -9,6 +9,10 @@ import plotly.io as pio
 
 pio.templates.default = "plotly_white"
 
+import subprocess
+cmd = ['python3','-m','textblob.download_corpora']
+subprocess.run(cmd)
+
 # EDA Pkgs
 import pandas as pd
 import numpy as np
