@@ -46,6 +46,8 @@ from PIL import Image
 # from nltk.corpus import stopwords
 # from nltk.stem.wordnet import WordNetLemmatizer
 # import string
+import nltk
+nltk.download('punkt')
 
 
 def get_timeline(username):
