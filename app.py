@@ -12,6 +12,7 @@ pio.templates.default = "plotly_white"
 import subprocess
 cmd = ['python3','-m','textblob.download_corpora']
 subprocess.run(cmd)
+import nltkdownload
 
 # EDA Pkgs
 import pandas as pd
