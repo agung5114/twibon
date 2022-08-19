@@ -124,21 +124,19 @@ if choice == "User's Tweet Analysis":
 #                           color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
 #         st.plotly_chart(fig1)
         
-        dff = df[['Created', 'Tweet', 'Emotion', 'Sentiment', 'Emoji']]
-        st.dataframe(dff)
-#         blob = TextBlob(" ".join(i for i in df['Text_cleaned'].tolist()))
-#         verbs = list()
-#         for word, tag in blob.tags:
-#             if tag == 'VB':
-#                 verbs.append(word.lemmatize())
-#         wordcloud1 = WordCloud(
-#             background_color='white',
-#             width=650,
-#             stopwords=stop,
-#             height=400
-#         ).generate(' '.join(verbs))
-#         wc1 = px.imshow(wordcloud1, title='Verb WordCloud')
-#         st.plotly_chart(wc1)
+        blob = TextBlob(" ".join(i for i in df['Text_cleaned'].tolist()))
+        verbs = list()
+        for word, tag in blob.tags:
+            if tag == 'VB':
+                verbs.append(word.lemmatize())
+        wordcloud1 = WordCloud(
+            background_color='white',
+            width=650,
+            stopwords=stop,
+            height=400
+        ).generate(' '.join(verbs))
+        wc1 = px.imshow(wordcloud1, title='Verb WordCloud')
+        st.plotly_chart(wc1)
 
     with col2:
         # df1 = df.groupby('Sentiment', as_index=False).agg({'Count': 'sum'})
@@ -164,6 +162,8 @@ if choice == "User's Tweet Analysis":
         st.plotly_chart(wc2)
     # fig2 = px.bar(df1, x='Emotion', y='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
     # st.plotly_chart(fig2)
+    dff = df[['Created', 'Tweet', 'Emotion', 'Sentiment', 'Emoji']]
+    st.dataframe(dff)
 
 elif choice == "Topic Graph Analysis":
     st.subheader("Topic Related to User's Tweets and Influencer Network")
