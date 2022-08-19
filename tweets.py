@@ -1,5 +1,6 @@
 import tweepy
 import pandas as pd
+import streamlit as st
 api_key = st.secrets["api_key"]
 api_secret_key = st.secrets["api_secret_key"]
 access_token = st.secrets["access_token"]
