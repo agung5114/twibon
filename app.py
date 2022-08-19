@@ -115,32 +115,36 @@ if choice == "User's Tweet Analysis":
         fig = px.pie(df, names='Emotion', values='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
         # fig = go.Figure(data=[go.Pie(labels=df['Emotion'], values=df['EmoProba'], hole=.4)])
         st.plotly_chart(fig)
-        fig1 = px.scatter(df, x="Created", y="EmoScore",
-                          color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
-        st.plotly_chart(fig1)
-        blob = TextBlob(" ".join(i for i in df['Text_cleaned'].tolist()))
-        verbs = list()
-        for word, tag in blob.tags:
-            if tag == 'VB':
-                verbs.append(word.lemmatize())
-        wordcloud1 = WordCloud(
-            background_color='white',
-            width=650,
-            stopwords=stop,
-            height=400
-        ).generate(' '.join(verbs))
-        wc1 = px.imshow(wordcloud1, title='Verb WordCloud')
-        st.plotly_chart(wc1)
+#         fig1 = px.scatter(df, x="Created", y="EmoScore",
+#                           color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
+#         st.plotly_chart(fig1)
+        
+        dff = df[['Created', 'Tweet', 'Emotion', 'Sentiment', 'Emoji']]
+        st.dataframe(dff)
+#         blob = TextBlob(" ".join(i for i in df['Text_cleaned'].tolist()))
+#         verbs = list()
+#         for word, tag in blob.tags:
+#             if tag == 'VB':
+#                 verbs.append(word.lemmatize())
+#         wordcloud1 = WordCloud(
+#             background_color='white',
+#             width=650,
+#             stopwords=stop,
+#             height=400
+#         ).generate(' '.join(verbs))
+#         wc1 = px.imshow(wordcloud1, title='Verb WordCloud')
+#         st.plotly_chart(wc1)
 
     with col2:
         # df1 = df.groupby('Sentiment', as_index=False).agg({'Count': 'sum'})
-        df1 = df.groupby('Emotion', as_index=False).agg({'EmoProba': 'sum'})
-        # fig0 = px.pie(df, names='Sentiment', values='Count', color='Sentiment', color_discrete_map=sentiment_color)
-        # fig0 = px.bar(df, x='Sentiment', y='Count', color='Sentiment', color_discrete_map=sentiment_color)
-        fig0 = px.bar(df1, x='Emotion', y='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
-        st.plotly_chart(fig0)
-        dff = df[['Created', 'Tweet', 'Emotion', 'Sentiment', 'Emoji']]
-        st.dataframe(dff)
+#         df1 = df.groupby('Emotion', as_index=False).agg({'EmoProba': 'sum'})
+#         # fig0 = px.pie(df, names='Sentiment', values='Count', color='Sentiment', color_discrete_map=sentiment_color)
+#         # fig0 = px.bar(df, x='Sentiment', y='Count', color='Sentiment', color_discrete_map=sentiment_color)
+#         fig0 = px.bar(df1, x='Emotion', y='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
+#         st.plotly_chart(fig0)
+        fig1 = px.scatter(df, x="Created", y="EmoScore",
+                          color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
+        st.plotly_chart(fig1)
         blob = TextBlob(" ".join(i for i in df['Text_cleaned'].tolist()))
         cek = []
         for nouns in blob.noun_phrases:
