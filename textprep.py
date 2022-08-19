@@ -37,6 +37,8 @@ def cleandf(df, text):
     df['Text_cleaned'] = df['Text_cleaned'].apply(deEmojify)
     # remove unwanted spaces between words
     df['Text_cleaned'] = df['Text_cleaned'].replace(to_replace=' +', value=' ', regex=True)
+    # remove _
+    df['Text_cleaned'] = df['Text_cleaned'].replace(to_replace='_', value='', regex=True)
     return df
 
 

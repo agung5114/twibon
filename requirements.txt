@@ -1,14 +1,15 @@
 streamlit
 scikit-learn
-tweepy
+tweepy==3.10.0
 textblob
 pillow
 plotly-express
-altair
+# altair
 joblib
-neattext
-seaborn
+# neattext
+# seaborn
 wordcloud
-git+https://github.com/JustAnotherArchivist/snscrape.git
-nltk
-gensim
+# git+https://github.com/JustAnotherArchivist/snscrape.git
+# nltk
+# gensim
+networkx
