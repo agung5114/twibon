@@ -1,0 +1,3244 @@
+﻿No;City;Total;Died;Lost ;Injured;Suffering;Evacuate;House;School;Medical_Facility;Religious_Place;Public_Facility;Office;Bridge;Factory;Store;Year;Type;Disaster
+1; Simeulue;9;;;;7484;;207;6;;3;;2;1;;;2019;101;Flood
+2; Aceh Singkil;4;;;;23601;;3;;;1;;1;4;;;2019;101;Flood
+3; Aceh Selatan;9;;;;13324;50;60;2;;1;;;;;;2019;101;Flood
+4; Aceh Tenggara;7;;;;9181;160;8;;;;;;;;;2019;101;Flood
+5; Aceh Timur;6;;;;1275;133;;;;;;;;;;2019;101;Flood
+7; Aceh Barat;2;;;;1847;;;;;;;;;;;2019;101;Flood
+9; Pidie;3;;;;118;90;12;;;;;;1;;;2019;101;Flood
+10; Bireuen;1;;;;;5;;;;;;;1;;;2019;101;Flood
+11; Aceh Utara;2;;;;3191;83;;;;;;;;;;2019;101;Flood
+12; Aceh Barat Daya;4;;;;275;;;;;;;;2;;;2019;101;Flood
+13; Gayo Lues;2;;;;;145;3;;;;;;2;;;2019;101;Flood
+15; Nagan Raya;1;;;;352;;;;;;;;;;;2019;101;Flood
+16; Aceh Jaya;7;;;;4326;28;;;;;;;;;;2019;101;Flood
+18; Pidie Jaya;1;;;;;;;;;;;;;;;2019;101;Flood
+72; Kota Sabang;1;;;;;;1;;;;;;;;;2019;101;Flood
+73; Kota Langsa;2;;;;2055;;;;;;;;;;;2019;101;Flood
+74; Kota Lhokseumawe;1;;;;;;;;;;;;;;;2019;101;Flood
+75; Kota Subulussalam;3;;;;3347;;;;;;;;;;;2019;101;Flood
+6; Aceh Tengah;2;;;5;;;1;1;;;;;;;;2019;102;Land_Slide
+7; Aceh Barat;1;;;;360;;;;;;;;;;;2019;102;Land_Slide
+13; Gayo Lues;3;;;;;3;4;;;;;;1;;;2019;102;Land_Slide
+72; Kota Sabang;1;;;;;;2;;;;;;;;;2019;102;Land_Slide
+74; Kota Lhokseumawe;1;;;;;5;1;;;;;;;;;2019;102;Land_Slide
+12; Aceh Barat Daya;1;;;;85;;18;;;;;;;;;2019;104;Abration
+2; Aceh Singkil;4;;;;76;;18;;;;;1;;;;2019;105;Tornado
+3; Aceh Selatan;4;;;;;;12;1;;;;;1;;;2019;105;Tornado
+4; Aceh Tenggara;2;;;;25;;8;;;1;;;;;;2019;105;Tornado
+5; Aceh Timur;2;;;;95;10;20;1;;1;;;;;;2019;105;Tornado
+6; Aceh Tengah;4;;;;;5;8;;;;;;;;;2019;105;Tornado
+7; Aceh Barat;5;;;;173;14;58;;;;;2;;;;2019;105;Tornado
+8; Aceh Besar;3;;;;31;5;7;;;;;;;;1;2019;105;Tornado
+9; Pidie;1;;;;15;;6;;;;;;;;;2019;105;Tornado
+10; Bireuen;7;;;;141;;43;1;;1;;;;;3;2019;105;Tornado
+11; Aceh Utara;6;;;;150;7;54;1;;;;;;;13;2019;105;Tornado
+12; Aceh Barat Daya;1;;;;100;;21;;;;;;;;;2019;105;Tornado
+13; Gayo Lues;4;;;;186;150;66;;;;;;;;;2019;105;Tornado
+15; Nagan Raya;3;;;;6;;9;;;;;;;;;2019;105;Tornado
+16; Aceh Jaya;2;;;;3;;2;;;;;;;;;2019;105;Tornado
+17; Bener Meriah;8;;;8;155;;49;;;1;;;;;6;2019;105;Tornado
+18; Pidie Jaya;3;;;;60;1;4;;;1;;;;;8;2019;105;Tornado
+71; Kota Banda Aceh;1;;;;5;;1;;;;;;;;;2019;105;Tornado
+72; Kota Sabang;1;;;;5;;1;;;;;;;;;2019;105;Tornado
+73; Kota Langsa;1;;;;31;;6;;;;;;;;;2019;105;Tornado
+75; Kota Subulussalam;1;;;;13;8;6;;;;;;;;;2019;105;Tornado
+2; Aceh Singkil;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Aceh Selatan;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Aceh Tengah;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Aceh Barat;9;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Aceh Besar;9;;;;;;;;;;;;;;;2019;107;Forest Fire
+12; Aceh Barat Daya;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+13; Gayo Lues;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+15; Nagan Raya;4;;;;;;;;;;;;;;;2019;107;Forest Fire
+16; Aceh Jaya;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+17; Bener Meriah;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+72; Kota Sabang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+73; Kota Langsa;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+74; Kota Lhokseumawe;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Simeulue;2;;;;200;;;1;;;;;;;;2020;101;Flood
+2; Aceh Singkil;6;;;;19742;50;;1;;1;;;1;;;2020;101;Flood
+3; Aceh Selatan;11;;;;11032;32;14;;;;;;;;3;2020;101;Flood
+4; Aceh Tenggara;8;;;;1310;130;50;;;;;;;;;2020;101;Flood
+5; Aceh Timur;10;1;;;29436;2224;42;;;;;;4;;;2020;101;Flood
+7; Aceh Barat;4;1;;;10938;;50;;;;;;;;18;2020;101;Flood
+8; Aceh Besar;3;1;;;994;765;;;;;;;;;;2020;101;Flood
+9; Pidie;2;;;;563;159;;;;;;;;;;2020;101;Flood
+10; Bireuen;2;;;;1800;;;;;;;;;;;2020;101;Flood
+11; Aceh Utara;6;;;;8421;2327;17;;;;;;;;;2020;101;Flood
+12; Aceh Barat Daya;1;;;;;;;;;;;;;;;2020;101;Flood
+13; Gayo Lues;3;;;;192;;12;1;;1;;;;;;2020;101;Flood
+14; Aceh Tamiang;3;;;;16224;3328;;;;;;;;;;2020;101;Flood
+15; Nagan Raya;1;;;;8499;;;;;;;;1;;;2020;101;Flood
+16; Aceh Jaya;5;;;;4487;3039;;;;;;;;;;2020;101;Flood
+17; Bener Meriah;2;;;;5;;2;;;;;;2;;;2020;101;Flood
+18; Pidie Jaya;4;;;;10003;10;2;3;;5;;;1;;;2020;101;Flood
+71; Kota Banda Aceh;1;;;;186;;;;;;;;;;;2020;101;Flood
+73; Kota Langsa;1;;;;6610;;;;;;;;;;;2020;101;Flood
+74; Kota Lhokseumawe;4;;;;1131;40;;;;;;;;;;2020;101;Flood
+75; Kota Subulussalam;2;;;;1895;175;;;;;;;;;;2020;101;Flood
+1; Simeulue;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+2; Aceh Singkil;1;;;;;;;;;;;;1;;;2020;102;Land_Slide
+3; Aceh Selatan;2;;;;16;;1;;;;;;;;;2020;102;Land_Slide
+4; Aceh Tenggara;1;;;;132;;37;;;;;;;;;2020;102;Land_Slide
+6; Aceh Tengah;2;1;;;2040;214;57;;;;;;;;;2020;102;Land_Slide
+7; Aceh Barat;1;1;;;;;;;;;;;;;;2020;102;Land_Slide
+9; Pidie;1;;;;51;;;;;;;;;;;2020;102;Land_Slide
+10; Bireuen;5;;;;41;4;11;;;;;;2;;;2020;102;Land_Slide
+11; Aceh Utara;1;;;;13;;3;;;;;;;;;2020;102;Land_Slide
+13; Gayo Lues;2;;;;16;;3;;;;;;;;;2020;102;Land_Slide
+74; Kota Lhokseumawe;2;;;;8;;2;;;;;;;;;2020;102;Land_Slide
+1; Simeulue;3;;;;1436;;6;;;;;;;;;2020;103;Flood and Land Slide
+4; Aceh Tenggara;1;;;;307;;;;;;;;;;;2020;103;Flood and Land Slide
+11; Aceh Utara;1;5;;;26760;42625;;;;;;;2;;;2020;103;Flood and Land Slide
+75; Kota Subulussalam;1;;;;3437;;;;;;;;;;;2020;103;Flood and Land Slide
+2; Aceh Singkil;1;;;;77;;2;;;;;;;;;2020;104;Abration
+3; Aceh Selatan;1;;;;82;;21;;;;;;;;;2020;104;Abration
+5; Aceh Timur;1;;;;10;;;;;;;;;;;2020;104;Abration
+7; Aceh Barat;5;;;;;58;7;;;;;;;;;2020;104;Abration
+11; Aceh Utara;1;;;;1;;1;;;;;;;;;2020;104;Abration
+12; Aceh Barat Daya;1;;;;;165;42;;;;;;;;;2020;104;Abration
+15; Nagan Raya;1;;;;65;;;;;;;;;;;2020;104;Abration
+16; Aceh Jaya;1;;;;;;1;;;;;;;;;2020;104;Abration
+1; Simeulue;3;;;;15;;4;1;;;;;;;;2020;105;Tornado
+2; Aceh Singkil;3;;;;;;4;1;;;;;;;;2020;105;Tornado
+3; Aceh Selatan;4;1;6;1;125;10;32;;;;;;;;;2020;105;Tornado
+4; Aceh Tenggara;5;;;;241;3;76;3;;;;;;;;2020;105;Tornado
+5; Aceh Timur;8;;;;680;121;136;;;;;;;;;2020;105;Tornado
+6; Aceh Tengah;4;;;4;188;20;74;;;;;;;;;2020;105;Tornado
+7; Aceh Barat;5;;;;34;5;9;;;;;;;;;2020;105;Tornado
+8; Aceh Besar;13;1;;;118;;28;;;;;1;1;;1;2020;105;Tornado
+10; Bireuen;7;;;;18;1;7;;;;;;;;;2020;105;Tornado
+11; Aceh Utara;7;;;2;99;;32;1;;1;;;;;19;2020;105;Tornado
+12; Aceh Barat Daya;2;;;;67;;16;1;;;;;;;;2020;105;Tornado
+15; Nagan Raya;4;;;;8;;8;;;;;;;;;2020;105;Tornado
+16; Aceh Jaya;2;;;;;;2;;;;;;;;;2020;105;Tornado
+17; Bener Meriah;9;;;;51;;72;;;1;;;;;;2020;105;Tornado
+18; Pidie Jaya;1;;;;;;1;;;;;;;;;2020;105;Tornado
+71; Kota Banda Aceh;1;;;;;;6;;;;;;;;;2020;105;Tornado
+72; Kota Sabang;13;;;1;43;;20;;;;;;;;;2020;105;Tornado
+73; Kota Langsa;1;;;;4;;1;;;;;;;;;2020;105;Tornado
+74; Kota Lhokseumawe;2;;;;50;10;12;;;;;;;;;2020;105;Tornado
+75; Kota Subulussalam;4;;;;22;;13;;;;;;;;;2020;105;Tornado
+16; Aceh Jaya;1;;;;;;;;;;;;;;;2020;106;Drought
+1; Simeulue;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Aceh Singkil;8;;;;;;;;;;;;;;;2020;107;Forest Fire
+3; Aceh Selatan;20;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Aceh Tenggara;5;;;;;;;;;;;;;;;2020;107;Forest Fire
+5; Aceh Timur;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+6; Aceh Tengah;6;;;;;;;;;;;;;;;2020;107;Forest Fire
+7; Aceh Barat;8;;;;;;;;;;;;;;;2020;107;Forest Fire
+8; Aceh Besar;21;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Bireuen;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+11; Aceh Utara;13;;;1;;;;;;;;;;;;2020;107;Forest Fire
+12; Aceh Barat Daya;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+13; Gayo Lues;5;;;;;;;;;;;;;;;2020;107;Forest Fire
+14; Aceh Tamiang;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+15; Nagan Raya;6;;;;;;;;;;;;;;;2020;107;Forest Fire
+16; Aceh Jaya;21;;;;;;;;;;;;;;;2020;107;Forest Fire
+17; Bener Meriah;7;;;;;;;;;;;;;;;2020;107;Forest Fire
+18; Pidie Jaya;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+72; Kota Sabang;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+73; Kota Langsa;13;;;;;;;;;;;;;;;2020;107;Forest Fire
+74; Kota Lhokseumawe;11;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Simeulue;2;;;;3;;2;;;;;;;;;2020;108;Earthquake
+72; Kota Sabang;2;;;;8;;2;;;1;;;;;5;2020;108;Earthquake
+2; Aceh Singkil;1;;;;4894;;;;;;;;;;;2021;101;Flood
+3; Aceh Selatan;6;;;;15997;;;;;;;;2;;;2021;101;Flood
+4; Aceh Tenggara;3;;;;772;;;;;;;;;;;2021;101;Flood
+5; Aceh Timur;5;;;;2898;205;1;;;;;;;;;2021;101;Flood
+6; Aceh Tengah;1;;;;285;;;;;;;;;;;2021;101;Flood
+7; Aceh Barat;3;;;;4788;;;;;;;;;;;2021;101;Flood
+8; Aceh Besar;3;;1;;2660;330;2;1;;;;;;;;2021;101;Flood
+9; Pidie;2;;;;11476;14;21;;;;;;;;10;2021;101;Flood
+10; Bireuen;1;;;;32;;;;;;;;;;;2021;101;Flood
+11; Aceh Utara;2;;;;2693;;;;;;;;;;;2021;101;Flood
+12; Aceh Barat Daya;2;;;;7586;5;5;;;;;;;;;2021;101;Flood
+13; Gayo Lues;4;;;;463;;1;;;;;;;;;2021;101;Flood
+14; Aceh Tamiang;3;;;;30755;10199;;;;;;;;;;2021;101;Flood
+15; Nagan Raya;3;;;;3532;;;;;;;;1;;;2021;101;Flood
+16; Aceh Jaya;5;;;;9779;389;;;;;;;;;;2021;101;Flood
+17; Bener Meriah;2;;;;;;9;;;;;;1;;;2021;101;Flood
+18; Pidie Jaya;2;;;;75;;;;;;;;;;;2021;101;Flood
+72; Kota Sabang;1;;;;32;15;;;;;;;;;;2021;101;Flood
+73; Kota Langsa;4;;;;19320;;9;;;;;;;;;2021;101;Flood
+74; Kota Lhokseumawe;2;;;;995;75;;;;;;;;;;2021;101;Flood
+75; Kota Subulussalam;1;;;;95;;1;;;;;;;;;2021;101;Flood
+3; Aceh Selatan;1;2;;4;;;;;;;;;;;;2021;102;Land_Slide
+6; Aceh Tengah;1;;;;;;;1;;;;;;;;2021;102;Land_Slide
+7; Aceh Barat;1;;;;;;;;;;;;;;;2021;102;Land_Slide
+8; Aceh Besar;1;;;;5;;;;;;;;;;;2021;102;Land_Slide
+17; Bener Meriah;2;;;;5;;2;;;;;;;;;2021;102;Land_Slide
+3; Aceh Selatan;1;;;;9532;;;;;;;;;;;2021;103;Flood and Land Slide
+5; Aceh Timur;1;3;;;8642;1050;1;;;;;;;;;2021;103;Flood and Land Slide
+6; Aceh Tengah;1;;;;;;;;;;;;;;;2021;103;Flood and Land Slide
+8; Aceh Besar;1;;;;;71;;;;;;;;;;2021;103;Flood and Land Slide
+13; Gayo Lues;1;;;;38;;;;;;;;;;;2021;103;Flood and Land Slide
+14; Aceh Tamiang;1;;;;100;;1;;;;;;;;;2021;103;Flood and Land Slide
+1; Simeulue;1;0;0;0;15;0;3;0;0;0;0;0;0;0;0;2021;105;Tornado
+2; Aceh Singkil;1;;;;3;;;;;;;;;;;2021;105;Tornado
+5; Aceh Timur;5;;;;140;5;30;;;;;;;;2;2021;105;Tornado
+6; Aceh Tengah;2;;;;5;;131;;;;;;;;;2021;105;Tornado
+7; Aceh Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;Tornado
+8; Aceh Besar;1;;;;6;;1;;;;;;;;;2021;105;Tornado
+9; Pidie;1;;;;40;;10;;;;;;;;;2021;105;Tornado
+10; Bireuen;3;;;;21;4;5;;;;;;;;;2021;105;Tornado
+11; Aceh Utara;4;;;;14;;5;;;;;;;;4;2021;105;Tornado
+12; Aceh Barat Daya;2;;;;47;;11;;;;;;;;;2021;105;Tornado
+13; Gayo Lues;2;;;;20;;;;;;;;;;;2021;105;Tornado
+14; Aceh Tamiang;1;;;;10;;2;;;;;;;;;2021;105;Tornado
+16; Aceh Jaya;1;;;;5;;1;;;;;;;;;2021;105;Tornado
+17; Bener Meriah;2;;;;10;5;7;;;;;;;;;2021;105;Tornado
+72; Kota Sabang;1;;;;5;;1;;;;;;;;;2021;105;Tornado
+75; Kota Subulussalam;1;;;;;;9;;;;;;;;;2021;105;Tornado
+2; Aceh Singkil;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+3; Aceh Selatan;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+6; Aceh Tengah;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+7; Aceh Barat;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+8; Aceh Besar;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+12; Aceh Barat Daya;5;;;;;;;;;;;;;;;2021;107;Forest Fire
+13; Gayo Lues;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+14; Aceh Tamiang;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+15; Nagan Raya;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+16; Aceh Jaya;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+17; Bener Meriah;7;;;;;;;;;;;;;;;2021;107;Forest Fire
+74; Kota Lhokseumawe;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+71; Kota Banda Aceh;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+71; Kota Banda Aceh;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+3; Aceh Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Nias;1;;;;;;;;;;;;1;;;2019;101;Flood
+2; Mandailing Natal;1;;;;300;;;10;1;2;;;;;2;2019;101;Flood
+3; Tapanuli Selatan;1;;;;;;;;;;;;1;;;2019;101;Flood
+7; Labuhan Batu;1;;;;125;;;;;;;;;;;2019;101;Flood
+8; Asahan;6;;;;2510;;;1;;2;;;1;;1;2019;101;Flood
+12; Deli Serdang;1;;;;;;1;;;;;;1;;;2019;101;Flood
+13; Langkat;2;;;;500;;;;;;;;;;;2019;101;Flood
+17; Samosir;2;1;;1;;40;8;;;;;;3;;;2019;101;Flood
+19; Batu Bara;1;;;;;;;;;;;;;;;2019;101;Flood
+23; Labuhan Batu Utara;1;3;2;;616;128;55;;;;;;6;;;2019;101;Flood
+75; Kota Medan;4;;;;14573;270;;;;;;;;;;2019;101;Flood
+77; Kota Padangsidimpuan;1;;;;;;8;;;;;;;;;2019;101;Flood
+5; Tapanuli Utara;1;;;;;;;;;;;;;;;2019;102;Land_Slide
+10; Dairi;5;;;;15;;4;;;;;;2;;;2019;102;Land_Slide
+12; Deli Serdang;1;;;;;;3;;;;;;;;;2019;102;Land_Slide
+13; Langkat;1;3;;;;;;;;;;;;;;2019;102;Land_Slide
+71; Kota Sibolga;1;;;;;;2;;;;;;;;;2019;102;Land_Slide
+2; Mandailing Natal;1;;;;;;13;;;;;;;;;2019;105;Tornado
+3; Tapanuli Selatan;1;;;;;;2;;;;;;;;;2019;105;Tornado
+5; Tapanuli Utara;1;;;;;;2;;;;;;;;;2019;105;Tornado
+7; Labuhan Batu;1;;;;25;25;10;;;;;;;;;2019;105;Tornado
+8; Asahan;6;;;2;;;46;;1;2;;4;;;3;2019;105;Tornado
+10; Dairi;4;;;;31;;57;;;;;;;;;2019;105;Tornado
+11; Karo;1;;;2;;;32;;;;;;;;;2019;105;Tornado
+12; Deli Serdang;3;;;;;;56;;;;;;;;;2019;105;Tornado
+13; Langkat;7;;;1;20;;34;;;;;;;;;2019;105;Tornado
+18; Serdang Bedagai;1;;;;55;;11;;;1;;;;;;2019;105;Tornado
+19; Batu Bara;1;;;;;;18;;;;;;;;;2019;105;Tornado
+20; Padang Lawas Utara;1;;;;;;67;;;;;;;;;2019;105;Tornado
+22; Labuhan Batu Selatan;1;;;;;;12;;;;;;;;;2019;105;Tornado
+75; Kota Medan;2;;;;28;;8;;;1;;;;;;2019;105;Tornado
+76; Kota Binjai;1;;;;;;3;;;;;;;;;2019;105;Tornado
+8; Asahan;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Dairi;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+11; Karo;1;;;;;7256;;;;;;;;;;2019;111;Volcano Eruption
+2; Mandailing Natal;4;;;;490;;5;1;;1;;1;5;;;2020;101;Flood
+3; Tapanuli Selatan;1;;;;710;;;;;;;;1;;;2020;101;Flood
+7; Labuhan Batu;1;;;;4500;;;;;;;;;;;2020;101;Flood
+8; Asahan;8;;;;19100;;;2;;3;;;;;;2020;101;Flood
+11; Karo;1;;;;285;;57;;;;;;;;;2020;101;Flood
+12; Deli Serdang;7;6;3;9;400;1010;218;;;;;;;;;2020;101;Flood
+13; Langkat;6;;;;24200;;;1;;;;;5;;46;2020;101;Flood
+14; Nias Selatan;1;;;;710;;;;;;;;;;;2020;101;Flood
+18; Serdang Bedagai;6;;;;48597;1100;;;;;;;2;;;2020;101;Flood
+19; Batu Bara;13;;;;17630;65;;;;;;;;;;2020;101;Flood
+23; Labuhan Batu Utara;10;;;;5925;;83;8;1;7;;;;;;2020;101;Flood
+24; Nias Utara;2;;;;;;;;;;;;;;;2020;101;Flood
+25; Nias Barat;1;;;;;40;7;;;;;;;;;2020;101;Flood
+72; Kota Tanjung Balai;1;;;;56083;;;;;;;;;;;2020;101;Flood
+73; Kota Pematang Siantar;1;1;;;;;;;;;;;;;;2020;101;Flood
+74; Kota Tebing Tinggi;3;;;;41343;550;1;1;;;;;;;;2020;101;Flood
+75; Kota Medan;5;6;1;;116939;8945;;;;;;;;;;2020;101;Flood
+76; Kota Binjai;2;;;;4235;10982;;5;;;;;;;;2020;101;Flood
+77; Kota Padangsidimpuan;3;;;;303;;9;;;;;;;;;2020;101;Flood
+2; Mandailing Natal;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+5; Tapanuli Utara;1;1;;1;;;;;;;;;;;;2020;102;Land_Slide
+9; Simalungun;2;;;1;215;125;78;;;1;;;;;;2020;102;Land_Slide
+10; Dairi;1;;;;;;;;;1;;;;;;2020;102;Land_Slide
+12; Deli Serdang;3;1;;5;;9;5;;;;;;;;;2020;102;Land_Slide
+13; Langkat;1;;;;1555;;;;;;;;;;;2020;102;Land_Slide
+20; Padang Lawas Utara;1;;;;;;;;;;;;1;;;2020;102;Land_Slide
+71; Kota Sibolga;1;2;;1;;;;;;;;;;;;2020;102;Land_Slide
+4; Tapanuli Tengah;1;9;;22;;3500;97;;;;;;;;;2020;103;Flood and Land Slide
+13; Langkat;1;;;;3815;;;;;;;;;;;2020;103;Flood and Land Slide
+2; Mandailing Natal;1;;;;10;;2;;;;;;;;;2020;104;Abration
+2; Mandailing Natal;1;;;;;;2;;;;;;;;;2020;105;Tornado
+4; Tapanuli Tengah;1;;;;;;194;;;;;;;;;2020;105;Tornado
+5; Tapanuli Utara;1;;;;;;3;;;;;;;;;2020;105;Tornado
+6; Toba Samosir;2;1;;;;;201;;;;;;;;;2020;105;Tornado
+9; Simalungun;1;;;;;;19;;;;;;;;;2020;105;Tornado
+10; Dairi;3;;;;1;;10;;;;;;;;;2020;105;Tornado
+11; Karo;1;;;5;;;;;;;;;;;;2020;105;Tornado
+12; Deli Serdang;5;;;3;;90;602;;;;;;;;;2020;105;Tornado
+13; Langkat;2;;;5;1575;145;344;1;;2;;;1;;;2020;105;Tornado
+15; Humbang Hasundutan;1;;;;;;3;;;;;;;;;2020;105;Tornado
+18; Serdang Bedagai;6;;;4;10;;815;;;;;;;;;2020;105;Tornado
+19; Batu Bara;3;;;;28;;45;;;1;;;;;;2020;105;Tornado
+23; Labuhan Batu Utara;2;;;;;;2;;;;;;;;;2020;105;Tornado
+24; Nias Utara;1;;;;;;3;;;;;;;;;2020;105;Tornado
+73; Kota Pematang Siantar;1;;;;;;6;;;;;;;;;2020;105;Tornado
+75; Kota Medan;8;;;3;;;338;;;1;;;;;;2020;105;Tornado
+78; Kota Gunungsitoli;1;;;;;;62;;;;;;;;;2020;105;Tornado
+2; Mandailing Natal;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+3; Tapanuli Selatan;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Tapanuli Tengah;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+6; Toba Samosir;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+7; Labuhan Batu;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Dairi;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+17; Samosir;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+20; Padang Lawas Utara;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+23; Labuhan Batu Utara;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+24; Nias Utara;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+75; Kota Medan;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+3; Tapanuli Selatan;1;;;;;;4;1;;2;;;;;;2020;108;Earthquake
+11; Karo;2;;;;;;;;;;;;;;;2020;111;Volcano Eruption
+1; Nias;3;0;0;0;0;35;669;0;0;0;0;0;0;0;0;2021;101;Flood
+2; Mandailing Natal;2;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2021;101;Flood
+3; Tapanuli Selatan;2;0;0;0;40;0;40;2;0;0;0;0;1;0;0;2021;101;Flood
+5; Tapanuli Utara;5;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2021;101;Flood
+6; Toba Samosir;1;0;0;0;0;0;79;0;0;0;1;0;0;0;0;2021;101;Flood
+7; Labuhan Batu;1;0;0;0;400;0;400;0;0;0;0;0;0;0;0;2021;101;Flood
+8; Asahan;5;0;0;11;13300;805;3681;1;1;0;4;3;0;0;0;2021;101;Flood
+13; Langkat;4;0;0;0;0;0;1148;0;0;0;0;0;0;0;0;2021;101;Flood
+14; Nias Selatan;3;0;0;0;25;0;11;1;0;0;0;0;0;0;0;2021;101;Flood
+18; Serdang Bedagai;2;0;0;0;0;0;1053;0;0;0;0;0;0;0;0;2021;101;Flood
+19; Batu Bara;4;0;0;0;25725;0;2;0;0;0;0;0;0;0;0;2021;101;Flood
+21; Padang Lawas;3;1;0;0;1140;125;46;1;0;0;0;0;3;0;0;2021;101;Flood
+22; Labuhan Batu Selatan;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;101;Flood
+23; Labuhan Batu Utara;9;0;0;0;40;0;113;0;0;0;0;0;0;0;0;2021;101;Flood
+24; Nias Utara;1;0;0;0;6000;0;0;6;1;2;0;0;1;0;0;2021;101;Flood
+71; Kota Sibolga;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+72; Kota Tanjung Balai;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+74; Kota Tebing Tinggi;4;0;0;0;536;0;2156;0;0;0;0;0;0;0;0;2021;101;Flood
+75; Kota Medan;5;0;0;0;54816;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+77; Kota Padangsidimpuan;3;0;0;0;407;50;4;0;0;0;1;0;0;0;0;2021;101;Flood
+78; Kota Gunungsitoli;3;0;0;0;350;0;728;0;0;0;2;0;0;0;0;2021;101;Flood
+1; Nias;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+2; Mandailing Natal;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+3; Tapanuli Selatan;3;5;8;0;0;0;2;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+4; Tapanuli Tengah;3;0;0;0;0;0;6;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+5; Tapanuli Utara;33;0;0;0;0;0;0;0;1;0;0;0;4;2;0;2021;102;Land_Slide
+9; Simalungun;2;3;0;0;0;0;12;0;0;1;0;0;0;0;0;2021;102;Land_Slide
+11; Karo;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+12; Deli Serdang;2;3;0;2;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+13; Langkat;2;0;0;0;0;0;78;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+14; Nias Selatan;11;0;0;0;0;0;11;0;1;0;0;0;0;0;0;2021;102;Land_Slide
+16; Pakpak Bharat;1;0;0;0;0;14;2;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+20; Padang Lawas Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+24; Nias Utara;1;0;0;0;0;0;13;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+71; Kota Sibolga;8;0;0;0;16;0;6;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+77; Kota Padangsidimpuan;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+77; Kota Padangsidimpuan;1;;;;270;;1;;;;;;;;;2021;103;Flood and Land Slide
+14; Nias Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;Abration
+2; Mandailing Natal;2;;;;135;1;27;;;;;;;;;2021;105;Tornado
+4; Tapanuli Tengah;3;0;0;0;108;0;38;0;0;1;0;0;0;0;0;2021;105;Tornado
+5; Tapanuli Utara;4;0;0;0;0;0;43;0;1;0;0;0;0;0;0;2021;105;Tornado
+8; Asahan;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2021;105;Tornado
+10; Dairi;3;0;0;0;24;0;9;0;0;0;0;0;0;0;0;2021;105;Tornado
+12; Deli Serdang;10;1;0;8;2343;0;540;0;0;1;0;0;0;0;0;2021;105;Tornado
+13; Langkat;9;0;0;0;830;0;319;0;0;0;0;0;0;0;0;2021;105;Tornado
+14; Nias Selatan;4;0;0;0;0;0;8;0;0;0;0;0;0;0;0;2021;105;Tornado
+15; Humbang Hasundutan;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;Tornado
+16; Pakpak Bharat;3;0;0;0;138;0;44;0;0;0;0;0;0;0;0;2021;105;Tornado
+18; Serdang Bedagai;2;;;;850;;117;;;;;;;;;2021;105;Tornado
+19; Batu Bara;7;0;0;0;342;0;27;0;0;0;0;0;0;0;0;2021;105;Tornado
+23; Labuhan Batu Utara;1;0;0;0;20;0;4;0;0;0;0;0;0;0;0;2021;105;Tornado
+72; Kota Tanjung Balai;1;;;;40;;6;;;;;;;;;2021;105;Tornado
+75; Kota Medan;2;0;0;0;0;0;2;0;0;0;3;0;0;0;0;2021;105;Tornado
+76; Kota Binjai;2;0;0;0;70;0;15;0;0;0;0;0;0;0;0;2021;105;Tornado
+78; Kota Gunungsitoli;2;0;0;0;0;0;45;1;0;1;0;3;0;0;0;2021;105;Tornado
+2; Mandailing Natal;2;1;;;;;;;;;;;;;;2021;107;Forest Fire
+3; Tapanuli Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+5; Tapanuli Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+6; Toba Samosir;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+7; Labuhan Batu;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+9; Simalungun;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+10; Dairi;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+11; Karo;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+20; Padang Lawas Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+21; Padang Lawas;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+71; Kota Sibolga;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+11; Karo;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;111;Volcano Eruption
+1; Nias;2;0;0;0;1190;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+2; Mandailing Natal;1;0;0;0;220;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Tapanuli Selatan;1;0;0;0;702;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+6; Toba Samosir;1;0;0;0;14;0;4;0;0;0;0;0;0;0;0;2022;101;Flood
+8; Asahan;1;0;0;0;5131;20;0;3;0;0;0;0;0;0;0;2022;101;Flood
+13; Langkat;1;0;0;0;152;15;0;0;0;0;0;0;0;0;0;2022;101;Flood
+19; Batu Bara;1;0;0;0;120;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+71; Kota Sibolga;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+74; Kota Tebing Tinggi;1;0;0;0;0;0;781;0;0;0;0;0;0;0;0;2022;101;Flood
+76; Kota Binjai;1;0;0;0;924;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Tapanuli Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+10; Dairi;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+16; Pakpak Bharat;4;0;0;0;0;0;0;0;0;0;1;1;0;0;0;2022;102;Land_Slide
+71; Kota Sibolga;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+78; Kota Gunungsitoli;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+75; Kota Medan;2;0;0;0;90144;0;0;0;0;0;0;0;0;0;0;2022;104;Abration
+5; Tapanuli Utara;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;105;Tornado
+7; Labuhan Batu;1;0;0;0;10;0;2;0;0;0;0;0;0;0;0;2022;105;Tornado
+13; Langkat;2;0;0;0;360;0;82;0;0;0;0;0;0;0;0;2022;105;Tornado
+19; Batu Bara;3;0;0;0;20;0;6;0;0;0;0;0;0;0;0;2022;105;Tornado
+21; Padang Lawas;1;0;0;0;20;0;4;0;0;0;0;0;0;0;0;2022;105;Tornado
+75; Kota Medan;3;0;0;0;0;0;70;0;0;0;0;0;0;0;0;2022;105;Tornado
+76; Kota Binjai;3;0;0;0;3242;0;633;0;0;0;8;0;0;0;0;2022;105;Tornado
+3; Tapanuli Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+4; Tapanuli Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+5; Tapanuli Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+6; Toba Samosir;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+7; Labuhan Batu;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+11; Karo;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+12; Deli Serdang;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+13; Langkat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+21; Padang Lawas;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+22; Labuhan Batu Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+71; Kota Sibolga;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+5; Tapanuli Utara;1;0;0;0;0;0;1323;33;17;71;0;25;9;0;0;2022;108;Earthquake
+2; Pesisir Selatan;1;;;;210;500;;;;;;;;;;2019;101;Flood
+6; Padang Pariaman;3;3;;2;;;6;;;1;;;6;;450;2019;101;Flood
+7; Agam;3;;;1;18;59;14;1;;1;;;;;;2019;101;Flood
+8; Lima Puluh Kota;6;;2;1;6974;628;64;1;;;;;5;;;2019;101;Flood
+9; Pasaman;2;;;;;200;1;;;1;;;1;;1;2019;101;Flood
+10; Solok Selatan;5;1;;;17344;996;118;7;1;5;;2;13;;;2019;101;Flood
+11; Dharmasraya;2;;1;;300;;;;;;;;;;;2019;101;Flood
+12; Pasaman Barat;2;1;;;;;2;;;;;;2;;;2019;101;Flood
+73; Kota Sawah Lunto;2;1;;;5;;;;;;;;;;;2019;101;Flood
+75; Kota Bukittinggi;2;;;2;545;;;;;;;;;;;2019;101;Flood
+76; Kota Payakumbuh;1;;;;;;;;;;;;;;;2019;101;Flood
+1; Kepulauan Mentawai;1;;;;;;;;;;;;;;;2019;102;Land_Slide
+5; Tanah Datar;1;1;;;;4;1;;;;;;;;;2019;102;Land_Slide
+6; Padang Pariaman;2;;;;;;1;;;;;;;;;2019;102;Land_Slide
+7; Agam;3;;;;10;;4;;;;;;;;;2019;102;Land_Slide
+8; Lima Puluh Kota;1;;;3;;;;;;;;;;;;2019;102;Land_Slide
+9; Pasaman;1;;;;952;;;;;;;;1;;;2019;102;Land_Slide
+12; Pasaman Barat;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+73; Kota Sawah Lunto;2;;;;354;;6;;;;;;;;;2019;102;Land_Slide
+75; Kota Bukittinggi;1;;1;;5;;;;;;;;;;;2019;102;Land_Slide
+1; Kepulauan Mentawai;1;;;;;;;;;;;;;;;2019;104;Abration
+2; Pesisir Selatan;1;;;;125;64;13;;;;;1;;;;2019;104;Abration
+6; Padang Pariaman;1;;;;;;1;;;;;;;;14;2019;104;Abration
+3; Solok;2;;;;;;3;;;;;;;;;2019;105;Tornado
+4; Sijunjung;2;;;;;;3;;;;;;;;;2019;105;Tornado
+5; Tanah Datar;6;;;7;7;10;7;;;;;;;;;2019;105;Tornado
+6; Padang Pariaman;18;;;1;28;;34;1;;;;;;;1;2019;105;Tornado
+7; Agam;3;;;3;10;;4;;;;;1;;;4;2019;105;Tornado
+8; Lima Puluh Kota;3;;;;;;27;;;;;;;;;2019;105;Tornado
+9; Pasaman;1;;;;3;;1;;;;;;;;;2019;105;Tornado
+10; Solok Selatan;4;;;;842;70;196;1;;1;;;;;;2019;105;Tornado
+71; Kota Padang;6;;;;5;;18;;;;;;;;;2019;105;Tornado
+73; Kota Sawah Lunto;2;;;;;;4;;;;;;;;;2019;105;Tornado
+71; Kota Padang;2;;;;4615;;;;;;;;;;;2019;106;Drought
+2; Pesisir Selatan;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Tanah Datar;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Padang Pariaman;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Agam;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+11; Dharmasraya;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Kepulauan Mentawai;1;;;;;;11;;1;1;;;;;;2019;108;Earthquake
+6; Padang Pariaman;1;;;;43;;15;;;1;;;;;;2019;108;Earthquake
+10; Solok Selatan;1;;;62;1452;;480;8;3;3;;1;;;1;2019;108;Earthquake
+1; Kepulauan Mentawai;5;;;;11260;110;;1;1;;;2;;;;2020;101;Flood
+2; Pesisir Selatan;1;;;;400;;42;;;;;;;;;2020;101;Flood
+3; Solok;5;1;;;460;70;;;;;;;4;;;2020;101;Flood
+4; Sijunjung;5;;;;;;;;;;;;4;;;2020;101;Flood
+5; Tanah Datar;1;;;;;50;6;;;;;1;2;;;2020;101;Flood
+6; Padang Pariaman;8;;;1;2120;301;6;3;;8;;;4;;;2020;101;Flood
+7; Agam;11;;;;192;52;11;4;;3;;;6;;6;2020;101;Flood
+8; Lima Puluh Kota;9;;;;1491;1380;5;2;;;;1;2;;;2020;101;Flood
+9; Pasaman;2;2;1;2;;;1;;;;;;3;;;2020;101;Flood
+10; Solok Selatan;8;;;;884;10;41;;;;;;1;;;2020;101;Flood
+11; Dharmasraya;1;;;;;2308;;;;;;;2;;;2020;101;Flood
+12; Pasaman Barat;10;;;;2455;800;3;4;;;;;4;;;2020;101;Flood
+71; Kota Padang;1;;;;300;;;;;;;;;;;2020;101;Flood
+72; Kota Solok;2;;;;2590;;;;;;;;;;;2020;101;Flood
+73; Kota Sawah Lunto;1;;;;;;3;;;;;;;;;2020;101;Flood
+75; Kota Bukittinggi;3;;;;230;40;;;;;;;;;;2020;101;Flood
+76; Kota Payakumbuh;2;;;;;;7;;;;;;;;;2020;101;Flood
+1; Kepulauan Mentawai;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+2; Pesisir Selatan;2;1;;;;;8;;;;;;;;;2020;102;Land_Slide
+3; Solok;10;4;;1;91;3;8;;;;;;1;;;2020;102;Land_Slide
+4; Sijunjung;4;;;;;;13;;1;;;;;;;2020;102;Land_Slide
+5; Tanah Datar;4;2;;;;;10;;;1;;;;;;2020;102;Land_Slide
+6; Padang Pariaman;8;;;;;;11;;;;;;1;;;2020;102;Land_Slide
+7; Agam;12;;;;49;46;19;;;2;;;2;;;2020;102;Land_Slide
+8; Lima Puluh Kota;5;;;1;4;;5;1;;;;;;;;2020;102;Land_Slide
+10; Solok Selatan;2;9;;;16;;;;;;;;;;;2020;102;Land_Slide
+73; Kota Sawah Lunto;7;0;0;0;0;0;9;0;0;0;0;0;0;0;0;2020;102;Land_Slide
+1; Kepulauan Mentawai;1;;;;;;;;;;;;;;;2020;103;Flood and Land Slide
+2; Pesisir Selatan;2;;;;10185;;1;;;;;;;;;2020;103;Flood and Land Slide
+4; Sijunjung;1;;;;150;;;;;;;;;;;2020;103;Flood and Land Slide
+6; Padang Pariaman;1;;;;;;2;1;;;;;2;;;2020;103;Flood and Land Slide
+7; Agam;1;;;;30;;6;;;;;;;;;2020;103;Flood and Land Slide
+8; Lima Puluh Kota;1;;;;552;;;;;;;;;;;2020;103;Flood and Land Slide
+11; Dharmasraya;1;;;;1415;;;;;;;;;;;2020;103;Flood and Land Slide
+71; Kota Padang;2;;;;;;1;;;;;;;;;2020;103;Flood and Land Slide
+72; Kota Solok;1;;;;24;300;;;;;;;;;;2020;103;Flood and Land Slide
+73; Kota Sawah Lunto;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2020;103;Flood and Land Slide
+1; Kepulauan Mentawai;1;;;;;;32;;;;;;;;;2020;104;Abration
+6; Padang Pariaman;2;;;;;;24;;;;;;;;1;2020;104;Abration
+12; Pasaman Barat;1;;;;;;;;;;;;;;;2020;104;Abration
+1; Kepulauan Mentawai;1;;;;;;32;;;;;;;;;2020;105;Tornado
+6; Padang Pariaman;51;;;2;105;;101;5;1;1;;;;;1;2020;105;Tornado
+7; Agam;15;;;;49;;29;5;;1;;;;;1;2020;105;Tornado
+8; Lima Puluh Kota;3;;;;15;;7;;;;;;;;;2020;105;Tornado
+9; Pasaman;2;;;;;;2;;;;;;;;;2020;105;Tornado
+10; Solok Selatan;1;;;;;;1;;;;;;;;;2020;105;Tornado
+12; Pasaman Barat;8;;;;;;20;;;;;;;;;2020;105;Tornado
+71; Kota Padang;4;;;;25;;18;;;;;;;;13;2020;105;Tornado
+73; Kota Sawah Lunto;4;;;;;;6;;;;;1;;;;2020;105;Tornado
+75; Kota Bukittinggi;1;;;;;;1;;;;;;;;;2020;105;Tornado
+76; Kota Payakumbuh;1;;;;;;1;;;;;;;;;2020;105;Tornado
+77; Kota Pariaman;2;;;;;;3;;;;;;;;;2020;105;Tornado
+4; Sijunjung;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+6; Padang Pariaman;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+7; Agam;6;;;;;;;;;;;;;;;2020;107;Forest Fire
+12; Pasaman Barat;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Pesisir Selatan;2;;;;4903;;6;;;;;;;;;2021;101;Flood
+3; Solok;1;;;;5500;;;;;;;;;;;2021;101;Flood
+4; Sijunjung;3;;;;599;;1;;;;;;;;;2021;101;Flood
+6; Padang Pariaman;2;;;;1575;;;;;;;;;;;2021;101;Flood
+8; Lima Puluh Kota;3;;;;1258;;1;;;;;;1;;;2021;101;Flood
+10; Solok Selatan;4;;;;1947;;2;;;;;;2;;7;2021;101;Flood
+71; Kota Padang;1;;;;3;;;;;;;;;;;2021;101;Flood
+72; Kota Solok;1;;;;8045;;;;;;;;;;;2021;101;Flood
+3; Solok;1;;;;;;1;;;;;;;;;2021;102;Land_Slide
+10; Solok Selatan;2;8;;9;2500;;;;;;;;;;;2021;102;Land_Slide
+73; Kota Sawah Lunto;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+2; Pesisir Selatan;1;;;;15;;3;;;;;;3;;;2021;103;Flood and Land Slide
+5; Tanah Datar;1;;;;1020;;10;;;;;;;;;2021;105;Tornado
+6; Padang Pariaman;10;;;2;101;;55;;;1;;1;;;2;2021;105;Tornado
+7; Agam;5;;;;44;;11;;;;;;;;;2021;105;Tornado
+8; Lima Puluh Kota;3;;;1;630;;6;1;;;;;;;;2021;105;Tornado
+10; Solok Selatan;2;;;;5;;101;1;;;;;;;;2021;105;Tornado
+12; Pasaman Barat;1;;;;355;;71;;;;;;;;;2021;105;Tornado
+77; Kota Pariaman;1;;;;4;;4;;;;;;;;;2021;105;Tornado
+71; Kota Padang;1;;;;1280;;;;;;;;;;;2021;106;Drought
+6; Padang Pariaman;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+7; Agam;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+8; Lima Puluh Kota;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+1; Kepulauan Mentawai;1;;;;500;;;;1;;;;;;;2021;108;Earthquake
+73; Kota Sawah Lunto;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+73; Kota Sawah Lunto;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+1; Kuantan Singingi;2;;;;1590;55;112;;;;;;;;;2019;101;Flood
+2; Indragiri Hulu;2;;;;;;;;;;;;;;;2019;101;Flood
+4; Pelalawan;3;;;;7059;115;;;;;;;;;;2019;101;Flood
+6; Kampar;1;;;;39635;;;;;;;;;;;2019;101;Flood
+7; Rokan Hulu;4;;;;10651;10;;;;;;;2;;;2019;101;Flood
+9; Rokan Hilir;3;;;;;35;;;;;;;;;;2019;101;Flood
+71; Kota Pekanbaru;1;1;;;;;;;;;;;;;;2019;101;Flood
+3; Indragiri Hilir;1;;;;;15;3;;;;;;;;;2019;102;Land_Slide
+7; Rokan Hulu;1;2;;;;;;;;;;;;;;2019;102;Land_Slide
+1; Kuantan Singingi;1;;;;;100;20;3;;;;;;;;2019;105;Tornado
+9; Rokan Hilir;1;;;7;;;69;;;;;;;;;2019;105;Tornado
+1; Kuantan Singingi;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Indragiri Hulu;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Indragiri Hilir;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Pelalawan;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Siak;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Kampar;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Rokan Hulu;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Bengkalis;6;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Rokan Hilir;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Kepulauan Meranti;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+71; Kota Pekanbaru;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+73; Kota Dumai;15;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Indragiri Hulu;2;;;;700;;;;;;;;;;;2020;101;Flood
+6; Kampar;2;;;;50;;;;;;;;;;;2020;101;Flood
+7; Rokan Hulu;10;;;;13457;75;;;;;;;;;;2020;101;Flood
+9; Rokan Hilir;4;;;;560;65;13;;;;;;;;;2020;101;Flood
+71; Kota Pekanbaru;1;;;;205;;;;;;;;;;;2020;101;Flood
+3; Indragiri Hilir;5;;;;35;103;24;;;;;;;;;2020;102;Land_Slide
+3; Indragiri Hilir;4;;;;;;22;;;;;;;;;2020;105;Tornado
+6; Kampar;3;;;;;;58;1;;1;;;;;;2020;105;Tornado
+7; Rokan Hulu;2;;;;;82;;;;;;;;;;2020;105;Tornado
+10; Kepulauan Meranti;1;;;1;5;;1;;;;;;;;;2020;105;Tornado
+1; Kuantan Singingi;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Indragiri Hulu;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+3; Indragiri Hilir;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Pelalawan;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+5; Siak;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+6; Kampar;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+7; Rokan Hulu;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+8; Bengkalis;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+9; Rokan Hilir;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Kepulauan Meranti;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+71; Kota Pekanbaru;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+73; Kota Dumai;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Indragiri Hulu;3;;;;555;;;;;;;;;;;2021;101;Flood
+3; Indragiri Hilir;2;;;;2245;;;;;;;;;;;2021;101;Flood
+5; Siak;2;;;;295;450;;;;;;;;;;2021;101;Flood
+6; Kampar;3;;;;2475;;;;;;;;;;;2021;101;Flood
+7; Rokan Hulu;1;;;;600;;;;;;;;;;;2021;101;Flood
+71; Kota Pekanbaru;2;;;;2901;;;;;;;;;;;2021;101;Flood
+73; Kota Dumai;1;;;;1999;150;;;;;;;;;;2021;101;Flood
+3; Indragiri Hilir;2;;;;30;;6;;;;;;;;1;2021;102;Land_Slide
+6; Kampar;1;;;;;;;;;1;;;;;;2021;102;Land_Slide
+3; Indragiri Hilir;3;;;;36;;46;;;;;;;;;2021;104;Abration
+3; Indragiri Hilir;3;1;;2;95;;8;;;;;;;;;2021;105;Tornado
+6; Kampar;1;;;;;20;25;;;;;;;;;2021;105;Tornado
+7; Rokan Hulu;1;;;;225;;;;;;;;;;;2021;105;Tornado
+8; Bengkalis;1;;;;;;4;;;1;;;;;;2021;105;Tornado
+2; Indragiri Hulu;7;;;;4;;;;;;;;;;;2021;107;Forest Fire
+3; Indragiri Hilir;5;;;;;;;;;;;;;;;2021;107;Forest Fire
+4; Pelalawan;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+5; Siak;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+6; Kampar;6;;;;;;;;;;;;;;;2021;107;Forest Fire
+8; Bengkalis;6;;;;;;;;;;;;;;;2021;107;Forest Fire
+9; Rokan Hilir;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+10; Kepulauan Meranti;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+71; Kota Pekanbaru;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+73; Kota Dumai;4;;;;;;;;;;;;;;;2021;107;Forest Fire
+1; Kerinci;2;;;;68;405;;;;;;;;;;2019;101;Flood
+2; Merangin;3;;;;;;;;;;;;;;;2019;101;Flood
+3; Sarolangun;4;;;;16970;;;1;;;;;1;;;2019;101;Flood
+4; Batang Hari;1;;;;;50;;2;;;;;;;;2019;101;Flood
+6; Tanjung Jabung Timur;2;;;;200;20;;;;;;;;;;2019;101;Flood
+1; Kerinci;1;;;;7;;2;;;;;;;;;2019;102;Land_Slide
+3; Sarolangun;1;1;;1;;;;;;;;;;;;2019;102;Land_Slide
+2; Merangin;1;;;;;;29;;2;;;;;;;2019;105;Tornado
+6; Tanjung Jabung Timur;1;;;;;;;;;;;;;;1;2019;105;Tornado
+72; Kota Sungai Penuh;2;;;;120;;50;;;1;;;;;;2019;105;Tornado
+2; Merangin;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Sarolangun;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Batang Hari;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Muaro Jambi;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Tanjung Jabung Timur;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Tanjung Jabung Barat;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Tebo;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Bungo;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Kerinci;4;;;;21590;;;;;;;;;;;2020;101;Flood
+2; Merangin;4;;;;2018;;1;;;;;;;;;2020;101;Flood
+3; Sarolangun;8;;;;13136;250;120;;;;;;1;;;2020;101;Flood
+4; Batang Hari;4;;;;9462;;;;;;;;;;;2020;101;Flood
+5; Muaro Jambi;4;;;;2955;;;;;;;;;;;2020;101;Flood
+7; Tanjung Jabung Barat;1;;;;;;;;;;;;;;;2020;101;Flood
+8; Tebo;2;;;;1950;;2582;;;;;;;;;2020;101;Flood
+9; Bungo;3;;;;3375;;;;;1;;;;;;2020;101;Flood
+71; Kota Jambi;2;;;;4125;;;;;;;;;;;2020;101;Flood
+72; Kota Sungai Penuh;4;;;;4271;;;;;;;;;;;2020;101;Flood
+1; Kerinci;1;;;;2;;1;;;;;;;;;2020;102;Land_Slide
+1; Kerinci;1;;;;;6;2;;;;;;;;;2020;103;Flood and Land Slide
+9; Bungo;1;;;;2483;;;;;;;;;;;2020;103;Flood and Land Slide
+72; Kota Sungai Penuh;1;;;;;;;;;;;;;;;2020;103;Flood and Land Slide
+1; Kerinci;3;;;;405;;92;;;;;;;;;2020;105;Tornado
+3; Sarolangun;1;;;;;;65;1;;;;;;;;2020;105;Tornado
+4; Batang Hari;1;;;;15;;18;;;;;;;;;2020;105;Tornado
+5; Muaro Jambi;1;;;;50;;10;;;;;;;;;2020;105;Tornado
+71; Kota Jambi;1;1;;;;;1;;;;;;;;;2020;105;Tornado
+1; Kerinci;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Merangin;15;;;;;;;;;;;;;;;2020;107;Forest Fire
+3; Sarolangun;24;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Batang Hari;5;;;;;;;;;;;;;;;2020;107;Forest Fire
+5; Muaro Jambi;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+8; Tebo;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+9; Bungo;5;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Merangin;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+4; Batang Hari;1;;;;4;;1;;;;;;;;;2021;105;Tornado
+6; Tanjung Jabung Timur;1;;;;13;;5;;;;;;;;;2021;105;Tornado
+1; Kerinci;2;0;0;0;706;26;0;0;0;0;0;0;1;0;0;2022;101;Flood
+1; Kerinci;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+1; Kerinci;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Ogan Komering Ulu;4;;;;150;;;1;;;;;2;;;2019;101;Flood
+2; Ogan Komering Ilir;3;;;;424;20;;;;;;;;;;2019;101;Flood
+3; Muara Enim;1;;;;95;;;;;;;;;;;2019;101;Flood
+4; Lahat;2;;;;;;80;1;;1;;1;3;;;2019;101;Flood
+5; Musi Rawas;2;;;;2010;;;;1;;;;;;;2019;101;Flood
+6; Musi Banyuasin;5;;;;5505;;;1;;1;;;;;;2019;101;Flood
+7; Banyu Asin;2;;;;;;;;;;;;;;;2019;101;Flood
+8; Ogan Komering Ulu Selatan;6;2;;1;;;1;4;;;;;9;;;2019;101;Flood
+10; Ogan Ilir;2;;;;675;;;1;;;;;;;;2019;101;Flood
+11; Empat Lawang;1;;;;90;;27;;;;;;;;;2019;101;Flood
+12; Penukal Abab Lematang Ilir;1;;;;;;;;;;;;;;;2019;101;Flood
+13; Musi Rawas Utara;1;;;;12860;;;;;;;;2;;;2019;101;Flood
+6; Musi Banyuasin;2;;;;;;2;;;;;;;;;2019;102;Land_Slide
+8; Ogan Komering Ulu Selatan;3;;;1;;3;2;;;;;;;;;2019;102;Land_Slide
+10; Ogan Ilir;1;;;;;;;;;;;;1;;;2019;102;Land_Slide
+11; Empat Lawang;1;;;1;;;3;;;;;;;;;2019;102;Land_Slide
+73; Kota Pagar Alam;1;;;;;;;;;;;;;;;2019;102;Land_Slide
+3; Muara Enim;1;1;;;4;;1;;;;;;;;;2019;105;Tornado
+5; Musi Rawas;2;;;;140;;54;;;;;;;;1;2019;105;Tornado
+6; Musi Banyuasin;1;;;;85;;17;2;;3;;;;;;2019;105;Tornado
+7; Banyu Asin;2;;;3;;;114;;;;;;;;;2019;105;Tornado
+9; Ogan Komering Ulu Timur;1;;;;;;9;;;;;;;;;2019;105;Tornado
+10; Ogan Ilir;4;;;;8;;4;;;;;;;;;2019;105;Tornado
+12; Penukal Abab Lematang Ilir;2;;;;16;;7;;;;;;;;;2019;105;Tornado
+13; Musi Rawas Utara;2;;;;915;915;261;;;;;;;;;2019;105;Tornado
+71; Kota Palembang;1;;;;;;;;2;;;;;;;2019;105;Tornado
+2; Ogan Komering Ilir;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Muara Enim;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Lahat;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Musi Rawas;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Musi Banyuasin;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Banyu Asin;6;1;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Ogan Komering Ulu Selatan;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Ogan Ilir;14;;;;;;;;;;;;;;;2019;107;Forest Fire
+12; Penukal Abab Lematang Ilir;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+13; Musi Rawas Utara;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+71; Kota Palembang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+73; Kota Pagar Alam;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+74; Kota Lubuklinggau;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Ogan Komering Ulu;5;;;;7000;;1;;;;;;;;;2020;101;Flood
+2; Ogan Komering Ilir;1;;;;265;;;;;;;;;;;2020;101;Flood
+3; Muara Enim;5;;;;454;;5;;;1;;;;;;2020;101;Flood
+4; Lahat;3;;;;;390;938;;;;;;5;;;2020;101;Flood
+5; Musi Rawas;3;;;;15638;;;2;;;;;4;;;2020;101;Flood
+6; Musi Banyuasin;5;;;;750;;;;;1;;;;;;2020;101;Flood
+7; Banyu Asin;1;;;;6;;;;;;;;;;;2020;101;Flood
+8; Ogan Komering Ulu Selatan;4;1;;;5011;10;32;3;;;;;11;;;2020;101;Flood
+9; Ogan Komering Ulu Timur;5;;;;;;1;;;;;;;;;2020;101;Flood
+10; Ogan Ilir;1;;;;;;;;;;;;;;;2020;101;Flood
+11; Empat Lawang;4;;;;;;;1;;;;;8;;;2020;101;Flood
+12; Penukal Abab Lematang Ilir;8;;;;5041;11;;;;;;;;;;2020;101;Flood
+13; Musi Rawas Utara;2;;;;2298;;;4;2;;;;1;;;2020;101;Flood
+72; Kota Prabumulih;1;;;;;;;;;;;;;;;2020;101;Flood
+73; Kota Pagar Alam;2;;;;;;;;;1;;;;;;2020;101;Flood
+74; Kota Lubuklinggau;1;;;;;;5;;;;;;;;;2020;101;Flood
+3; Muara Enim;1;11;;;;;;;;;;;;;;2020;102;Land_Slide
+4; Lahat;2;;;;;;2;;;;;;;;;2020;102;Land_Slide
+6; Musi Banyuasin;1;;;;70;;13;;;;;;;;;2020;102;Land_Slide
+8; Ogan Komering Ulu Selatan;4;1;;;;;2;;;;;;;;;2020;102;Land_Slide
+11; Empat Lawang;2;;;;25;;6;;;;;;;;;2020;102;Land_Slide
+12; Penukal Abab Lematang Ilir;1;1;1;;;;;;;;;;;;;2020;102;Land_Slide
+74; Kota Lubuklinggau;1;;;;;;3;;;;;;;;;2020;102;Land_Slide
+1; Ogan Komering Ulu;1;1;;;;;;;;;;;;;;2020;103;Flood and Land Slide
+3; Muara Enim;1;;;;;;;;;;;;4;;;2020;103;Flood and Land Slide
+4; Lahat;2;;;;;;7;;;;;;;;;2020;103;Flood and Land Slide
+9; Ogan Komering Ulu Timur;1;;;;;;6;;;;;;1;;;2020;103;Flood and Land Slide
+2; Ogan Komering Ilir;1;;;;;;12;;;;;;;;;2020;105;Tornado
+3; Muara Enim;1;;;;;;23;;;;;;;;;2020;105;Tornado
+6; Musi Banyuasin;1;;;;;;23;;;;;;;;;2020;105;Tornado
+7; Banyu Asin;3;;;;;;5;8;;;;;;;;2020;105;Tornado
+8; Ogan Komering Ulu Selatan;2;;;;5;;30;;;;;;;;;2020;105;Tornado
+10; Ogan Ilir;4;;;;19;;8;;;;;;;;;2020;105;Tornado
+12; Penukal Abab Lematang Ilir;1;;;;;;1;;;;;;;;;2020;105;Tornado
+72; Kota Prabumulih;1;;;;;;130;;;;;;;;;2020;105;Tornado
+73; Kota Pagar Alam;1;;;;;;1;;;;;;;;;2020;105;Tornado
+12; Penukal Abab Lematang Ilir;1;;;;1000;;;;;;;;;;;2020;106;Drought
+5; Musi Rawas;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+7; Banyu Asin;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Ogan Ilir;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Ogan Komering Ulu;3;;;;800;;;;;;;;;;;2021;101;Flood
+4; Lahat;1;;;;;;;;;;;;;;;2021;101;Flood
+5; Musi Rawas;4;0;0;0;1500;0;2;0;0;0;0;0;0;0;0;2021;101;Flood
+6; Musi Banyuasin;1;;;;1190;50;;;;;;;;;;2021;101;Flood
+7; Banyu Asin;5;0;0;0;0;50;0;0;0;0;0;0;0;0;0;2021;101;Flood
+12; Penukal Abab Lematang Ilir;4;;;;2025;5;;;;;;;;;;2021;101;Flood
+71; Kota Palembang;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+74; Kota Lubuklinggau;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+3; Muara Enim;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2021;102;Land_Slide
+4; Lahat;1;;;;4;;1;;;;;;;;;2021;102;Land_Slide
+5; Musi Rawas;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+8; Ogan Komering Ulu Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+12; Penukal Abab Lematang Ilir;1;;;;5;;;;;;;;;;;2021;102;Land_Slide
+1; Ogan Komering Ulu;1;;;;;;;;;;;;;;;2021;103;Flood and Land Slide
+8; Ogan Komering Ulu Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;103;Flood and Land Slide
+1; Ogan Komering Ulu;1;;;;2750;;550;;;;;;;;;2021;105;Tornado
+2; Ogan Komering Ilir;1;;;;20;;4;;;;;;;;;2021;105;Tornado
+4; Lahat;1;;;;55;;11;;;;;;;;;2021;105;Tornado
+5; Musi Rawas;5;0;0;0;0;0;37;0;0;2;0;0;0;0;0;2021;105;Tornado
+7; Banyu Asin;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;Tornado
+8; Ogan Komering Ulu Selatan;1;;;;10;;;;;;;;;;;2021;105;Tornado
+10; Ogan Ilir;6;0;0;0;365;0;128;1;0;0;0;1;0;0;0;2021;105;Tornado
+11; Empat Lawang;1;;;;10;;2;;;;;;;;;2021;105;Tornado
+12; Penukal Abab Lematang Ilir;1;;;;;;12;;;;;;;;;2021;105;Tornado
+74; Kota Lubuklinggau;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;Tornado
+1; Ogan Komering Ulu;6;;;;;;;;;;;;;;;2021;107;Forest Fire
+5; Musi Rawas;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+7; Banyu Asin;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+10; Ogan Ilir;7;;;4;50;;11;;;;;;;;;2021;107;Forest Fire
+12; Penukal Abab Lematang Ilir;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+74; Kota Lubuklinggau;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+1; Ogan Komering Ulu;5;0;0;0;0;0;2;0;0;0;0;1;0;0;2;2022;101;Flood
+2; Ogan Komering Ilir;9;0;0;0;343;16;0;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Muara Enim;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+5; Musi Rawas;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+6; Musi Banyuasin;9;0;0;0;1335;21;0;0;0;0;1;0;1;0;0;2022;101;Flood
+7; Banyu Asin;3;0;0;0;1881;1625;0;0;0;0;0;0;0;0;0;2022;101;Flood
+8; Ogan Komering Ulu Selatan;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;2022;101;Flood
+9; Ogan Komering Ulu Timur;3;0;0;0;0;0;10;0;0;0;0;0;0;0;0;2022;101;Flood
+10; Ogan Ilir;6;0;0;0;190;6;0;0;0;0;0;0;0;0;0;2022;101;Flood
+11; Empat Lawang;3;0;0;0;0;0;2;0;0;0;2;0;4;0;0;2022;101;Flood
+13; Musi Rawas Utara;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+72; Kota Prabumulih;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+73; Kota Pagar Alam;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Muara Enim;7;0;0;0;0;0;3;0;0;0;4;0;0;0;0;2022;102;Land_Slide
+6; Musi Banyuasin;14;0;0;0;74;14;10;0;1;0;0;0;2;0;0;2022;102;Land_Slide
+7; Banyu Asin;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+8; Ogan Komering Ulu Selatan;14;0;0;4;63;17;4;0;0;0;11;0;0;1;0;2022;102;Land_Slide
+9; Ogan Komering Ulu Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+11; Empat Lawang;6;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2022;102;Land_Slide
+13; Musi Rawas Utara;1;0;0;0;0;0;1;0;0;0;1;0;0;0;0;2022;102;Land_Slide
+73; Kota Pagar Alam;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+9; Ogan Komering Ulu Timur;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2022;103;Flood and Land Slide
+10; Ogan Ilir;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;Flood and Land Slide
+2; Ogan Komering Ilir;2;0;0;0;72;0;43;0;0;0;0;0;0;0;0;2022;105;Tornado
+3; Muara Enim;4;0;0;0;0;17;11;0;1;0;1;0;0;0;0;2022;105;Tornado
+5; Musi Rawas;8;0;0;10;0;0;263;0;1;1;0;13;0;0;0;2022;105;Tornado
+6; Musi Banyuasin;5;0;0;0;5;7;10;0;0;0;0;0;0;0;0;2022;105;Tornado
+7; Banyu Asin;7;0;0;0;0;0;79;2;0;0;0;0;0;0;0;2022;105;Tornado
+8; Ogan Komering Ulu Selatan;7;0;0;0;0;0;1;0;0;0;5;1;0;0;0;2022;105;Tornado
+9; Ogan Komering Ulu Timur;2;0;0;0;0;0;46;0;0;0;0;0;0;0;0;2022;105;Tornado
+10; Ogan Ilir;12;0;0;0;94;60;60;0;0;0;1;1;0;0;2;2022;105;Tornado
+11; Empat Lawang;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+13; Musi Rawas Utara;4;0;0;1;0;0;155;0;0;0;0;0;0;0;0;2022;105;Tornado
+2; Ogan Komering Ilir;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+3; Muara Enim;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+6; Musi Banyuasin;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+7; Banyu Asin;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+9; Ogan Komering Ulu Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+10; Ogan Ilir;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+11; Empat Lawang;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+73; Kota Pagar Alam;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;108;Earthquake
+73; Kota Pagar Alam;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;111;Volcano Eruption
+1; Bengkulu Selatan;1;;;;90;;18;;;;;;7;;;2019;101;Flood
+2; Rejang Lebong;1;;;;815;;38;1;;1;;;1;;;2019;101;Flood
+3; Bengkulu Utara;1;;;;3888;;;;2;;;;17;;;2019;101;Flood
+4; Kaur;1;;1;;4810;41;684;7;1;4;;;10;;;2019;101;Flood
+5; Seluma;4;1;;;2770;875;42;;1;3;;;;;;2019;101;Flood
+6; Mukomuko;1;;;;714;895;25;;;;;;;;;2019;101;Flood
+7; Lebong;1;;;;5870;;3;3;1;;;;1;;;2019;101;Flood
+8; Kepahiang;2;3;1;;1871;;280;2;1;;;;12;;;2019;101;Flood
+9; Bengkulu Tengah;1;19;2;4;20068;1095;465;9;;3;;;2;;;2019;101;Flood
+71; Kota Bengkulu;2;3;;;17413;12599;476;5;1;7;;2;;;;2019;101;Flood
+8; Kepahiang;2;;;;5;;2;;;;;;;;;2019;102;Land_Slide
+5; Seluma;1;;;;160;;18;;;;;;;;;2019;104;Abration
+2; Rejang Lebong;1;1;;3;;;;;;;;;;;;2019;105;Tornado
+8; Kepahiang;1;;;;;;5;;;;;;;;;2019;105;Tornado
+3; Bengkulu Utara;2;;;;;150;;;;;;;;;;2019;107;Forest Fire
+5; Seluma;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Mukomuko;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Bengkulu Tengah;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Rejang Lebong;1;;;;2155;;1;;;;;;;;;2020;101;Flood
+3; Bengkulu Utara;1;;;;;;;;;;;;;;;2020;101;Flood
+4; Kaur;2;10;;;1300;;;1;;;;;1;;;2020;101;Flood
+5; Seluma;7;;;;11147;;405;10;1;4;;;5;;;2020;101;Flood
+6; Mukomuko;1;;;;;;;;;;;;;;;2020;101;Flood
+7; Lebong;1;;;;500;;;;;;;;;;;2020;101;Flood
+8; Kepahiang;1;;;;700;;10;;;;;;;;;2020;101;Flood
+9; Bengkulu Tengah;2;;;;;;6;;;;;;8;;;2020;101;Flood
+71; Kota Bengkulu;4;;;;4725;;;;;;;;;;;2020;101;Flood
+1; Bengkulu Selatan;2;;;;;;;;;;;;2;;;2020;102;Land_Slide
+3; Bengkulu Utara;1;;;;;;2;;;;;;;;;2020;102;Land_Slide
+4; Kaur;1;;;;81;;21;;;1;;;3;;;2020;102;Land_Slide
+5; Seluma;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+6; Mukomuko;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+71; Kota Bengkulu;1;;;;;;3;;;;;;;;;2020;102;Land_Slide
+1; Bengkulu Selatan;1;;;;330;;;;;;;;;;;2020;103;Flood and Land Slide
+2; Rejang Lebong;1;;;;1595;;;;;;;;;;;2020;103;Flood and Land Slide
+5; Seluma;1;;;;;;;;;;;;1;;;2020;104;Abration
+1; Bengkulu Selatan;2;;;;220;;12;;;;;;;;;2020;105;Tornado
+2; Rejang Lebong;1;;;;60;;12;;;;;;;;;2020;105;Tornado
+3; Bengkulu Utara;1;2;;;;;1;;;;;3;;;;2020;105;Tornado
+9; Bengkulu Tengah;1;;;;;;3;;;;;;;;;2020;105;Tornado
+71; Kota Bengkulu;3;;;;;;42;1;;;;;;;;2020;105;Tornado
+4; Kaur;1;;;;125;;;;;;;;;;;2021;101;Flood
+5; Seluma;1;;;;603;;;;;;;;1;;;2021;101;Flood
+6; Mukomuko;1;;;;2250;;;;;;;;;;;2021;101;Flood
+5; Seluma;1;;;;85;;;;;;;;1;;;2021;103;Flood and Land Slide
+2; Rejang Lebong;1;;;;;;;;;;;;;;;2021;105;Tornado
+5; Seluma;1;;;;3;;1;;;;;;;;;2021;105;Tornado
+8; Kepahiang;1;2;;;;;1;;;;;;;;;2021;105;Tornado
+3; Bengkulu Utara;2;;;;;;;;;;;;;;;2021;108;Earthquake
+5; Seluma;1;;;;;;;;;;;;;;;2021;108;Earthquake
+1; Lampung Barat;3;;;;25;;31;;;;;;30;;;2019;101;Flood
+2; Tanggamus;2;;;;;;35;;;;;;2;;;2019;101;Flood
+5; Lampung Tengah;1;;;;660;;;;;;;;3;;;2019;101;Flood
+7; Way Kanan;1;;;;557;;;;;;;;;;;2019;101;Flood
+8; Tulangbawang;1;1;;;8940;;;;;;;;;;;2019;101;Flood
+9; Pesawaran;1;1;;;;;;;;;;;;;;2019;101;Flood
+71; Kota Bandar Lampung;1;;;;;;2;4;;;;;;;;2019;101;Flood
+1; Lampung Barat;4;;;;;;10;;;;;1;;;;2019;102;Land_Slide
+13; Pesisir Barat;1;6;;2;;;8;1;;;;;1;;;2019;102;Land_Slide
+1; Lampung Barat;2;;;;20;;31;;;;;;;;;2019;105;Tornado
+2; Tanggamus;1;;;;;;11;1;;;;;;;;2019;105;Tornado
+4; Lampung Timur;1;;;;;;20;;;;;;;;;2019;105;Tornado
+5; Lampung Tengah;1;;;;;;102;;;;;;;;;2019;105;Tornado
+8; Tulangbawang;2;;;;;;133;;;;;;;;;2019;105;Tornado
+1; Lampung Barat;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Tanggamus;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Pesawaran;20;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Lampung Selatan;1;;;;;1050;;;;;;;;;;2019;108;Earthquake
+1; Lampung Barat;6;;;;30;;;;;1;;;2;;;2020;101;Flood
+2; Tanggamus;4;;;;9187;352;2979;1;;2;;;;;;2020;101;Flood
+3; Lampung Selatan;2;;;;;30;;;;;;;;;;2020;101;Flood
+4; Lampung Timur;1;;;;44;;;;;;;;;;;2020;101;Flood
+7; Way Kanan;1;;;;125;;;;;;;;;;;2020;101;Flood
+8; Tulangbawang;1;;;;;;1;;;;;;;;;2020;101;Flood
+9; Pesawaran;5;;;;1000;;;;;;;;;;;2020;101;Flood
+13; Pesisir Barat;3;;;;;;;;;;;;;;;2020;101;Flood
+71; Kota Bandar Lampung;2;;;;3213;565;968;;;;;;;;;2020;101;Flood
+71; Kota Bandar Lampung;3;;;;;;4;;;;;;;;;2020;102;Land_Slide
+9; Pesawaran;1;;;;;;;;;;;;;;;2020;104;Abration
+13; Pesisir Barat;1;;;;20;;3;;;1;;;;;;2020;104;Abration
+3; Lampung Selatan;2;;;;;;62;1;;;;;;;;2020;105;Tornado
+4; Lampung Timur;7;;;;615;70;184;;;;;;;;;2020;105;Tornado
+5; Lampung Tengah;1;;;;;;24;;;;;;;;;2020;105;Tornado
+8; Tulangbawang;1;2;;9;;;271;;;;;;;;;2020;105;Tornado
+9; Pesawaran;1;;;;;;10;;;;;;;;;2020;105;Tornado
+11; Mesuji;1;;;;;;1;;;;;;;;;2020;105;Tornado
+71; Kota Bandar Lampung;1;;;1;;;4;;;;;;;;;2020;105;Tornado
+72; Kota Metro;1;;;;;;50;;;;;;;;;2020;105;Tornado
+3; Lampung Selatan;1;;;;;;;;;;;;;;;2020;111;Volcano Eruption
+1; Lampung Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+2; Tanggamus;4;0;0;0;0;0;264;0;0;0;0;0;0;0;0;2021;101;Flood
+9; Pesawaran;11;0;0;0;3077;0;828;0;0;0;0;0;2;0;0;2021;101;Flood
+11; Mesuji;3;;;;2360;;;;;;;;;;;2021;101;Flood
+1; Lampung Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+2; Tanggamus;3;0;0;0;0;0;16;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+9; Pesawaran;1;0;0;0;0;0;1;0;0;0;0;0;1;0;0;2021;102;Land_Slide
+71; Kota Bandar Lampung;1;;;;;;2;;;;;;;;;2021;102;Land_Slide
+2; Tanggamus;1;0;0;0;0;19;10;0;0;0;0;0;0;0;0;2021;104;Abration
+1; Lampung Barat;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;Tornado
+3; Lampung Selatan;4;;;;210;;31;;;;;;;;;2021;105;Tornado
+4; Lampung Timur;10;;;3;640;;195;1;;;;;;;1;2021;105;Tornado
+5; Lampung Tengah;1;;;;1190;;328;;;;;;;;;2021;105;Tornado
+9; Pesawaran;10;0;0;0;1388;0;193;0;0;0;0;0;0;0;0;2021;105;Tornado
+13; Pesisir Barat;1;;;;85;;17;;;;;;;;;2021;105;Tornado
+1; Lampung Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;108;Earthquake
+1; Lampung Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;110;Earthquake and Tsunami
+2; Tanggamus;9;0;0;1;0;0;4;4;0;0;2;0;1;0;0;2022;101;Flood
+9; Pesawaran;1;0;0;0;672;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+13; Pesisir Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+71; Kota Bandar Lampung;17;0;0;0;0;0;4;1;0;0;0;0;0;0;0;2022;101;Flood
+2; Tanggamus;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+13; Pesisir Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+71; Kota Bandar Lampung;6;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+2; Tanggamus;1;0;0;0;0;0;6;0;0;0;0;0;0;0;0;2022;104;Abration
+71; Kota Bandar Lampung;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;105;Tornado
+71; Kota Bandar Lampung;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+13; Pesisir Barat;4;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;108;Earthquake
+1; Bangka;4;;;1;478;;116;1;;1;;;;;;2019;101;Flood
+2; Belitung;3;;;;2829;;155;;;;;;;;;2019;101;Flood
+4; Bangka Tengah;1;;;;;;;;;;;;1;;;2019;101;Flood
+5; Bangka Selatan;1;;;;;;;;;;;;;;;2019;101;Flood
+71; Kota Pangkal Pinang;3;;;;157;;;;;;;;;;;2019;101;Flood
+4; Bangka Tengah;1;4;;1;;;;;;;;;;;;2019;102;Land_Slide
+2; Belitung;1;;;;20;;5;;;;;;;;;2019;105;Tornado
+3; Bangka Barat;1;;;;;;17;2;;;;;;;;2019;105;Tornado
+4; Bangka Tengah;2;;;;;;12;;;;;;;;;2019;105;Tornado
+71; Kota Pangkal Pinang;2;;;;21;;6;;;;;;;;;2019;105;Tornado
+2; Belitung;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Bangka Tengah;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Belitung;1;;;;50;20;;;;;;;;;;2020;101;Flood
+4; Bangka Tengah;1;;;;350;;;;;;;;;;;2020;101;Flood
+71; Kota Pangkal Pinang;1;;;;25;;;;;;;;;;;2020;101;Flood
+1; Bangka;2;2;;;;;;;;;;;;;;2020;102;Land_Slide
+3; Bangka Barat;1;1;;;;;;;;;;;;;;2020;102;Land_Slide
+4; Bangka Tengah;2;7;;;;;;;;;;;;;;2020;102;Land_Slide
+1; Bangka;7;;;;385;;84;;;;;;;;;2020;105;Tornado
+3; Bangka Barat;4;;;;54;1;7;;;;;;;;;2020;105;Tornado
+5; Bangka Selatan;2;;;;65;1;13;;;;;;;;;2020;105;Tornado
+6; Belitung Timur;1;;;;;;13;;;;;;;;;2020;105;Tornado
+71; Kota Pangkal Pinang;1;;;;35;2;7;;;;;;;;;2020;105;Tornado
+6; Belitung Timur;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+71; Kota Pangkal Pinang;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Bangka;2;0;0;0;0;0;358;0;0;0;0;0;0;0;0;2021;101;Flood
+3; Bangka Barat;3;0;0;0;1;1929;552;0;0;0;0;0;1;0;0;2021;101;Flood
+5; Bangka Selatan;3;0;0;0;0;0;141;0;0;0;0;0;1;0;0;2021;101;Flood
+6; Belitung Timur;1;;;;845;;;;;;;;;;;2021;101;Flood
+71; Kota Pangkal Pinang;66;0;0;0;1725;0;712;0;0;0;0;0;0;0;0;2021;101;Flood
+1; Bangka;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+3; Bangka Barat;1;0;0;0;45;0;8;0;0;0;0;0;0;0;0;2021;104;Abration
+3; Bangka Barat;3;0;0;3;6;18;8;0;0;0;0;0;0;0;0;2021;105;Tornado
+5; Bangka Selatan;5;0;0;1;659;5;82;0;0;0;0;0;0;0;0;2021;105;Tornado
+71; Kota Pangkal Pinang;32;0;0;0;9;0;36;0;0;0;0;0;0;0;0;2021;105;Tornado
+4; Bangka Tengah;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+71; Kota Pangkal Pinang;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+1; Bangka;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Bangka Barat;7;0;0;0;1140;792;198;0;0;0;0;0;0;0;0;2022;101;Flood
+11; Empat Lawang;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+1; Bangka;15;0;0;0;0;0;69;1;0;0;0;0;0;0;0;2022;105;Tornado
+3; Bangka Barat;8;0;0;0;35;183;101;0;0;1;0;1;0;0;0;2022;105;Tornado
+1; Bangka;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+3; Bangka Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+5; Bangka Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+2; Bintan;1;;;;1400;;1;3;;1;;3;;;;2019;101;Flood
+2; Bintan;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+3; Natuna;1;;;;15;;3;;;;;;;;;2019;102;Land_Slide
+71; Kota Batam;2;;;;;;6;;;;;;;;;2019;102;Land_Slide
+1; Karimun;1;;;;;;;;;;;;;;;2019;105;Tornado
+2; Bintan;2;;;;;;6;;;;;;;;;2019;105;Tornado
+3; Natuna;2;;;;30;5;9;;;;;;;;1;2019;105;Tornado
+4; Lingga;1;;;1;;;;;;;;;;;;2019;105;Tornado
+71; Kota Batam;1;;;;;;7;;;;;;;;;2019;105;Tornado
+2; Bintan;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Natuna;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+72; Kota Tanjung Pinang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Bintan;1;;;;555;;;;;;;;;;;2020;101;Flood
+3; Natuna;1;;;;;;;;;;;;;;;2020;101;Flood
+5; Kepulauan Anambas;1;;;;1905;8;12;;1;;;;;;;2020;103;Flood and Land Slide
+2; Bintan;3;;;;;;6;;;;;;;;;2020;105;Tornado
+3; Natuna;1;;;;115;;23;;;;;;;;;2020;105;Tornado
+4; Lingga;3;;;;22;4;3;;;;;;;;;2020;105;Tornado
+5; Kepulauan Anambas;2;;;3;5;8;4;;;;;;;;;2020;105;Tornado
+71; Kota Batam;1;;;;116;;33;;;;;;;;;2020;105;Tornado
+2; Bintan;37;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Lingga;9;;;;;;;;;;;;;;;2020;107;Forest Fire
+71; Kota Batam;1;;;;;;1;;;;;;;;;2020;107;Forest Fire
+72; Kota Tanjung Pinang;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Bintan;2;;;;3212;1493;;;;;;;;;;2021;101;Flood
+3; Natuna;1;;;;30;;;;;;;;;;;2021;101;Flood
+5; Kepulauan Anambas;2;;;;2465;47;;;;;;;;;;2021;101;Flood
+72; Kota Tanjung Pinang;1;;;;3210;411;;;;;;;;;;2021;103;Flood and Land Slide
+2; Bintan;1;;;;;;2;;;;;;;;;2021;105;Tornado
+3; Natuna;2;;;1;90;;30;;;;;1;;;;2021;105;Tornado
+4; Lingga;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;105;Tornado
+71; Kota Jakarta Selatan;1;2;;;;2258;;;;;;;;;;2019;101;Flood
+72; Kota Jakarta Timur;1;;;;;;;;;;;;;;;2019;101;Flood
+71; Kota Jakarta Selatan;1;;;;4;;1;;;;;;;;;2019;102;Land_Slide
+72; Kota Jakarta Timur;1;;;;5;;1;;;;;;;;;2019;102;Land_Slide
+71; Kota Jakarta Selatan;1;;;1;;;;;;1;;;;;;2019;105;Tornado
+72; Kota Jakarta Timur;1;1;;;;;;;;;;;;;;2019;105;Tornado
+75; Kota Jakarta Utara;1;;;;68;;;;;;;;;;;2019;105;Tornado
+71; Kota Jakarta Selatan;17;2;;;3658;9039;;;;;;;;;;2020;101;Flood
+72; Kota Jakarta Timur;17;10;;;62913;30201;;;;;;;;;;2020;101;Flood
+73; Kota Jakarta Pusat;6;2;;;;2703;;;;;;;;;;2020;101;Flood
+74; Kota Jakarta Barat;10;5;;;1180;10672;;;;;;;;;;2020;101;Flood
+75; Kota Jakarta Utara;8;1;;;200;1920;;;;;;;;;;2020;101;Flood
+71; Kota Jakarta Selatan;1;1;;2;600;1269;;;;;;;;;;2020;103;Flood and Land Slide
+75; Kota Jakarta Utara;1;;;3;517;;134;;;;;;;;;2020;105;Tornado
+71; Kota Jakarta Selatan;3;1;1;;8419;3689;;;;;;;;;;2021;101;Flood
+72; Kota Jakarta Timur;6;;;;13442;2055;;;;;;;;;;2021;101;Flood
+73; Kota Jakarta Pusat;1;;;;;;;;;;;;;;;2021;101;Flood
+74; Kota Jakarta Barat;3;3;;;8988;1446;;;;;;;;;;2021;101;Flood
+75; Kota Jakarta Utara;3;;;;;;;;;;;;;;;2021;101;Flood
+72; Kota Jakarta Timur;1;;;;20;;;;;;;;;;;2021;102;Land_Slide
+1; Bogor;18;1;;;6312;4;59;1;;2;;;3;;;2019;101;Flood
+2; Sukabumi;5;;;;144;47;34;;;;;;4;;;2019;101;Flood
+3; Cianjur;1;;;;26;;;;;;;;;;;2019;101;Flood
+4; Bandung;8;3;;;153474;4903;18;12;;53;;;3;;;2019;101;Flood
+5; Garut;15;;;;375;5;58;4;;3;;;2;;;2019;101;Flood
+8; Kuningan;4;;;;5;90;18;;1;;;;;;;2019;101;Flood
+9; Cirebon;16;;;;19160;203;;3;;8;;;;;;2019;101;Flood
+10; Majalengka;7;;;;;;13;2;;4;;;2;;;2019;101;Flood
+11; Sumedang;2;;;;;;;1;;1;;;;;;2019;101;Flood
+12; Indramayu;1;;;;24813;1020;;;;;;;;;;2019;101;Flood
+13; Subang;1;;;;;;;;;;;;;;;2019;101;Flood
+15; Karawang;3;;;;931;;;2;;3;;;;;;2019;101;Flood
+16; Bekasi;8;;;;7490;25;;1;;;;;;;;2019;101;Flood
+17; Bandung Barat;4;;;;142;610;19;;;1;;;;;;2019;101;Flood
+71; Kota Bogor;5;;;1;581;;;;;1;;;;;1;2019;101;Flood
+72; Kota Sukabumi;1;;;;;;;;;;;;;;;2019;101;Flood
+73; Kota Bandung;1;;;;1650;;;1;;;;;;;;2019;101;Flood
+75; Kota Bekasi;4;;;;2393;39;300;;;;;;;;;2019;101;Flood
+78; Kota Tasikmalaya;6;;;;19;;2;;;;;;;;;2019;101;Flood
+1; Bogor;52;12;;10;735;154;161;1;;2;;;;;;2019;102;Land_Slide
+2; Sukabumi;28;1;;3;672;347;123;2;;4;;;;;;2019;102;Land_Slide
+3; Cianjur;1;2;;;;9;3;;;;;;;;;2019;102;Land_Slide
+4; Bandung;4;;;;6;15;6;;;1;;;;;;2019;102;Land_Slide
+5; Garut;19;;;5;8;131;20;;;;;;;;;2019;102;Land_Slide
+6; Tasikmalaya;4;1;;;4;6;5;;;;;;;;;2019;102;Land_Slide
+7; Ciamis;10;;;;112;9;32;2;;;;;;;;2019;102;Land_Slide
+8; Kuningan;12;;;1;27;;11;1;;;;;;;;2019;102;Land_Slide
+9; Cirebon;3;;;;10;;3;;;;;;;;;2019;102;Land_Slide
+10; Majalengka;39;;;;5;127;49;1;;1;;;;;;2019;102;Land_Slide
+11; Sumedang;5;;;;3;;7;;;;;;;;;2019;102;Land_Slide
+14; Purwakarta;2;;;;;20;26;;1;2;;;;;;2019;102;Land_Slide
+17; Bandung Barat;34;;;4;129;201;142;7;;1;;;2;;;2019;102;Land_Slide
+71; Kota Bogor;23;;;;229;13;37;;;1;;;;;;2019;102;Land_Slide
+77; Kota Cimahi;1;2;;6;;;;;;;;;;;;2019;102;Land_Slide
+78; Kota Tasikmalaya;13;;;;25;;11;;;;;;;;1;2019;102;Land_Slide
+15; Karawang;1;;;1;37;;8;;;;;;;;;2019;104;Abration
+16; Bekasi;1;;;;;;;;;;;;;;;2019;104;Abration
+1; Bogor;65;;;8;2981;91;817;6;2;5;;;;;8;2019;105;Tornado
+2; Sukabumi;24;;;2;698;20;702;3;;3;;;;;1;2019;105;Tornado
+3; Cianjur;1;;;;;;14;;;;;;;;;2019;105;Tornado
+4; Bandung;9;;;16;4946;6743;4745;3;2;2;;1;;;;2019;105;Tornado
+5; Garut;12;;;;5;14;116;;1;;;;;;;2019;105;Tornado
+6; Tasikmalaya;4;;;;2;;9;;;;;;;;;2019;105;Tornado
+7; Ciamis;11;;;1;173;2;191;;;;;;;;;2019;105;Tornado
+8; Kuningan;7;;;1;6;;40;1;;1;;;;;1;2019;105;Tornado
+9; Cirebon;10;;;;6;;27;;;;;;;;;2019;105;Tornado
+10; Majalengka;10;;;1;299;8;121;2;;2;;;;;;2019;105;Tornado
+11; Sumedang;5;;;;130;5;47;;;;;;;;;2019;105;Tornado
+12; Indramayu;3;;;1;133;15;57;;;;;2;;;;2019;105;Tornado
+14; Purwakarta;3;;;;80;;18;;;;;;;;;2019;105;Tornado
+15; Karawang;6;1;;1;155;;1413;;;;;;;;;2019;105;Tornado
+16; Bekasi;2;;;;;;195;;;;;;;;9;2019;105;Tornado
+17; Bandung Barat;12;1;;;140;10;45;1;;;;;;;;2019;105;Tornado
+18; Pangandaran;16;;;;26;32;21;;;;;;;;;2019;105;Tornado
+71; Kota Bogor;22;;;;170;;85;2;;1;;;;;2;2019;105;Tornado
+73; Kota Bandung;2;;;;;;50;;;;;;;;;2019;105;Tornado
+75; Kota Bekasi;1;;;2;;;60;;;;;;;;;2019;105;Tornado
+76; Kota Depok;1;1;;5;;;;;;;;;;;1;2019;105;Tornado
+77; Kota Cimahi;2;;;;20;;7;;;;;;;;;2019;105;Tornado
+78; Kota Tasikmalaya;25;;;5;132;5;65;1;;;;;;;1;2019;105;Tornado
+1; Bogor;1;;;;16471;;;;;;;;;;;2019;106;Drought
+2; Sukabumi;1;;;;6515;;;;;;;;;;;2019;106;Drought
+3; Cianjur;1;;;;84945;;;;;;;;;;;2019;106;Drought
+4; Bandung;1;;;;228790;;;;;;;;;;;2019;106;Drought
+5; Garut;1;;;;;;;;;;;;;;;2019;106;Drought
+7; Ciamis;2;;;;6915;;;;;;;;;;;2019;106;Drought
+9; Cirebon;2;;;;90589;;;;;;;;;;;2019;106;Drought
+10; Majalengka;1;;;;2280;;;;;;;;;;;2019;106;Drought
+12; Indramayu;1;;;;;;;;;;;;;;;2019;106;Drought
+13; Subang;1;;;;1600;;;;;;;;;;;2019;106;Drought
+14; Purwakarta;1;;;;74930;;;;;;;;;;;2019;106;Drought
+15; Karawang;1;;;;;;;;;;;;;;;2019;106;Drought
+16; Bekasi;2;;;;23960;;;;;;;;;;;2019;106;Drought
+17; Bandung Barat;1;;;;310885;;;;;;;;;;;2019;106;Drought
+71; Kota Bogor;1;;;;2975;;;;;;;;;;;2019;106;Drought
+74; Kota Cirebon;1;;;;8265;;;;;;;;;;;2019;106;Drought
+78; Kota Tasikmalaya;1;;;;24890;;;;;;;;;;;2019;106;Drought
+1; Bogor;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Sukabumi;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Bandung;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Garut;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Tasikmalaya;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Kuningan;8;;;;69;;;;;;;;;;;2019;107;Forest Fire
+9; Cirebon;6;;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Majalengka;8;;;;;;;;;;;;;;;2019;107;Forest Fire
+11; Sumedang;31;;;;62665;;;;;;;;;;;2019;107;Forest Fire
+14; Purwakarta;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+17; Bandung Barat;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+18; Pangandaran;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Bogor;1;;;;308;13;32;;;1;;;;;;2019;108;Earthquake
+2; Sukabumi;4;2;;1;478;32;148;7;;4;;;;;;2019;108;Earthquake
+3; Cianjur;1;;;;;;31;;;1;;;;;;2019;108;Earthquake
+4; Bandung;1;;;;;;2;;;;;;;;;2019;108;Earthquake
+5; Garut;2;;;;;;4;1;;;;;;;;2019;108;Earthquake
+17; Bandung Barat;1;;;;;;6;;;;;;;;;2019;108;Earthquake
+71; Kota Bogor;1;;;;;;1;;;;;;;;;2019;108;Earthquake
+78; Kota Tasikmalaya;2;;;;;;;1;;1;;;;;;2019;108;Earthquake
+17; Bandung Barat;1;;;;15;;;;;;;;;;;2019;111;Volcano Eruption
+1; Bogor;37;;;2;48854;421;37;3;;1;;;4;;;2020;101;Flood
+2; Sukabumi;6;3;;20;1612;210;332;;;1;;;10;;1;2020;101;Flood
+3; Cianjur;1;;;;;;1;;;;;;;;;2020;101;Flood
+4; Bandung;17;1;;1;557360;10758;11;150;;270;;;;;;2020;101;Flood
+5; Garut;10;;;;9215;1385;1174;15;10;26;;;23;;;2020;101;Flood
+6; Tasikmalaya;3;;;;2500;;;;;;;;;;;2020;101;Flood
+7; Ciamis;10;2;;;21931;262;;;;;;;;;10;2020;101;Flood
+8; Kuningan;5;;;;78;;6;;;;;;1;;;2020;101;Flood
+9; Cirebon;26;0;0;0;97054;874;3;0;0;0;0;0;0;0;0;2020;101;Flood
+10; Majalengka;5;1;;;748;;;;;;;;2;;;2020;101;Flood
+11; Sumedang;13;;;;8445;113;14;;;2;;;1;;;2020;101;Flood
+12; Indramayu;4;;;;42897;;65;;;;;;;;;2020;101;Flood
+13; Subang;3;;;;8582;1216;;;;;;;;;;2020;101;Flood
+14; Purwakarta;3;;;;231;;3;;;;;;;;;2020;101;Flood
+15; Karawang;8;;;;156348;19712;181;;;;;;;;;2020;101;Flood
+16; Bekasi;17;1;1;;100035;3648;4;;;;;;;;;2020;101;Flood
+17; Bandung Barat;4;;;;1030;;4;1;;;;;3;;;2020;101;Flood
+18; Pangandaran;6;;;;3305;;;;;;;;;;;2020;101;Flood
+71; Kota Bogor;7;1;;;122;;4;;;;;;;;;2020;101;Flood
+73; Kota Bandung;7;;;;13173;;2;;;;;;;;;2020;101;Flood
+74; Kota Cirebon;6;;;;6200;;;;;;;;;;;2020;101;Flood
+75; Kota Bekasi;7;15;;;125823;369226;;;;;;;;;;2020;101;Flood
+76; Kota Depok;6;4;;1;6602;205;;;;;;;;;;2020;101;Flood
+77; Kota Cimahi;6;2;;;1481;;5;;;;;;;;;2020;101;Flood
+1; Bogor;114;8;;17;2081;427;244;4;1;1;;;2;;;2020;102;Land_Slide
+2; Sukabumi;38;;;5;1687;54;101;;;;;;2;;;2020;102;Land_Slide
+3; Cianjur;7;1;;2;363;;69;;;;;;;;;2020;102;Land_Slide
+4; Bandung;9;;;;46;;14;;;;;;;;;2020;102;Land_Slide
+5; Garut;18;1;;1;1834;847;159;;;;;;;;;2020;102;Land_Slide
+6; Tasikmalaya;11;2;;2;380;;21;;;;;;;;;2020;102;Land_Slide
+7; Ciamis;29;;;;355;4;118;;;;;;;;;2020;102;Land_Slide
+8; Kuningan;20;;;;297;3;33;1;;;;;;;;2020;102;Land_Slide
+9; Cirebon;1;;;;5;;1;;;;;;;;;2020;102;Land_Slide
+10; Majalengka;16;;;;25;8;20;;;;;;2;;;2020;102;Land_Slide
+11; Sumedang;44;2;;13;212;93;139;;;1;;1;;;;2020;102;Land_Slide
+13; Subang;4;;;;11;;7;;;;;;;;;2020;102;Land_Slide
+14; Purwakarta;8;1;;3;32;;17;;;;;;1;;;2020;102;Land_Slide
+16; Bekasi;1;;;;;12;12;;;;;;;;;2020;102;Land_Slide
+17; Bandung Barat;28;1;;3;1307;55;78;;;1;;;;;;2020;102;Land_Slide
+18; Pangandaran;3;;;;8;;5;;;;;;;;;2020;102;Land_Slide
+71; Kota Bogor;35;1;;;200;11;48;;;;;;;;;2020;102;Land_Slide
+73; Kota Bandung;3;;;;55;;6;;;;;;;;;2020;102;Land_Slide
+74; Kota Cirebon;1;;;;;;;;;;;;1;;;2020;102;Land_Slide
+76; Kota Depok;2;;;;15;;7;;;;;;;;;2020;102;Land_Slide
+77; Kota Cimahi;1;;;;8;;;;;;;;;;;2020;102;Land_Slide
+78; Kota Tasikmalaya;9;;;;4;15;16;;;;;;;;;2020;102;Land_Slide
+79; Kota Banjar;5;;;;20;3;9;;;;;;;;;2020;102;Land_Slide
+1; Bogor;6;11;;;36709;22504;2378;41;;37;;5;33;;;2020;103;Flood and Land Slide
+2; Sukabumi;1;;;;20;100;;;;;;;;;;2020;103;Flood and Land Slide
+3; Cianjur;2;;;;4851;;;;;;;;8;;;2020;103;Flood and Land Slide
+4; Bandung;2;;;;39560;122;;;;;;;;;;2020;103;Flood and Land Slide
+6; Tasikmalaya;1;1;;2;1110;212;4;2;;2;;;1;;;2020;103;Flood and Land Slide
+7; Ciamis;1;;;;;;;;;;;;;;;2020;103;Flood and Land Slide
+8; Kuningan;2;;;;78;;;;;;;;;;;2020;103;Flood and Land Slide
+17; Bandung Barat;1;;;;26;;5;;;;;;;;;2020;103;Flood and Land Slide
+18; Pangandaran;1;2;;;311;;;;;;;;;;;2020;103;Flood and Land Slide
+18; Pangandaran;1;;;;370;;;;;;;;;;;2020;104;Abration
+1; Bogor;176;;;13;6175;243;1526;5;;4;;;1;;2;2020;105;Tornado
+2; Sukabumi;22;;;1;984;13;562;4;;2;;;;;;2020;105;Tornado
+3; Cianjur;2;;;;;;5;2;;;;;;;;2020;105;Tornado
+4; Bandung;15;;;;1133;;323;;;;;;;;;2020;105;Tornado
+5; Garut;7;;;1;;;30;;;;;;;;;2020;105;Tornado
+6; Tasikmalaya;6;;;;12;;9;;;;;;;;;2020;105;Tornado
+7; Ciamis;56;;;2;1777;38;638;;;1;;;;;;2020;105;Tornado
+8; Kuningan;8;;;;31;;18;;;;;;;;1;2020;105;Tornado
+9; Cirebon;24;2;;9;959;;229;;;2;;;;;;2020;105;Tornado
+10; Majalengka;5;;;;15;;19;;;;;;;;;2020;105;Tornado
+11; Sumedang;9;;;;35;;23;;;;;;;;;2020;105;Tornado
+12; Indramayu;3;;;;;;59;;;;;;;;;2020;105;Tornado
+13; Subang;7;;;3;4;5;156;;;;;;;;;2020;105;Tornado
+14; Purwakarta;10;;;;25;;30;;;;;;;;;2020;105;Tornado
+15; Karawang;3;;;;43;;13;;;;;;;;;2020;105;Tornado
+16; Bekasi;3;;;;372;;78;;;;;;;;;2020;105;Tornado
+17; Bandung Barat;16;;;1;434;;147;;1;;;;;;1;2020;105;Tornado
+18; Pangandaran;21;;;;117;;63;;;;;;;;;2020;105;Tornado
+71; Kota Bogor;20;;;4;188;;82;;;;;;;;;2020;105;Tornado
+73; Kota Bandung;2;2;;;60;;14;;;;;;;;;2020;105;Tornado
+74; Kota Cirebon;2;;;;8;;2;;;;;;;;;2020;105;Tornado
+75; Kota Bekasi;1;;;1;795;;111;;;;;;;;;2020;105;Tornado
+76; Kota Depok;5;;;1;140;;45;;;;;;;;;2020;105;Tornado
+77; Kota Cimahi;4;;;;176;;72;;;;;;;;;2020;105;Tornado
+78; Kota Tasikmalaya;19;;;1;76;5;28;;;;;;;;;2020;105;Tornado
+79; Kota Banjar;6;;;;46;;16;;;;;;;;;2020;105;Tornado
+1; Bogor;3;;;;66084;;;;;;;;;;;2020;106;Drought
+4; Bandung;1;;;;10749;;;;;;;;;;;2020;106;Drought
+16; Bekasi;1;;;;2150;;;;;;;;;;;2020;106;Drought
+1; Bogor;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Sukabumi;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Bandung;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+5; Garut;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+9; Cirebon;5;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Majalengka;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+11; Sumedang;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+18; Pangandaran;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Bogor;1;;;;642;51;327;;;;;;;;;2020;108;Earthquake
+2; Sukabumi;1;;;12;2991;325;1009;8;;11;;;;;;2020;108;Earthquake
+3; Cianjur;1;;;;;;2;;;;;;;;;2020;108;Earthquake
+5; Garut;1;;;;10;;1;;;;;;;;;2020;108;Earthquake
+6; Tasikmalaya;1;;;;;;27;;;;;;;;;2020;108;Earthquake
+7; Ciamis;2;;;2;55;3;26;;;;;;;;;2020;108;Earthquake
+8; Kuningan;1;;;;;;23;;;;;;;;;2020;108;Earthquake
+18; Pangandaran;1;;;;30;;7;;;;;;;;;2020;108;Earthquake
+78; Kota Tasikmalaya;1;;;1;;;3;;;;;;;;;2020;108;Earthquake
+79; Kota Banjar;1;;;3;17;;39;;;;;;;;;2020;108;Earthquake
+1; Bogor;33;0;0;0;31484;735;157;0;0;1;0;0;1;0;0;2021;101;Flood
+2; Sukabumi;7;0;0;4;54;0;5;0;0;0;0;0;1;1;0;2021;101;Flood
+3; Cianjur;1;;;;50;;;;;;;;;;;2021;101;Flood
+4; Bandung;16;;;2;290717;479;92;;;;;;;;;2021;101;Flood
+5; Garut;7;;;;868;65;1;;;;;;1;;;2021;101;Flood
+6; Tasikmalaya;1;;;;;;;;;;;;;;;2021;101;Flood
+7; Ciamis;4;;;;2276;;43;;;;;;;;;2021;101;Flood
+9; Cirebon;9;0;0;0;58713;642;0;4;0;2;0;0;0;0;0;2021;101;Flood
+10; Majalengka;7;1;0;2;33777;3920;0;23;5;34;0;7;0;0;0;2021;101;Flood
+11; Sumedang;6;;;;986;;4;;;;;;;;;2021;101;Flood
+12; Indramayu;2;2;;;211872;26941;18;;;;;;;;;2021;101;Flood
+15; Karawang;3;;;1;114877;27740;35;;;;;;;;;2021;101;Flood
+16; Bekasi;9;8;0;266;220030;37341;79;0;0;0;0;0;0;0;0;2021;101;Flood
+17; Bandung Barat;6;0;0;0;35;0;3;0;0;0;0;0;0;0;0;2021;101;Flood
+18; Pangandaran;1;;;;;;;;;;;;;;;2021;101;Flood
+71; Kota Bogor;1;;;;250;;;;;;;;;;;2021;101;Flood
+74; Kota Cirebon;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+75; Kota Bekasi;4;;;;23055;115;;;;;;;;;;2021;101;Flood
+76; Kota Depok;1;;;;500;;;;;;;;;;;2021;101;Flood
+78; Kota Tasikmalaya;1;;;;4;;1;;;;;;;;;2021;101;Flood
+1; Bogor;112;0;0;3;1038;315;183;0;0;1;0;0;0;0;4;2021;102;Land_Slide
+2; Sukabumi;44;1;0;10;1365;1177;101;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+3; Cianjur;6;;;;115;321;15;;;;;;;;;2021;102;Land_Slide
+4; Bandung;11;1;;;94;472;10;;;;;;;;;2021;102;Land_Slide
+5; Garut;8;;;;103;144;2;;;;;;1;;;2021;102;Land_Slide
+6; Tasikmalaya;3;;;;297;8;66;1;;;;1;;;1;2021;102;Land_Slide
+7; Ciamis;9;;;1;212;168;70;1;;;;;;;;2021;102;Land_Slide
+8; Kuningan;3;;;;44;;2;;;;;;;;;2021;102;Land_Slide
+9; Cirebon;1;;;;8;;;;;;;;;;;2021;102;Land_Slide
+10; Majalengka;6;;;1;18;;4;;;;;;;;;2021;102;Land_Slide
+11; Sumedang;22;40;;26;422;1126;76;3;;1;;;;;;2021;102;Land_Slide
+13; Subang;2;;;1;7;;1;;;;;;;;;2021;102;Land_Slide
+14; Purwakarta;6;;;8;11;345;127;;;;;;;;;2021;102;Land_Slide
+16; Bekasi;2;0;0;0;75;112;40;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+17; Bandung Barat;12;0;0;0;35;97;9;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+71; Kota Bogor;17;;;1;176;;24;1;;;;;;;;2021;102;Land_Slide
+76; Kota Depok;2;;;1;;;;;;;;;;;1;2021;102;Land_Slide
+78; Kota Tasikmalaya;2;;;1;3;;2;;;;;;;;;2021;102;Land_Slide
+1; Bogor;2;;;;844;;2;;;;;;;;;2021;103;Flood and Land Slide
+11; Sumedang;2;1;;4;25;;49;;;;;;;;;2021;103;Flood and Land Slide
+13; Subang;1;2;;;226691;38453;23;;;;;;2;;;2021;103;Flood and Land Slide
+16; Bekasi;1;;2;;142132;166;;;;;;;;;;2021;103;Flood and Land Slide
+71; Kota Bogor;1;;;;251;;;;;;;;;;;2021;103;Flood and Land Slide
+75; Kota Bekasi;1;1;1;;26960;450;;;;;;;;;;2021;103;Flood and Land Slide
+1; Bogor;131;0;0;1;2496;102;622;2;1;3;0;0;0;0;1;2021;105;Tornado
+2; Sukabumi;5;;;;76;;18;;;;;;;;;2021;105;Tornado
+4; Bandung;6;;;5;20;;18;;;;;;;;;2021;105;Tornado
+7; Ciamis;10;;;;91;;27;;;;;;;;1;2021;105;Tornado
+9; Cirebon;2;;;6;1144;11;316;;;3;;;;;;2021;105;Tornado
+10; Majalengka;2;;;;;;10;;;;;;;;;2021;105;Tornado
+12; Indramayu;1;;;;;;10;;;;;;;;;2021;105;Tornado
+13; Subang;1;;;1;;;1;;;;;;;;;2021;105;Tornado
+14; Purwakarta;2;;;;;;6;;;;;;;;;2021;105;Tornado
+15; Karawang;3;;;;22;2;2;;;;;;;;;2021;105;Tornado
+16; Bekasi;3;0;0;1;260;0;53;0;0;0;0;0;0;0;0;2021;105;Tornado
+17; Bandung Barat;2;;;;4;;3;;;;;;;;;2021;105;Tornado
+71; Kota Bogor;3;;;;10;;3;1;;;;;;;;2021;105;Tornado
+74; Kota Cirebon;1;;;;22;;6;;;;;;;;;2021;105;Tornado
+75; Kota Bekasi;2;;;2;50;;15;;;;;;;;;2021;105;Tornado
+76; Kota Depok;2;;;;;;1;;;1;;;;;;2021;105;Tornado
+77; Kota Cimahi;1;;;;37;;9;1;;;;;;;;2021;105;Tornado
+78; Kota Tasikmalaya;6;;;;64;10;47;;;1;;;;;;2021;105;Tornado
+79; Kota Banjar;2;;;;3;;2;;;;;;;;;2021;105;Tornado
+1; Bogor;1;;;;830;;;;;;;;;;;2021;106;Drought
+9; Cirebon;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;Drought
+1; Bogor;1;;;;;;6;;;;;;;;;2021;108;Earthquake
+2; Sukabumi;1;;;;;;7;;;;;;;;;2021;108;Earthquake
+1; Bogor;9;0;0;3;0;0;2;1;0;0;7;0;0;0;0;2022;101;Flood
+9; Cirebon;14;0;0;0;23401;254;0;0;0;0;0;0;0;0;0;2022;101;Flood
+17; Bandung Barat;7;0;0;0;47;90;6;0;0;0;1;0;0;0;0;2022;101;Flood
+74; Kota Cirebon;6;0;0;0;1260;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+1; Bogor;30;1;1;3;0;175;80;1;0;1;2;0;3;0;0;2022;102;Land_Slide
+2; Sukabumi;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+3; Cianjur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+9; Cirebon;4;0;0;0;116;0;4;0;0;0;1;0;0;0;0;2022;102;Land_Slide
+17; Bandung Barat;25;0;0;0;10;0;17;0;0;0;0;0;2;0;0;2022;102;Land_Slide
+1; Bogor;59;0;0;0;0;0;252;0;0;0;4;0;0;0;1;2022;105;Tornado
+9; Cirebon;4;0;0;1;132;4;33;0;0;0;0;0;0;0;6;2022;105;Tornado
+17; Bandung Barat;2;0;0;0;95;0;219;0;0;0;0;0;0;0;0;2022;105;Tornado
+18; Pangandaran;18;0;0;0;1;0;10;0;0;0;1;0;0;0;0;2022;105;Tornado
+74; Kota Cirebon;1;0;0;0;35;0;13;0;0;0;0;0;0;0;0;2022;105;Tornado
+1; Bogor;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;Drought
+18; Pangandaran;3;0;0;0;3;3;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Bogor;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;108;Earthquake
+17; Bandung Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;111;Volcano Eruption
+1; Cilacap;6;;;4;860;15;4;;;;;;;;;2019;101;Flood
+2; Banyumas;4;;;;154;;7;;;;;;1;;;2019;101;Flood
+3; Purbalingga;2;;;;581;;3;;;;;;;;;2019;101;Flood
+4; Banjarnegara;1;;;;;;;;;;;;;;;2019;101;Flood
+5; Kebumen;2;;;;3619;769;;;;;;;1;;;2019;101;Flood
+6; Purworejo;3;;;;39931;476;3;2;;;;;1;;1;2019;101;Flood
+7; Wonosobo;2;;;;20;;1;;;;;;1;;;2019;101;Flood
+8; Magelang;3;4;;2;70;;;;;;;;;;;2019;101;Flood
+9; Boyolali;3;;;;12;;;;;;;;2;;;2019;101;Flood
+10; Klaten;1;;;;40;;;;;;;;;;;2019;101;Flood
+11; Sukoharjo;1;;;;905;550;;;;;;;;;;2019;101;Flood
+12; Wonogiri;3;;;;;269;;;;;;;;;;2019;101;Flood
+14; Sragen;4;;;;800;;;;;;;;;;;2019;101;Flood
+15; Grobogan;13;0;0;0;125;0;454;1;0;2;0;0;0;0;0;2019;101;Flood
+16; Blora;2;;;;40;;;;;;;;;;;2019;101;Flood
+17; Rembang;1;;;;;;;;;;;;;;;2019;101;Flood
+18; Pati;12;;;;11125;;6;1;;;;;;;;2019;101;Flood
+19; Kudus;3;1;;;2057;269;;;;;;;;;;2019;101;Flood
+20; Jepara;6;;;1;;;;;;;;;;;;2019;101;Flood
+21; Demak;3;;;;;7;;;;;;;;;;2019;101;Flood
+22; Semarang;2;1;;1;;;;;;;;;;;;2019;101;Flood
+23; Temanggung;5;;;;27;12;;;;;;;1;;;2019;101;Flood
+24; Kendal;7;;;2;;;;1;;;;;4;;;2019;101;Flood
+25; Batang;1;;;;700;250;;;;;;;;;;2019;101;Flood
+26; Pekalongan;2;;;;7860;2784;;4;;;;;;;;2019;101;Flood
+27; Pemalang;1;4;2;;;;;;;;;;;;;2019;101;Flood
+28; Tegal;2;;;;9065;325;;;;;;;;;;2019;101;Flood
+29; Brebes;7;;;;;;2;;;;;;3;;;2019;101;Flood
+72; Kota Surakarta;2;;;;;555;;;;;;;;;;2019;101;Flood
+74; Kota Semarang;9;1;;;14015;274;6;;;;;;;;;2019;101;Flood
+75; Kota Pekalongan;2;;;;;908;5;;;;;;;;;2019;101;Flood
+76; Kota Tegal;2;;;;;7;;;;;;;;;;2019;101;Flood
+1; Cilacap;19;;;;;122;43;2;;1;;;;;1;2019;102;Land_Slide
+2; Banyumas;23;;;;56;15;35;;;;;;3;;;2019;102;Land_Slide
+3; Purbalingga;6;;;;9;;6;1;;;;;;;;2019;102;Land_Slide
+4; Banjarnegara;32;1;;6;24;289;90;1;;3;;1;2;;1;2019;102;Land_Slide
+5; Kebumen;1;;;;;;30;1;;;;;;;;2019;102;Land_Slide
+6; Purworejo;16;;;;162;12;81;;;;;;;;;2019;102;Land_Slide
+7; Wonosobo;4;2;;2;;10;4;;;;;;;;;2019;102;Land_Slide
+8; Magelang;29;1;;4;169;36;39;;;1;;;;;;2019;102;Land_Slide
+9; Boyolali;4;;;;17;;7;;;;;;;;;2019;102;Land_Slide
+10; Klaten;1;;;;;30;1;;;;;;;;;2019;102;Land_Slide
+12; Wonogiri;12;;;;10;73;56;;1;1;;1;;;2;2019;102;Land_Slide
+13; Karanganyar;4;;;;;15;4;;;;;;;;;2019;102;Land_Slide
+14; Sragen;7;;;2;24;;8;;;;;;;;;2019;102;Land_Slide
+15; Grobogan;4;;;;;;4;;;;;;;;;2019;102;Land_Slide
+16; Blora;1;;;;;;2;;;;;;;;;2019;102;Land_Slide
+18; Pati;3;;;;;;31;;;;;;;;;2019;102;Land_Slide
+19; Kudus;3;;;;;;5;;;;;;;;;2019;102;Land_Slide
+20; Jepara;10;;;5;9;2;21;;;;;;;;;2019;102;Land_Slide
+22; Semarang;10;1;;1;2;;11;;;;;;1;;;2019;102;Land_Slide
+23; Temanggung;29;;;2;190;95;73;;;1;;;1;;;2019;102;Land_Slide
+24; Kendal;6;;;;15;13;11;;;;;;;;;2019;102;Land_Slide
+25; Batang;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+26; Pekalongan;2;;;;;;16;;;1;;;;;;2019;102;Land_Slide
+27; Pemalang;1;1;;;10;5;3;;;;;;;;;2019;102;Land_Slide
+28; Tegal;2;;;;;;2;;;;;;1;;;2019;102;Land_Slide
+29; Brebes;18;2;;1;5;2;24;;;1;;;2;;;2019;102;Land_Slide
+74; Kota Semarang;42;1;1;2;77;28;56;1;;;;1;;;1;2019;102;Land_Slide
+5; Kebumen;1;;;;;;;;;;;;;;117;2019;104;Abration
+24; Kendal;1;1;;;;;;;;;;;;;;2019;104;Abration
+74; Kota Semarang;1;;;;5;;1;;;;;;;;;2019;104;Abration
+1; Cilacap;36;;;;74;40;424;;;;;;;;1;2019;105;Tornado
+2; Banyumas;21;;;4;93;14;77;;;;;;;;1;2019;105;Tornado
+3; Purbalingga;7;1;;1;20;;68;;;;;;;;1;2019;105;Tornado
+4; Banjarnegara;5;1;;1;5;;1446;23;;1;;;;;2;2019;105;Tornado
+5; Kebumen;5;;;2;5;4;21;;;;;;;;;2019;105;Tornado
+6; Purworejo;14;;;3;1700;2;60;;;1;;;;;;2019;105;Tornado
+7; Wonosobo;6;;;1;;163;1035;3;;1;;;;;;2019;105;Tornado
+8; Magelang;32;;;1;3804;6;1846;4;1;1;;1;;;3;2019;105;Tornado
+9; Boyolali;21;;;3;329;9;485;2;;2;;;;;;2019;105;Tornado
+10; Klaten;17;1;;10;;;395;4;;3;;;;;14;2019;105;Tornado
+11; Sukoharjo;7;;;2;;;259;1;;;;;;;2;2019;105;Tornado
+12; Wonogiri;23;;;1;75;;242;1;;1;;1;;;1;2019;105;Tornado
+13; Karanganyar;7;;;;145;;106;;;;;;;;1;2019;105;Tornado
+14; Sragen;22;;;24;115;;584;4;;1;;2;;;8;2019;105;Tornado
+15; Grobogan;14;0;0;2;0;0;635;1;1;0;0;0;0;0;0;2019;105;Tornado
+16; Blora;11;;;;;5;92;;;;;;;;11;2019;105;Tornado
+17; Rembang;1;;;2;;;131;;;;;;;;4;2019;105;Tornado
+18; Pati;14;;;2;16;;180;1;;;;;;;1;2019;105;Tornado
+19; Kudus;8;;;3;85;;245;2;;1;;;;;2;2019;105;Tornado
+20; Jepara;29;;;21;27;12;105;1;;1;;;;;;2019;105;Tornado
+21; Demak;6;1;;1;;;204;1;;;;;;;1;2019;105;Tornado
+22; Semarang;9;;;3;;;17;;;1;;1;;;1;2019;105;Tornado
+23; Temanggung;20;;;4;82;12;147;;;;;;;;1;2019;105;Tornado
+24; Kendal;21;;;1;1093;;216;1;;1;;;;;1;2019;105;Tornado
+26; Pekalongan;6;;;;5;4;27;;;;;;;;2;2019;105;Tornado
+27; Pemalang;5;;;;;44;77;2;;1;;;;;;2019;105;Tornado
+28; Tegal;10;;;2;;2;724;7;1;13;;1;;;2;2019;105;Tornado
+29; Brebes;12;;;;;;236;3;;;;;;;2;2019;105;Tornado
+72; Kota Surakarta;2;;;;;;2;;;1;;;;;1;2019;105;Tornado
+74; Kota Semarang;32;;;7;163;;107;1;;1;;;;;5;2019;105;Tornado
+76; Kota Tegal;1;;;;;;1;;;;;;;;;2019;105;Tornado
+1; Cilacap;1;;;;60475;;;;;;;;;;;2019;106;Drought
+2; Banyumas;1;;;;51927;;;;;;;;;;;2019;106;Drought
+3; Purbalingga;1;;;;12292;;;;;;;;;;;2019;106;Drought
+4; Banjarnegara;1;;;;18369;;;;;;;;;;;2019;106;Drought
+5; Kebumen;1;;;;4838;;;;;;;;;;;2019;106;Drought
+6; Purworejo;1;;;;70591;;;;;;;;;;;2019;106;Drought
+8; Magelang;1;;;;;;;;;;;;;;;2019;106;Drought
+9; Boyolali;1;;;;24280;;;;;;;;;;;2019;106;Drought
+10; Klaten;1;;;;;;;;;;;;;;;2019;106;Drought
+11; Sukoharjo;1;;;;;;;;;;;;;;;2019;106;Drought
+12; Wonogiri;1;;;;6078;;;;;;;;;;;2019;106;Drought
+13; Karanganyar;1;;;;550;;;;;;;;;;;2019;106;Drought
+14; Sragen;1;;;;24689;;;;;;;;;;;2019;106;Drought
+15; Grobogan;1;;;;32802;;;;;;;;;;;2019;106;Drought
+16; Blora;1;;;;;;;;;;;;;;;2019;106;Drought
+17; Rembang;1;;;;;;;;;;;;;;;2019;106;Drought
+18; Pati;1;;;;;;;;;;;;;;;2019;106;Drought
+20; Jepara;1;;;;;;;;;;;;;;;2019;106;Drought
+21; Demak;1;;;;;;;;;;;;;;;2019;106;Drought
+22; Semarang;1;;;;13608;;;;;;;;;;;2019;106;Drought
+23; Temanggung;1;;;;13120;;;;;;;;;;;2019;106;Drought
+24; Kendal;1;;;;1015;;;;;;;;;;;2019;106;Drought
+26; Pekalongan;1;;;;7302;;;;;;;;;;;2019;106;Drought
+27; Pemalang;1;;;;42176;;;;;;;;;;;2019;106;Drought
+28; Tegal;1;;;;17495;;;;;;;;;;;2019;106;Drought
+29; Brebes;1;;;;1500;;;;;;;;;;;2019;106;Drought
+74; Kota Semarang;1;;;;;;;;;;;;;;;2019;106;Drought
+75; Kota Pekalongan;1;;;;1036;;;;;;;;;;;2019;106;Drought
+76; Kota Tegal;1;;;;;;;;;;;;;;;2019;106;Drought
+2; Banyumas;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Purbalingga;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Banjarnegara;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Purworejo;3;1;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Wonosobo;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Magelang;13;;;;;;;;;;;;;;;2019;107;Forest Fire
+11; Sukoharjo;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+12; Wonogiri;10;1;;;;;;;;;;;;;;2019;107;Forest Fire
+13; Karanganyar;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+14; Sragen;9;;;;;;;;;;;;;;;2019;107;Forest Fire
+15; Grobogan;2;1;;;;;;;;;;;;;;2019;107;Forest Fire
+19; Kudus;7;;;2;;;;;;;;;;;;2019;107;Forest Fire
+20; Jepara;2;1;;;;;;;;;;;;;;2019;107;Forest Fire
+22; Semarang;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+23; Temanggung;4;2;;;;;;;;;;;;;;2019;107;Forest Fire
+24; Kendal;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+26; Pekalongan;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+28; Tegal;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+29; Brebes;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+72; Kota Surakarta;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+74; Kota Semarang;1;1;;;;;;;;;;;;;;2019;107;Forest Fire
+76; Kota Tegal;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Cilacap;1;;;;;;1;;;;;;;;;2019;108;Earthquake
+20; Jepara;1;;;;;;4;;;1;;;;;;2019;108;Earthquake
+1; Cilacap;24;;;;49875;3462;3;;;;;;1;;;2020;101;Flood
+2; Banyumas;22;;;3;2169;602;4;1;;;;;1;;1;2020;101;Flood
+3; Purbalingga;5;;;;;200;;;;;;;2;;;2020;101;Flood
+4; Banjarnegara;2;;;;;;;;;;;;;;1;2020;101;Flood
+5; Kebumen;3;;;;304;1;;;;;;;;;;2020;101;Flood
+6; Purworejo;3;;;;150;226;;;;;;;1;;;2020;101;Flood
+7; Wonosobo;1;;1;;;;;;;;;;;;;2020;101;Flood
+8; Magelang;3;;;;211;188;2;;;;;;;;;2020;101;Flood
+9; Boyolali;1;;;;;;;;1;;;;;;1;2020;101;Flood
+10; Klaten;2;;;;5;;1;;;;;;1;;;2020;101;Flood
+11; Sukoharjo;5;;;;690;89;;;;;;;;;;2020;101;Flood
+12; Wonogiri;10;;;;45;69;3;;;;;;2;;4;2020;101;Flood
+13; Karanganyar;1;;;;;;;;;;;;;;;2020;101;Flood
+14; Sragen;2;;;;3415;;;;;;;;;;;2020;101;Flood
+15; Grobogan;15;2;;;29582;1;59;;;;;;1;;;2020;101;Flood
+16; Blora;10;;;;1495;1;328;;;;;;1;;;2020;101;Flood
+17; Rembang;3;;;;;;1;;;;;;;;;2020;101;Flood
+18; Pati;17;;;;100;;;;;;;;1;;;2020;101;Flood
+19; Kudus;12;;;;3166;124;2;;;;;;1;;;2020;101;Flood
+20; Jepara;11;;;;365;2;;4;;2;;;;;;2020;101;Flood
+21; Demak;6;;;;16842;2419;;;;1;;;;;;2020;101;Flood
+22; Semarang;5;;;;1513;;5;;;;;;;;;2020;101;Flood
+23; Temanggung;2;;;;;;3;1;;1;;;;;;2020;101;Flood
+24; Kendal;17;2;1;;1270;75;8;;;;;;1;;;2020;101;Flood
+25; Batang;4;;;1;4305;129;1;;;;;;;;;2020;101;Flood
+26; Pekalongan;4;;;;78865;6912;;;;;;;1;;;2020;101;Flood
+27; Pemalang;14;1;;;29518;39;2;;;;;;2;;;2020;101;Flood
+28; Tegal;7;;;;4200;878;14;1;;;;;;;;2020;101;Flood
+29; Brebes;11;;;;;201;81;;;;;;2;;;2020;101;Flood
+72; Kota Surakarta;1;;;;;387;;;;;;;;;;2020;101;Flood
+74; Kota Semarang;16;;;;16730;24;9;;;;;;1;;1;2020;101;Flood
+75; Kota Pekalongan;8;6;;;14000;5338;;;;;;;;;;2020;101;Flood
+76; Kota Tegal;7;;;;6090;123;;;;;;;;;;2020;101;Flood
+1; Cilacap;49;;;2;7281;304;174;2;;3;;;4;;;2020;102;Land_Slide
+2; Banyumas;63;5;;4;96;67;248;1;;1;;;7;;2;2020;102;Land_Slide
+3; Purbalingga;27;;;;714;1347;162;1;;1;;;1;;;2020;102;Land_Slide
+4; Banjarnegara;15;;;3;439;498;68;;;2;;;;;;2020;102;Land_Slide
+5; Kebumen;10;;;;14;;44;1;;1;;;3;;1;2020;102;Land_Slide
+6; Purworejo;16;;;2;;20;75;1;;2;;;1;;1;2020;102;Land_Slide
+7; Wonosobo;10;2;;1;;20;22;;;;;;;;;2020;102;Land_Slide
+8; Magelang;36;;;2;20;302;103;;;;;;1;;;2020;102;Land_Slide
+9; Boyolali;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+12; Wonogiri;16;;;;3;3;25;2;;;;;1;;;2020;102;Land_Slide
+13; Karanganyar;13;2;;3;350;27;104;4;;2;;1;;;;2020;102;Land_Slide
+14; Sragen;3;;;;;10;2;;;;;;;;;2020;102;Land_Slide
+15; Grobogan;2;3;;;;;3;;;;;;;;;2020;102;Land_Slide
+16; Blora;3;;;;;;7;;;;;;;;;2020;102;Land_Slide
+17; Rembang;4;2;;4;;;3;;;;;;;;;2020;102;Land_Slide
+18; Pati;5;1;;2;;10;6;;;;;;;;1;2020;102;Land_Slide
+19; Kudus;9;2;;;35;;15;;;;;;;;;2020;102;Land_Slide
+20; Jepara;14;0;0;2;0;2;15;0;1;0;0;0;1;0;0;2020;102;Land_Slide
+22; Semarang;16;;;;;4;34;1;;;;;1;;;2020;102;Land_Slide
+23; Temanggung;23;;;;4;7;29;2;;1;;;2;;;2020;102;Land_Slide
+24; Kendal;23;;;;9;29;45;;;1;;;1;;;2020;102;Land_Slide
+25; Batang;5;;;;;;11;;;;;;1;;;2020;102;Land_Slide
+26; Pekalongan;6;;;;409;3;114;1;;1;;;;;;2020;102;Land_Slide
+27; Pemalang;21;;;2;;10;48;;;1;;;1;;;2020;102;Land_Slide
+28; Tegal;4;1;;;;19;9;;;;;;;;;2020;102;Land_Slide
+29; Brebes;28;1;0;1;0;80;49;0;0;0;0;0;3;0;3;2020;102;Land_Slide
+74; Kota Semarang;39;;;5;70;;71;2;;1;;;;;14;2020;102;Land_Slide
+75; Kota Pekalongan;1;;;;350;;1;;;;;;;;;2020;102;Land_Slide
+1; Cilacap;4;2;;;12937;4905;142;2;;1;;;2;;;2020;103;Flood and Land Slide
+2; Banyumas;2;;;;;6390;;;;;;;;;;2020;103;Flood and Land Slide
+5; Kebumen;1;;;;;2107;24;;;;;;3;;;2020;103;Flood and Land Slide
+18; Pati;1;1;;;;;;;;;;;;;;2020;103;Flood and Land Slide
+29; Brebes;1;;;;;830;3;2;;;;;;;;2020;103;Flood and Land Slide
+20; Jepara;1;;;;500;;;;;;;;;;;2020;104;Abration
+21; Demak;2;;;;;;;;;;;;;;;2020;104;Abration
+74; Kota Semarang;2;;;;80;;1;;;;;;;;;2020;104;Abration
+76; Kota Tegal;2;;;;110;;;;;;;;1;;59;2020;104;Abration
+1; Cilacap;57;;;2;358;50;326;;;;;;;;1;2020;105;Tornado
+2; Banyumas;16;;;;160;3;60;2;;;;;;;;2020;105;Tornado
+3; Purbalingga;19;;;;213;1;160;1;;1;;;;;;2020;105;Tornado
+4; Banjarnegara;3;;;1;;;9;;;;;;;;;2020;105;Tornado
+5; Kebumen;3;;;3;;;30;;;2;;;;;6;2020;105;Tornado
+6; Purworejo;6;1;;;70;5;21;;;;;;;;;2020;105;Tornado
+7; Wonosobo;8;;;;70;;66;;;;;;;;1;2020;105;Tornado
+8; Magelang;15;;;2;123;4;118;3;;;;1;;;;2020;105;Tornado
+9; Boyolali;1;;;;;25;40;;;;;;;;;2020;105;Tornado
+10; Klaten;4;;;;;5;7;;;;;;;;1;2020;105;Tornado
+11; Sukoharjo;2;;;;;1;3;;;;;;;;;2020;105;Tornado
+12; Wonogiri;8;;;3;310;2;89;;;;;;;;;2020;105;Tornado
+13; Karanganyar;4;;;;;;10;;;;;;;;;2020;105;Tornado
+14; Sragen;6;;;4;16;5;116;1;;;;;;;3;2020;105;Tornado
+15; Grobogan;8;;;;45;;305;;;;;;;;2;2020;105;Tornado
+16; Blora;4;;;;;;20;1;;1;;;;;;2020;105;Tornado
+17; Rembang;2;;;;;;13;;;;;;;;;2020;105;Tornado
+18; Pati;10;;;4;475;;266;;;;;;;;2;2020;105;Tornado
+19; Kudus;3;;;;50;;12;;;;;;;;8;2020;105;Tornado
+20; Jepara;25;1;0;5;37;3;67;1;0;0;0;0;0;0;1;2020;105;Tornado
+21; Demak;6;;;1;;;333;2;;2;;;;;;2020;105;Tornado
+22; Semarang;6;;;1;;5;6;2;;;;;;;2;2020;105;Tornado
+23; Temanggung;11;;;;;8;51;;1;1;;;;;;2020;105;Tornado
+24; Kendal;13;;;4;50;;100;2;;;;;;;1;2020;105;Tornado
+25; Batang;3;;;;;;2;;;1;;;;;5;2020;105;Tornado
+26; Pekalongan;1;;;;;;3;;;;;;;;;2020;105;Tornado
+27; Pemalang;14;;;;;;46;;;;;;1;;;2020;105;Tornado
+28; Tegal;4;;;2;;;67;;;;;;;;;2020;105;Tornado
+29; Brebes;9;;;2;;10;25;1;;;;;;;;2020;105;Tornado
+72; Kota Surakarta;2;;;1;;;1;1;;;;;;;;2020;105;Tornado
+74; Kota Semarang;32;1;;7;61;;73;2;;;;;;;;2020;105;Tornado
+75; Kota Pekalongan;1;;;;;;1;;;;;;;;;2020;105;Tornado
+1; Cilacap;1;;;;850;;;;;;;;;;;2020;106;Drought
+9; Boyolali;1;;;;;;;;;;;;;;;2020;106;Drought
+14; Sragen;1;;;;7497;;;;;;;;;;;2020;106;Drought
+15; Grobogan;1;0;0;0;18859;0;0;0;0;0;0;0;0;0;0;2020;106;Drought
+16; Blora;1;;;;;;;;;;;;;;;2020;106;Drought
+17; Rembang;1;;;;;;;;;;;;;;;2020;106;Drought
+18; Pati;1;;;;15367;;;;;;;;;;;2020;106;Drought
+6; Purworejo;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+9; Boyolali;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+12; Wonogiri;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+15; Grobogan;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+16; Blora;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+18; Pati;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+19; Kudus;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+24; Kendal;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+25; Batang;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+26; Pekalongan;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+27; Pemalang;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+28; Tegal;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+76; Kota Tegal;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+20; Jepara;1;;;;;;1;;;;;;;;;2020;108;Earthquake
+8; Magelang;2;;;;;344;;;;;;;;;;2020;111;Volcano Eruption
+9; Boyolali;2;;;;;288;;;;;;;;;;2020;111;Volcano Eruption
+10; Klaten;2;;;1;;279;;;;;;;;;;2020;111;Volcano Eruption
+11; Sukoharjo;1;;;;;;;;;;;;;;;2020;111;Volcano Eruption
+72; Kota Surakarta;1;;;;;;;;;;;;;;;2020;111;Volcano Eruption
+1; Cilacap;22;50;0;0;5799;397;0;0;0;0;0;0;0;0;0;2021;101;Flood
+2; Banyumas;11;0;0;1;343;0;8;0;0;0;4;0;0;0;0;2021;101;Flood
+6; Purworejo;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+7; Wonosobo;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;101;Flood
+9; Boyolali;5;0;0;0;100;0;0;0;0;0;0;0;1;0;0;2021;101;Flood
+12; Wonogiri;4;40;0;0;25;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+14; Sragen;6;1;0;0;1811;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+15; Grobogan;40;0;0;0;17195;0;1401;6;0;14;0;4;5;0;0;2021;101;Flood
+16; Blora;5;0;0;0;7735;0;5;0;0;0;0;0;1;0;0;2021;101;Flood
+17; Rembang;9;0;0;0;860;8;0;0;0;0;0;0;-1;0;0;2021;101;Flood
+18; Pati;12;0;0;0;37189;444;0;0;0;0;0;0;150;0;0;2021;101;Flood
+19; Kudus;5;;;;47559;912;;;;;;;;;;2021;101;Flood
+20; Jepara;17;0;0;0;2360;0;3;0;0;0;0;0;0;0;0;2021;101;Flood
+21; Demak;5;;;;76900;302;;;;;;;;;;2021;101;Flood
+22; Semarang;3;0;0;0;90590;8;9;0;0;0;0;0;0;0;0;2021;101;Flood
+24; Kendal;6;0;0;0;17600;632;0;0;0;0;0;0;0;0;0;2021;101;Flood
+25; Batang;1;;;;70;;;;;;;;;;;2021;101;Flood
+26; Pekalongan;4;0;0;0;336476;3600;0;0;0;0;0;0;0;0;0;2021;101;Flood
+27; Pemalang;16;0;0;0;0;0;464;0;0;0;1;0;0;0;0;2021;101;Flood
+28; Tegal;4;;;;275;;;;;;;;;;;2021;101;Flood
+29; Brebes;45;0;0;1;13135;2411;10;0;0;0;1;0;2;0;2;2021;101;Flood
+72; Kota Surakarta;10;0;0;0;366;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+74; Kota Semarang;39;0;0;0;11583;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+75; Kota Pekalongan;2;;;;352866;2997;;;;;;;;;;2021;101;Flood
+76; Kota Tegal;3;0;0;0;450;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+1; Cilacap;45;0;0;0;55;97;53;1;0;0;1;0;3;0;0;2021;102;Land_Slide
+2; Banyumas;92;1;0;1;137;29;46;1;0;1;34;0;0;0;0;2021;102;Land_Slide
+4; Banjarnegara;4;4;0;1;0;10;3;0;0;0;1;0;0;0;0;2021;102;Land_Slide
+5; Kebumen;2;2;0;12;30;50;11;1;0;0;0;0;1;0;0;2021;102;Land_Slide
+6; Purworejo;5;0;0;0;11;2;5;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+7; Wonosobo;50;1;0;2;3;74;47;0;0;0;4;0;0;1;2;2021;102;Land_Slide
+8; Magelang;8;1;0;8;97;6;21;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+9; Boyolali;4;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+10; Klaten;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+12; Wonogiri;2;;;;5;;1;;;;;;;;;2021;102;Land_Slide
+13; Karanganyar;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+14; Sragen;4;0;0;0;15;10;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+15; Grobogan;18;4;0;6;0;0;9;0;0;0;0;0;6;0;0;2021;102;Land_Slide
+16; Blora;1;;;;;;1;;;;;;;;;2021;102;Land_Slide
+17; Rembang;11;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2021;102;Land_Slide
+20; Jepara;25;0;0;1;0;0;20;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+22; Semarang;3;0;0;1;61;0;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+23; Temanggung;3;1;0;0;10;0;1;0;0;0;0;0;0;0;1;2021;102;Land_Slide
+24; Kendal;16;0;0;1;20;0;15;1;0;0;0;0;0;0;0;2021;102;Land_Slide
+25; Batang;2;0;0;0;0;3;1;0;0;0;0;0;1;0;0;2021;102;Land_Slide
+26; Pekalongan;10;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+27; Pemalang;41;0;0;0;0;0;78;0;0;3;2;0;0;0;0;2021;102;Land_Slide
+28; Tegal;1;;;;;5;;;;;;;;;;2021;102;Land_Slide
+29; Brebes;85;0;0;0;5;36;95;0;0;1;2;0;4;0;1;2021;102;Land_Slide
+74; Kota Semarang;127;0;0;0;28;0;7;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+5; Kebumen;1;3;;;540;90;6;;;;;;;;;2021;103;Flood and Land Slide
+12; Wonogiri;2;;;;32;;2;;;;;;2;;;2021;103;Flood and Land Slide
+24; Kendal;2;1;;1;13245;;8;1;;;;;;;;2021;103;Flood and Land Slide
+74; Kota Semarang;1;3;;;71530;1180;;;;;;;;;;2021;103;Flood and Land Slide
+1; Cilacap;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0;2021;104;Abration
+5; Kebumen;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40;2021;104;Abration
+17; Rembang;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;Abration
+20; Jepara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;Abration
+1; Cilacap;35;1;0;1;391;10;173;0;0;2;2;0;0;0;0;2021;105;Tornado
+2; Banyumas;6;0;0;0;9;0;3;0;0;0;0;0;0;0;0;2021;105;Tornado
+3; Purbalingga;2;;;;151;;37;;;;;;;;;2021;105;Tornado
+5; Kebumen;1;;;;;;2;;;;;;;;;2021;105;Tornado
+6; Purworejo;2;;;;11;;3;;;;;;;;;2021;105;Tornado
+7; Wonosobo;9;0;0;1;0;0;2;0;0;0;0;0;0;0;0;2021;105;Tornado
+8; Magelang;5;;;;145;;166;;;1;;;;;;2021;105;Tornado
+9; Boyolali;15;0;0;1;0;0;18;0;0;0;0;0;0;3;0;2021;105;Tornado
+10; Klaten;1;;;2;;;47;;;;;;;;;2021;105;Tornado
+11; Sukoharjo;1;;;;;;;;;;;;;;;2021;105;Tornado
+12; Wonogiri;3;;;;40;;20;;;;;;;;;2021;105;Tornado
+14; Sragen;7;0;0;0;10;0;27;0;0;0;0;0;0;0;0;2021;105;Tornado
+15; Grobogan;16;0;0;5;100;0;213;1;0;0;0;0;0;0;0;2021;105;Tornado
+16; Blora;6;0;0;0;70;0;16;1;0;0;0;0;0;0;2;2021;105;Tornado
+17; Rembang;3;0;0;0;0;0;16;0;0;0;0;0;0;0;0;2021;105;Tornado
+18; Pati;2;0;0;0;0;0;51;0;0;0;0;0;0;0;0;2021;105;Tornado
+19; Kudus;2;0;0;1;35;0;187;0;0;0;0;0;0;0;0;2021;105;Tornado
+20; Jepara;11;0;0;3;70;0;23;0;0;0;1;1;0;0;1;2021;105;Tornado
+21; Demak;4;;;3;681;45;528;;;7;;;;;9;2021;105;Tornado
+24; Kendal;18;0;0;0;335;0;109;0;0;0;0;0;0;0;0;2021;105;Tornado
+26; Pekalongan;1;;;;155;;31;;;;;;;;;2021;105;Tornado
+27; Pemalang;4;4;0;4;0;0;12;0;0;0;0;0;0;0;0;2021;105;Tornado
+28; Tegal;5;;;;520;5;127;1;;;;;;;2;2021;105;Tornado
+29; Brebes;25;0;0;1;1;22;140;2;1;0;0;0;0;2;0;2021;105;Tornado
+72; Kota Surakarta;2;;;;125;;18;;;;;;;;;2021;105;Tornado
+74; Kota Semarang;27;0;0;0;193;0;48;0;0;0;0;0;0;0;0;2021;105;Tornado
+1; Cilacap;1;;;;450;;;;;;;;;;;2021;106;Drought
+9; Boyolali;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;Drought
+16; Blora;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;Drought
+20; Jepara;1;0;0;0;2843;0;0;0;0;0;0;0;0;0;0;2021;106;Drought
+26; Pekalongan;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;Drought
+16; Blora;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+17; Rembang;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+24; Kendal;6;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+26; Pekalongan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+27; Pemalang;21;0;0;0;0;0;19;0;0;0;0;0;0;0;2;2021;107;Forest Fire
+29; Brebes;1;1;0;0;0;2;1;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+24; Kendal;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;108;Earthquake
+29; Brebes;1;0;0;0;0;0;13;0;0;0;0;0;0;0;0;2021;108;Earthquake
+1; Cilacap;48;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+2; Banyumas;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+5; Kebumen;6;2;0;0;0;1845;8;0;0;0;0;0;0;0;0;2022;101;Flood
+9; Boyolali;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+15; Grobogan;16;0;0;0;2;2;159;7;0;0;0;0;14;0;0;2022;101;Flood
+17; Rembang;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+18; Pati;5;0;0;0;0;0;63;1;0;0;0;1;0;0;0;2022;101;Flood
+20; Jepara;1;0;0;0;1300;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+21; Demak;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+24; Kendal;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+25; Batang;7;0;0;0;500;0;501;0;0;0;0;0;0;0;0;2022;101;Flood
+26; Pekalongan;13;0;0;0;0;0;10;0;0;0;0;0;0;0;0;2022;101;Flood
+72; Kota Surakarta;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+74; Kota Semarang;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+1; Cilacap;44;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+2; Banyumas;129;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+5; Kebumen;92;0;0;0;0;75;330;8;0;9;125;0;6;9;2;2022;102;Land_Slide
+6; Purworejo;2;0;0;6;1;0;3;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+7; Wonosobo;28;0;0;0;0;0;1;3;0;0;0;0;0;0;0;2022;102;Land_Slide
+8; Magelang;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+9; Boyolali;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+15; Grobogan;9;0;0;0;0;0;8;0;0;0;0;0;4;0;0;2022;102;Land_Slide
+17; Rembang;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+18; Pati;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+20; Jepara;8;0;0;0;10;0;4;1;0;0;0;0;1;0;0;2022;102;Land_Slide
+24; Kendal;13;0;0;0;0;0;2;0;0;2;0;0;0;0;0;2022;102;Land_Slide
+25; Batang;8;0;0;0;3;4;2;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+26; Pekalongan;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+27; Pemalang;4;0;0;0;0;0;5;0;0;0;0;0;1;0;0;2022;102;Land_Slide
+29; Brebes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+74; Kota Semarang;65;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+1; Cilacap;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;Flood and Land Slide
+8; Magelang;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;Flood and Land Slide
+20; Jepara;1;0;0;0;3;0;1;0;0;0;0;0;0;0;0;2022;103;Flood and Land Slide
+25; Batang;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;Flood and Land Slide
+1; Cilacap;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;Abration
+5; Kebumen;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;Abration
+17; Rembang;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;Abration
+1; Cilacap;54;0;0;0;0;0;14;0;0;0;0;0;0;0;0;2022;105;Tornado
+2; Banyumas;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+5; Kebumen;69;0;0;0;0;0;158;3;0;5;28;0;1;1;1;2022;105;Tornado
+7; Wonosobo;7;0;0;2;0;0;9;0;0;1;0;0;0;0;0;2022;105;Tornado
+9; Boyolali;5;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2022;105;Tornado
+14; Sragen;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+15; Grobogan;14;0;0;1;0;0;46;0;0;0;0;0;0;0;0;2022;105;Tornado
+16; Blora;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+18; Pati;9;0;0;0;0;0;722;7;3;1;1;1;0;0;10;2022;105;Tornado
+20; Jepara;4;0;0;2;0;10;43;0;0;1;0;0;0;0;0;2022;105;Tornado
+21; Demak;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+24; Kendal;24;0;0;0;0;0;56;0;0;0;0;0;0;0;0;2022;105;Tornado
+25; Batang;5;1;0;0;30;18;25;2;0;1;0;0;0;5;0;2022;105;Tornado
+26; Pekalongan;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+27; Pemalang;1;0;0;0;3;3;1;0;0;0;0;0;0;0;0;2022;105;Tornado
+29; Brebes;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+74; Kota Semarang;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+9; Boyolali;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;Drought
+15; Grobogan;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;Drought
+24; Kendal;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;Drought
+15; Grobogan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+17; Rembang;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Kulon Progo;1;;;;;;19;;;;;;;;;2019;101;Flood
+2; Bantul;2;2;;1;270;;2;5;;;;1;;;;2019;101;Flood
+3; Gunung Kidul;2;;;;325;;;4;;1;;2;1;;103;2019;101;Flood
+4; Sleman;1;;;;;;;;;;;;;;;2019;101;Flood
+2; Bantul;2;3;;3;5;7446;6;;;;;;;;;2019;102;Land_Slide
+3; Gunung Kidul;2;;;;5;96;4;;;;;;;;;2019;102;Land_Slide
+4; Sleman;2;1;;;;;1;;;;;;;;;2019;102;Land_Slide
+1; Kulon Progo;2;;;;8;394;5;;;;;;;;;2019;105;Tornado
+2; Bantul;4;;;;26;;31;;;;;;;;1;2019;105;Tornado
+3; Gunung Kidul;2;;;2;;;13;;;;;;;;;2019;105;Tornado
+4; Sleman;6;;;16;26;;187;6;;4;;;;;2;2019;105;Tornado
+71; Kota Yogyakarta;2;;;8;;;2;;;;;;;;;2019;105;Tornado
+2; Bantul;1;;;;2549;;;;;;;;;;;2019;106;Drought
+3; Gunung Kidul;1;;;;220429;;;;;;;;;;;2019;106;Drought
+4; Sleman;1;;;;;;;;;;;;;;;2019;111;Volcano Eruption
+1; Kulon Progo;1;;;;35;;;;;;;;;;;2020;101;Flood
+2; Bantul;2;;;;2;;1;;;1;;1;;;;2020;101;Flood
+4; Sleman;2;;;1;28;;;;;1;;;;;;2020;101;Flood
+71; Kota Yogyakarta;1;;;;655;;;;;;;;;;;2020;101;Flood
+1; Kulon Progo;4;;;;27;3;7;;;;;;;;;2020;102;Land_Slide
+2; Bantul;4;;;;12;;6;;;;;;1;;;2020;102;Land_Slide
+3; Gunung Kidul;1;;;;;;;;;;;;;;14;2020;104;Abration
+1; Kulon Progo;3;;;;15;;5;1;;1;;1;;;;2020;105;Tornado
+2; Bantul;9;1;;2;512;;194;;2;1;;;;;2;2020;105;Tornado
+3; Gunung Kidul;1;;;;;;50;;;;;;;;;2020;105;Tornado
+4; Sleman;7;;;2;74;;78;;;2;;;;;3;2020;105;Tornado
+71; Kota Yogyakarta;3;;;;2;;6;;1;;;1;;;;2020;105;Tornado
+4; Sleman;1;;;;;225;;;;;;;;;;2020;111;Volcano Eruption
+3; Gunung Kidul;1;;;;335;;;;;;;;1;;;2021;101;Flood
+2; Bantul;2;;;1;1000;;;;;;;;;;;2021;105;Tornado
+2; Bantul;1;;;;;;3;;;;;;;;;2021;108;Earthquake
+3; Gunung Kidul;1;;;;;;14;;;;;;;;;2021;108;Earthquake
+2; Ponorogo;3;;;;;543;2;1;;1;;;1;;;2019;101;Flood
+3; Trenggalek;2;;;;9058;;29;;;1;;;1;;;2019;101;Flood
+4; Tulungagung;1;;;;;;;;;;;;;;;2019;101;Flood
+5; Blitar;1;;;;1400;100;;;;;;;;;;2019;101;Flood
+6; Kediri;2;;;;468;;;;;;;;;;;2019;101;Flood
+8; Lumajang;4;;;;2024;;;;;;;;;;;2019;101;Flood
+9; Jember;6;;;;8980;50;;1;;3;;;;;;2019;101;Flood
+10; Banyuwangi;5;1;;;;;;;;;;;1;;;2019;101;Flood
+12; Situbondo;1;;;;;;;;;;;;;;;2019;101;Flood
+13; Probolinggo;1;;;;1610;;;;;;;;;;;2019;101;Flood
+14; Pasuruan;6;;;;20550;;1;;;;;;;;;2019;101;Flood
+15; Sidoarjo;2;;;;2490;;;;;;;;;;;2019;101;Flood
+16; Mojokerto;12;;;;2118;;17;;1;;;;4;;3;2019;101;Flood
+17; Jombang;5;;;;12299;;;;;;;;;;;2019;101;Flood
+18; Nganjuk;5;;;;884;;7;;;;;;;;;2019;101;Flood
+19; Madiun;3;;;;17328;;2;;;;;;2;;;2019;101;Flood
+20; Magetan;1;;;;1694;103;;;;;;;;;;2019;101;Flood
+21; Ngawi;1;;;;22450;;;;;;;;;;;2019;101;Flood
+22; Bojonegoro;5;;;;18485;;1;16;;13;;;;;;2019;101;Flood
+23; Tuban;2;;;;3240;;;5;;7;;3;3;;;2019;101;Flood
+24; Lamongan;5;;;;3452;;;3;;;;;;;;2019;101;Flood
+25; Gresik;17;2;;;1040;;;11;2;3;;3;;;6;2019;101;Flood
+26; Bangkalan;2;;;;6315;;;;;;;;;;;2019;101;Flood
+27; Sampang;1;;;1;;;;;;;;;;;;2019;101;Flood
+28; Pamekasan;2;;;;;;36;;;;;;2;;;2019;101;Flood
+77; Kota Madiun;1;;;;;;;;;;;;;;;2019;101;Flood
+78; Kota Surabaya;1;1;;;;;;;;;;;;;;2019;101;Flood
+79; Kota Batu;2;;;;;;2;;;;;;;;;2019;101;Flood
+1; Pacitan;3;;;;;;3;;;;;;;;;2019;102;Land_Slide
+2; Ponorogo;8;;;;4;10;5;;;;;;1;;;2019;102;Land_Slide
+3; Trenggalek;8;;;;44;;11;1;;;;;2;;;2019;102;Land_Slide
+5; Blitar;3;;;;;;5;;;;;;;;;2019;102;Land_Slide
+7; Malang;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+9; Jember;2;;;;;;4;;;1;;;;;;2019;102;Land_Slide
+12; Situbondo;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+13; Probolinggo;3;;;;10;;3;;;;;1;;;;2019;102;Land_Slide
+16; Mojokerto;1;;;;25;;;;;;;;;;;2019;102;Land_Slide
+20; Magetan;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+22; Bojonegoro;1;;;;;;;;;;;;;;1;2019;102;Land_Slide
+23; Tuban;2;;;;;;1;;;;;;;;;2019;102;Land_Slide
+24; Lamongan;3;;;;81;10;11;1;;2;;;;;;2019;102;Land_Slide
+28; Pamekasan;1;2;;1;;;;;;;;;;;;2019;102;Land_Slide
+73; Kota Malang;5;;;;9;;8;;1;;;1;;;;2019;102;Land_Slide
+79; Kota Batu;3;;;;;5;3;;;;;;;;;2019;102;Land_Slide
+10; Banyuwangi;1;;;;115;;;;;;;;;;5;2019;104;Abration
+1; Pacitan;2;;;1;;;31;;1;;;;;;1;2019;105;Tornado
+2; Ponorogo;12;1;;;350;;107;;;;;;;;;2019;105;Tornado
+3; Trenggalek;9;;;;;;55;;;;;;;;;2019;105;Tornado
+4; Tulungagung;7;;;;390;;435;1;;1;;;;;;2019;105;Tornado
+5; Blitar;7;;;;86;;21;;;;;;;;6;2019;105;Tornado
+6; Kediri;8;;;1;;;186;;;;;;;;2;2019;105;Tornado
+7; Malang;14;1;;5;685;;212;;2;1;;1;;;;2019;105;Tornado
+8; Lumajang;7;;;;3;;32;1;;1;;;;;;2019;105;Tornado
+9; Jember;28;1;;6;82;6;359;5;1;8;;;;;15;2019;105;Tornado
+10; Banyuwangi;6;;;;265;;58;;;;;;;;;2019;105;Tornado
+11; Bondowoso;4;;;1;10;;559;;;;;;;;;2019;105;Tornado
+12; Situbondo;12;;;2;35;;154;;;;;;;;;2019;105;Tornado
+13; Probolinggo;10;2;;2;225;;215;3;;;;1;;;1;2019;105;Tornado
+14; Pasuruan;2;;;;;;1;;;;;;;;4;2019;105;Tornado
+15; Sidoarjo;16;;;;12;;729;1;;;;;;;1;2019;105;Tornado
+16; Mojokerto;11;;;2;50;;101;;;4;;1;;;13;2019;105;Tornado
+17; Jombang;11;;;5;14;5;160;3;;13;;;;;;2019;105;Tornado
+18; Nganjuk;15;;;3;230;;260;1;1;1;;;;;3;2019;105;Tornado
+19; Madiun;8;;;1;;;159;;;;;;;;;2019;105;Tornado
+20; Magetan;5;;;2;129;;154;3;1;;;1;;;;2019;105;Tornado
+21; Ngawi;6;;;;;;17;1;;;;;;;1;2019;105;Tornado
+22; Bojonegoro;13;;;3;355;;3247;;1;1;;1;;;;2019;105;Tornado
+23; Tuban;8;2;;1;80;;67;2;;1;;1;;;2;2019;105;Tornado
+24; Lamongan;8;;;;40;;104;4;1;;;1;;;3;2019;105;Tornado
+25; Gresik;6;;;;;;115;4;;1;;;;;8;2019;105;Tornado
+26; Bangkalan;2;1;;;;;25;;;;;;;;7;2019;105;Tornado
+27; Sampang;1;;;;40;;5;;;;;;;;2;2019;105;Tornado
+28; Pamekasan;6;;;;13;;30;;;3;;;;;;2019;105;Tornado
+29; Sumenep;5;;;1;;;95;;;;;;;;;2019;105;Tornado
+71; Kota Kediri;2;1;;2;;;4;1;;;;;;;4;2019;105;Tornado
+73; Kota Malang;7;;;1;;;15;2;;;;1;;;1;2019;105;Tornado
+77; Kota Madiun;2;;;;;;1;;;;;;1;;6;2019;105;Tornado
+78; Kota Surabaya;1;;;;;;;1;;;;;;;;2019;105;Tornado
+79; Kota Batu;6;1;;;5247;1357;595;4;;3;;1;;;;2019;105;Tornado
+1; Pacitan;1;;;;11428;;;;;;;;;;;2019;106;Drought
+2; Ponorogo;1;;;;7863;;;;;;;;;;;2019;106;Drought
+3; Trenggalek;1;;;;14064;;;;;;;;;;;2019;106;Drought
+4; Tulungagung;1;;;;;;;;;;;;;;;2019;106;Drought
+5; Blitar;1;;;;625;;;;;;;;;;;2019;106;Drought
+7; Malang;1;;;;;;;;;;;;;;;2019;106;Drought
+8; Lumajang;1;;;;6937;;;;;;;;;;;2019;106;Drought
+10; Banyuwangi;1;;;;7541;;;;;;;;;;;2019;106;Drought
+11; Bondowoso;1;;;;11520;;;;;;;;;;;2019;106;Drought
+12; Situbondo;1;;;;1358;;;;;;;;;;;2019;106;Drought
+13; Probolinggo;1;;;;9196;;;;;;;;;;;2019;106;Drought
+17; Jombang;1;;;;;;;;;;;;;;;2019;106;Drought
+18; Nganjuk;1;;;;;;;;;;;;;;;2019;106;Drought
+20; Magetan;1;;;;10445;;;;;;;;;;;2019;106;Drought
+21; Ngawi;1;;;;70960;;;;;;;;;;;2019;106;Drought
+22; Bojonegoro;1;;;;50089;;;;;;;;;;;2019;106;Drought
+23; Tuban;1;;;;8623;;;;;;;;;;;2019;106;Drought
+24; Lamongan;1;;;;9010;;;;;;;;;;;2019;106;Drought
+25; Gresik;1;;;;;;;;;;;;;;;2019;106;Drought
+26; Bangkalan;1;;;;30936;;;;;;;;;;;2019;106;Drought
+27; Sampang;1;;;;34484;;;;;;;;;;;2019;106;Drought
+28; Pamekasan;1;;;;76671;;;;;;;;;;;2019;106;Drought
+29; Sumenep;1;;;;3118;;;;;;;;;;;2019;106;Drought
+72; Kota Blitar;1;;;;28075;;;;;;;;;;;2019;106;Drought
+75; Kota Pasuruan;1;;;;37747;;;;;;;;;;;2019;106;Drought
+76; Kota Mojokerto;1;;;;6127;;;;;;;;;;;2019;106;Drought
+1; Pacitan;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Ponorogo;15;1;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Trenggalek;20;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Blitar;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Kediri;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Malang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Lumajang;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Jember;8;1;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Banyuwangi;8;;;;4;;;;;;;;;;;2019;107;Forest Fire
+11; Bondowoso;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+12; Situbondo;33;;;;;;;;;;;;;;;2019;107;Forest Fire
+13; Probolinggo;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+14; Pasuruan;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+15; Sidoarjo;6;;;;;;;;;;;;;;;2019;107;Forest Fire
+16; Mojokerto;13;;;1;;;;;;;;;;;;2019;107;Forest Fire
+17; Jombang;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+18; Nganjuk;22;;;;;;;;;;;;;;;2019;107;Forest Fire
+19; Madiun;6;;;;;;;;;;;;;;;2019;107;Forest Fire
+20; Magetan;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+21; Ngawi;4;;;;;;;;;;;;;;;2019;107;Forest Fire
+22; Bojonegoro;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+23; Tuban;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+29; Sumenep;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+73; Kota Malang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+78; Kota Surabaya;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+79; Kota Batu;8;;;;90;;;;;;;;;;;2019;107;Forest Fire
+8; Lumajang;1;;;;;;9;;;;;;;;;2019;108;Earthquake
+9; Jember;1;;;;;;1;1;1;;;2;;;;2019;108;Earthquake
+10; Banyuwangi;1;;;4;;;3;;;3;;2;;;;2019;108;Earthquake
+29; Sumenep;1;;;1;;;97;3;;1;;;;;;2019;108;Earthquake
+2; Ponorogo;3;;;;39;;;;;;;;;;;2020;101;Flood
+4; Tulungagung;1;;;;;;;;;;;;;;;2020;101;Flood
+5; Blitar;3;;;;;;1;;;;;;7;;12;2020;101;Flood
+6; Kediri;1;;;;;;;;;;;;;;;2020;101;Flood
+7; Malang;6;;;8;535;;;1;;;;;1;;2;2020;101;Flood
+8; Lumajang;2;;;1;4876;;;;;;;;;;;2020;101;Flood
+9; Jember;7;;;2;2840;450;4;;;;;;2;;23;2020;101;Flood
+10; Banyuwangi;5;;;;;;50;;;3;;;6;;;2020;101;Flood
+11; Bondowoso;2;;;3;1000;856;320;;;8;;2;3;;;2020;101;Flood
+12; Situbondo;3;;;;;;;;;;;;;;;2020;101;Flood
+13; Probolinggo;3;;;;845;;;;;;;;;;;2020;101;Flood
+14; Pasuruan;8;;;;160805;;;;;;;;;;;2020;101;Flood
+15; Sidoarjo;8;;;;9033;;;10;;10;;;;;;2020;101;Flood
+16; Mojokerto;14;;;;2231;;;;;3;;;;;12;2020;101;Flood
+17; Jombang;8;;;;2054;;;;;;;;;;;2020;101;Flood
+18; Nganjuk;4;;;;10;;;;;1;;;;;;2020;101;Flood
+19; Madiun;4;;;;11785;22;;;;;;;;;;2020;101;Flood
+21; Ngawi;1;;;;;;;;;;;;;;;2020;101;Flood
+22; Bojonegoro;13;;;;7785;;;;;6;;;1;;;2020;101;Flood
+23; Tuban;6;;;;3735;;;;;;;;;;;2020;101;Flood
+24; Lamongan;4;;;;13925;;4;;;;;;2;;;2020;101;Flood
+25; Gresik;13;3;;;39800;;;;;4;;;;;1;2020;101;Flood
+26; Bangkalan;6;;1;;33030;;;;;1;;;;;;2020;101;Flood
+27; Sampang;3;2;;;1025;10;;;;;;;;;;2020;101;Flood
+28; Pamekasan;1;1;;;;;;;;;;;;;;2020;101;Flood
+29; Sumenep;1;;;;450;;;;;;;;;;;2020;101;Flood
+73; Kota Malang;3;;;;750;;2;;;;;;;;;2020;101;Flood
+74; Kota Probolinggo;1;;;;;;;;;;;;;;;2020;101;Flood
+75; Kota Pasuruan;1;;;;;;;;;;;;;;;2020;101;Flood
+77; Kota Madiun;1;;;;;;;;;1;;;;;;2020;101;Flood
+1; Pacitan;2;;;;;;29;;;;;;1;;;2020;102;Land_Slide
+2; Ponorogo;3;1;;;134;124;3;;;;;;;;1;2020;102;Land_Slide
+3; Trenggalek;4;;;;22;;17;;;;;;;;;2020;102;Land_Slide
+7; Malang;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+8; Lumajang;2;;;;210;;58;;;;;;;;;2020;102;Land_Slide
+9; Jember;2;;;;;;;;;;;;;;9;2020;102;Land_Slide
+24; Lamongan;1;;;;;;;;;;;;;;;2020;102;Land_Slide
+72; Kota Blitar;2;;;;2;;2;;;;;;;;;2020;102;Land_Slide
+73; Kota Malang;1;;;;;;;;;;;;;;;2020;102;Land_Slide
+79; Kota Batu;1;;;;;;2;;;;;;;;;2020;102;Land_Slide
+1; Pacitan;2;;;;312;85;;;;;;;1;;;2020;103;Flood and Land Slide
+11; Bondowoso;1;1;;1;;;;;;;;;;;;2020;103;Flood and Land Slide
+14; Pasuruan;1;;;;2945;;;;;;;;;;;2020;103;Flood and Land Slide
+4; Tulungagung;3;1;;;;;38;;;;;;;;;2020;105;Tornado
+5; Blitar;3;;;;;;84;;;;;1;;;3;2020;105;Tornado
+6; Kediri;1;;;;195;;39;3;1;;;2;;;;2020;105;Tornado
+7; Malang;9;1;;;300;62;360;;;2;;;;;3;2020;105;Tornado
+9; Jember;5;;;2;30;;67;;;4;;;;;2;2020;105;Tornado
+10; Banyuwangi;1;;;;;;2;;;;;;;;;2020;105;Tornado
+11; Bondowoso;4;;;;575;;198;;;;;;;;;2020;105;Tornado
+12; Situbondo;3;;;1;25;;13;;;;;;;;1;2020;105;Tornado
+13; Probolinggo;2;;;;;;212;;;1;;;;;;2020;105;Tornado
+14; Pasuruan;3;;;;;;45;;;;;;;;;2020;105;Tornado
+15; Sidoarjo;6;;;3;;;126;1;;3;;1;;;;2020;105;Tornado
+16; Mojokerto;5;1;;1;;;71;;;;;;;;;2020;105;Tornado
+17; Jombang;4;;;;85;;133;;;2;;;;;2;2020;105;Tornado
+18; Nganjuk;2;;;4;;;11;;;;;;;;;2020;105;Tornado
+19; Madiun;2;;;;;;19;;;1;;;;;;2020;105;Tornado
+21; Ngawi;2;;;;120;;34;;;;;;;;;2020;105;Tornado
+22; Bojonegoro;3;;;;15;;21;;;;;;;;2;2020;105;Tornado
+23; Tuban;4;;;3;210;;68;;;;;;;;;2020;105;Tornado
+24; Lamongan;2;;;;;;9;1;;;;;;;1;2020;105;Tornado
+25; Gresik;1;;;;;;20;;;;;;;;;2020;105;Tornado
+26; Bangkalan;2;;;;;;68;;;;;;;;;2020;105;Tornado
+27; Sampang;1;;;1;;;;;;;;;;;;2020;105;Tornado
+28; Pamekasan;7;;;;;;73;;;;;;;;;2020;105;Tornado
+29; Sumenep;4;;;;80;;56;;;1;;;;;;2020;105;Tornado
+73; Kota Malang;2;;;;;;11;;;;;;;;4;2020;105;Tornado
+78; Kota Surabaya;1;2;;;;;;;;;;;;;;2020;105;Tornado
+2; Ponorogo;1;;;;;;;;;;;;;;;2020;106;Drought
+12; Situbondo;1;;;;;;;;;;;;;;;2020;106;Drought
+6; Kediri;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+11; Bondowoso;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+12; Situbondo;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+13; Probolinggo;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+16; Mojokerto;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+19; Madiun;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+22; Bojonegoro;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+23; Tuban;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+8; Lumajang;1;;1;;6490;335;;;;;;;;;;2020;111;Volcano Eruption
+2; Ponorogo;3;;;;138;;1;;;;;;;;;2021;101;Flood
+5; Blitar;1;;;;3500;;;;;;;;;;;2021;101;Flood
+6; Kediri;1;;;;;;;;;;;;;;;2021;101;Flood
+7; Malang;2;;;;;;;;;;;;;;;2021;101;Flood
+8; Lumajang;2;;;;10754;80;;;;;;;;;;2021;101;Flood
+9; Jember;5;;;;25129;1388;28;;;;;;1;;;2021;101;Flood
+10; Banyuwangi;5;;;;1597;;12;;;;;;;;;2021;101;Flood
+12; Situbondo;7;0;0;0;740;0;25;0;0;0;0;0;0;0;0;2021;101;Flood
+13; Probolinggo;2;;;;12819;72;6;;;;;;;;;2021;101;Flood
+14; Pasuruan;8;2;1;;53076;487;8;;;;;;;;;2021;101;Flood
+15; Sidoarjo;5;;;;12251;;;;;;;;;;;2021;101;Flood
+16; Mojokerto;3;;;;1177;;;;;;;;;;;2021;101;Flood
+17; Jombang;9;;;;16170;550;38;;;;;;2;;;2021;101;Flood
+18; Nganjuk;6;;;;4830;52;;;;;;;;;;2021;101;Flood
+19; Madiun;4;;;;2985;415;1;;;;;;;;;2021;101;Flood
+20; Magetan;2;;;;1270;;;;;;;;;;;2021;101;Flood
+21; Ngawi;3;;;;115;;;;;;;;;;;2021;101;Flood
+22; Bojonegoro;8;;;;5731;55;;;;;;;;;;2021;101;Flood
+23; Tuban;5;0;0;0;5185;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+24; Lamongan;3;;;;89449;;;;;;;;;;;2021;101;Flood
+25; Gresik;19;0;0;0;8670;409;12;0;0;0;0;0;0;0;0;2021;101;Flood
+26; Bangkalan;1;;;;725;;;;;;;;;;;2021;101;Flood
+27; Sampang;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+28; Pamekasan;4;0;0;0;10812;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+29; Sumenep;1;;;;;;;;;;;;;;;2021;101;Flood
+73; Kota Malang;1;;1;;;10;;;;;;;;;;2021;101;Flood
+74; Kota Probolinggo;2;;;;733;;;;;;;;;;;2021;101;Flood
+75; Kota Pasuruan;2;;;;14666;34;;;;;;;;;;2021;101;Flood
+79; Kota Batu;1;;;;20;;;;;;;;;;;2021;101;Flood
+3; Trenggalek;3;;;;30;;2;;;;;;;;;2021;102;Land_Slide
+4; Tulungagung;1;;;1;610;5;25;;;;;;1;;;2021;102;Land_Slide
+7; Malang;3;1;;;53;;15;;;;;;;;;2021;102;Land_Slide
+9; Jember;2;;;;10;;2;;;;;;;;;2021;102;Land_Slide
+10; Banyuwangi;1;1;;5;;;2;;;;;;;;;2021;102;Land_Slide
+12; Situbondo;3;0;0;0;164;0;2;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+13; Probolinggo;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+18; Nganjuk;2;19;;20;186;156;9;;;;;;;;;2021;102;Land_Slide
+19; Madiun;1;;;;;10;2;;;;;;;;;2021;102;Land_Slide
+20; Magetan;2;;;;10;;2;;;;;;;;;2021;102;Land_Slide
+22; Bojonegoro;1;;;;10;;;;;;;;;;;2021;102;Land_Slide
+23; Tuban;1;;;;5;;1;;;;;;;;;2021;102;Land_Slide
+25; Gresik;3;0;0;0;0;0;2;0;0;0;0;0;0;0;1;2021;102;Land_Slide
+27; Sampang;2;5;0;1;1;0;0;1;0;0;7;0;0;0;0;2021;102;Land_Slide
+28; Pamekasan;6;5;0;1;54;145;2;1;0;1;0;0;0;0;0;2021;102;Land_Slide
+73; Kota Malang;3;;;2;;1;3;;;;;;;;;2021;102;Land_Slide
+79; Kota Batu;8;;;;247;171;7;;;;;;;;;2021;102;Land_Slide
+19; Madiun;1;;;;85;;15;;;;;;;;;2021;103;Flood and Land Slide
+20; Magetan;1;;;;;;;;;;;;;;;2021;103;Flood and Land Slide
+22; Bojonegoro;1;;;;1930;;9;;;;;;;;;2021;103;Flood and Land Slide
+79; Kota Batu;1;;;;53;11;;;;;;;;;;2021;103;Flood and Land Slide
+12; Situbondo;1;;;;7;;3;;;;;;;;;2021;104;Abration
+23; Tuban;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;Abration
+3; Trenggalek;2;;;;;;6;;;;;;;;;2021;105;Tornado
+4; Tulungagung;1;;;;330;;66;;;;;;;;;2021;105;Tornado
+5; Blitar;3;;;5;12;;48;;;;;;;;1;2021;105;Tornado
+6; Kediri;1;;;;;;21;;;;;;;;;2021;105;Tornado
+7; Malang;2;;;;110;;32;;;1;;;;;;2021;105;Tornado
+8; Lumajang;1;;;;390;;78;;;;;;;;;2021;105;Tornado
+9; Jember;2;;;1;45;;9;;;;;;;;;2021;105;Tornado
+10; Banyuwangi;3;;;1;275;;55;1;;2;;;;;;2021;105;Tornado
+11; Bondowoso;2;;;;92;;60;;;;;;;;;2021;105;Tornado
+12; Situbondo;4;0;0;0;112;0;208;0;0;0;0;0;0;0;1;2021;105;Tornado
+13; Probolinggo;4;0;0;0;59;0;14;0;0;0;0;0;0;0;0;2021;105;Tornado
+14; Pasuruan;1;;;;;;35;1;;3;;;;;;2021;105;Tornado
+15; Sidoarjo;6;;;;115;;33;;1;;;;;;7;2021;105;Tornado
+16; Mojokerto;3;;;;198;;53;;;1;;;;;;2021;105;Tornado
+17; Jombang;2;;;;;;3;;;;;1;;;;2021;105;Tornado
+18; Nganjuk;1;;;6;;;1;;;;;;;;;2021;105;Tornado
+20; Magetan;1;;;;30;;6;;;;;;;;;2021;105;Tornado
+21; Ngawi;1;;;;;;2;;;;;;;;;2021;105;Tornado
+22; Bojonegoro;2;;;;365;;73;;;1;;;;;;2021;105;Tornado
+23; Tuban;2;;;;5;;12;1;;;;;;;;2021;105;Tornado
+25; Gresik;7;0;0;0;0;0;27;2;0;1;1;0;0;0;2;2021;105;Tornado
+27; Sampang;20;0;0;0;0;0;35;2;0;1;12;0;0;0;0;2021;105;Tornado
+28; Pamekasan;12;0;0;1;0;0;487;2;0;3;0;0;0;0;0;2021;105;Tornado
+29; Sumenep;2;;;3;100;;55;;;;;;;;;2021;105;Tornado
+73; Kota Malang;2;;;2;;;20;;;;;;;;;2021;105;Tornado
+28; Pamekasan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;Drought
+12; Situbondo;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+13; Probolinggo;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+28; Pamekasan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+1; Pacitan;1;;;;;;1;;;;;;;;;2021;108;Earthquake
+2; Ponorogo;1;;;;;;2;;;;;;;;;2021;108;Earthquake
+3; Trenggalek;1;;;;;;149;3;;5;;10;;;;2021;108;Earthquake
+4; Tulungagung;1;;;2;;;75;1;;4;;3;;;1;2021;108;Earthquake
+5; Blitar;2;;;12;;;2021;29;4;52;;47;;;;2021;108;Earthquake
+6; Kediri;2;;;;;;4;;;;;;;;;2021;108;Earthquake
+7; Malang;2;4;;81;;961;11976;128;21;128;;;;;;2021;108;Earthquake
+8; Lumajang;2;6;;16;;1093;3446;21;;55;;;;;;2021;108;Earthquake
+9; Jember;2;;;2;;;56;;2;2;;;;;;2021;108;Earthquake
+10; Banyuwangi;1;;;;;;;;;;;;;;;2021;108;Earthquake
+11; Bondowoso;1;;;;;;2;;;;;;;;;2021;108;Earthquake
+13; Probolinggo;1;;;;;;10;;;2;;;;;1;2021;108;Earthquake
+14; Pasuruan;2;;;;;;127;1;;3;;;;;1;2021;108;Earthquake
+18; Nganjuk;1;;;;;;1;;;;;;;;;2021;108;Earthquake
+71; Kota Kediri;1;;;;;;1;3;;;;;;;;2021;108;Earthquake
+72; Kota Blitar;2;;;2;;20;55;7;3;4;;2;;;;2021;108;Earthquake
+73; Kota Malang;2;;;2;;;8;;;;;1;;;;2021;108;Earthquake
+79; Kota Batu;1;;;;;;2;4;;;;1;;;1;2021;108;Earthquake
+8; Lumajang;1;34;0;169;5205;4350;0;0;0;0;0;0;1;0;0;2021;111;Volcano Eruption
+12; Situbondo;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+23; Tuban;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+25; Gresik;18;0;0;1;0;806;0;0;0;0;0;0;0;0;0;2022;101;Flood
+27; Sampang;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+28; Pamekasan;6;0;0;4;23890;474;6;3;0;0;0;0;4;0;0;2022;101;Flood
+5; Blitar;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+12; Situbondo;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+25; Gresik;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+27; Sampang;3;0;0;0;0;0;0;0;0;0;2;0;0;0;0;2022;102;Land_Slide
+28; Pamekasan;13;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2022;102;Land_Slide
+71; Kota Kediri;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+23; Tuban;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;Abration
+5; Blitar;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+12; Situbondo;9;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2022;105;Tornado
+25; Gresik;11;0;0;4;0;0;152;1;0;1;1;0;0;1;13;2022;105;Tornado
+27; Sampang;6;0;0;0;0;0;0;0;0;0;0;0;0;0;3;2022;105;Tornado
+28; Pamekasan;24;0;0;0;0;0;20;0;0;1;0;2;0;0;0;2022;105;Tornado
+12; Situbondo;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;Drought
+12; Situbondo;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+28; Pamekasan;3;0;0;0;0;0;2;0;0;0;0;0;0;1;0;2022;107;Forest Fire
+23; Tuban;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;108;Earthquake
+2; Lebak;3;;;;563;;121;4;;3;;;7;;;2019;101;Flood
+4; Serang;3;;;;2232;266;149;1;;;;;;;;2019;101;Flood
+71; Kota Tangerang;1;;;;688;;;;;;;;;;;2019;101;Flood
+72; Kota Cilegon;2;;;;3785;;1;;;;;;;;;2019;101;Flood
+2; Lebak;1;;;;499;;63;;;3;;;;;;2019;102;Land_Slide
+71; Kota Tangerang;1;1;;1;;;;;;;;;;;;2019;102;Land_Slide
+1; Pandeglang;2;;;;116;;39;;;;;;;;;2019;105;Tornado
+2; Lebak;1;;;;;;49;;;;;;;;;2019;105;Tornado
+3; Tangerang;3;;;6;200;;297;;;3;;;;;;2019;105;Tornado
+4; Serang;15;;;1;19;6;38;1;;;;;;;;2019;105;Tornado
+73; Kota Serang;1;;;;;;;;1;1;;;;;;2019;105;Tornado
+2; Lebak;2;;;;3500;;;;;;;;;;;2019;106;Drought
+4; Serang;2;;;;11930;;;;;;;;;;;2019;106;Drought
+4; Serang;27;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Pandeglang;1;2;;2;;;608;18;;16;;2;3;;;2019;108;Earthquake
+2; Lebak;1;3;;;176;;63;3;;2;;;;;;2019;108;Earthquake
+4; Serang;1;;;;;;27;1;;;;;;;;2019;108;Earthquake
+72; Kota Cilegon;1;;;;;;3;;;1;;;;;;2019;108;Earthquake
+1; Pandeglang;4;;;;31132;1281;;;;;;;;;;2020;101;Flood
+2; Lebak;4;;;;2615;;1;;;;;;;;;2020;101;Flood
+3; Tangerang;3;;;;22705;;;;;;;;;;;2020;101;Flood
+4; Serang;26;;;1;64461;15144;16;4;2;2;;2;2;;;2020;101;Flood
+71; Kota Tangerang;3;8;;;49746;3593;5045;;;;;;;;;2020;101;Flood
+72; Kota Cilegon;2;;;;3582;2500;3;;;;;;;;;2020;101;Flood
+73; Kota Serang;2;;;;770;;;;;;;;;;;2020;101;Flood
+74; Kota Tangerang Selatan;3;4;;;75727;2125;;;;;;;;;;2020;101;Flood
+1; Pandeglang;1;;;;;;1;;;;;;1;;;2020;102;Land_Slide
+2; Lebak;6;;;;85;;31;1;;1;;;;;;2020;102;Land_Slide
+4; Serang;5;;;;35;;8;;;;;;;;;2020;102;Land_Slide
+72; Kota Cilegon;1;;;;12;;3;;;;;;;;;2020;102;Land_Slide
+73; Kota Serang;1;;;;5;;1;;;;;;;;;2020;102;Land_Slide
+2; Lebak;3;13;4;67;38795;16163;2486;7;;8;;40;3;;;2020;103;Flood and Land Slide
+1; Pandeglang;4;;;1;593;;102;1;;4;;;;;;2020;105;Tornado
+2; Lebak;1;;;;;;6;;;;;;;;;2020;105;Tornado
+3; Tangerang;1;;;;;;6;;;;;;;;;2020;105;Tornado
+4; Serang;30;;;2;150;15;47;3;;;;;;;4;2020;105;Tornado
+72; Kota Cilegon;1;;;;;;22;;;;;;;;1;2020;105;Tornado
+73; Kota Serang;1;;;;;;1;;;;;;;;;2020;105;Tornado
+4; Serang;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Pandeglang;1;;;;3777;;;;;;;;;;;2021;101;Flood
+2; Lebak;1;1;;;;;;;;;;;;;;2021;101;Flood
+3; Tangerang;1;;;;25185;119;;;;;;;;;;2021;101;Flood
+4; Serang;20;;;11;10327;20;;;;;;;;;;2021;101;Flood
+71; Kota Tangerang;1;;;;12351;6977;;;;;;;;;;2021;101;Flood
+73; Kota Serang;2;;;;779;;;;;;;;;;;2021;101;Flood
+74; Kota Tangerang Selatan;2;;;1;7670;59;;;;;;;;;;2021;101;Flood
+3; Tangerang;1;;;;500;;;;;;;;;;;2021;102;Land_Slide
+4; Serang;2;;;;4;;2;;;;;;;;;2021;102;Land_Slide
+74; Kota Tangerang Selatan;1;;;;12;;3;;;;;;;;;2021;102;Land_Slide
+74; Kota Tangerang Selatan;2;;;2;26548;130;3;;;;;;;;;2021;103;Flood and Land Slide
+1; Pandeglang;1;;;;200;;24;;;;;;;;;2021;105;Tornado
+3; Tangerang;2;;;1;95;;59;;;;;;;;;2021;105;Tornado
+4; Serang;11;;;1;418;;87;1;;;;;;;;2021;105;Tornado
+72; Kota Cilegon;1;;;;90;;18;;;;;;;;;2021;105;Tornado
+73; Kota Serang;2;;;;17;;3;;;;;;;;;2021;105;Tornado
+4; Serang;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+1; Jembrana;2;;;;;6;;;;;;;;;;2019;101;Flood
+3; Badung;1;;;;;;;;;;;;;;;2019;101;Flood
+7; Karang Asem;2;;;;;;2;;;;;;1;;;2019;101;Flood
+3; Badung;2;;;;;;1;1;;;;;;;;2019;102;Land_Slide
+6; Bangli;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+7; Karang Asem;4;3;;12;;;2;;;5;;;1;;;2019;102;Land_Slide
+8; Buleleng;2;4;;;;;4;;;;;;;;;2019;102;Land_Slide
+7; Karang Asem;1;;;4;;;1;;;1;;;;;;2019;104;Abration
+1; Jembrana;3;;;;;;15;;;;;1;;;;2019;105;Tornado
+3; Badung;7;;;;;;30;1;;11;;;;;;2019;105;Tornado
+4; Gianyar;2;;;;;;2;;;;;1;;;;2019;105;Tornado
+5; Klungkung;2;;;;;;17;;;2;;;;;;2019;105;Tornado
+6; Bangli;1;;;1;;;;;;;;;;;;2019;105;Tornado
+7; Karang Asem;3;;;;;;9;;;;;;;;;2019;105;Tornado
+8; Buleleng;2;;;;;;6;;;;;;;;;2019;105;Tornado
+1; Jembrana;1;;;;;;;;;;;;;;;2019;106;Drought
+7; Karang Asem;1;;;;400;;;;;;;;;;;2019;106;Drought
+8; Buleleng;1;;;;52932;;;;;;;;;;;2019;106;Drought
+1; Jembrana;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Tabanan;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Badung;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Karang Asem;10;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Buleleng;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Jembrana;1;;;2;;;2;2;;;;;;;;2019;108;Earthquake
+3; Badung;1;;;3;;;;11;;;;3;;;;2019;108;Earthquake
+4; Gianyar;1;;;;;;2;;;;;4;;;;2019;108;Earthquake
+8; Buleleng;1;;;;;;2;;;;;;;;;2019;108;Earthquake
+71; Kota Denpasar;1;;;;;;;;;1;;;;;;2019;108;Earthquake
+7; Karang Asem;3;;;;423;20;;;;;;;;;;2019;111;Volcano Eruption
+3; Badung;2;;;;;;2;;;;;;;;;2020;101;Flood
+6; Bangli;1;;;;;20;;1;;;;;;;;2020;101;Flood
+7; Karang Asem;1;;;;;;1;;;;;;;;;2020;101;Flood
+1; Jembrana;7;;;;;;8;;;;;;;;;2020;102;Land_Slide
+2; Tabanan;2;;;;40;;7;;;;;;;;;2020;102;Land_Slide
+3; Badung;8;;;;;;8;;;2;;;;;;2020;102;Land_Slide
+4; Gianyar;2;2;;2;;;1;;;;;;;;;2020;102;Land_Slide
+5; Klungkung;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+6; Bangli;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+7; Karang Asem;8;1;;1;;;20;;;;;;;;;2020;102;Land_Slide
+8; Buleleng;4;;;;;;5;;;;;;;;;2020;102;Land_Slide
+1; Jembrana;1;;;;;;9;;;;;;;;;2020;104;Abration
+1; Jembrana;5;;;;;;33;;;;;;;;;2020;105;Tornado
+2; Tabanan;6;;;;;;8;;;1;;;;;;2020;105;Tornado
+3; Badung;5;;;1;15;;2;;;1;;1;;;;2020;105;Tornado
+4; Gianyar;15;;;1;;;35;;;;;;;;;2020;105;Tornado
+5; Klungkung;1;;;;;;2;;;;;;;;;2020;105;Tornado
+6; Bangli;4;;;;;;4;;;4;;;;;1;2020;105;Tornado
+7; Karang Asem;16;;;3;120;;18;;1;7;;;;;;2020;105;Tornado
+8; Buleleng;4;;;;10;;17;;;;;;;;;2020;105;Tornado
+71; Kota Denpasar;1;;;2;;;;;;;;;;;;2020;105;Tornado
+1; Jembrana;1;;;;;;3;;;;;;;;;2021;101;Flood
+3; Badung;1;;;;;;;;;;;;;;;2021;101;Flood
+7; Karang Asem;3;;;;15;;4;;;;;;;;;2021;101;Flood
+7; Karang Asem;4;;;;4;;1;;;;;;;;;2021;102;Land_Slide
+1; Jembrana;1;;;;115;;16;;;;;;;;;2021;104;Abration
+7; Karang Asem;1;;;;15;;3;;;;;;;;;2021;104;Abration
+3; Badung;2;;;;;;2;;;;;;;;8;2021;105;Tornado
+1; Lombok Barat;1;;;;;75;;;;;;;;;;2019;101;Flood
+2; Lombok Tengah;2;;;;248;;;;;;;;;;;2019;101;Flood
+4; Sumbawa;2;;;;145;;;;;;;;;;;2019;101;Flood
+5; Dompu;2;;;;3105;3140;3;;;;;;;;;2019;101;Flood
+6; Bima;4;;;;1550;;265;4;;;;3;1;;;2019;101;Flood
+7; Sumbawa Barat;4;;;;825;;;;;;;;1;;;2019;101;Flood
+8; Lombok Utara;1;;;;158;;;;;;;;;;;2019;101;Flood
+72; Kota Bima;3;;;;5820;;;;;;;;;;;2019;101;Flood
+1; Lombok Barat;1;;;;262;;;;;;;;;;;2019;105;Tornado
+2; Lombok Tengah;3;;;2;;;60;;;;;;;;;2019;105;Tornado
+3; Lombok Timur;2;;;;;16;16;1;;1;;;;;;2019;105;Tornado
+4; Sumbawa;3;;;1;230;;64;4;;1;;;;;;2019;105;Tornado
+5; Dompu;1;;;3;1100;;220;;;;;;;;;2019;105;Tornado
+6; Bima;1;;;;;;10;;;;;;;;;2019;105;Tornado
+7; Sumbawa Barat;5;;;;;;87;1;;;;;;;;2019;105;Tornado
+8; Lombok Utara;2;;;;;;8;2;;;;;;;;2019;105;Tornado
+71; Kota Mataram;2;;;13;127;;2;;;;;1;;;3;2019;105;Tornado
+72; Kota Bima;2;;;;5;;1;;;;;;;;11;2019;105;Tornado
+1; Lombok Barat;1;;;;64985;;;;;;;;;;;2019;106;Drought
+2; Lombok Tengah;1;;;;273967;;;;;;;;;;;2019;106;Drought
+3; Lombok Timur;1;;;;128848;;;;;;;;;;;2019;106;Drought
+4; Sumbawa;1;;;;80765;;;;;;;;;;;2019;106;Drought
+5; Dompu;1;;;;48717;;;;;;;;;;;2019;106;Drought
+6; Bima;1;;;;20918;;;;;;;;;;;2019;106;Drought
+7; Sumbawa Barat;1;;;;10868;;;;;;;;;;;2019;106;Drought
+8; Lombok Utara;1;;;;28136;;;;;;;;;;;2019;106;Drought
+72; Kota Bima;1;;;;17597;;;;;;;;;;;2019;106;Drought
+3; Lombok Timur;2;;;;61;;;;;;;;;;;2019;107;Forest Fire
+5; Dompu;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Lombok Utara;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Lombok Timur;1;4;;40;25416;;4589;;50;3;;3;;;;2019;108;Earthquake
+4; Sumbawa;1;;;;;;1;;;1;;;;;;2019;108;Earthquake
+8; Lombok Utara;1;;;37;;;;;;;;;;;;2019;108;Earthquake
+1; Lombok Barat;4;;;;1771;;4;1;;;;;;;;2020;101;Flood
+2; Lombok Tengah;2;;;2;4491;;10;1;;;;;1;;;2020;101;Flood
+3; Lombok Timur;4;;;1;8631;;6;3;1;1;;;1;;;2020;101;Flood
+4; Sumbawa;7;3;;;3688;;;1;;;;1;;;;2020;101;Flood
+5; Dompu;3;;;;1024;;;;;;;;;;;2020;101;Flood
+6; Bima;6;;;1;2322;;1;2;;;;1;3;;;2020;101;Flood
+7; Sumbawa Barat;5;;;;701;;5;;;;;;;;;2020;101;Flood
+8; Lombok Utara;3;;;;8;;1;;;;;;2;;;2020;101;Flood
+71; Kota Mataram;3;;;;2643;;;;;;;;;;;2020;101;Flood
+72; Kota Bima;3;;;;661;;;;;;;;;;;2020;101;Flood
+3; Lombok Timur;1;;;;4;;1;;;;;;;;;2020;102;Land_Slide
+4; Sumbawa;2;;;2;5;;3;;;;;;;;;2020;102;Land_Slide
+5; Dompu;2;;;;;;1;;;;;;1;;;2020;102;Land_Slide
+72; Kota Bima;2;;;;;;2;;;;;;;;;2020;102;Land_Slide
+3; Lombok Timur;1;;;;;;;;;;;;;;;2020;103;Flood and Land Slide
+72; Kota Bima;1;;;;60;;2;;;;;;;;;2020;103;Flood and Land Slide
+1; Lombok Barat;1;;;;188;;49;;;;;;;;;2020;105;Tornado
+2; Lombok Tengah;3;;;;8;;23;;;1;;;;;;2020;105;Tornado
+3; Lombok Timur;4;;;;324;;89;;;;;;;;;2020;105;Tornado
+4; Sumbawa;4;;;3;478;;113;1;1;3;;1;;;;2020;105;Tornado
+5; Dompu;8;;;16;364;;93;;;;;;;;;2020;105;Tornado
+6; Bima;3;;;;132;;33;;;;;;;;;2020;105;Tornado
+7; Sumbawa Barat;2;;;;60;;15;;;;;;;;;2020;105;Tornado
+71; Kota Mataram;2;;;;144;;35;;;;;;;;;2020;105;Tornado
+72; Kota Bima;1;;;;;;8;;;;;;;;;2020;105;Tornado
+1; Lombok Barat;1;;;;32255;;;;;;;;;;;2020;106;Drought
+2; Lombok Tengah;1;;;;273622;;;;;;;;;;;2020;106;Drought
+3; Lombok Timur;1;;;;203571;;;;;;;;;;;2020;106;Drought
+4; Sumbawa;1;;;;80765;;;;;;;;;;;2020;106;Drought
+5; Dompu;1;;;;51577;;;;;;;;;;;2020;106;Drought
+6; Bima;1;;;;39175;;;;;;;;;;;2020;106;Drought
+7; Sumbawa Barat;1;;;;10302;;;;;;;;;;;2020;106;Drought
+8; Lombok Utara;1;;;;26036;;;;;;;;;;;2020;106;Drought
+72; Kota Bima;1;;;;25354;;;;;;;;;;;2020;106;Drought
+3; Lombok Timur;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+8; Lombok Utara;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Sumbawa;1;;;;;;;;;;;;;;;2020;108;Earthquake
+5; Dompu;1;;;;;;;1;;;;;;;;2020;108;Earthquake
+1; Lombok Barat;4;;;;26095;430;;;;;;;;;;2021;101;Flood
+2; Lombok Tengah;4;;;;7690;;;;;;;;;;;2021;101;Flood
+3; Lombok Timur;4;;;;1139;;1;;;;;;;;;2021;101;Flood
+4; Sumbawa;8;1;1;;14707;;2;;;;;;6;;;2021;101;Flood
+5; Dompu;11;;;;21626;360;71;;;1;;;1;;;2021;101;Flood
+6; Bima;7;5;;;33708;1620;5710;49;29;25;;30;15;;;2021;101;Flood
+8; Lombok Utara;1;;;;77;;;;;;;;;;;2021;101;Flood
+71; Kota Mataram;1;;;;8;;;;;;;;;;;2021;101;Flood
+72; Kota Bima;6;1;;;4380;;;;;;;;;;;2021;101;Flood
+3; Lombok Timur;1;;;;;;2;;;;;;;;;2021;102;Land_Slide
+71; Kota Mataram;1;;;;60;;1;;;;;;;;;2021;103;Flood and Land Slide
+1; Lombok Barat;1;;;;339;;24;;;;;;;;;2021;105;Tornado
+2; Lombok Tengah;1;;;;5;;1;1;;;;;;;;2021;105;Tornado
+3; Lombok Timur;1;;;1;250;;50;;;;;;;;;2021;105;Tornado
+4; Sumbawa;2;;;;10;;7;;;;;;;;;2021;105;Tornado
+5; Dompu;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+5; Dompu;1;0;0;0;0;10;10;0;0;0;0;0;0;0;0;2022;105;Tornado
+1; Lombok Barat;1;;;;;75;;;;;;;;;;2019;101;Flood
+2; Lombok Tengah;2;;;;248;;;;;;;;;;;2019;101;Flood
+4; Sumbawa;2;;;;145;;;;;;;;;;;2019;101;Flood
+5; Dompu;2;;;;3105;3140;3;;;;;;;;;2019;101;Flood
+6; Bima;4;;;;1550;;265;4;;;;3;1;;;2019;101;Flood
+7; Sumbawa Barat;4;;;;825;;;;;;;;1;;;2019;101;Flood
+8; Lombok Utara;1;;;;158;;;;;;;;;;;2019;101;Flood
+72; Kota Bima;3;;;;5820;;;;;;;;;;;2019;101;Flood
+1; Lombok Barat;1;;;;262;;;;;;;;;;;2019;105;Tornado
+2; Lombok Tengah;3;;;2;;;60;;;;;;;;;2019;105;Tornado
+3; Lombok Timur;2;;;;;16;16;1;;1;;;;;;2019;105;Tornado
+4; Sumbawa;3;;;1;230;;64;4;;1;;;;;;2019;105;Tornado
+5; Dompu;1;;;3;1100;;220;;;;;;;;;2019;105;Tornado
+6; Bima;1;;;;;;10;;;;;;;;;2019;105;Tornado
+7; Sumbawa Barat;5;;;;;;87;1;;;;;;;;2019;105;Tornado
+8; Lombok Utara;2;;;;;;8;2;;;;;;;;2019;105;Tornado
+71; Kota Mataram;2;;;13;127;;2;;;;;1;;;3;2019;105;Tornado
+72; Kota Bima;2;;;;5;;1;;;;;;;;11;2019;105;Tornado
+1; Lombok Barat;1;;;;64985;;;;;;;;;;;2019;106;Drought
+2; Lombok Tengah;1;;;;273967;;;;;;;;;;;2019;106;Drought
+3; Lombok Timur;1;;;;128848;;;;;;;;;;;2019;106;Drought
+4; Sumbawa;1;;;;80765;;;;;;;;;;;2019;106;Drought
+5; Dompu;1;;;;48717;;;;;;;;;;;2019;106;Drought
+6; Bima;1;;;;20918;;;;;;;;;;;2019;106;Drought
+7; Sumbawa Barat;1;;;;10868;;;;;;;;;;;2019;106;Drought
+8; Lombok Utara;1;;;;28136;;;;;;;;;;;2019;106;Drought
+72; Kota Bima;1;;;;17597;;;;;;;;;;;2019;106;Drought
+3; Lombok Timur;2;;;;61;;;;;;;;;;;2019;107;Forest Fire
+5; Dompu;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Lombok Utara;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Lombok Timur;1;4;;40;25416;;4589;;50;3;;3;;;;2019;108;Earthquake
+4; Sumbawa;1;;;;;;1;;;1;;;;;;2019;108;Earthquake
+8; Lombok Utara;1;;;37;;;;;;;;;;;;2019;108;Earthquake
+1; Lombok Barat;4;;;;1771;;4;1;;;;;;;;2020;101;Flood
+2; Lombok Tengah;2;;;2;4491;;10;1;;;;;1;;;2020;101;Flood
+3; Lombok Timur;4;;;1;8631;;6;3;1;1;;;1;;;2020;101;Flood
+4; Sumbawa;7;3;;;3688;;;1;;;;1;;;;2020;101;Flood
+5; Dompu;3;;;;1024;;;;;;;;;;;2020;101;Flood
+6; Bima;6;;;1;2322;;1;2;;;;1;3;;;2020;101;Flood
+7; Sumbawa Barat;5;;;;701;;5;;;;;;;;;2020;101;Flood
+8; Lombok Utara;3;;;;8;;1;;;;;;2;;;2020;101;Flood
+71; Kota Mataram;3;;;;2643;;;;;;;;;;;2020;101;Flood
+72; Kota Bima;3;;;;661;;;;;;;;;;;2020;101;Flood
+3; Lombok Timur;1;;;;4;;1;;;;;;;;;2020;102;Land_Slide
+4; Sumbawa;2;;;2;5;;3;;;;;;;;;2020;102;Land_Slide
+5; Dompu;2;;;;;;1;;;;;;1;;;2020;102;Land_Slide
+72; Kota Bima;2;;;;;;2;;;;;;;;;2020;102;Land_Slide
+3; Lombok Timur;1;;;;;;;;;;;;;;;2020;103;Flood and Land Slide
+72; Kota Bima;1;;;;60;;2;;;;;;;;;2020;103;Flood and Land Slide
+1; Lombok Barat;1;;;;188;;49;;;;;;;;;2020;105;Tornado
+2; Lombok Tengah;3;;;;8;;23;;;1;;;;;;2020;105;Tornado
+3; Lombok Timur;4;;;;324;;89;;;;;;;;;2020;105;Tornado
+4; Sumbawa;4;;;3;478;;113;1;1;3;;1;;;;2020;105;Tornado
+5; Dompu;8;;;16;364;;93;;;;;;;;;2020;105;Tornado
+6; Bima;3;;;;132;;33;;;;;;;;;2020;105;Tornado
+7; Sumbawa Barat;2;;;;60;;15;;;;;;;;;2020;105;Tornado
+71; Kota Mataram;2;;;;144;;35;;;;;;;;;2020;105;Tornado
+72; Kota Bima;1;;;;;;8;;;;;;;;;2020;105;Tornado
+1; Lombok Barat;1;;;;32255;;;;;;;;;;;2020;106;Drought
+2; Lombok Tengah;1;;;;273622;;;;;;;;;;;2020;106;Drought
+3; Lombok Timur;1;;;;203571;;;;;;;;;;;2020;106;Drought
+4; Sumbawa;1;;;;80765;;;;;;;;;;;2020;106;Drought
+5; Dompu;1;;;;51577;;;;;;;;;;;2020;106;Drought
+6; Bima;1;;;;39175;;;;;;;;;;;2020;106;Drought
+7; Sumbawa Barat;1;;;;10302;;;;;;;;;;;2020;106;Drought
+8; Lombok Utara;1;;;;26036;;;;;;;;;;;2020;106;Drought
+72; Kota Bima;1;;;;25354;;;;;;;;;;;2020;106;Drought
+3; Lombok Timur;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+8; Lombok Utara;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Sumbawa;1;;;;;;;;;;;;;;;2020;108;Earthquake
+5; Dompu;1;;;;;;;1;;;;;;;;2020;108;Earthquake
+1; Lombok Barat;4;;;;26095;430;;;;;;;;;;2021;101;Flood
+2; Lombok Tengah;4;;;;7690;;;;;;;;;;;2021;101;Flood
+3; Lombok Timur;4;;;;1139;;1;;;;;;;;;2021;101;Flood
+4; Sumbawa;8;1;1;;14707;;2;;;;;;6;;;2021;101;Flood
+5; Dompu;11;;;;21626;360;71;;;1;;;1;;;2021;101;Flood
+6; Bima;7;5;;;33708;1620;5710;49;29;25;;30;15;;;2021;101;Flood
+8; Lombok Utara;1;;;;77;;;;;;;;;;;2021;101;Flood
+71; Kota Mataram;1;;;;8;;;;;;;;;;;2021;101;Flood
+72; Kota Bima;6;1;;;4380;;;;;;;;;;;2021;101;Flood
+3; Lombok Timur;1;;;;;;2;;;;;;;;;2021;102;Land_Slide
+71; Kota Mataram;1;;;;60;;1;;;;;;;;;2021;103;Flood and Land Slide
+1; Lombok Barat;1;;;;339;;24;;;;;;;;;2021;105;Tornado
+2; Lombok Tengah;1;;;;5;;1;1;;;;;;;;2021;105;Tornado
+3; Lombok Timur;1;;;1;250;;50;;;;;;;;;2021;105;Tornado
+4; Sumbawa;2;;;;10;;7;;;;;;;;;2021;105;Tornado
+5; Dompu;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+5; Dompu;1;0;0;0;0;10;10;0;0;0;0;0;0;0;0;2022;105;Tornado
+1; Sambas;1;;;;870;20;;;;;;;;;;2019;101;Flood
+3; Landak;3;1;;;16031;182;1;;;;;;11;;;2019;101;Flood
+4; Mempawah;1;;;;2948;;;;;;;;;;;2019;101;Flood
+5; Sanggau;4;;;;4317;;8;;;;;;2;;;2019;101;Flood
+8; Kapuas Hulu;1;;;;;;;;;;;;;;;2019;101;Flood
+9; Sekadau;5;;;;286;2845;1;;;;;;5;;;2019;101;Flood
+10; Melawi;1;;;;657;500;4;;;;;;;;;2019;101;Flood
+12; Kubu Raya;1;;;;2750;;;;;;;;;;;2019;101;Flood
+72; Kota Singkawang;2;;;;80;164;;;;;;;;;;2019;101;Flood
+2; Bengkayang;1;3;;;;;11;;;;;;;;;2019;102;Land_Slide
+11; Kayong Utara;1;;;;;;1;1;;;;;;;;2019;102;Land_Slide
+8; Kapuas Hulu;1;;;;;;1;;;;;;;;;2019;105;Tornado
+9; Sekadau;1;;;;48;;10;1;;;;;;;2;2019;105;Tornado
+12; Kubu Raya;1;;;;;;93;;1;;;1;;;10;2019;105;Tornado
+71; Kota Pontianak;4;;;;30;10;104;1;;;;;;;3;2019;105;Tornado
+1; Sambas;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Bengkayang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Landak;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Mempawah;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Sanggau;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Ketapang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Sintang;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Kapuas Hulu;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Sekadau;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Melawi;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+11; Kayong Utara;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+12; Kubu Raya;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+72; Kota Singkawang;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Sambas;1;;;;940;4248;;;;;;;;;;2020;101;Flood
+2; Bengkayang;1;1;;;;;;;;;;;1;;;2020;101;Flood
+3; Landak;8;;;;430;13313;;;;;;;6;;;2020;101;Flood
+4; Mempawah;4;;;;12260;31829;;;;;;;;;;2020;101;Flood
+5; Sanggau;5;;;;84;887;14;1;;;;1;2;;;2020;101;Flood
+6; Ketapang;8;;;;14240;2717;1;;;;;;1;;;2020;101;Flood
+7; Sintang;4;2;;;127960;9127;91;;;;;;8;;;2020;101;Flood
+8; Kapuas Hulu;8;;;;14585;760;;17;;13;;;;;;2020;101;Flood
+9; Sekadau;5;;;;1364;110;1;;;;;;;;;2020;101;Flood
+10; Melawi;4;;;;800;45719;;;;;;;;;;2020;101;Flood
+11; Kayong Utara;1;;;;;924;;;;;;;;;;2020;101;Flood
+12; Kubu Raya;1;;;;565;;;;;;;;;;;2020;101;Flood
+4; Mempawah;1;;;;;65;2;;;;;;;;;2020;102;Land_Slide
+8; Kapuas Hulu;1;;;;;125;;;;;;;;;;2020;102;Land_Slide
+10; Melawi;2;;;;10;15;6;;;;;;;;;2020;102;Land_Slide
+3; Landak;2;;;;11220;2155;20;;;;;;;;;2020;103;Flood and Land Slide
+5; Sanggau;1;;;;;54;;1;;;;;2;;;2020;103;Flood and Land Slide
+10; Melawi;1;1;;;88288;955;;;;;;;;;;2020;103;Flood and Land Slide
+6; Ketapang;1;;;;;;11;;;;;;;;;2020;104;Abration
+2; Bengkayang;1;;;1;;21;124;;;;;;;;;2020;105;Tornado
+3; Landak;3;;;;;;45;;;;;;;;;2020;105;Tornado
+4; Mempawah;2;;;;;15;6;;;;;;;;;2020;105;Tornado
+5; Sanggau;1;;;;;;1;;;;;;;;;2020;105;Tornado
+9; Sekadau;1;;;;140;;28;;;;;;1;;;2020;105;Tornado
+10; Melawi;1;;;;;;10;;;;;;;;;2020;105;Tornado
+71; Kota Pontianak;5;;;;10;;799;1;;;;;;;;2020;105;Tornado
+72; Kota Singkawang;4;1;;2;;9;62;;;1;;;;;;2020;105;Tornado
+1; Sambas;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Mempawah;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+71; Kota Pontianak;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Bengkayang;8;0;0;0;2052;140;1;1;1;0;0;1;7;0;0;2021;101;Flood
+3; Landak;2;;;;2857;32;;;;;;;;;;2021;101;Flood
+4; Mempawah;1;;;;45800;342;;;;;;;;;;2021;101;Flood
+5; Sanggau;33;0;0;0;115;7039;7;0;0;0;0;0;0;0;0;2021;101;Flood
+6; Ketapang;2;;;;10036;;;;;;;;2;;;2021;101;Flood
+7; Sintang;1;;;;5425;2634;;;;;;;1;;;2021;101;Flood
+8; Kapuas Hulu;6;;;;31005;1681;10;;;;;;1;;;2021;101;Flood
+10; Melawi;1;;;;560;;;;;;;;;;;2021;101;Flood
+72; Kota Singkawang;1;;;;;11;;;;;;;;;;2021;101;Flood
+2; Bengkayang;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+5; Sanggau;13;0;0;1;4;30;17;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+2; Bengkayang;3;;;;2277;;;;;;;;9;;;2021;103;Flood and Land Slide
+11; Kayong Utara;1;1;1;2;24225;;1;;;;;;;;;2021;103;Flood and Land Slide
+2; Bengkayang;1;;;;190;;45;;;;;;;;29;2021;104;Abration
+2; Bengkayang;2;0;0;0;0;5;1;0;0;0;0;0;0;0;0;2021;105;Tornado
+5; Sanggau;7;0;0;0;25;5;56;0;0;0;0;0;0;0;0;2021;105;Tornado
+9; Sekadau;1;;;;;;1;;;;;;;;;2021;105;Tornado
+10; Melawi;1;;;;;;;;;;;;;;;2021;105;Tornado
+72; Kota Singkawang;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;Tornado
+1; Sambas;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+3; Landak;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+4; Mempawah;1;;;2;;1;;;;;;;;;;2021;107;Forest Fire
+5; Sanggau;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+6; Ketapang;4;;;;;;;;;;;;;;;2021;107;Forest Fire
+8; Kapuas Hulu;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+12; Kubu Raya;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+8; Kapuas Hulu;1;0;0;0;192;0;192;2;1;3;0;1;0;0;0;2022;101;Flood
+72; Kota Singkawang;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+5; Sanggau;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Kotawaringin Barat;3;;;;247;;;;;1;;;;;;2019;101;Flood
+2; Kotawaringin Timur;3;;;;2445;;;;;;;;;;;2019;101;Flood
+3; Kapuas;3;;;;9865;;;6;;2;;1;;;;2019;101;Flood
+4; Barito Selatan;1;;;;51;;;;;;;;;;;2019;101;Flood
+5; Barito Utara;2;;;;2440;;;6;3;6;;1;7;;1;2019;101;Flood
+6; Sukamara;1;;;;17;;1;;;;;;;;;2019;101;Flood
+7; Lamandau;3;;;;372;;;1;;1;;2;;;;2019;101;Flood
+9; Katingan;1;;;;291;;;11;2;9;;10;;;;2019;101;Flood
+10; Pulang Pisau;6;;;;10135;170;;44;10;24;;8;;;;2019;101;Flood
+11; Gunung Mas;2;;;;65558;;;;;;;;;;;2019;101;Flood
+13; Murung Raya;4;;;;3699;278;;2;;1;;1;1;;1;2019;101;Flood
+71; Kota Palangka Raya;1;;;;;;;;;;;;;;;2019;101;Flood
+5; Barito Utara;1;;;;12;;3;;;;;;;;;2019;102;Land_Slide
+8; Seruyan;2;;;;10;;3;;;;;;;;;2019;102;Land_Slide
+1; Kotawaringin Barat;1;;;;;;1;;;;;;;;;2019;105;Tornado
+3; Kapuas;6;;;1;37;;51;;;;;;;;;2019;105;Tornado
+5; Barito Utara;1;;;;;;;;;;;1;;;;2019;105;Tornado
+7; Lamandau;1;;;;;;1;;;;;;;;;2019;105;Tornado
+13; Murung Raya;1;;;;;;4;;;1;;;;;4;2019;105;Tornado
+1; Kotawaringin Barat;4;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Kotawaringin Timur;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Kapuas;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Barito Selatan;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Barito Utara;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Sukamara;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Lamandau;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Seruyan;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Katingan;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Pulang Pisau;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+11; Gunung Mas;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+13; Murung Raya;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+71; Kota Palangka Raya;8;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Kotawaringin Barat;14;1;;;46064;136;1;3;1;;;1;8;;;2020;101;Flood
+2; Kotawaringin Timur;4;;;;7695;;;;;;;;;;;2020;101;Flood
+4; Barito Selatan;4;;;;40792;;;;;;;;1;;;2020;101;Flood
+5; Barito Utara;7;;;;14620;;;;;;;;;;;2020;101;Flood
+7; Lamandau;6;1;;;28998;5083;;;;;;;;;;2020;101;Flood
+8; Seruyan;8;;;;82042;830;;;;;;;;;;2020;101;Flood
+9; Katingan;7;1;;;51202;153;;5;1;3;;;;;;2020;101;Flood
+10; Pulang Pisau;4;;;;2118;28;;;;;;;;;;2020;101;Flood
+11; Gunung Mas;2;3;3;;4811;;;;;;;;;;;2020;101;Flood
+13; Murung Raya;6;;;;9534;;;8;13;4;;;4;;;2020;101;Flood
+71; Kota Palangka Raya;2;;;;;;;;;;;;;;;2020;101;Flood
+1; Kotawaringin Barat;1;3;7;;;;;;;;;;;;;2020;102;Land_Slide
+1; Kotawaringin Barat;1;;;;;;4;;;;;;;;;2020;104;Abration
+2; Kotawaringin Timur;1;;;1;;;;;;;;;;;;2020;105;Tornado
+3; Kapuas;1;;;;4;;;;;;;;;;;2020;105;Tornado
+1; Kotawaringin Barat;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Kotawaringin Timur;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+3; Kapuas;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Barito Selatan;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+5; Barito Utara;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+6; Sukamara;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+7; Lamandau;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+8; Seruyan;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+9; Katingan;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Pulang Pisau;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+11; Gunung Mas;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+12; Barito Timur;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+13; Murung Raya;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+71; Kota Palangka Raya;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Kotawaringin Barat;2;;;;206;;;;;;;;;;;2021;101;Flood
+2; Kotawaringin Timur;2;;;;2400;;;;;;;;;;;2021;101;Flood
+3; Kapuas;1;;;;33030;;;;;;;;;;;2021;101;Flood
+4; Barito Selatan;1;;;;2470;;;;;;;;;;;2021;101;Flood
+5; Barito Utara;3;;;;1120;;;1;;1;;1;;;;2021;101;Flood
+7; Lamandau;1;;;;340;;;;;;;;;;;2021;101;Flood
+9; Katingan;1;;;;;;;;;;;;;;;2021;101;Flood
+10; Pulang Pisau;6;;;;7052;;;;;;;;;;;2021;101;Flood
+13; Murung Raya;3;;;;425;;5;;;;;;;;;2021;101;Flood
+1; Kotawaringin Barat;1;;;;5;;1;;;;;;;;;2021;102;Land_Slide
+1; Kotawaringin Barat;3;0;0;0;66;0;23;0;0;0;0;0;0;0;0;2021;104;Abration
+10; Pulang Pisau;1;;;;;;;;;;;;;;;2021;104;Abration
+1; Kotawaringin Barat;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+5; Barito Utara;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+6; Sukamara;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+12; Barito Timur;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+13; Murung Raya;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+71; Kota Palangka Raya;5;;;;;;;;;;;;;;;2021;107;Forest Fire
+1; Kotawaringin Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+1; Kotawaringin Barat;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+2; Kota Baru;1;;;;;24;1;;;;;;;;;2019;101;Flood
+5; Tapin;6;;;;3331;;;;;;;;1;;1;2019;101;Flood
+9; Tabalong;2;;;;91;5;;;;;;;;;;2019;101;Flood
+10; Tanah Bumbu;1;;;;16611;;;;;;;;;;;2019;101;Flood
+11; Balangan;5;;;;1727;;;;;;;;1;;;2019;101;Flood
+71; Kota Banjarmasin;2;;;;9;;;;;;;;;;;2019;101;Flood
+72; Kota Banjar Baru;3;;;;250;;;;;;;;;;;2019;101;Flood
+2; Kota Baru;4;6;2;1;72;1150;22;;;;;;;;1;2019;102;Land_Slide
+3; Banjar;1;5;;;;;;;;;;;;;;2019;102;Land_Slide
+6; Hulu Sungai Selatan;1;;;;2;;1;;;;;;;;;2019;102;Land_Slide
+11; Balangan;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+72; Kota Banjar Baru;3;7;;7;;;1;;;;;;;;;2019;102;Land_Slide
+1; Tanah Laut;1;;;;11;;2;;;;;;;;;2019;104;Abration
+10; Tanah Bumbu;1;;;;;;1;;;;;;;;;2019;104;Abration
+1; Tanah Laut;8;;;;312;;105;;;1;;;;;;2019;105;Tornado
+2; Kota Baru;1;;;;16;;4;;;;;;;;;2019;105;Tornado
+3; Banjar;16;;;;677;;218;;;2;;;;;;2019;105;Tornado
+4; Barito Kuala;7;;;;318;15;93;;;;;;;;;2019;105;Tornado
+5; Tapin;5;;;;21;;6;1;;1;;1;1;;;2019;105;Tornado
+6; Hulu Sungai Selatan;4;;;;7;;5;;;;;1;;;;2019;105;Tornado
+8; Hulu Sungai Utara;2;;;;119;;24;2;;;;;;;;2019;105;Tornado
+9; Tabalong;2;;;2;3;;1;;;;;;;;;2019;105;Tornado
+10; Tanah Bumbu;3;;;1;;;6;;;;;;;;;2019;105;Tornado
+11; Balangan;5;;;;19;;11;;;;;;;;;2019;105;Tornado
+71; Kota Banjarmasin;4;;;;23;22;7;;;;;;;;;2019;105;Tornado
+72; Kota Banjar Baru;2;;;;9;;2;;;;;;;;;2019;105;Tornado
+1; Tanah Laut;1;;;;;;;;;;;;;;;2019;106;Drought
+11; Balangan;1;;;;3820;;;;;;;;;;;2019;106;Drought
+1; Tanah Laut;13;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Kota Baru;4;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Banjar;9;;;;8;;;;;;;;;;;2019;107;Forest Fire
+4; Barito Kuala;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+5; Tapin;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Hulu Sungai Selatan;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Hulu Sungai Tengah;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+8; Hulu Sungai Utara;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Tabalong;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+10; Tanah Bumbu;4;;;;;;;;;;;;;;;2019;107;Forest Fire
+11; Balangan;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+71; Kota Banjarmasin;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+72; Kota Banjar Baru;15;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Tanah Laut;5;;;;13424;;;1;1;2;;;2;;;2020;101;Flood
+2; Kota Baru;1;;;;950;;;;;;;;1;;;2020;101;Flood
+3; Banjar;12;;;;6442;;;;;;;;;;;2020;101;Flood
+5; Tapin;4;;;;2315;;;;;;;;;;;2020;101;Flood
+6; Hulu Sungai Selatan;1;;;;56;;;;;;;;;;;2020;101;Flood
+7; Hulu Sungai Tengah;3;;;;904;;;;;;;;;;;2020;101;Flood
+8; Hulu Sungai Utara;5;;;;59752;;;;;;;;;;;2020;101;Flood
+9; Tabalong;5;;;;23731;;;;;;;;2;;;2020;101;Flood
+10; Tanah Bumbu;6;;;;22496;289;;;;;;;;;;2020;101;Flood
+11; Balangan;14;;;;14558;;;;;;;;;;;2020;101;Flood
+72; Kota Banjar Baru;8;;;;3468;;;;;;;;;;;2020;101;Flood
+3; Banjar;3;;;;25;3;4;;;;;;;;;2020;102;Land_Slide
+11; Balangan;1;;;;36;;;;;;;;;;;2020;102;Land_Slide
+2; Kota Baru;1;;;;190;;2;;;;;;;;;2020;103;Flood and Land Slide
+1; Tanah Laut;1;;;;41;;10;;;;;;;;;2020;104;Abration
+1; Tanah Laut;6;;;;33;;13;1;;;;;;;2;2020;105;Tornado
+3; Banjar;12;;;;212;;78;;;1;;;;;;2020;105;Tornado
+4; Barito Kuala;4;;;;129;;42;;;1;;;;;6;2020;105;Tornado
+5; Tapin;1;;;;2;;1;;;;;;;;;2020;105;Tornado
+6; Hulu Sungai Selatan;3;;;;29;;14;;;;;;;;;2020;105;Tornado
+7; Hulu Sungai Tengah;3;;;;6;;3;;;;;;;;;2020;105;Tornado
+8; Hulu Sungai Utara;2;;;4;26;;6;;;;;;;;;2020;105;Tornado
+9; Tabalong;1;;;;3;;1;;;;;;;;;2020;105;Tornado
+10; Tanah Bumbu;3;;;;31;;6;;;;;;;;;2020;105;Tornado
+11; Balangan;3;;;;9;;3;;;;;;;;;2020;105;Tornado
+71; Kota Banjarmasin;4;;;1;109;;25;;;;;;;;1;2020;105;Tornado
+1; Tanah Laut;19;;;;;;;;;;;;;;;2020;107;Forest Fire
+3; Banjar;8;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Barito Kuala;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+5; Tapin;2;;;;;;;;;;;;;;;2020;107;Forest Fire
+7; Hulu Sungai Tengah;7;;;;;;;;;;;;;;;2020;107;Forest Fire
+9; Tabalong;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Tanah Bumbu;4;;;;;;;;;;;;;;;2020;107;Forest Fire
+11; Balangan;20;;;;;;;;;;;;;;;2020;107;Forest Fire
+72; Kota Banjar Baru;22;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Tanah Laut;2;0;0;0;270;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+2; Kota Baru;1;;;;320;200;1;;;;;;;;;2021;101;Flood
+3; Banjar;3;11;;871;281318;82888;19812;527;117;488;;196;29;;;2021;101;Flood
+4; Barito Kuala;1;5;;;59196;9170;;;;;;;;;;2021;101;Flood
+5; Tapin;2;1;;;1851;328;;;;;;;;;;2021;101;Flood
+6; Hulu Sungai Selatan;1;;;;10534;;32;58;;;;;9;;;2021;101;Flood
+7; Hulu Sungai Tengah;3;10;;;96854;11200;1426;;;;;;;;;2021;101;Flood
+8; Hulu Sungai Utara;1;;;;24927;;;;;;;;;;;2021;101;Flood
+9; Tabalong;1;;;;9937;;;;;;;;;;;2021;101;Flood
+10; Tanah Bumbu;3;;;;13840;360;;;;;;;;;;2021;101;Flood
+11; Balangan;4;;;;30056;48684;;1;10;1;;1;;;;2021;101;Flood
+71; Kota Banjarmasin;1;;;;108524;6514;;;;8;;;;;;2021;101;Flood
+72; Kota Banjar Baru;2;1;;;10507;18451;;;;;;;;;;2021;101;Flood
+3; Banjar;2;;;;18;;7;;;;;;;;;2021;102;Land_Slide
+10; Tanah Bumbu;1;9;1;;22;;;;;;;;;;;2021;102;Land_Slide
+1; Tanah Laut;1;7;;5;142579;13062;1;;;;;;19;;;2021;103;Flood and Land Slide
+1; Tanah Laut;1;;;;22;;6;;;;;;;;;2021;105;Tornado
+3; Banjar;7;;;;255;;67;;;1;;;;;;2021;105;Tornado
+8; Hulu Sungai Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;Tornado
+10; Tanah Bumbu;1;;;;84;;22;;;;;;;;;2021;105;Tornado
+71; Kota Banjarmasin;1;;;;;;;;;;;;;;2;2021;105;Tornado
+1; Tanah Laut;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+4; Barito Kuala;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+5; Tapin;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+8; Hulu Sungai Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;Forest Fire
+11; Balangan;3;;;;;;;;;;;;;;;2021;107;Forest Fire
+72; Kota Banjar Baru;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+1; Tanah Laut;4;0;0;0;2835;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+1; Tanah Laut;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Paser;1;;;;499;;;2;1;1;;2;;;;2019;101;Flood
+3; Kutai Kartanegara;1;;;;16385;95;21;;;1;;;;;;2019;101;Flood
+9; Penajam Paser Utara;8;;;;2706;54;;1;1;1;;;18;;;2019;101;Flood
+72; Kota Samarinda;1;;;;56123;10;;;;;;;;;;2019;101;Flood
+74; Kota Bontang;1;;;;10065;;;;;;;;;;;2019;101;Flood
+1; Paser;1;;;;50;10;3;;;;;;;;;2019;102;Land_Slide
+3; Kutai Kartanegara;1;;;;30;;6;;;;;;;;;2019;102;Land_Slide
+9; Penajam Paser Utara;3;;;;;;1;2;;;;;1;;;2019;102;Land_Slide
+72; Kota Samarinda;4;1;3;;10;15;5;;;;;;;;;2019;102;Land_Slide
+1; Paser;1;;;;105;;21;;;;;;3;;;2019;104;Abration
+1; Paser;1;;;;;;3;;;;;;;;;2019;105;Tornado
+9; Penajam Paser Utara;1;;;;4;;1;1;;;;;;;;2019;105;Tornado
+1; Paser;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Kutai Barat;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Kutai Kartanegara;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Kutai Timur;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+9; Penajam Paser Utara;10;;;;;;;;;;;;;;;2019;107;Forest Fire
+71; Kota Balikpapan;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+72; Kota Samarinda;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+74; Kota Bontang;7;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Paser;4;;;;3274;;;;;;;;;;;2020;101;Flood
+3; Kutai Kartanegara;3;;;;4167;1547;6;;;;;;;;;2020;101;Flood
+5; Berau;2;;;;215;;;;;;;;;;;2020;101;Flood
+9; Penajam Paser Utara;8;;;;1184;;;;;;;;;;;2020;101;Flood
+71; Kota Balikpapan;1;;;;;;;;;;;;;;;2020;101;Flood
+72; Kota Samarinda;4;;;;62208;44873;;10;5;21;;;;;;2020;101;Flood
+1; Paser;1;;;;;;;;;;;;1;;;2020;102;Land_Slide
+4; Kutai Timur;1;;;;;;2;;;;;;;;;2020;102;Land_Slide
+5; Berau;2;;;;;;1;2;;;;;;;;2020;102;Land_Slide
+71; Kota Balikpapan;5;;;;10;;9;;;;;;;;;2020;102;Land_Slide
+72; Kota Samarinda;13;;;;71;;44;;;2;;;;;;2020;102;Land_Slide
+3; Kutai Kartanegara;2;;;;;;14;;;;;;;;;2020;105;Tornado
+4; Kutai Timur;1;;;;;;39;;;;;;;;;2020;105;Tornado
+9; Penajam Paser Utara;4;;;;10;;15;;;1;;;;;;2020;105;Tornado
+1; Paser;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+2; Kutai Barat;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2020;107;Forest Fire
+4; Kutai Timur;21;;;;;;;;;;;;;;;2020;107;Forest Fire
+5; Berau;11;;;;;;;;;;;;;;;2020;107;Forest Fire
+9; Penajam Paser Utara;9;;;;;;;;;;;;;;;2020;107;Forest Fire
+71; Kota Balikpapan;3;;;;;;;;;;;;;;;2020;107;Forest Fire
+72; Kota Samarinda;6;;;;;;;;;;;;;;;2020;107;Forest Fire
+74; Kota Bontang;11;;;;;;;;;;;;;;;2020;107;Forest Fire
+1; Paser;1;0;0;0;459;15;0;0;0;0;0;0;0;0;0;2021;101;Flood
+3; Kutai Kartanegara;1;;;;;;;;;;;;;;;2021;101;Flood
+4; Kutai Timur;1;;;;9935;15;;;;;;;;;;2021;101;Flood
+5; Berau;1;;;;5145;;;;;;;;;;;2021;101;Flood
+9; Penajam Paser Utara;1;;;;147;;;;;;;;;;;2021;101;Flood
+71; Kota Balikpapan;1;;;;975;;;;;;;;;;;2021;101;Flood
+72; Kota Samarinda;1;;;;968;35;;;;;;;;;;2021;101;Flood
+74; Kota Bontang;1;;;;25;;;;;;;;;;;2021;101;Flood
+3; Kutai Kartanegara;2;;;;50;;4;;;;;;;;;2021;102;Land_Slide
+9; Penajam Paser Utara;1;;;;22;15;1;;;;;;;;;2021;102;Land_Slide
+72; Kota Samarinda;3;;;;50;;6;;;;;;;;;2021;102;Land_Slide
+4; Kutai Timur;1;;;;;;7;;;;;;;;;2021;105;Tornado
+9; Penajam Paser Utara;2;;;;;;13;;;;;;;;;2021;105;Tornado
+1; Paser;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+5; Berau;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+9; Penajam Paser Utara;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+74; Kota Bontang;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+74; Kota Bontang;8;0;0;0;6092;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+74; Kota Bontang;3;0;0;0;6;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+74; Kota Bontang;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Malinau;1;;;;;;;2;;1;;3;;;;2019;101;Flood
+2; Bulungan;1;;;;;;3;;;;;;;;;2019;101;Flood
+4; Nunukan;3;;;;;;10;;;;;;2;;;2019;101;Flood
+71; Kota Tarakan;1;;;1;42;;14;;;;;;;;;2019;102;Land_Slide
+4; Nunukan;1;;;;;;3;;;;;;;;;2019;105;Tornado
+1; Malinau;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Bulungan;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Tana Tidung;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Nunukan;6;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Malinau;2;;;;;;;;;;;;;;;2020;101;Flood
+4; Nunukan;3;;;;100;;;;;;;;;;;2020;101;Flood
+71; Kota Tarakan;1;;;;;;;;;;;;1;;;2020;101;Flood
+71; Kota Tarakan;13;11;;3;430;;67;;;;;;3;;;2020;102;Land_Slide
+4; Nunukan;1;;;;275;;4;;;;;;;;;2020;103;Flood and Land Slide
+4; Nunukan;1;;;;;25;8;;;;;;;;;2020;104;Abration
+2; Bulungan;1;;;;2;;1;;;;;;;;;2020;105;Tornado
+3; Tana Tidung;1;;;;;2;1;;;;;;;;;2020;105;Tornado
+4; Nunukan;5;;;;;4;13;;;;;;;;5;2020;105;Tornado
+71; Kota Tarakan;1;;;;;;1;;;;;;;;;2020;105;Tornado
+2; Bulungan;11;;;;;;;;;;;;;;;2020;107;Forest Fire
+4; Nunukan;36;;;3;;;;;;;;;;;;2020;107;Forest Fire
+1; Malinau;1;;;;19875;;3;;;;;;;;;2021;101;Flood
+2; Bulungan;3;0;0;0;1201;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+4; Nunukan;4;;;;6741;;;;;;;;;;;2021;101;Flood
+2; Bulungan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+4; Nunukan;1;0;0;0;0;0;9;0;0;0;0;0;0;0;0;2021;104;Abration
+2; Bulungan;2;;;;;;;;;;;;;;;2021;107;Forest Fire
+4; Nunukan;1;;;;;;;;;;;;;;;2021;107;Forest Fire
+2; Bulungan;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+4; Nunukan;3;0;0;0;0;342;1034;0;0;0;0;0;0;0;0;2022;101;Flood
+4; Nunukan;2;0;0;0;0;25;4;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+4; Nunukan;2;0;0;0;0;292;10;2;1;1;5;0;0;0;0;2022;103;Flood and Land Slide
+4; Nunukan;4;0;0;0;0;7;4;0;0;0;0;0;0;0;0;2022;105;Tornado
+2; Bulungan;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+4; Nunukan;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+2; Minahasa;1;;;;420;;6;;;;;;;;;2019;101;Flood
+3; Kepulauan Sangihe;1;;;;338;62;;;;;;;;;;2019;101;Flood
+7; Bolaang Mongondow Utara;2;;;;3918;297;1;;;;;;;;;2019;101;Flood
+71; Kota Manado;1;4;;;11855;511;892;;;;;;;;;2019;101;Flood
+1; Bolaang Mongondow;1;16;;18;;;;;;;;;;;;2019;102;Land_Slide
+2; Minahasa;2;;;;;5;2;;;;;;;;;2019;102;Land_Slide
+72; Kota Bitung;1;;;1;;;1;;;;;;;;;2019;102;Land_Slide
+1; Bolaang Mongondow;2;;;1;;;119;2;1;3;;;;;;2019;105;Tornado
+2; Minahasa;3;;;;;;30;;;;;;;;6;2019;105;Tornado
+71; Kota Manado;1;1;;;;5;1;;;;;;;;;2019;105;Tornado
+7; Bolaang Mongondow Utara;1;;;;635;;;;;;;;;;;2019;106;Drought
+2; Minahasa;1;;;;;;2;;;;;;;;;2019;108;Earthquake
+9; Minahasa Tenggara;1;;;;;;;;;;;1;;;;2019;108;Earthquake
+8; Siau Tagulandang Biaro;1;;;;;216;;;;;;;2;;;2019;111;Volcano Eruption
+4; Kepulauan Talaud;1;;;;45;;;;;;;;;;;2020;101;Flood
+7; Bolaang Mongondow Utara;1;2;;;27512;;7169;1;;1;;;;;12;2020;101;Flood
+10; Bolaang Mongondow Selatan;2;0;1;0;1100;0;0;0;0;0;0;0;1;0;0;2020;101;Flood
+72; Kota Bitung;2;;;;413;;;;;;;;;;;2020;101;Flood
+1; Bolaang Mongondow;1;;;;9;;3;;;;;;;;;2020;102;Land_Slide
+5; Minahasa Selatan;1;;;;2;8;2;;;;;;;;;2020;102;Land_Slide
+1; Bolaang Mongondow;2;1;;;1546;250;199;2;;3;;1;1;;;2020;103;Flood and Land Slide
+3; Kepulauan Sangihe;1;3;;6;;412;76;;;1;;;1;;;2020;103;Flood and Land Slide
+10; Bolaang Mongondow Selatan;1;1;;;23689;165;94;;;;;;6;;;2020;103;Flood and Land Slide
+72; Kota Bitung;1;;;;976;;56;;;;;;;;;2020;103;Flood and Land Slide
+4; Kepulauan Talaud;1;;;;50;;;;;;;;;;;2020;104;Abration
+7; Bolaang Mongondow Utara;2;;;;;;24;1;;;;;;;;2020;104;Abration
+4; Kepulauan Talaud;1;;;;;;8;;;;;;;;;2020;105;Tornado
+7; Bolaang Mongondow Utara;1;;;;;;;1;;;;;;;;2020;105;Tornado
+10; Bolaang Mongondow Selatan;2;;;;;;33;1;;;;;;;;2020;105;Tornado
+4; Kepulauan Talaud;1;;;2;;;136;2;;7;;2;;;;2020;108;Earthquake
+4; Kepulauan Talaud;1;;;;;;;;;;;;;;;2021;101;Flood
+6; Minahasa Utara;1;;;;;;;;;;;;;;;2021;101;Flood
+7; Bolaang Mongondow Utara;4;0;0;0;812;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+8; Siau Tagulandang Biaro;2;;;;;163;3;;;;;;;;;2021;101;Flood
+71; Kota Manado;2;6;;;2694;500;;;;;;;;;;2021;101;Flood
+72; Kota Bitung;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+72; Kota Bitung;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+1; Bolaang Mongondow;1;;;;6251;;6;;;;;;;;;2021;103;Flood and Land Slide
+3; Kepulauan Sangihe;1;1;;;;1115;;;;;;;;;;2021;103;Flood and Land Slide
+71; Kota Manado;1;2;;2;;2021;13;;;;;;;;;2021;103;Flood and Land Slide
+6; Minahasa Utara;1;;;;;;12;;;;;;;;;2021;104;Abration
+7; Bolaang Mongondow Utara;1;0;0;0;1;25;0;0;0;0;0;0;0;0;0;2021;104;Abration
+8; Siau Tagulandang Biaro;2;;;;82;175;19;1;;;;;;;;2021;104;Abration
+4; Kepulauan Talaud;1;;;;;;4;;;1;;3;;;2;2021;105;Tornado
+5; Minahasa Selatan;1;;;1;;25;49;;;;;;;;;2021;105;Tornado
+6; Minahasa Utara;3;0;0;0;0;0;20;0;0;0;0;0;0;0;0;2021;105;Tornado
+7; Bolaang Mongondow Utara;1;;;;7;;2;;;;;;;;;2021;105;Tornado
+8; Siau Tagulandang Biaro;1;;;;;63;5;;;;;;;;;2021;105;Tornado
+72; Kota Bitung;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;Tornado
+74; Kota Kotamobagu;1;;;;125;;1;;;;;;;;;2021;105;Tornado
+4; Kepulauan Talaud;2;;;;40;;8;;2;2;;1;;;;2021;108;Earthquake
+6; Minahasa Utara;5;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2022;101;Flood
+7; Bolaang Mongondow Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+72; Kota Bitung;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+6; Minahasa Utara;4;0;0;0;0;0;1;0;0;0;0;1;0;0;0;2022;102;Land_Slide
+7; Bolaang Mongondow Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+72; Kota Bitung;15;0;0;0;0;3;6;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+74; Kota Kotamobagu;1;0;0;0;0;0;1;0;0;0;1;0;0;0;0;2022;102;Land_Slide
+6; Minahasa Utara;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;105;Tornado
+72; Kota Bitung;6;0;0;0;1;4;5;0;0;0;0;0;0;0;0;2022;105;Tornado
+72; Kota Bitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;108;Earthquake
+2; Banggai;2;;;;7250;;;;;;;;3;;;2019;101;Flood
+3; Morowali;1;1;;;;2277;7;;;;;;3;;;2019;101;Flood
+4; Poso;1;;;;;;;;;;;;;;;2019;101;Flood
+5; Donggala;1;;;;;900;10;;;;;;1;;;2019;101;Flood
+6; Toli-Toli;2;;;;;24;4;;;;;;1;;;2019;101;Flood
+7; Buol;1;;;;696;;;;;;;;1;;;2019;101;Flood
+8; Parigi Moutong;2;;;;1645;39;8;;1;;;;;;;2019;101;Flood
+10; Sigi;6;2;2;30;2592;4294;506;8;5;4;;3;8;;;2019;101;Flood
+12; Morowali Utara;2;;;1;;373;5;;;;;;;;;2019;101;Flood
+2; Banggai;1;;;2;;;;;;;;;;;;2019;102;Land_Slide
+2; Banggai;2;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Banggai;1;1;;2;;6500;43;1;;2;;;;;;2019;108;Earthquake
+4; Poso;1;;;;;;;49;;;;;;;;2019;108;Earthquake
+2; Banggai;3;;;;2408;348;8;;;1;;;;;;2020;101;Flood
+3; Morowali;1;;;;;605;;;;;;;;;;2020;101;Flood
+4; Poso;4;;1;;5230;952;133;;;;;;3;;;2020;101;Flood
+5; Donggala;2;;;;8345;;1;;;;;;3;;;2020;101;Flood
+6; Toli-Toli;5;;;;3235;3310;3;;;;;;2;;;2020;101;Flood
+7; Buol;2;;;;7573;;;;;;;;;;;2020;101;Flood
+8; Parigi Moutong;9;;;;10625;499;247;1;1;1;;;4;;;2020;101;Flood
+9; Tojo Una-Una;1;;;;;;2;;;;;;;;;2020;101;Flood
+10; Sigi;11;0;0;1;815;702;77;0;0;1;0;2;1;0;0;2020;101;Flood
+12; Morowali Utara;5;;;;7398;;;;;;;;;;;2020;101;Flood
+6; Toli-Toli;1;;;;13;;3;;;;;;;;;2020;102;Land_Slide
+8; Parigi Moutong;1;;;;20;16;4;;;;;;;;;2020;102;Land_Slide
+10; Sigi;1;;;;;;6;;;;;;;;;2020;102;Land_Slide
+11; Banggai Laut;1;;;;;;1;;;;;;;;;2020;102;Land_Slide
+12; Morowali Utara;1;;;1;22;;3;;;;;;;;;2020;102;Land_Slide
+5; Donggala;1;;;;;83;;;;;;;;;;2020;103;Flood and Land Slide
+6; Toli-Toli;2;;;1;3745;;;;;;;;;;1;2020;103;Flood and Land Slide
+10; Sigi;1;;;;148;50;6;;;;;;;;;2020;103;Flood and Land Slide
+8; Parigi Moutong;1;;;;20;;;;;;;;;;;2020;105;Tornado
+9; Tojo Una-Una;1;;;;;;11;;;;;;;;;2020;105;Tornado
+8; Parigi Moutong;1;;;;;;;;;;;;;;;2020;107;Forest Fire
+10; Sigi;1;;;9;;;136;2;;4;;2;;;;2020;108;Earthquake
+2; Banggai;3;0;0;0;423;0;1;0;0;2;0;0;0;0;0;2021;101;Flood
+3; Morowali;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+4; Poso;30;0;0;0;0;0;10;0;0;0;0;0;0;0;0;2021;101;Flood
+5; Donggala;2;0;0;0;1000;0;9;0;0;0;0;0;5;0;0;2021;101;Flood
+6; Toli-Toli;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+7; Buol;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+8; Parigi Moutong;6;0;0;0;275;0;55;0;0;0;0;0;0;0;0;2021;101;Flood
+9; Tojo Una-Una;5;0;0;0;363;23;8;0;0;0;0;0;0;0;0;2021;101;Flood
+10; Sigi;7;0;0;0;0;935;365;0;0;0;0;0;4;0;0;2021;101;Flood
+11; Banggai Laut;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+71; Kota Palu;2;0;0;0;145;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+4; Poso;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+8; Parigi Moutong;1;6;1;3;;;;;;;;;;;;2021;102;Land_Slide
+4; Poso;10;2;0;0;10;0;19;0;1;1;0;0;0;0;0;2021;105;Tornado
+8; Parigi Moutong;2;0;0;0;0;0;20;0;0;0;0;0;0;0;0;2021;105;Tornado
+9; Tojo Una-Una;5;1;0;0;0;1;5;0;0;0;0;0;0;0;0;2021;105;Tornado
+2; Banggai;1;;;;;;6;1;;3;;;;;;2021;108;Earthquake
+9; Tojo Una-Una;1;;;;;;5;;;;;;;;;2021;108;Earthquake
+11; Banggai Laut;1;;;;;;;;;;;;;;;2021;108;Earthquake
+4; Poso;8;0;0;0;0;0;15;0;0;0;0;0;0;0;0;2022;101;Flood
+8; Parigi Moutong;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+9; Tojo Una-Una;20;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+10; Sigi;8;0;0;0;0;0;243;0;0;0;52;0;3;0;0;2022;101;Flood
+4; Poso;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+12; Morowali Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+10; Sigi;1;0;0;0;0;0;15;0;0;0;0;0;3;0;0;2022;103;Flood and Land Slide
+4; Poso;2;0;0;0;0;0;3;0;0;1;0;0;0;0;0;2022;105;Tornado
+10; Sigi;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+12; Morowali Utara;4;0;0;0;0;0;2;0;0;2;0;0;0;0;0;2022;105;Tornado
+12; Morowali Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;Forest Fire
+1; Kepulauan Selayar;1;2;;;4455;109;292;2;;;;2;15;;;2019;101;Flood
+2; Bulukumba;1;;;;;;;;;;;;;;;2019;101;Flood
+4; Jeneponto;1;15;1;;;3276;937;26;;;;;22;;;2019;101;Flood
+5; Takalar;1;2;;;7975;;3;;;;;;;;;2019;101;Flood
+6; Gowa;1;56;1;46;;2121;10;;;;;;9;;;2019;101;Flood
+8; Maros;2;6;;;182915;426;13;;;1;;;1;;;2019;101;Flood
+9; Pangkajene Dan Kepulauan;1;;1;1;;;;1;;1;;;;;;2019;101;Flood
+10; Barru;4;;;;;;;5;1;;;2;;;;2019;101;Flood
+11; Bone;1;;;;;;;;;;;;;;;2019;101;Flood
+12; Soppeng;2;1;;;31435;;;;;;;;;;;2019;101;Flood
+13; Wajo;7;;;;61868;481;2;74;24;42;;19;36;;;2019;101;Flood
+14; Sidenreng Rappang;4;;;;16695;;8;9;;1;;;1;;;2019;101;Flood
+15; Pinrang;2;;;;3000;;578;;;;;;;;;2019;101;Flood
+16; Enrekang;1;;;;;300;;;;;;;;;;2019;101;Flood
+17; Luwu;6;;;;8310;;3;15;;19;;7;;;;2019;101;Flood
+18; Tana Toraja;2;;;1;500;;1;;;;;;;;;2019;101;Flood
+22; Luwu Utara;1;;;;12437;;2;;;;;;;;;2019;101;Flood
+25; Luwu Timur;7;;;;12727;100;;1;;;;;1;;;2019;101;Flood
+71; Kota Makassar;1;1;;;9328;1000;;;;;;;;;;2019;101;Flood
+1; Kepulauan Selayar;1;;;;;5;1;;;;;;;;;2019;102;Land_Slide
+6; Gowa;1;;;6;10;;2;;;;;;;;;2019;102;Land_Slide
+10; Barru;1;;;;3;;1;;;;;;;;;2019;102;Land_Slide
+14; Sidenreng Rappang;2;;;;670;;;;;;;;1;;;2019;102;Land_Slide
+16; Enrekang;2;;;;5;450;10;;;;;;;;;2019;102;Land_Slide
+18; Tana Toraja;12;;;1;4;233;37;3;;;;;1;;;2019;102;Land_Slide
+25; Luwu Timur;1;;;;13;;10;;;;;;;;;2019;102;Land_Slide
+5; Takalar;1;;;;;;3;;;;;;;;;2019;104;Abration
+2; Bulukumba;1;;;;;;40;;;;;;;;;2019;105;Tornado
+3; Bantaeng;1;;;;;;1;;;;;;;;;2019;105;Tornado
+4; Jeneponto;1;;;;;;11;;;;;;;;;2019;105;Tornado
+5; Takalar;3;;;;5;;41;;;;;;;;;2019;105;Tornado
+7; Sinjai;7;;;;125;;47;;;;;;;;;2019;105;Tornado
+8; Maros;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2019;105;Tornado
+9; Pangkajene Dan Kepulauan;5;;;;141;;41;1;;;;;;;;2019;105;Tornado
+10; Barru;4;;;;144;4;46;;;;;;;;;2019;105;Tornado
+11; Bone;4;;;;220;;68;;;;;;;;;2019;105;Tornado
+12; Soppeng;2;;;;245;;77;;;;;;;;;2019;105;Tornado
+13; Wajo;5;;;;144;;53;1;;;;;;;;2019;105;Tornado
+14; Sidenreng Rappang;8;;;;39;;191;;;;;;;;4;2019;105;Tornado
+15; Pinrang;3;;;;;;38;;;;;;;;;2019;105;Tornado
+16; Enrekang;4;;;4;30;;97;2;;1;;;;;;2019;105;Tornado
+18; Tana Toraja;12;;;;223;23;52;2;;2;;;;;;2019;105;Tornado
+22; Luwu Utara;2;;;;290;5;74;;;;;;;;;2019;105;Tornado
+25; Luwu Timur;3;;;;56;;14;;;;;;;;;2019;105;Tornado
+26; Toraja Utara;2;;;;;;2;;;;;;;;;2019;105;Tornado
+4; Jeneponto;2;;;;9374;;;;;;;;;;;2019;106;Drought
+5; Takalar;1;;;;3407;;;;;;;;;;;2019;106;Drought
+5; Takalar;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+6; Gowa;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+12; Soppeng;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+13; Wajo;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+16; Enrekang;5;;;;;;;;;;;;;;;2019;107;Forest Fire
+18; Tana Toraja;14;;;;;;;;;;;;;;;2019;107;Forest Fire
+22; Luwu Utara;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+25; Luwu Timur;3;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Bulukumba;1;;;;769;95;;;;;;;;;;2020;101;Flood
+3; Bantaeng;1;1;;;34575;245;2291;;;;;;6;;;2020;101;Flood
+9; Pangkajene Dan Kepulauan;1;;;;85;;;;;;;;;;;2020;101;Flood
+10; Barru;1;1;;;;;3;;;;;;;;;2020;101;Flood
+11; Bone;3;;;;3800;;;;;;;;;;;2020;101;Flood
+13; Wajo;5;;;;101559;2542;10;118;60;89;;27;52;;;2020;101;Flood
+14; Sidenreng Rappang;6;;;;4630;60;;10;1;;;2;2;;;2020;101;Flood
+15; Pinrang;5;;;;600;1000;;;;1;;;;;;2020;101;Flood
+16; Enrekang;2;;;;;83;2;;;;;1;;;;2020;101;Flood
+17; Luwu;8;;;;19860;145;10;44;12;29;;21;;;;2020;101;Flood
+18; Tana Toraja;3;1;;;231;132;6;;;;;;;;;2020;101;Flood
+22; Luwu Utara;6;;;;22373;;;1;;2;;;;;;2020;101;Flood
+25; Luwu Timur;3;;;;720;24;;;;;;;;;;2020;101;Flood
+71; Kota Makassar;2;;;;605;445;;;;;;;;;;2020;101;Flood
+72; Kota Parepare;1;;;;;;;;;;;;;;;2020;101;Flood
+73; Kota Palopo;1;;;;65;;;;;;;;;;;2020;101;Flood
+2; Bulukumba;1;4;;;;;;;;;;;;;;2020;102;Land_Slide
+7; Sinjai;2;;;;10;;3;;;;;;;;;2020;102;Land_Slide
+9; Pangkajene Dan Kepulauan;1;;;;15;;3;;;;;;;;;2020;102;Land_Slide
+13; Wajo;1;;;;;;;1;;;;;;;;2020;102;Land_Slide
+15; Pinrang;2;;;;10;;4;;;;;;;;;2020;102;Land_Slide
+16; Enrekang;2;;;;5;;1;;;;;;1;;;2020;102;Land_Slide
+18; Tana Toraja;14;6;;4;455;13;30;;;;;;;;1;2020;102;Land_Slide
+25; Luwu Timur;1;2;;1;2;;2;;;;;;;;;2020;102;Land_Slide
+26; Toraja Utara;3;;;;30;;6;1;1;;;1;;;;2020;102;Land_Slide
+72; Kota Parepare;1;;;;;;2;;;;;;;;;2020;102;Land_Slide
+73; Kota Palopo;2;;;;247;35;16;;;;;;;;;2020;102;Land_Slide
+4; Jeneponto;1;4;;4;;235;136;;;;;;;;;2020;103;Flood and Land Slide
+22; Luwu Utara;2;39;9;106;15994;15571;4139;10;5;15;;10;10;;;2020;103;Flood and Land Slide
+2; Bulukumba;1;;;;110;;3;;;;;;;;;2020;104;Abration
+13; Wajo;1;;;;;;11;;;;;;;;;2020;104;Abration
+15; Pinrang;3;;;;1000;;1;;;;;;;;;2020;104;Abration
+1; Kepulauan Selayar;1;;;;;;8;;;;;;;;;2020;105;Tornado
+2; Bulukumba;3;;;;8;;12;;;;;;;;10;2020;105;Tornado
+3; Bantaeng;3;;;;9;;1;1;;;;;;;1;2020;105;Tornado
+4; Jeneponto;1;;;;;;1;;;;;;;;;2020;105;Tornado
+5; Takalar;5;;;;85;;15;;;;;;;;;2020;105;Tornado
+6; Gowa;2;;;;30;;22;;;;;;;;;2020;105;Tornado
+7; Sinjai;5;;;1;;;18;;;;;;;;;2020;105;Tornado
+8; Maros;4;;;;205;;20;;;;;;;;;2020;105;Tornado
+9; Pangkajene Dan Kepulauan;8;;;;35;;10;3;1;;;;;;;2020;105;Tornado
+10; Barru;6;;;1;87;;235;1;;;;;;;9;2020;105;Tornado
+11; Bone;4;;;;50;;43;;;;;;;;;2020;105;Tornado
+12; Soppeng;1;;;;320;;64;;;;;;;;;2020;105;Tornado
+13; Wajo;7;;;;1479;1;378;4;2;1;;;;;;2020;105;Tornado
+14; Sidenreng Rappang;6;;;;18;;2020;4;;1;;4;;;39;2020;105;Tornado
+15; Pinrang;7;;;;100;;934;;;;;;;;;2020;105;Tornado
+16; Enrekang;1;;;;;;8;;;;;;;;;2020;105;Tornado
+18; Tana Toraja;5;;;;17;;5;;;;;;;;;2020;105;Tornado
+22; Luwu Utara;1;;;;;;6;;;;;;;;;2020;105;Tornado
+25; Luwu Timur;5;1;;;67;;21;;;;;1;;;;2020;105;Tornado
+72; Kota Parepare;2;;;2;65;;813;;;;;;;;;2020;105;Tornado
+73; Kota Palopo;1;;;;;;1;;;;;;;;;2020;105;Tornado
+4; Jeneponto;1;;;;1000;;;;;;;;;;;2021;101;Flood
+6; Gowa;1;;;;250;;;;;;;;;;;2021;101;Flood
+13; Wajo;7;;;;20709;7;54;;;;;;1;;;2021;101;Flood
+17; Luwu;1;;;;1260;;;;;;;;2;;;2021;101;Flood
+22; Luwu Utara;3;;;;4150;;;;;;;;;;;2021;101;Flood
+71; Kota Makassar;1;;;;1239;;;;;;;;;;;2021;101;Flood
+73; Kota Palopo;1;;;;45;;;;;;;;;;;2021;101;Flood
+8; Maros;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+13; Wajo;1;;;;20;;4;;;;;;;;;2021;102;Land_Slide
+15; Pinrang;1;;;;;;;;;;;;;;;2021;102;Land_Slide
+25; Luwu Timur;1;;;;5;;1;;;;;;;;;2021;102;Land_Slide
+2; Bulukumba;1;;;;3000;16;5;;;;;;5;;;2021;103;Flood and Land Slide
+3; Bantaeng;1;;;;4992;;;;;;;;;;;2021;103;Flood and Land Slide
+4; Jeneponto;1;;;;2440;;107;;;;;;;;;2021;103;Flood and Land Slide
+7; Sinjai;1;;;;1000;20;;;;;;;;;;2021;103;Flood and Land Slide
+2; Bulukumba;1;;;;30;;;;;;;;;;;2021;104;Abration
+4; Jeneponto;1;;;;2;;1;;;;;;;;;2021;105;Tornado
+7; Sinjai;1;;;;90;;18;;;1;;;;;;2021;105;Tornado
+8; Maros;19;0;0;0;0;0;7;0;0;0;0;0;0;0;0;2021;105;Tornado
+11; Bone;1;;;;;;15;;;;;;;;;2021;105;Tornado
+13; Wajo;3;;;;16;4;5;;;;;1;;;;2021;105;Tornado
+14; Sidenreng Rappang;1;;;4;525;;176;2;1;;;1;;;;2021;105;Tornado
+15; Pinrang;3;;;;30;;18;;;;;;;;;2021;105;Tornado
+17; Luwu;1;1;;7;;250;113;;;;;;;;;2021;105;Tornado
+22; Luwu Utara;1;;;;;;;;;;;;;;17;2021;105;Tornado
+25; Luwu Timur;2;;;;43;;9;;;;;;;;;2021;105;Tornado
+22; Luwu Utara;1;;;;;;;;;;;;;;;2021;108;Earthquake
+7; Sinjai;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+25; Luwu Timur;2;0;0;0;0;0;8;0;0;0;0;0;0;0;0;2022;108;Earthquake
+3; Konawe;1;2;;;94533;32824;6285;;;41;;;1;;;2019;101;Flood
+5; Konawe Selatan;1;;;;5295;996;;;;;;;;;;2019;101;Flood
+8; Kolaka Utara;1;;;;;4;1;;;;;;;;;2019;101;Flood
+9; Buton Utara;1;;;;420;;;;;;;;;;;2019;101;Flood
+10; Konawe Utara;1;;;;18765;10135;370;30;8;5;;2;4;;;2019;101;Flood
+14; Buton Tengah;1;;;;;138;46;;;;;;;;;2019;101;Flood
+71; Kota Kendari;2;;;;1984;100;;;;;;;;;;2019;101;Flood
+8; Kolaka Utara;1;;;;;155;29;;;;;;;;;2019;102;Land_Slide
+9; Buton Utara;1;;;;;;1;;;;;;;;;2019;102;Land_Slide
+71; Kota Kendari;1;;;;;15;1;;;;;;;;;2019;102;Land_Slide
+4; Kolaka;1;;;;;;8;;;;;;;;;2019;105;Tornado
+5; Konawe Selatan;1;;;;15;;7;1;;;;;;;;2019;105;Tornado
+13; Muna Barat;1;;;;;;3;1;;;;;;;;2019;105;Tornado
+15; Buton Selatan;1;;;;;;75;;;;;;;;;2019;105;Tornado
+4; Kolaka;1;;;;250;;;;;;;;;;;2019;106;Drought
+11; Kolaka Timur;4;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Konawe;1;;;;12416;5565;;10;4;62;;;3;;;2020;101;Flood
+9; Buton Utara;2;;;;750;;;;;;;;;;;2020;101;Flood
+10; Konawe Utara;3;;;;7562;8575;50;1;;;;;;;;2020;101;Flood
+71; Kota Kendari;2;;;;10;;2;;;;;;;;;2020;102;Land_Slide
+4; Kolaka;1;;;;;;4;;;;;;;;;2020;104;Abration
+6; Bombana;2;;;;25;;9;;;;;;;;;2020;105;Tornado
+7; Wakatobi;2;;;;;50;106;;;;;;;;;2020;105;Tornado
+14; Buton Tengah;2;;;;;;10;;;;;;;;;2020;105;Tornado
+71; Kota Kendari;1;;;;75;;28;;;;;;;;;2020;105;Tornado
+1; Buton;1;0;0;0;0;0;21;0;0;0;0;0;0;0;0;2021;101;Flood
+2; Muna;1;;;;670;15;15;1;;;;;1;;;2021;101;Flood
+3; Konawe;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+4; Kolaka;2;;;;515;;;;;;;;;;;2021;101;Flood
+5; Konawe Selatan;1;;;;90;;;;;;;;1;;;2021;101;Flood
+9; Buton Utara;3;;;;530;;;;;;;;2;;;2021;101;Flood
+71; Kota Kendari;1;;;;;;;;;;;;;;;2021;101;Flood
+3; Konawe;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;Land_Slide
+71; Kota Kendari;3;;;;22;;4;;;;;;;;;2021;102;Land_Slide
+72; Kota Baubau;1;;;;35;;7;;;;;;;;;2021;102;Land_Slide
+10; Konawe Utara;1;;;;2547;111;4;;1;;;;;;;2021;103;Flood and Land Slide
+1; Buton;2;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2021;104;Abration
+1; Buton;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2021;105;Tornado
+3; Konawe;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;Tornado
+71; Kota Kendari;1;;;2;45;;3;;;;;;;;;2021;105;Tornado
+1; Buton;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;108;Earthquake
+1; Buton;14;0;0;0;5;81;10;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Konawe;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Konawe;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+3; Konawe;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;Tornado
+1; Boalemo;2;;;;5780;;5;2;;1;;1;;;;2019;101;Flood
+3; Pohuwato;1;;;;;;;;;;;;;;;2019;101;Flood
+2; Gorontalo;2;;;2;21;;3;;;;;;;;;2019;105;Tornado
+2; Gorontalo;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+1; Boalemo;2;;;;3316;;;;;;;;;;;2020;101;Flood
+2; Gorontalo;6;;;;12334;1364;1;11;1;1;;1;2;;;2020;101;Flood
+3; Pohuwato;2;;;;3005;;;;;;;;;;;2020;101;Flood
+4; Bone Bolango;6;4;1;3;18726;9323;408;7;3;1;;;10;;;2020;101;Flood
+5; Gorontalo Utara;3;;;;9384;;1;;;;;;1;;;2020;101;Flood
+71; Kota Gorontalo;4;;;;50154;14945;1455;;;;;;;;;2020;101;Flood
+1; Boalemo;1;;;2;42;;11;;;;;;;;;2020;105;Tornado
+5; Gorontalo Utara;1;;;;42;;8;;;;;;;;;2020;105;Tornado
+1; Boalemo;1;;;;35;;;;;;;;;;;2021;101;Flood
+2; Gorontalo;2;;;;106;;;;;;;;;;;2021;101;Flood
+3; Pohuwato;1;;;;2355;185;;;;;;;2;;;2021;101;Flood
+5; Gorontalo Utara;2;;;;3464;;10;;;;;;1;;;2021;101;Flood
+71; Kota Gorontalo;1;;;1;13;;2;;;;;;;;;2021;102;Land_Slide
+3; Mamasa;1;;;;;;;;;;;;;;;2019;101;Flood
+4; Mamuju;1;;;;1053;20;234;2;;1;;;2;;;2019;101;Flood
+5; Mamuju Utara;2;;;;;50;3;;;;;;;;;2019;101;Flood
+6; Mamuju Tengah;2;;;;5565;131;2;;;;;;1;;;2019;101;Flood
+4; Mamuju;1;;;;;;5;;;;;;;;;2019;102;Land_Slide
+2; Polewali Mandar;3;;;;;;42;;;;;;;;;2019;105;Tornado
+6; Mamuju Tengah;1;;;;;;18;;;;;;;;;2019;105;Tornado
+2; Polewali Mandar;2;;;;1980;1743;;1;;1;;;;;;2020;101;Flood
+5; Mamuju Utara;1;;;;3288;550;;;;;;;;;;2020;101;Flood
+2; Polewali Mandar;1;3;;4;;;1;;;;;;;;;2020;102;Land_Slide
+5; Mamuju Utara;1;;;;1310;;;;;;;;;;;2020;102;Land_Slide
+3; Mamasa;2;;;;340;75;3;;;2;;;2;;;2020;103;Flood and Land Slide
+2; Polewali Mandar;2;;;;29;;6;;;;;;;;;2020;105;Tornado
+6; Mamuju Tengah;1;;;;34;;6;;;;;;;;;2020;105;Tornado
+6; Mamuju Tengah;1;;;1;44;;13;;;;;;;;;2020;108;Earthquake
+6; Mamuju Tengah;3;0;0;0;0;358;40;0;0;0;20;0;2;0;0;2021;101;Flood
+2; Polewali Mandar;1;;;;;;7;;;;;;;;;2021;102;Land_Slide
+1; Majene;1;1;;2;;;;;;;;;;;;2021;103;Flood and Land Slide
+2; Polewali Mandar;1;;;;35;;7;;;;;;1;;;2021;103;Flood and Land Slide
+6; Mamuju Tengah;2;0;0;0;2;2;3;0;0;0;0;0;0;0;0;2021;105;Tornado
+1; Majene;3;11;3;11124;20448;29119;4099;68;27;55;;30;;;2;2021;108;Earthquake
+2; Polewali Mandar;1;;;;;5433;;;;;;;;;;2021;108;Earthquake
+3; Mamasa;1;;;;;;594;;;;;;;;;2021;108;Earthquake
+4; Mamuju;1;96;;;;60505;11423;163;21;44;;51;7;;3;2021;108;Earthquake
+1; Maluku Tenggara Barat;1;;;;;75;;;;;;;;;;2019;101;Flood
+3; Maluku Tengah;1;;;;;;;;;;;;1;;;2019;101;Flood
+6; Seram Bagian Barat;2;;;;251;5;;;;;;;;;;2019;101;Flood
+7; Seram Bagian Timur;6;;;;266;56;1;1;;;;;;;32;2019;101;Flood
+8; Maluku Barat Daya;1;;;;1540;696;40;1;;;;;;;;2019;101;Flood
+2; Maluku Tenggara;1;;;;9;;1;;;;;;;;;2019;102;Land_Slide
+3; Maluku Tengah;1;;;;10;10;4;;;;;;;;;2019;102;Land_Slide
+6; Seram Bagian Barat;2;;;;225;;45;1;;;;;1;;;2019;102;Land_Slide
+71; Kota Ambon;3;;;1;30;5;15;4;;;;;2;;;2019;102;Land_Slide
+4; Buru;1;;;;;305;62;;;;;;;;;2019;104;Abration
+2; Maluku Tenggara;5;;;;176;4;57;;;;;;;;;2019;105;Tornado
+3; Maluku Tengah;1;;;;;3;1;;;;;;;;;2019;105;Tornado
+8; Maluku Barat Daya;1;;;;;143;196;3;;3;;4;;;;2019;105;Tornado
+7; Seram Bagian Timur;1;;;;4032;;;;;;;;;;;2019;106;Drought
+3; Maluku Tengah;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+7; Seram Bagian Timur;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+2; Maluku Tenggara;1;;;1;;;3;;1;;;;;;;2019;108;Earthquake
+3; Maluku Tengah;3;18;;1152;;90833;9035;58;6;19;;5;1;;107;2019;108;Earthquake
+6; Seram Bagian Barat;1;11;;396;;111434;1500;47;10;36;;9;8;;37;2019;108;Earthquake
+8; Maluku Barat Daya;1;;;;;;;;;1;;;;;;2019;108;Earthquake
+71; Kota Ambon;4;14;;76;;28698;1745;78;12;36;;36;1;;9;2019;108;Earthquake
+3; Maluku Tengah;1;;;;856;;;;;;;;;;;2020;101;Flood
+4; Buru;2;;;;1710;55;;1;1;4;;2;1;;6;2020;101;Flood
+6; Seram Bagian Barat;5;;;;983;;;;;;;;;;;2020;101;Flood
+3; Maluku Tengah;1;;;;7;;1;;;;;;;;;2020;102;Land_Slide
+71; Kota Ambon;4;;;2;384;;18;;;;;;;;;2020;102;Land_Slide
+3; Maluku Tengah;1;;;;;;2;1;;;;;1;;;2020;103;Flood and Land Slide
+71; Kota Ambon;1;;;;;100;9;;;;;;;;;2020;103;Flood and Land Slide
+2; Maluku Tenggara;1;;;;;;;;1;;;;;;;2020;105;Tornado
+4; Buru;1;;;;59;;11;;;;;;;;;2020;105;Tornado
+5; Kepulauan Aru;1;;;;20;;1;;;;;;;;;2020;105;Tornado
+9; Buru Selatan;1;;;;;;1;;;;;;;;;2020;105;Tornado
+71; Kota Ambon;1;;;1;13;;1;;;;;;;;;2020;105;Tornado
+71; Kota Ambon;6;;;;7;;;;;;;;;;;2020;107;Forest Fire
+3; Maluku Tengah;1;;;;25;;5;;;;;;;;;2020;108;Earthquake
+2; Maluku Tenggara;1;;;;45;;;;;;;;;;;2021;101;Flood
+4; Buru;1;;;;69;;;;;;;;;;;2021;101;Flood
+6; Seram Bagian Barat;1;;;;50;;;;;;;;;;;2021;101;Flood
+7; Seram Bagian Timur;1;;;;14267;;;;;;;;;;;2021;101;Flood
+72; Kota Tual;1;;;;50;;;;;;;;;;;2021;101;Flood
+4; Buru;1;;;;4;;1;;;;;;;;;2021;102;Land_Slide
+8; Maluku Barat Daya;1;;;1;;;;;;;;;;;;2021;102;Land_Slide
+71; Kota Ambon;1;;;2;3;;1;;;;;;;;;2021;102;Land_Slide
+71; Kota Ambon;3;;;;1468;;161;;;;;;2;;;2021;103;Flood and Land Slide
+7; Seram Bagian Timur;1;;;;;;28;;;;;;;;;2021;104;Abration
+2; Maluku Tenggara;1;;;;75;;15;1;;;;;;;;2021;105;Tornado
+4; Buru;1;;;;45;5;;;;;;;;;;2021;105;Tornado
+6; Seram Bagian Barat;1;;;;10;;2;;;;;;;;;2021;105;Tornado
+7; Seram Bagian Timur;1;;;;83;;14;;;;;;;;;2021;105;Tornado
+2; Maluku Tenggara;1;;;;;;;;;;;;;;;2021;108;Earthquake
+3; Maluku Tengah;1;;;;;8803;233;;;3;;;;;;2021;108;Earthquake
+5; Kepulauan Aru;1;;;;;;;;;;;;;;;2021;108;Earthquake
+6; Seram Bagian Barat;1;;;;;;;;;;;;;;;2021;108;Earthquake
+7; Seram Bagian Timur;1;;;;;;;;;;;;;;;2021;108;Earthquake
+71; Kota Ambon;1;;;;;;;;;;;;;;;2021;108;Earthquake
+2; Halmahera Tengah;2;;;;;;;1;1;3;;;;;;2019;101;Flood
+5; Halmahera Utara;2;;;;;;;4;1;2;;;;;;2019;101;Flood
+7; Pulau Morotai;2;;;;;355;;;;;;;4;;;2019;101;Flood
+8; Pulau Taliabu;5;;;;390;14;2;;;;;;2;;;2019;101;Flood
+7; Pulau Morotai;2;2;;;;;;;;;;;;;;2019;102;Land_Slide
+2; Halmahera Tengah;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+3; Kepulauan Sula;1;;;;;;;;;;;;;;;2019;107;Forest Fire
+4; Halmahera Selatan;2;14;;121;;44453;2900;181;22;30;;24;7;;;2019;108;Earthquake
+7; Pulau Morotai;1;;;;;748;44;;;2;;;;;;2019;108;Earthquake
+71; Kota Ternate;1;;;2;;;39;2;1;3;;1;;;;2019;108;Earthquake
+2; Halmahera Tengah;2;;;;;2432;50;;;;;;;;;2020;101;Flood
+3; Kepulauan Sula;4;;;;;1949;119;;;;;;;;;2020;101;Flood
+5; Halmahera Utara;6;;;;425;3072;4;;;;;;4;;;2020;101;Flood
+7; Pulau Morotai;2;;;;;3335;;;;;;;1;;;2020;101;Flood
+8; Pulau Taliabu;2;;;;;1650;;;;;;;5;;;2020;101;Flood
+8; Pulau Taliabu;1;;;;;1459;1;;;;;;4;;;2020;103;Flood and Land Slide
+7; Pulau Morotai;1;;;;;180;;;;;;;;;;2020;104;Abration
+1; Halmahera Barat;1;;;;;;;;;;;;;;;2020;108;Earthquake
+5; Halmahera Utara;1;;;;;;;;;;;;;;;2020;108;Earthquake
+7; Pulau Morotai;1;;;;715;;312;;;;;;;;;2020;108;Earthquake
+71; Kota Ternate;1;;;;;;;;;;;;;;;2020;108;Earthquake
+1; Halmahera Barat;1;;;;100;;20;;;;;;;;;2021;101;Flood
+2; Halmahera Tengah;1;;;;396;;;;;;;;;;;2021;101;Flood
+3; Kepulauan Sula;1;;;;150;;2;;;;;;;;;2021;101;Flood
+5; Halmahera Utara;2;;;;4285;1801;5;;;;;;1;;;2021;101;Flood
+6; Halmahera Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;Flood
+7; Pulau Morotai;1;;;;1061;;;;;;;;;;;2021;101;Flood
+1; Halmahera Barat;1;;;;2645;;49;;;;;;;;;2021;103;Flood and Land Slide
+5; Halmahera Utara;1;;;;1235;;31;;;;;;;;;2021;104;Abration
+7; Pulau Morotai;2;;;;160;;28;;;;;;;;;2021;104;Abration
+3; Kepulauan Sula;1;;;;;;11;;;;;;;;;2021;105;Tornado
+5; Halmahera Utara;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;Tornado
+71; Kota Ternate;1;;;;35;;7;;;;;;;;;2021;105;Tornado
+4; Halmahera Selatan;1;;;10;;169;890;3;2;6;;3;1;;;2021;108;Earthquake
+3; Teluk Wondama;2;;;;4159;50;;;;;;2;2;;7;2019;101;Flood
+4; Teluk Bintuni;2;;;;575;;;;;;;;;;;2019;101;Flood
+5; Manokwari;5;;;;1540;158;4;;;;;;2;;;2019;101;Flood
+7; Sorong;1;;;;;;;;;;;;;;;2019;101;Flood
+4; Teluk Bintuni;1;;;;150;;;;;;;;;;;2020;101;Flood
+5; Manokwari;1;;;;1000;;;;;;;;;;;2020;101;Flood
+7; Sorong;1;;;;500;;;;;;;;;;;2020;101;Flood
+71; Kota Sorong;1;1;;;;;1;;;;;;;;;2020;102;Land_Slide
+5; Manokwari;1;;;;2869;;2;;;;;;;;;2020;103;Flood and Land Slide
+71; Kota Sorong;3;9;;7;9579;2084;462;;1;1;;;;;;2020;103;Flood and Land Slide
+9; Tambrauw;1;;;;;;6;;;;;;;;;2020;105;Tornado
+4; Teluk Bintuni;1;;;;;;;;;;;;;;;2021;108;Earthquake
+3; Jayapura;3;105;82;983;167033;11983;1118;10;3;18;;43;5;;104;2019;101;Flood
+4; Nabire;2;;;;;1815;1;;;;;;1;;;2019;101;Flood
+17; Pegunungan Bintang;2;;;;1210;;;4;2;;;;;;2;2019;101;Flood
+18; Tolikara;1;;6;;;120;;;;1;;;1;;;2019;101;Flood
+19; Sarmi;2;;;;;;518;3;;5;;2;6;;;2019;101;Flood
+71; Kota Jayapura;2;1;;;7375;;1;;;;;;;;;2019;101;Flood
+71; Kota Jayapura;1;7;;4;600;80;4;;;;;;;;;2019;102;Land_Slide
+19; Sarmi;1;;;3;;240;101;4;1;4;;2;1;;;2019;108;Earthquake
+31; Mamberamo Tengah;2;;;;;;;;1;;;;;;;2019;108;Earthquake
+1; Merauke;1;;;;;450;;;;;;;;;;2020;101;Flood
+4; Nabire;1;;;;150;;;;;;;;;;;2020;101;Flood
+12; Mimika;1;;;;;;;;;;;;1;;;2020;101;Flood
+28; Mamberamo Raya;1;;;;;90;10;;;;;;;;;2020;101;Flood
+36; Deiyai;1;;;;340;;35;;;2;;1;;;2;2020;101;Flood
+71; Kota Jayapura;1;2;;;;;2;;;;;;;;;2020;101;Flood
+12; Mimika;1;;;;;90;8;1;;1;;;6;;;2020;102;Land_Slide
+28; Mamberamo Raya;1;1;;;10;;2;;;;;;;;;2020;105;Tornado
+3; Jayapura;1;;;;;5;;;;;;;;;;2020;108;Earthquake
+2; Jayawijaya;1;;;;40040;;;;;;;;13;;;2021;101;Flood
+3; Jayapura;2;;;;370;100;2;;;;;;;;;2021;101;Flood
+10; Paniai;1;;;;1055;780;11;1;;;;;;;;2021;101;Flood
+20; Keerom;2;;;;65;4406;;;;;;;1;;;2021;101;Flood
+27; Supiori;1;;;;;151;;;;;;;;;;2021;101;Flood
+28; Mamberamo Raya;1;;;;175;;;;;;;;;;;2021;101;Flood
+28; Mamberamo Raya;1;;;10;140;150;28;;;;;;;;;2021;105;Tornado
+2; Jayawijaya;1;;;;;;;;;;;;;;;2021;108;Earthquake
+3; Jayapura;4;0;0;0;0;76;43;0;0;1;1;0;0;0;0;2022;101;Flood
+16; Yahukimo;1;0;0;0;0;288;288;0;0;0;0;0;0;0;0;2022;101;Flood
+26; Waropen;1;0;0;0;0;22;0;0;0;0;0;0;0;0;0;2022;101;Flood
+3; Jayapura;1;0;0;0;0;40;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+17; Pegunungan Bintang;1;0;0;-1;0;0;0;0;0;0;0;0;0;0;0;2022;102;Land_Slide
+26; Waropen;1;0;0;0;0;63;27;0;0;1;0;0;0;0;0;2022;102;Land_Slide
+71; Kota Jayapura;4;8;0;6;0;11880;729;1;1;0;3;1;0;0;0;2022;103;Flood and Land Slide
+12; Mimika;1;0;0;0;0;0;4;0;0;0;0;0;0;0;0;2022;105;Tornado
+30; Lanny Jaya;1;4;0;0;6;2740;0;0;0;0;0;0;0;0;0;2022;106;Drought
+28; Mamberamo Raya;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2022;108;Earthquake

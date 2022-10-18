@@ -39,7 +39,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 # sns.set_style('darkgrid')
 
 # Utils
-from tweets import api, get_tweet
+from tweets import api, get_tweet, get_tags
 from textprep import tweet_sentiment, cleandf
 from network import networkFig
 import joblib
@@ -55,7 +55,17 @@ from PIL import Image
 # import string
 # import nltk
 # nltk.download('punkt')
-
+            
+def getTweetData(keyword,start,end,n):
+    tweets_list2 = []
+    # Using TwitterSearchScraper to scrape data and append tweets to list
+    for i,tweet in enumerate(sntwitter.TwitterSearchScraper(f'{keyword} since:{from_date} until:{end_date}').get_items()):
+        if i>(n-1):
+            break
+        tweets_list2.append([tweet.date, tweet.id, tweet.username,tweet.retweetCount, tweet.content])
+        # tweet.retweetCount
+        df = pd.DataFrame(tweets_list2, columns=['Datetime', 'Tweet Id', 'Username','Retweeted','Text'])
+    return df.sort_values(by='Retweeted',ascending=False)
 
 def get_timeline(username):
     timeline = api.user_timeline(
@@ -92,7 +102,8 @@ def getData(usr):
     df = get_timeline(usr)
     return df
 
-
+kota = pd.read_csv('yearly.csv',sep=";")
+provinsi = pd.read_csv('series.csv',sep=";")
 from textblob import TextBlob
 
 stopw = pd.read_csv('stop.csv')
@@ -109,65 +120,37 @@ st.sidebar.title("Twitter User Insight and Behavior Observation")
 usr = st.sidebar.text_input("Input Twitter User", value="morgwenmagic")
 # if st.sidebar.button("Analyze User"):
 st.sidebar.write(f'Twitter Username: {usr}')
-menu = ["User's Tweet Analysis", "Topic Graph Analysis", "Recommendation"]
+menu = ["Disaster Warning","Disaster Stats", "Disaster Search"]
 choice = st.sidebar.selectbox("Select Menu", menu)
 data = getData(usr)
 df = tweet_sentiment(data, 'Tweet')
-if choice == "User's Tweet Analysis":
-    st.subheader("User's Behavior and Tweet Activities")
-    df['color'] = df['Emotion'].map(color_discrete_map)
+if choice == "Disaster Stats":
+    st.subheader("Disaster Records")
     col1, col2 = st.columns((1, 1))
     with col1:
-        df["EmoScore"] = df["EmoScore"] * df["EmoProba"]
-        fig = px.pie(df, names='Emotion', values='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
+        # df["EmoScore"] = df["EmoScore"] * df["EmoProba"
+        provinsi['count'] = 1
+        fig = px.pie(provinsi, names='Disaster', values='count', color='Disaster', hole=.4)
         # fig = go.Figure(data=[go.Pie(labels=df['Emotion'], values=df['EmoProba'], hole=.4)])
         st.plotly_chart(fig)
 #         fig1 = px.scatter(df, x="Created", y="EmoScore",
 #                           color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
 #         st.plotly_chart(fig1)
         
-#         blob = TextBlob(" ".join(i for i in df['Text_cleaned'].tolist()))
-#         verbs = list()
-#         for word, tag in blob.tags:
-#             if tag == 'VB':
-#                 verbs.append(word.lemmatize())
-#         wordcloud1 = WordCloud(
-#             background_color='white',
-#             width=650,
-#             stopwords=stop,
-#             height=400
-#         ).generate(' '.join(verbs))
-#         wc1 = px.imshow(wordcloud1, title='Verb WordCloud')
-#         st.plotly_chart(wc1)
 
     with col2:
         # df1 = df.groupby('Sentiment', as_index=False).agg({'Count': 'sum'})
 #         df1 = df.groupby('Emotion', as_index=False).agg({'EmoProba': 'sum'})
 #         # fig0 = px.pie(df, names='Sentiment', values='Count', color='Sentiment', color_discrete_map=sentiment_color)
-#         # fig0 = px.bar(df, x='Sentiment', y='Count', color='Sentiment', color_discrete_map=sentiment_color)
-#         fig0 = px.bar(df1, x='Emotion', y='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
-#         st.plotly_chart(fig0)
-        fig1 = px.scatter(df, x="Created", y="EmoScore",
-                          color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
-        st.plotly_chart(fig1)
-#         blob = TextBlob(" ".join(i for i in df['Text_cleaned'].tolist()))
-#         cek = []
-#         for nouns in blob.noun_phrases:
-#             cek.append(nouns)
-#         wordcloud2 = WordCloud(
-#             background_color='white',
-#             width=650,
-#             stopwords=stop,
-#             height=400
-#         ).generate(' '.join(cek))
-#         wc2 = px.imshow(wordcloud2, title='Noun WordCloud')
-#         st.plotly_chart(wc2)
-    # fig2 = px.bar(df1, x='Emotion', y='EmoProba', color='Emotion', color_discrete_map=color_discrete_map)
-    # st.plotly_chart(fig2)
-    dff = df[['Created', 'Tweet', 'Emotion', 'Sentiment', 'Emoji']]
-    st.dataframe(dff)
+        fig0 = px.bar(provinsi, x='Province', y='Count', color='Disaster', color_discrete_map=sentiment_color)
+        st.plotly_chart(fig0)
+        # fig1 = px.scatter(df, x="Created", y="EmoScore",
+        #                   color="Emotion", size='EmoProba', color_discrete_map=color_discrete_map)
+        # st.plotly_chart(fig1)
+        # dff = df[['Created', 'Tweet', 'Emotion', 'Sentiment', 'Emoji']]
+        st.dataframe(provinsi)
 
-elif choice == "Topic Graph Analysis":
+elif choice == "Disaster Warning":
     st.subheader("Topic Related to User's Tweets and Influencer Network")
     doc_clean = []
     for sentence in df['Text_cleaned']:
@@ -224,6 +207,38 @@ elif choice == "Topic Graph Analysis":
     with k2:
         st.plotly_chart(netfig)
 
-elif choice == "Recommendation":
-    st.write("Channel to follow")
+elif choice == "Disaster Search":
+    k1,k2,k3,k4 = st.columns((1,1,1,1))
+    with k1:
+        search_term = st.text_input("Keyword")
+    with k2:
+        from_date = st.date_input("from date")
+    with k3:
+        end_date = st.date_input("until date")
+    with k4:
+        numb= st.number_input("Number to scrape",min_value=1,max_value=10000,step=100,value=100)
+    
+    import snscrape.modules.twitter as sntwitter
+    
+    placelist = provinsi['Province'].str.lower().unique().tolist()
+    st.table(placelist)
+    if st.button("Run Scraping"):
+        data= getTweetData(search_term,from_date,end_date,numb)
+        st.write("Latest Tweets")
+        df = data
+        dfc = cleandf(df,'Text')
+        # st.dataframe(dfc)
+        # placelist = ['jakarta','bandung','bali','aceh']
+        placecount=[]
+        for word in dfc['Text_cleaned'].tolist():
+            city = []
+            for place in placelist:
+                if place in word.split():
+                    city.append(place)
+                else:
+                    pass
+            placecount.append([city])
+        dfc['kota']=placecount
+        st.dataframe(dfc)
+
 #     st.components.v1.html("<a class="twitter-timeline" href="https://twitter.com/HarvardHealth?ref_src=twsrc%5Etfw">Tweets by HarvardHealth</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>",width=None, height=None, scrolling=False)

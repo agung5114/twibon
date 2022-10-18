@@ -41,3 +41,33 @@ def get_tweet(kword,ntweet):
         retweets.append(status.retweet_count)
     result = pd.DataFrame(list(zip(ids,users,retweets,tweets)),columns =['ID','User','Retweeted','Tweet'])
     return result.sort_values(by='Retweeted', ascending=False)
+
+import time
+def get_tags(kword,ntweet):
+    search_hashtag = tweepy.Cursor(api.search, q=f"#{kword}",result_type='mixed', tweet_mode = "extended").items(ntweet)
+    ids = []
+    tweets = []
+    users = []
+    retweets = []
+    created = []
+    timezone = []
+    places = []
+    for tweet in search_hashtag:
+        i = 0
+        # ids.append(tweet.user.id)
+        ids.append(tweet.id)
+        users.append(tweet.user.screen_name)
+        tweets.append(tweet.full_text)
+        created.append(tweet.created_at)
+        timezone.append(tweet.user.time_zone)
+        places.append(tweet.user.location)
+        i += 0.5
+        time.sleep(0.5)
+    for id in ids:
+        j = 0
+        status = api.get_status(id, tweet_mode="extended")
+        retweets.append(status.retweet_count)
+        j += 0.5
+        time.sleep(0.5)
+    result = pd.DataFrame(list(zip(ids,users,retweets,tweets,created,timezone,places)),columns =['ID','User','Retweeted','Tweet','Geo','Coordinates','Place'])
+    return result.sort_values(by='Retweeted', ascending=False)

@@ -1,0 +1,12 @@
+﻿Type;Jenis Bencana;Disaster
+101;Banjir;Flood
+102;Tanah Longsor;Land_Slide
+103;Banjir dan Tanah Longsor;Flood and Land Slide
+104;Abrasi;Abration
+105;Puting Beliung;Tornado
+106;Kekeringan;Drought
+107;Kebakaran Hutan dan Lahan;Forest Fire
+108;Gempa Bumi;Earthquake
+109;Tsunami;Tsunami
+110;Gempa Bumi dan Tsunami;Earthquake and Tsunami
+111;Letusan Gunung Api;Volcano Eruption

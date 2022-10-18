@@ -1,0 +1,2460 @@
+﻿No;Province;Total;Died;Lost ;Injured;Suffering;Evacuate;House;School;Medical_Facility;Religious_Place;Public_Facility;Office;Bridge;Factory;Store;Year;Type;Month;Disaster
+11; Aceh;3;;;;7014;160;;;;;;;;;;2019;101;1;Flood
+12; Sumatera Utara;1;;;;2852;110;;;;;;;;;;2019;101;1;Flood
+13; Sumatera Barat;2;;;;1858;;;1;;1;;;4;;;2019;101;1;Flood
+16; Sumatera Selatan;3;;;;245;;;;;;;;;;;2019;101;1;Flood
+18; Lampung;1;;;;;;;;;;;;;;;2019;101;1;Flood
+32; Jawa Barat;16;;;;3186;478;56;3;;;;;4;;1;2019;101;1;Flood
+33; Jawa Tengah;31;1;;5;38981;5279;4;4;;;;;3;;;2019;101;1;Flood
+34; Yogyakarta;2;;;1;;;2;;;;;;;;;2019;101;1;Flood
+35; Jawa Timur;12;1;;1;3154;;16;1;1;;;;4;;3;2019;101;1;Flood
+36; Banten;2;;;;1932;266;149;1;;;;;;;;2019;101;1;Flood
+52; Nusa Tenggara Barat;4;;;;158;;;;;;;;;;;2019;101;1;Flood
+61; Kalimantan Barat;2;;;;2192;;8;;;;;;2;;;2019;101;1;Flood
+62; Kalimantan Tengah;1;;;;575;;;;;;;;;;;2019;101;1;Flood
+63; Kalimantan Selatan;4;;;;2877;;;;;;;;;;;2019;101;1;Flood
+71; Sulawesi Utara;2;;;;3918;297;1;;;;;;;;;2019;101;1;Flood
+73; Sulawesi Selatan;12;82;3;47;209128;6757;1242;51;;12;;8;57;;;2019;101;1;Flood
+75; Gorontalo;1;;;;5780;;5;2;;1;;1;;;;2019;101;1;Flood
+82; Maluku Utara;1;;;;;355;;;;;;;4;;;2019;101;1;Flood
+91; Papua Barat;2;;;;301;;1;;;;;;;;;2019;101;1;Flood
+94; Papua;2;;6;22;;655;;;;1;;;1;;;2019;101;1;Flood
+11; Aceh;2;;;;;3;1;1;;;;;;;;2019;102;1;Land_Slide
+12; Sumatera Utara;1;;;;;;;;;;;;;;;2019;102;1;Land_Slide
+13; Sumatera Barat;2;;;;;;2;;;;;;;;;2019;102;1;Land_Slide
+32; Jawa Barat;18;1;;3;151;6;19;1;;;;;;;;2019;102;1;Land_Slide
+33; Jawa Tengah;61;1;;7;137;7;178;3;1;1;;1;3;;2;2019;102;1;Land_Slide
+35; Jawa Timur;10;;;;;5;8;;;;;;1;;;2019;102;1;Land_Slide
+36; Banten;1;;;;499;;63;;;3;;;;;;2019;102;1;Land_Slide
+51; Bali;3;6;;12;;;3;;;5;;;;;;2019;102;1;Land_Slide
+61; Kalimantan Barat;1;3;;;;;11;;;;;;;;;2019;102;1;Land_Slide
+63; Kalimantan Selatan;1;1;;7;;;;;;;;;;;;2019;102;1;Land_Slide
+73; Sulawesi Selatan;2;;;;;9;2;;;;;;;;;2019;102;1;Land_Slide
+74; Sulawesi Tenggara;1;;;;;15;1;;;;;;;;;2019;102;1;Land_Slide
+81; Maluku;1;;;;9;;1;;;;;;;;;2019;102;1;Land_Slide
+51; Bali;1;;;4;;;1;;;1;;;;;;2019;104;1;Abration
+73; Sulawesi Selatan;1;;;;;;3;;;;;;;;;2019;104;1;Abration
+11; Aceh;5;;;8;19;;5;;;;;;;;5;2019;105;1;Tornado
+12; Sumatera Utara;1;;;;;;1;;;;;;;;;2019;105;1;Tornado
+13; Sumatera Barat;1;;;;;;1;;;;;;;;;2019;105;1;Tornado
+16; Sumatera Selatan;3;;;;225;;71;2;;3;;;;;1;2019;105;1;Tornado
+18; Lampung;3;;;;;;213;;;;;;;;;2019;105;1;Tornado
+31; Jakarta;1;;;;68;;;;;;;;;;;2019;105;1;Tornado
+32; Jawa Barat;32;;;17;2574;413;1157;1;1;1;;2;;;9;2019;105;1;Tornado
+33; Jawa Tengah;85;1;0;24;418;5;915;4;0;1;0;0;0;0;7;2019;105;1;Tornado
+34; Yogyakarta;4;;;;60;;10;;;;;;;;;2019;105;1;Tornado
+35; Jawa Timur;49;1;;2;785;;511;9;3;17;;1;;;5;2019;105;1;Tornado
+36; Banten;3;;;;6;6;3;;;;;;;;;2019;105;1;Tornado
+51; Bali;4;;;;;;13;;;;;;;;;2019;105;1;Tornado
+52; Nusa Tenggara Barat;8;;;;127;;63;5;;;;;;;;2019;105;1;Tornado
+53; Nusa Tenggara Timur;1;;;;;15;11;;;;;;;;;2019;105;1;Tornado
+61; Kalimantan Barat;1;;;;48;;10;1;;;;;;;2;2019;105;1;Tornado
+62; Kalimantan Tengah;4;;;;;;43;;;;;;;;;2019;105;1;Tornado
+63; Kalimantan Selatan;10;;;;286;22;99;;;;;1;;;;2019;105;1;Tornado
+73; Sulawesi Selatan;22;0;0;0;336;23;296;2;0;1;0;0;0;0;4;2019;105;1;Tornado
+74; Sulawesi Tenggara;1;;;;;;75;;;;;;;;;2019;105;1;Tornado
+76; Sulawesi Barat;1;;;;;;5;;;;;;;;;2019;105;1;Tornado
+81; Maluku;4;;;;76;3;20;;;;;;;;;2019;105;1;Tornado
+63; Kalimantan Selatan;1;;;;3820;;;;;;;;;;;2019;106;1;Drought
+11; Aceh;2;;;;;;;;;;;;;;;2019;107;1;Forest Fire
+14; Riau;2;;;;;;;;;;;;;;;2019;107;1;Forest Fire
+16; Sumatera Selatan;5;1;;;;;;;;;;;;;;2019;107;1;Forest Fire
+64; Kalimantan Timur;1;;;;;;;;;;;;;;;2019;107;1;Forest Fire
+32; Jawa Barat;1;;;;5;;1;;;;;;;;;2019;108;1;Earthquake
+53; Nusa Tenggara Timur;1;;;;;;;1;;;;;;;;2019;108;1;Earthquake
+81; Maluku;1;;;1;;;3;;1;;;;;;;2019;108;1;Earthquake
+34; Yogyakarta;1;;;;;;;;;;;;;;;2019;111;1;Volcano Eruption
+11; Aceh;4;;;;924;;;2;;1;;;;;;2019;101;2;Flood
+12; Sumatera Utara;1;;;;3735;;;;;;;;;;;2019;101;2;Flood
+13; Sumatera Barat;1;;2;;2302;;;;;;;;1;;;2019;101;2;Flood
+14; Riau;1;;;;1590;55;112;;;;;;;;;2019;101;2;Flood
+15; Jambi;4;;;;4500;;;;;;;;;;;2019;101;2;Flood
+16; Sumatera Selatan;12;2;;1;18594;20;1;1;1;;;;6;;;2019;101;2;Flood
+17; Bengkulu;1;1;;;;;;;;;;;;;;2019;101;2;Flood
+18; Lampung;5;1;;;10157;;2;4;;;;;33;;;2019;101;2;Flood
+19; Bangka Belitung;6;;;1;547;;116;1;;1;;;1;;;2019;101;2;Flood
+32; Jawa Barat;21;3;;;71436;1002;76;8;;38;;;1;;;2019;101;2;Flood
+33; Jawa Tengah;20;0;0;2;50;0;16;0;0;0;0;0;3;0;0;2019;101;2;Flood
+35; Jawa Timur;13;1;;;13950;;2;;;;;;;;;2019;101;2;Flood
+36; Banten;1;;;;300;;;;;;;;;;;2019;101;2;Flood
+51; Bali;3;;;;;;2;;;;;;1;;;2019;101;2;Flood
+52; Nusa Tenggara Barat;2;;;;248;75;;;;;;;;;;2019;101;2;Flood
+61; Kalimantan Barat;4;;;;11998;182;;;;;;;10;;;2019;101;2;Flood
+62; Kalimantan Tengah;8;;;;5336;89;;8;3;7;;2;8;;2;2019;101;2;Flood
+63; Kalimantan Selatan;5;;;;520;5;;;;;;;1;;;2019;101;2;Flood
+64; Kalimantan Timur;1;;;;499;;;2;1;1;;2;;;;2019;101;2;Flood
+71; Sulawesi Utara;1;4;;;11855;511;892;;;;;;;;;2019;101;2;Flood
+73; Sulawesi Selatan;3;;;;;;;4;1;;;1;;;;2019;101;2;Flood
+76; Sulawesi Barat;2;;;;1053;100;236;2;;1;;;2;;;2019;101;2;Flood
+82; Maluku Utara;1;;;;;;;;;;;;;;;2019;101;2;Flood
+91; Papua Barat;2;;;;925;158;;;;;;;;;;2019;101;2;Flood
+94; Papua;3;;;;7128;1365;2;;;;;;1;;;2019;101;2;Flood
+16; Sumatera Selatan;2;;;1;;;1;;;;;;;;;2019;102;2;Land_Slide
+31; Jakarta;1;;;;4;;1;;;;;;;;;2019;102;2;Land_Slide
+32; Jawa Barat;61;4;;12;184;50;79;5;;1;;;;;1;2019;102;2;Land_Slide
+33; Jawa Tengah;58;1;1;5;44;559;178;2;;3;;;1;;1;2019;102;2;Land_Slide
+34; Yogyakarta;1;;;;5;;1;;;;;;;;;2019;102;2;Land_Slide
+35; Jawa Timur;9;;;;32;;13;;1;;;2;1;;;2019;102;2;Land_Slide
+53; Nusa Tenggara Timur;2;1;;;;;1;;;;;;;;;2019;102;2;Land_Slide
+71; Sulawesi Utara;2;16;;18;;;1;;;;;;;;;2019;102;2;Land_Slide
+73; Sulawesi Selatan;2;;;;;5;3;;;;;;;;;2019;102;2;Land_Slide
+64; Kalimantan Timur;1;;;;105;;21;;;;;;3;;;2019;104;2;Abration
+11; Aceh;4;;;;205;;56;;;1;;;;;;2019;105;2;Tornado
+12; Sumatera Utara;1;;;;31;;7;;;;;;;;;2019;105;2;Tornado
+13; Sumatera Barat;2;;;;10;;8;;;;;;;;;2019;105;2;Tornado
+15; Jambi;1;;;;;;12;;;1;;;;;;2019;105;2;Tornado
+18; Lampung;1;;;;;;42;;;;;;;;;2019;105;2;Tornado
+32; Jawa Barat;37;;;6;376;33;452;;;1;;;;;2;2019;105;2;Tornado
+33; Jawa Tengah;61;;;6;297;27;414;;;1;;;;;;2019;105;2;Tornado
+35; Jawa Timur;39;;;5;76;1;1002;5;;4;;;;;5;2019;105;2;Tornado
+36; Banten;3;;;;116;;29;;;;;;;;;2019;105;2;Tornado
+51; Bali;3;;;;;;18;;;2;;1;;;;2019;105;2;Tornado
+52; Nusa Tenggara Barat;1;;;;;;27;;;;;;;;;2019;105;2;Tornado
+53; Nusa Tenggara Timur;1;;;;535;;107;;;;;;;;;2019;105;2;Tornado
+63; Kalimantan Selatan;3;;;;16;;8;;;;;;;;;2019;105;2;Tornado
+73; Sulawesi Selatan;10;;;4;230;;135;3;;2;;;;;;2019;105;2;Tornado
+74; Sulawesi Tenggara;1;;;;;;8;;;;;;;;;2019;105;2;Tornado
+11; Aceh;3;;;;;;;;;;;;;;;2019;107;2;Forest Fire
+14; Riau;13;;;;;;;;;;;;;;;2019;107;2;Forest Fire
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2019;107;2;Forest Fire
+63; Kalimantan Selatan;3;;;;;;;;;;;;;;;2019;107;2;Forest Fire
+64; Kalimantan Timur;5;;;;;;;;;;;;;;;2019;107;2;Forest Fire
+73; Sulawesi Selatan;1;;;;;;;;;;;;;;;2019;107;2;Forest Fire
+13; Sumatera Barat;2;;;62;1452;;491;8;4;4;;1;;;1;2019;108;2;Earthquake
+32; Jawa Barat;1;;;;;;;1;;;;;;;;2019;108;2;Earthquake
+82; Maluku Utara;1;;;;;748;44;;;2;;;;;;2019;108;2;Earthquake
+71; Sulawesi Utara;1;;;;;216;;;;;;;2;;;2019;111;2;Volcano Eruption
+11; Aceh;4;;;;9859;50;29;2;;1;;1;1;;;2019;101;3;Flood
+13; Sumatera Barat;1;;;;;;1;;;1;;;1;;1;2019;101;3;Flood
+15; Jambi;2;;;;12470;;;;;;;;1;;;2019;101;3;Flood
+16; Sumatera Selatan;3;;;;675;;;1;;;;;1;;;2019;101;3;Flood
+18; Lampung;1;;;;;;35;;;;;;2;;;2019;101;3;Flood
+19; Bangka Belitung;1;;;;133;;;;;;;;;;;2019;101;3;Flood
+32; Jawa Barat;18;;;;59290;2765;29;9;;22;;;6;;;2019;101;3;Flood
+33; Jawa Tengah;33;6;0;3;37842;1904;400;2;0;0;0;0;7;0;1;2019;101;3;Flood
+34; Yogyakarta;4;2;;;595;;19;9;;1;;3;1;;103;2019;101;3;Flood
+35; Jawa Timur;44;;;;94857;796;40;25;1;25;;3;8;;6;2019;101;3;Flood
+52; Nusa Tenggara Barat;6;;;;10170;;265;4;;;;3;1;;;2019;101;3;Flood
+53; Nusa Tenggara Timur;1;;;;;;11;1;;1;;1;1;;;2019;101;3;Flood
+62; Kalimantan Tengah;5;;;;864;;;6;;1;;;;;;2019;101;3;Flood
+63; Kalimantan Selatan;2;;;;1562;;;;;;;;1;;;2019;101;3;Flood
+72; Sulawesi Tengah;1;;;;;;;;;;;;1;;;2019;101;3;Flood
+73; Sulawesi Selatan;3;;;1;;175;17;;;;;;;;;2019;101;3;Flood
+75; Gorontalo;1;;;;;;;;;;;;;;;2019;101;3;Flood
+76; Sulawesi Barat;1;;;;;;;;;;;;;;;2019;101;3;Flood
+81; Maluku;3;;;;251;61;;;;;;;;;32;2019;101;3;Flood
+91; Papua Barat;2;;;;480;;3;;;;;;2;;;2019;101;3;Flood
+94; Papua;3;105;82;961;167010;11448;1635;15;4;23;;45;9;;105;2019;101;3;Flood
+12; Sumatera Utara;2;;;;;;;;;;;;1;;;2019;102;3;Land_Slide
+13; Sumatera Barat;3;1;;;;4;2;;;;;;;;;2019;102;3;Land_Slide
+16; Sumatera Selatan;3;;;;;;1;;;;;;1;;;2019;102;3;Land_Slide
+31; Jakarta;1;;;;5;;1;;;;;;;;;2019;102;3;Land_Slide
+32; Jawa Barat;32;;;3;78;84;41;;;;;;;;;2019;102;3;Land_Slide
+33; Jawa Tengah;71;1;;3;437;87;177;;;2;;;4;;;2019;102;3;Land_Slide
+34; Yogyakarta;4;3;;3;5;7542;10;;;;;;;;;2019;102;3;Land_Slide
+35; Jawa Timur;13;;;;16;5;18;;;;;;1;;1;2019;102;3;Land_Slide
+51; Bali;1;;;;;;1;;;;;;;;;2019;102;3;Land_Slide
+53; Nusa Tenggara Timur;1;8;;3;;684;3;;;;;;1;;1;2019;102;3;Land_Slide
+72; Sulawesi Tengah;1;;;2;;;;;;;;;;;;2019;102;3;Land_Slide
+73; Sulawesi Selatan;2;;;7;10;;3;;;;;;;;;2019;102;3;Land_Slide
+74; Sulawesi Tenggara;1;;;;;;1;;;;;;;;;2019;102;3;Land_Slide
+94; Papua;1;7;;4;600;80;4;;;;;;;;;2019;102;3;Land_Slide
+11; Aceh;5;;;;28;8;25;;;;;;;;;2019;105;3;Tornado
+12; Sumatera Utara;2;;;2;;;73;;;;;;;;;2019;105;3;Tornado
+13; Sumatera Barat;4;;;;;10;28;;;;;;;;;2019;105;3;Tornado
+15; Jambi;1;;;;;;29;;2;;;;;;;2019;105;3;Tornado
+16; Sumatera Selatan;7;1;;1;24;;50;;2;;;;;;;2019;105;3;Tornado
+19; Bangka Belitung;1;;;;;;2;;;;;;;;;2019;105;3;Tornado
+32; Jawa Barat;45;1;;3;291;62;1775;4;;1;;;;;1;2019;105;3;Tornado
+33; Jawa Tengah;62;;;19;1968;2;491;6;;;;1;;;6;2019;105;3;Tornado
+34; Yogyakarta;5;;;13;;394;44;3;;;;;;;;2019;105;3;Tornado
+35; Jawa Timur;33;4;;6;413;;609;3;;2;;;;;14;2019;105;3;Tornado
+51; Bali;1;;;;;;24;;;10;;;;;;2019;105;3;Tornado
+52; Nusa Tenggara Barat;2;;;;262;;4;;;;;;;;;2019;105;3;Tornado
+53; Nusa Tenggara Timur;2;;;3;3185;60;695;;;;;;;;;2019;105;3;Tornado
+62; Kalimantan Tengah;2;;;;1;;5;;;1;;;;;4;2019;105;3;Tornado
+63; Kalimantan Selatan;12;;;2;32;;20;;;1;;;;;;2019;105;3;Tornado
+71; Sulawesi Utara;1;;;1;;;116;2;;3;;;;;;2019;105;3;Tornado
+73; Sulawesi Selatan;10;;;;593;9;154;1;;;;;;;;2019;105;3;Tornado
+75; Gorontalo;1;;;;12;;2;;;;;;;;;2019;105;3;Tornado
+76; Sulawesi Barat;1;;;;;;3;;;;;;;;;2019;105;3;Tornado
+11; Aceh;4;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+14; Riau;8;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+16; Sumatera Selatan;3;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+61; Kalimantan Barat;9;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+62; Kalimantan Tengah;5;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+63; Kalimantan Selatan;5;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+64; Kalimantan Timur;2;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+65; Kalimantan Utara;2;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+73; Sulawesi Selatan;1;;;;;;;;;;;;;;;2019;107;3;Forest Fire
+13; Sumatera Barat;1;;;;43;;15;;;1;;;;;;2019;108;3;Earthquake
+32; Jawa Barat;1;;;;;;;;;1;;;;;;2019;108;3;Earthquake
+52; Nusa Tenggara Barat;2;4;;77;25416;;4589;;50;3;;3;;;;2019;108;3;Earthquake
+72; Sulawesi Tengah;1;;;;;;;49;;;;;;;;2019;108;3;Earthquake
+51; Bali;2;;;;;20;;;;;;;;;;2019;111;3;Volcano Eruption
+11; Aceh;9;;;;4250;118;42;;;;;;1;;;2019;101;4;Flood
+12; Sumatera Utara;2;;;;730;;1;1;;1;;;2;;;2019;101;4;Flood
+13; Sumatera Barat;8;1;;;157;12;3;1;;;;;1;;;2019;101;4;Flood
+15; Jambi;3;;;;;50;;3;;;;;;;;2019;101;4;Flood
+16; Sumatera Selatan;9;;;;2295;;27;1;;1;;;8;;;2019;101;4;Flood
+17; Bengkulu;10;25;4;4;55917;13728;2004;27;6;15;;2;50;;;2019;101;4;Flood
+18; Lampung;1;1;;;;;;;;;;;;;;2019;101;4;Flood
+19; Bangka Belitung;2;;;;472;;155;;;;;;;;;2019;101;4;Flood
+31; Jakarta;2;2;;;;2258;;;;;;;;;;2019;101;4;Flood
+32; Jawa Barat;41;1;;1;57109;1209;346;7;1;16;;;3;;;2019;101;4;Flood
+33; Jawa Tengah;25;4;2;0;13643;187;71;2;0;2;0;0;0;0;0;2019;101;4;Flood
+35; Jawa Timur;25;2;;;15361;;38;11;1;3;;3;2;;;2019;101;4;Flood
+36; Banten;1;;;;688;;;;;;;;;;;2019;101;4;Flood
+52; Nusa Tenggara Barat;4;;;;825;3140;3;;;;;;1;;;2019;101;4;Flood
+61; Kalimantan Barat;1;;;;1230;;;;;;;;;;;2019;101;4;Flood
+62; Kalimantan Tengah;7;;;;76886;170;;41;8;23;;8;;;;2019;101;4;Flood
+63; Kalimantan Selatan;5;;;;240;;;;;;;;;;;2019;101;4;Flood
+71; Sulawesi Utara;1;;;;420;;6;;;;;;;;;2019;101;4;Flood
+72; Sulawesi Tengah;4;;2;30;1750;4709;412;7;2;3;;3;6;;;2019;101;4;Flood
+73; Sulawesi Selatan;9;;;;23717;400;578;12;8;4;;1;;;;2019;101;4;Flood
+74; Sulawesi Tenggara;2;;;;1484;104;1;;;;;;;;;2019;101;4;Flood
+76; Sulawesi Barat;2;;;;5565;101;3;;;;;;1;;;2019;101;4;Flood
+81; Maluku;2;;;;266;;1;1;;;;;;;;2019;101;4;Flood
+94; Papua;2;;;;605;450;;2;1;;;;;;1;2019;101;4;Flood
+13; Sumatera Barat;2;;;;210;;2;;;;;;;;;2019;102;4;Land_Slide
+17; Bengkulu;1;;;;5;;1;;;;;;;;;2019;102;4;Land_Slide
+18; Lampung;2;6;;2;;;8;1;;;;;1;;;2019;102;4;Land_Slide
+32; Jawa Barat;78;2;;8;879;561;239;6;;6;;;1;;;2019;102;4;Land_Slide
+33; Jawa Tengah;54;1;;5;111;59;75;;;2;;1;2;;2;2019;102;4;Land_Slide
+35; Jawa Timur;2;;;;;5;;;;;;;;;;2019;102;4;Land_Slide
+51; Bali;4;1;;;;;3;1;;;;;1;;;2019;102;4;Land_Slide
+63; Kalimantan Selatan;5;12;2;;72;1150;23;;;;;;;;;2019;102;4;Land_Slide
+65; Kalimantan Utara;1;;;1;42;;14;;;;;;;;;2019;102;4;Land_Slide
+71; Sulawesi Utara;1;;;1;;;1;;;;;;;;;2019;102;4;Land_Slide
+73; Sulawesi Selatan;6;;;;5;674;39;3;;;;;;;;2019;102;4;Land_Slide
+74; Sulawesi Tenggara;1;;;;;155;29;;;;;;;;;2019;102;4;Land_Slide
+81; Maluku;1;;;;;;9;;;;;;;;;2019;102;4;Land_Slide
+32; Jawa Barat;1;;;1;37;;8;;;;;;;;;2019;104;4;Abration
+33; Jawa Tengah;1;1;;;;;;;;;;;;;;2019;104;4;Abration
+63; Kalimantan Selatan;1;;;;;;1;;;;;;;;;2019;104;4;Abration
+11; Aceh;4;;;;25;;12;;;;;;;;1;2019;105;4;Tornado
+12; Sumatera Utara;1;;;;;;3;;;;;;;;;2019;105;4;Tornado
+13; Sumatera Barat;10;;;7;13;;30;1;;;;;;;;2019;105;4;Tornado
+15; Jambi;1;;;;;;;;;;;;;;1;2019;105;4;Tornado
+16; Sumatera Selatan;3;;;;4;;3;;;;;;;;;2019;105;4;Tornado
+21; Kepulauan Riau;1;;;;;;7;;;;;;;;;2019;105;4;Tornado
+31; Jakarta;1;1;;;;;;;;;;;;;;2019;105;4;Tornado
+32; Jawa Barat;23;1;;7;157;;82;2;;;;;;;2;2019;105;4;Tornado
+33; Jawa Tengah;23;;;1;226;5;82;1;1;1;;1;;;4;2019;105;4;Tornado
+34; Yogyakarta;3;;;8;;;25;1;;1;;;;;;2019;105;4;Tornado
+35; Jawa Timur;16;;;2;1;10;142;;1;;;;;;3;2019;105;4;Tornado
+36; Banten;3;;;;;;25;1;;;;;;;;2019;105;4;Tornado
+51; Bali;1;;;;;;2;;;;;;;;;2019;105;4;Tornado
+61; Kalimantan Barat;1;;;;;;;1;;;;;;;;2019;105;4;Tornado
+62; Kalimantan Tengah;3;;;1;36;;9;;;;;;;;;2019;105;4;Tornado
+63; Kalimantan Selatan;8;;;1;9;;25;;;2;;;;;;2019;105;4;Tornado
+73; Sulawesi Selatan;1;;;;;;2;;;;;;;;;2019;105;4;Tornado
+75; Gorontalo;1;;;2;9;;1;;;;;;;;;2019;105;4;Tornado
+11; Aceh;4;;;;;;;;;;;;;;;2019;107;4;Forest Fire
+14; Riau;1;;;;;;;;;;;;;;;2019;107;4;Forest Fire
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2019;107;4;Forest Fire
+62; Kalimantan Tengah;2;;;;;;;;;;;;;;;2019;107;4;Forest Fire
+64; Kalimantan Timur;2;;;;;;;;;;;;;;;2019;107;4;Forest Fire
+35; Jawa Timur;1;;;1;;;97;3;;1;;;;;;2019;108;4;Earthquake
+72; Sulawesi Tengah;1;1;;2;;6500;43;1;;2;;;;;;2019;108;4;Earthquake
+51; Bali;1;;;;423;;;;;;;;;;;2019;111;4;Volcano Eruption
+11; Aceh;1;;;;;;;;;;;;;;;2019;101;5;Flood
+12; Sumatera Utara;2;1;;1;;40;16;;;;;;1;;;2019;101;5;Flood
+15; Jambi;2;;;;200;425;;;;;;;;;;2019;101;5;Flood
+18; Lampung;1;;;;25;;;;;;;;;;;2019;101;5;Flood
+32; Jawa Barat;3;;;;221;20;6;;;;;;;;;2019;101;5;Flood
+33; Jawa Tengah;3;;;;590;100;;1;;;;;1;;;2019;101;5;Flood
+35; Jawa Timur;2;;;;8443;;;;;;;;;;;2019;101;5;Flood
+36; Banten;2;;;;11;;119;4;;2;;;4;;;2019;101;5;Flood
+51; Bali;2;;;;;6;;;;;;;;;;2019;101;5;Flood
+62; Kalimantan Tengah;2;;;;1234;189;;3;2;4;;2;;;;2019;101;5;Flood
+64; Kalimantan Timur;1;;;;1195;;;1;1;1;;;;;;2019;101;5;Flood
+65; Kalimantan Utara;1;;;;;;3;;;;;;;;;2019;101;5;Flood
+71; Sulawesi Utara;1;;;;338;62;;;;;;;;;;2019;101;5;Flood
+72; Sulawesi Tengah;2;;;;867;;;;;;;;1;;;2019;101;5;Flood
+73; Sulawesi Selatan;3;;;;635;;;;;;;;;;;2019;101;5;Flood
+74; Sulawesi Tenggara;1;;;;5295;996;;;;;;;;;;2019;101;5;Flood
+76; Sulawesi Barat;1;;;;;;;;;;;;;;;2019;101;5;Flood
+81; Maluku;2;;;;1540;771;40;1;;;;;;;;2019;101;5;Flood
+82; Maluku Utara;1;;;;20;;;;;;;;;;;2019;101;5;Flood
+91; Papua Barat;1;;;;500;;;;;;;;;;;2019;101;5;Flood
+12; Sumatera Utara;1;;;;;;;;;;;;1;;;2019;102;5;Land_Slide
+13; Sumatera Barat;1;;;;;;1;;;;;;;;;2019;102;5;Land_Slide
+18; Lampung;2;;;;;;1;;;;;1;;;;2019;102;5;Land_Slide
+32; Jawa Barat;19;8;;;374;212;164;1;1;3;;;1;;;2019;102;5;Land_Slide
+33; Jawa Tengah;14;1;;;2;6;13;;;;;1;;;;2019;102;5;Land_Slide
+35; Jawa Timur;1;;;;;;1;;;;;;;;;2019;102;5;Land_Slide
+61; Kalimantan Barat;1;;;;;;1;1;;;;;;;;2019;102;5;Land_Slide
+63; Kalimantan Selatan;2;4;;1;2;;1;;;;;;;;;2019;102;5;Land_Slide
+64; Kalimantan Timur;2;;;;;;;2;;;;;;;;2019;102;5;Land_Slide
+71; Sulawesi Utara;1;;;;;5;1;;;;;;;;;2019;102;5;Land_Slide
+73; Sulawesi Selatan;1;;;;;;1;;;;;;;;;2019;102;5;Land_Slide
+11; Aceh;4;;;;130;100;52;1;;1;;;;;2;2019;105;5;Tornado
+12; Sumatera Utara;2;;;;;;7;;;;;;;;;2019;105;5;Tornado
+13; Sumatera Barat;6;;;;10;;6;;;;;;;;;2019;105;5;Tornado
+19; Bangka Belitung;1;;;;;;10;;;;;;;;;2019;105;5;Tornado
+21; Kepulauan Riau;1;;;;;;;;;;;;;;;2019;105;5;Tornado
+32; Jawa Barat;5;;;;220;20;50;;;;;;;;;2019;105;5;Tornado
+33; Jawa Tengah;10;;;;8;;28;;;;;;;;1;2019;105;5;Tornado
+35; Jawa Timur;1;;;;;;4;;;;;;;;;2019;105;5;Tornado
+36; Banten;1;;;;;;1;;;;;;;;;2019;105;5;Tornado
+51; Bali;2;;;;;;1;;;;;1;;;;2019;105;5;Tornado
+63; Kalimantan Selatan;1;;;;4;;1;;;;;;;;;2019;105;5;Tornado
+73; Sulawesi Selatan;2;;;;30;;7;;;;;;;;;2019;105;5;Tornado
+81; Maluku;2;;;;100;143;233;3;;3;;4;;;;2019;105;5;Tornado
+33; Jawa Tengah;2;;;;4838;;;;;;;;;;;2019;106;5;Drought
+11; Aceh;4;;;;;;;;;;;;;;;2019;107;5;Forest Fire
+12; Sumatera Utara;1;;;;;;;;;;;;;;;2019;107;5;Forest Fire
+14; Riau;3;;;;;;;;;;;;;;;2019;107;5;Forest Fire
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2019;107;5;Forest Fire
+21; Kepulauan Riau;1;;;;;;;;;;;;;;;2019;107;5;Forest Fire
+33; Jawa Tengah;2;;;;;;;;;;;;;;;2019;107;5;Forest Fire
+62; Kalimantan Tengah;3;;;;;;;;;;;;;;;2019;107;5;Forest Fire
+63; Kalimantan Selatan;4;;;;8;;;;;;;;;;;2019;107;5;Forest Fire
+33; Jawa Tengah;1;;;;;;4;;;1;;;;;;2019;108;5;Earthquake
+12; Sumatera Utara;3;;;;7986;160;;;;;;;1;;;2019;101;6;Flood
+13; Sumatera Barat;1;2;;2;;;2;;;1;;;3;;450;2019;101;6;Flood
+14; Riau;1;1;;;;;;;;;;;;;;2019;101;6;Flood
+16; Sumatera Selatan;2;;;;;;;4;;;;;;;;2019;101;6;Flood
+61; Kalimantan Barat;3;1;;;6720;;1;;;;;;1;;;2019;101;6;Flood
+62; Kalimantan Tengah;6;;;;8095;;1;11;2;9;;10;;;;2019;101;6;Flood
+63; Kalimantan Selatan;3;;;;16702;24;1;;;;;;;;;2019;101;6;Flood
+64; Kalimantan Timur;10;;;;84084;159;21;;;1;;;18;;;2019;101;6;Flood
+72; Sulawesi Tengah;4;1;;1;;2650;12;;;;;;4;;;2019;101;6;Flood
+73; Sulawesi Selatan;14;1;;;118095;481;12;66;16;48;;20;28;;;2019;101;6;Flood
+74; Sulawesi Tenggara;4;2;;;114218;42959;6655;30;8;46;;2;5;;;2019;101;6;Flood
+81; Maluku;4;;;;;;;;;;;;1;;;2019;101;6;Flood
+82; Maluku Utara;7;;;;370;14;2;1;1;3;;;2;;;2019;101;6;Flood
+91; Papua Barat;1;;;;;;;;;;;;;;;2019;101;6;Flood
+94; Papua;1;;;;;;;;;;;;2;;;2019;101;6;Flood
+11; Aceh;1;;;5;;;1;;;;;;;;;2019;102;6;Land_Slide
+12; Sumatera Utara;1;3;;;;;;;;;;;;;;2019;102;6;Land_Slide
+13; Sumatera Barat;1;;;;154;;6;;;;;;;;;2019;102;6;Land_Slide
+14; Riau;1;;;;;15;3;;;;;;;;;2019;102;6;Land_Slide
+15; Jambi;1;1;;1;;;;;;;;;;;;2019;102;6;Land_Slide
+19; Bangka Belitung;1;4;;1;;;;;;;;;;;;2019;102;6;Land_Slide
+32; Jawa Barat;5;;;;20;7;5;;;;;;;;;2019;102;6;Land_Slide
+33; Jawa Tengah;2;;;;;;1;;;;;;;;;2019;102;6;Land_Slide
+62; Kalimantan Tengah;2;;;;22;;5;;;;;;;;;2019;102;6;Land_Slide
+64; Kalimantan Timur;6;1;3;;60;25;9;;;;;;1;;;2019;102;6;Land_Slide
+73; Sulawesi Selatan;3;;;;613;;10;;;;;;1;;;2019;102;6;Land_Slide
+76; Sulawesi Barat;1;;;;;;5;;;;;;;;;2019;102;6;Land_Slide
+81; Maluku;3;;;1;30;5;6;4;;;;;3;;;2019;102;6;Land_Slide
+82; Maluku Utara;2;2;;;;;;;;;;;;;;2019;102;6;Land_Slide
+13; Sumatera Barat;1;;;;;;1;;;;;;;;14;2019;104;6;Abration
+32; Jawa Barat;1;;;;;;;;;;;;;;;2019;104;6;Abration
+33; Jawa Tengah;1;;;;;;;;;;;;;;117;2019;104;6;Abration
+35; Jawa Timur;1;;;;115;;;;;;;;;;5;2019;104;6;Abration
+63; Kalimantan Selatan;1;;;;11;;2;;;;;;;;;2019;104;6;Abration
+11; Aceh;11;;;;107;5;29;1;;1;;;1;;16;2019;105;6;Tornado
+12; Sumatera Utara;1;;;;;;12;;;;;;;;;2019;105;6;Tornado
+13; Sumatera Barat;4;;;;5;;6;;;;;;;;;2019;105;6;Tornado
+32; Jawa Barat;4;;;;156;;40;;;;;;;;;2019;105;6;Tornado
+33; Jawa Tengah;2;;;;;;2;;;;;;;;;2019;105;6;Tornado
+35; Jawa Timur;2;;;1;;;10;;;;;;;;;2019;105;6;Tornado
+51; Bali;1;;;;;;;1;;;;;;;;2019;105;6;Tornado
+62; Kalimantan Tengah;1;;;;;;;;;;;1;;;;2019;105;6;Tornado
+63; Kalimantan Selatan;2;;;;;;;1;;;;1;;;;2019;105;6;Tornado
+73; Sulawesi Selatan;2;;;;95;;22;;;;;;;;;2019;105;6;Tornado
+32; Jawa Barat;7;;;;725790;;;;;;;;;;;2019;106;6;Drought
+33; Jawa Tengah;18;;;;375794;;;;;;;;;;;2019;106;6;Drought
+34; Yogyakarta;1;;;;220429;;;;;;;;;;;2019;106;6;Drought
+35; Jawa Timur;20;;;;428954;;;;;;;;;;;2019;106;6;Drought
+11; Aceh;5;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+12; Sumatera Utara;1;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+14; Riau;1;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+15; Jambi;1;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+16; Sumatera Selatan;8;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+32; Jawa Barat;1;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+33; Jawa Tengah;4;1;;2;;;;;;;;;;;;2019;107;6;Forest Fire
+35; Jawa Timur;5;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+52; Nusa Tenggara Barat;1;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+62; Kalimantan Tengah;3;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+64; Kalimantan Timur;1;;;;;;;;;;;;;;;2019;107;6;Forest Fire
+81; Maluku;1;;;;;;;;;1;;;;;;2019;108;6;Earthquake
+94; Papua;3;;;3;;240;101;4;2;4;;2;1;;;2019;108;6;Earthquake
+12; Sumatera Utara;1;;;;;7256;;;;;;;;;;2019;111;6;Volcano Eruption
+11; Aceh;3;;;;4344;;2;;;;;;;;;2019;101;7;Flood
+17; Bengkulu;2;;;;970;7;;;;;;;;;;2019;101;7;Flood
+65; Kalimantan Utara;1;;;;;;2;;;;;;;;;2019;101;7;Flood
+72; Sulawesi Tengah;2;;;;8028;39;8;;1;;;;2;;;2019;101;7;Flood
+75; Gorontalo;1;;;;;;;;;;;;;;;2019;101;7;Flood
+82; Maluku Utara;1;;;;;;;4;1;2;;;;;;2019;101;7;Flood
+94; Papua;1;1;;;875;;1;;;;;;;;;2019;101;7;Flood
+11; Aceh;1;;;;;5;1;;;;;;;;;2019;102;7;Land_Slide
+63; Kalimantan Selatan;2;1;;;;;1;;;;;;;;1;2019;102;7;Land_Slide
+81; Maluku;1;;;;225;;45;1;;;;;;;;2019;102;7;Land_Slide
+11; Aceh;1;;;;85;;18;;;;;;;;;2019;104;7;Abration
+11; Aceh;9;;;;135;7;54;1;;1;;1;;;3;2019;105;7;Tornado
+12; Sumatera Utara;4;;;;;;30;;;;;;;;;2019;105;7;Tornado
+13; Sumatera Barat;2;;;;5;;3;;;;;1;;;3;2019;105;7;Tornado
+16; Sumatera Selatan;1;;;;;915;78;;;;;;;;;2019;105;7;Tornado
+18; Lampung;1;;;;;;11;1;;;;;;;;2019;105;7;Tornado
+19; Bangka Belitung;1;;;;20;;5;;;;;;;;;2019;105;7;Tornado
+21; Kepulauan Riau;1;;;;;;4;;;;;;;;;2019;105;7;Tornado
+32; Jawa Barat;2;;;;11;;3;;;;;;;;;2019;105;7;Tornado
+33; Jawa Tengah;1;;;;5;;1;;;;;;;;;2019;105;7;Tornado
+61; Kalimantan Barat;1;;;;30;10;8;;;;;;;;;2019;105;7;Tornado
+81; Maluku;1;;;;;4;1;;;;;;;;;2019;105;7;Tornado
+32; Jawa Barat;13;;;;158220;;;;;;;;;;;2019;106;7;Drought
+33; Jawa Tengah;9;;;;23511;;;;;;;;;;;2019;106;7;Drought
+34; Yogyakarta;1;;;;2549;;;;;;;;;;;2019;106;7;Drought
+35; Jawa Timur;1;;;;7863;;;;;;;;;;;2019;106;7;Drought
+51; Bali;3;;;;53332;;;;;;;;;;;2019;106;7;Drought
+52; Nusa Tenggara Barat;9;;;;674801;;;;;;;;;;;2019;106;7;Drought
+53; Nusa Tenggara Timur;15;0;0;0;717601;0;0;0;0;0;0;0;0;0;0;2019;106;7;Drought
+11; Aceh;14;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+14; Riau;4;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+15; Jambi;5;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+16; Sumatera Selatan;4;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+19; Bangka Belitung;3;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+21; Kepulauan Riau;4;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+32; Jawa Barat;3;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+33; Jawa Tengah;5;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+35; Jawa Timur;20;;;;90;;;;;;;;;;;2019;107;7;Forest Fire
+36; Banten;4;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+51; Bali;2;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+61; Kalimantan Barat;2;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+62; Kalimantan Tengah;17;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+63; Kalimantan Selatan;25;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+64; Kalimantan Timur;3;;;;;;;;;;;;;;;2019;107;7;Forest Fire
+35; Jawa Timur;2;;;4;;;4;1;1;3;;4;;;;2019;108;7;Earthquake
+51; Bali;5;;;5;;;6;13;;1;;7;;;;2019;108;7;Earthquake
+52; Nusa Tenggara Barat;1;;;;;;1;;;1;;;;;;2019;108;7;Earthquake
+82; Maluku Utara;2;14;;121;;44453;2900;181;22;30;;24;7;;;2019;108;7;Earthquake
+32; Jawa Barat;1;;;;15;;;;;;;;;;;2019;111;7;Volcano Eruption
+11; Aceh;4;;;;1507;5;10;;;;;;1;;;2019;101;8;Flood
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2019;101;8;Flood
+65; Kalimantan Utara;3;;;;;;8;2;;1;;3;2;;;2019;101;8;Flood
+72; Sulawesi Tengah;1;;;;135;80;39;1;3;1;;;2;;;2019;101;8;Flood
+73; Sulawesi Selatan;2;;;;70;;;;;;;;;;;2019;101;8;Flood
+11; Aceh;1;;;;;;2;;;;;;;;;2019;102;8;Land_Slide
+32; Jawa Barat;4;;;;44;;10;;;;;;;;;2019;102;8;Land_Slide
+33; Jawa Tengah;2;2;;;;;;;;;;;;;;2019;102;8;Land_Slide
+35; Jawa Timur;1;2;;1;;;;;;;;;;;;2019;102;8;Land_Slide
+64; Kalimantan Timur;1;;;;30;;6;;;;;;;;;2019;102;8;Land_Slide
+73; Sulawesi Selatan;1;;;;70;;;;;;;;1;;;2019;102;8;Land_Slide
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2019;104;8;Abration
+11; Aceh;10;;;;427;16;102;1;;1;;1;;;1;2019;105;8;Tornado
+12; Sumatera Utara;3;;;1;;;19;;;;;;;;;2019;105;8;Tornado
+13; Sumatera Barat;2;;;1;;;2;;;;;;;;;2019;105;8;Tornado
+16; Sumatera Selatan;1;;;;915;;183;;;;;;;;;2019;105;8;Tornado
+32; Jawa Barat;5;;;;55;1;18;;;;;;;;;2019;105;8;Tornado
+33; Jawa Tengah;3;;;;;;4;1;;;;;;;;2019;105;8;Tornado
+61; Kalimantan Barat;2;;;;;;187;;1;;;1;;;10;2019;105;8;Tornado
+71; Sulawesi Utara;2;1;;;;5;4;;1;;;;;;;2019;105;8;Tornado
+13; Sumatera Barat;1;;;;3590;;;;;;;;;;;2019;106;8;Drought
+35; Jawa Timur;5;;;;;;;;;;;;;;;2019;106;8;Drought
+36; Banten;4;;;;15430;;;;;;;;;;;2019;106;8;Drought
+73; Sulawesi Selatan;2;;;;6516;;;;;;;;;;;2019;106;8;Drought
+74; Sulawesi Tenggara;1;;;;250;;;;;;;;;;;2019;106;8;Drought
+81; Maluku;1;;;;4032;;;;;;;;;;;2019;106;8;Drought
+11; Aceh;4;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+13; Sumatera Barat;2;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+15; Jambi;1;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+16; Sumatera Selatan;5;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+17; Bengkulu;1;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+21; Kepulauan Riau;2;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+32; Jawa Barat;10;;;;69;;;;;;;;;;;2019;107;8;Forest Fire
+33; Jawa Tengah;21;3;;;;;;;;;;;;;;2019;107;8;Forest Fire
+35; Jawa Timur;53;;;1;;;;;;;;;;;;2019;107;8;Forest Fire
+36; Banten;3;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+51; Bali;4;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+52; Nusa Tenggara Barat;1;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+62; Kalimantan Tengah;3;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+63; Kalimantan Selatan;19;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+64; Kalimantan Timur;5;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+65; Kalimantan Utara;5;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+72; Sulawesi Tengah;1;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+73; Sulawesi Selatan;3;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+74; Sulawesi Tenggara;1;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+81; Maluku;1;;;;;;;;;;;;;;;2019;107;8;Forest Fire
+18; Lampung;1;;;;;1050;;;;;;;;;;2019;108;8;Earthquake
+32; Jawa Barat;8;2;;1;777;45;222;7;;6;;;;;;2019;108;8;Earthquake
+33; Jawa Tengah;1;;;;;;1;;;;;;;;;2019;108;8;Earthquake
+36; Banten;4;5;;2;176;;701;22;;19;;2;3;;;2019;108;8;Earthquake
+11; Aceh;4;;;;555;;;;;;;;;;;2019;101;9;Flood
+12; Sumatera Utara;2;;;;940;;;10;1;3;;;;;2;2019;101;9;Flood
+32; Jawa Barat;1;;;;;2;1;;;;;;;;;2019;102;9;Land_Slide
+33; Jawa Tengah;1;;;;;8;2;;;;;;;;;2019;102;9;Land_Slide
+34; Yogyakarta;1;1;;;;;;;;;;;;;;2019;102;9;Land_Slide
+35; Jawa Timur;1;;;;23;;7;;;1;;;;;;2019;102;9;Land_Slide
+13; Sumatera Barat;1;;;;125;64;13;;;;;1;;;;2019;104;9;Abration
+11; Aceh;6;;;;140;14;41;;;;;1;;;3;2019;105;9;Tornado
+12; Sumatera Utara;13;;;2;128;25;200;;1;4;;3;;;3;2019;105;9;Tornado
+13; Sumatera Barat;6;;;;761;40;174;1;;1;;;;;1;2019;105;9;Tornado
+15; Jambi;1;;;;120;;38;;;;;;;;;2019;105;9;Tornado
+17; Bengkulu;1;1;;3;;;;;;;;;;;;2019;105;9;Tornado
+19; Bangka Belitung;1;;;;;;17;2;;;;;;;;2019;105;9;Tornado
+21; Kepulauan Riau;2;;;;30;5;9;;;;;;;;1;2019;105;9;Tornado
+32; Jawa Barat;12;;;1;609;15;187;;;1;;;;;;2019;105;9;Tornado
+33; Jawa Tengah;5;;;1;15;4;56;;;;;;;;;2019;105;9;Tornado
+35; Jawa Timur;3;;;;24;;11;;;;;;;;;2019;105;9;Tornado
+51; Bali;1;;;;;;;;;1;;;;;;2019;105;9;Tornado
+61; Kalimantan Barat;1;;;;;;2;;;;;;;;3;2019;105;9;Tornado
+63; Kalimantan Selatan;1;;;;55;15;14;;;;;;;;;2019;105;9;Tornado
+71; Sulawesi Utara;1;;;;;;3;;;;;;;;;2019;105;9;Tornado
+73; Sulawesi Selatan;1;;;;;;4;;;;;;;;;2019;105;9;Tornado
+13; Sumatera Barat;1;;;;1025;;;;;;;;;;;2019;106;9;Drought
+53; Nusa Tenggara Timur;5;;;;437113;;;;;;;;;;;2019;106;9;Drought
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2019;106;9;Drought
+71; Sulawesi Utara;1;;;;635;;;;;;;;;;;2019;106;9;Drought
+73; Sulawesi Selatan;1;;;;6265;;;;;;;;;;;2019;106;9;Drought
+11; Aceh;3;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+12; Sumatera Utara;5;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+13; Sumatera Barat;3;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+14; Riau;4;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+15; Jambi;3;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+16; Sumatera Selatan;4;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+17; Bengkulu;2;;;;;150;;;;;;;;;;2019;107;9;Forest Fire
+18; Lampung;6;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+21; Kepulauan Riau;2;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+32; Jawa Barat;7;;;;62665;;;;;;;;;;;2019;107;9;Forest Fire
+33; Jawa Tengah;18;2;;;;;;;;;;;;;;2019;107;9;Forest Fire
+35; Jawa Timur;36;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+51; Bali;3;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+52; Nusa Tenggara Barat;1;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+61; Kalimantan Barat;4;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+63; Kalimantan Selatan;2;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+64; Kalimantan Timur;4;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+65; Kalimantan Utara;3;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+72; Sulawesi Tengah;1;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+73; Sulawesi Selatan;11;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+75; Gorontalo;1;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+81; Maluku;1;;;;;;;;;;;;;;;2019;107;9;Forest Fire
+81; Maluku;3;41;;1602;;230916;12137;178;26;89;;48;10;;153;2019;108;9;Earthquake
+11; Aceh;11;;;;6177;;205;4;;2;;1;;;;2019;101;10;Flood
+12; Sumatera Utara;3;;;;605;;;;;;;;1;;;2019;101;10;Flood
+13; Sumatera Barat;1;1;;;;;4;;;;;;2;;;2019;101;10;Flood
+32; Jawa Barat;1;;;;26;;;;;;;;;;;2019;101;10;Flood
+62; Kalimantan Tengah;1;;;;2130;;;1;;;;1;;;;2019;101;10;Flood
+72; Sulawesi Tengah;1;;;;;;;;;;;;;;;2019;101;10;Flood
+11; Aceh;1;;;;360;;;;;;;;;;;2019;102;10;Land_Slide
+12; Sumatera Utara;2;;;;;;3;;;;;;;;;2019;102;10;Land_Slide
+32; Jawa Barat;9;2;;;73;9;22;;;1;;;;;;2019;102;10;Land_Slide
+33; Jawa Tengah;2;1;;2;20;;7;;;;;;;;;2019;102;10;Land_Slide
+35; Jawa Timur;1;;;;45;10;2;1;;1;;;;;;2019;102;10;Land_Slide
+51; Bali;1;;;;;;1;;;;;;;;;2019;102;10;Land_Slide
+17; Bengkulu;1;;;;160;;18;;;;;;;;;2019;104;10;Abration
+53; Nusa Tenggara Timur;1;;;;2770;;56;;;;;;;;;2019;104;10;Abration
+11; Aceh;3;;;;40;50;20;;;;;;;;;2019;105;10;Tornado
+12; Sumatera Utara;4;;;;;;19;;;;;1;;;;2019;105;10;Tornado
+13; Sumatera Barat;3;;;3;10;;8;;;;;;;;1;2019;105;10;Tornado
+14; Riau;1;;;;;100;20;3;;;;;;;;2019;105;10;Tornado
+32; Jawa Barat;31;;;6;3396;6342;4282;4;3;2;;1;;;7;2019;105;10;Tornado
+33; Jawa Tengah;35;;;2;3378;163;5173;34;;17;;;;;6;2019;105;10;Tornado
+34; Yogyakarta;1;;;2;;;7;;;;;;;;;2019;105;10;Tornado
+35; Jawa Timur;6;1;;;5007;1357;642;3;;3;;1;;;;2019;105;10;Tornado
+36; Banten;1;;;1;;;1;;;;;;;;;2019;105;10;Tornado
+51; Bali;2;;;1;;;5;;;;;;;;;2019;105;10;Tornado
+61; Kalimantan Barat;1;;;;;;1;;;;;;;;;2019;105;10;Tornado
+63; Kalimantan Selatan;3;;;;192;;40;;;;;;1;;;2019;105;10;Tornado
+65; Kalimantan Utara;1;;;;;;3;;;;;;;;;2019;105;10;Tornado
+73; Sulawesi Selatan;6;;;;276;;94;;;;;;;;;2019;105;10;Tornado
+76; Sulawesi Barat;1;;;;;;34;;;;;;;;;2019;105;10;Tornado
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+14; Riau;2;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+16; Sumatera Selatan;7;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+18; Lampung;10;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+32; Jawa Barat;42;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+33; Jawa Tengah;22;1;;;;;;;;;;;;;;2019;107;10;Forest Fire
+35; Jawa Timur;36;1;;;4;;;;;;;;;;;2019;107;10;Forest Fire
+36; Banten;11;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+51; Bali;4;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+52; Nusa Tenggara Barat;1;;;;61;;;;;;;;;;;2019;107;10;Forest Fire
+63; Kalimantan Selatan;3;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+64; Kalimantan Timur;3;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+65; Kalimantan Utara;3;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+73; Sulawesi Selatan;9;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+74; Sulawesi Tenggara;1;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+82; Maluku Utara;1;;;;;;;;;;;;;;;2019;107;10;Forest Fire
+32; Jawa Barat;1;;;;4;;1;;;;;;;;;2019;108;10;Earthquake
+81; Maluku;1;1;;8;;49;19;3;2;;;1;;;;2019;108;10;Earthquake
+11; Aceh;10;;;;6373;83;;;;;;;2;;;2019;101;11;Flood
+12; Sumatera Utara;1;;;;535;;;;;;;;;;1;2019;101;11;Flood
+13; Sumatera Barat;3;;;1;8964;934;65;7;1;5;;2;6;;;2019;101;11;Flood
+14; Riau;2;;;;9361;;;;;;;;;;;2019;101;11;Flood
+32; Jawa Barat;2;;;;90;;5;;;;;;;;;2019;101;11;Flood
+61; Kalimantan Barat;1;;;;115;;;;;;;;1;;;2019;101;11;Flood
+11; Aceh;2;;;;;;3;;;;;;1;;;2019;102;11;Land_Slide
+12; Sumatera Utara;1;;;;15;;3;;;;;;;;;2019;102;11;Land_Slide
+13; Sumatera Barat;2;;;;952;;;;;;;;1;;;2019;102;11;Land_Slide
+21; Kepulauan Riau;1;;;;;;1;;;;;;;;;2019;102;11;Land_Slide
+32; Jawa Barat;10;;;3;87;15;21;;;1;;;;;;2019;102;11;Land_Slide
+33; Jawa Tengah;7;;;;5;1;6;;;;;;;;;2019;102;11;Land_Slide
+35; Jawa Timur;3;;;;13;;3;1;;;;;;;;2019;102;11;Land_Slide
+62; Kalimantan Tengah;1;;;;;;1;;;;;;;;;2019;102;11;Land_Slide
+73; Sulawesi Selatan;2;;;;4;;2;;;;;;;;;2019;102;11;Land_Slide
+81; Maluku;1;;;;10;10;4;;;;;;;;;2019;102;11;Land_Slide
+33; Jawa Tengah;1;;;;5;;1;;;;;;;;;2019;104;11;Abration
+11; Aceh;1;;;;10;;2;;;;;;;;;2019;105;11;Tornado
+13; Sumatera Barat;4;;;;81;30;23;;;;;;;;;2019;105;11;Tornado
+14; Riau;1;;;7;;;69;;;;;;;;;2019;105;11;Tornado
+16; Sumatera Selatan;1;;;2;;;82;;;;;;;;;2019;105;11;Tornado
+17; Bengkulu;1;;;;;;5;;;;;;;;;2019;105;11;Tornado
+18; Lampung;1;;;;;;27;;;;;;;;;2019;105;11;Tornado
+19; Bangka Belitung;1;;;;;;2;;;;;;;;;2019;105;11;Tornado
+21; Kepulauan Riau;1;;;1;;;;;;;;;;;;2019;105;11;Tornado
+32; Jawa Barat;29;;;2;750;16;398;3;1;3;;;;;;2019;105;11;Tornado
+33; Jawa Tengah;42;;;27;158;47;1640;8;1;2;;1;;;15;2019;105;11;Tornado
+34; Yogyakarta;1;;;;;;19;;;;;;;;1;2019;105;11;Tornado
+35; Jawa Timur;39;1;;6;1115;;4049;5;1;7;;2;;;16;2019;105;11;Tornado
+36; Banten;5;;;1;;;112;;1;2;;;;;;2019;105;11;Tornado
+52; Nusa Tenggara Barat;1;;;;;;3;;;;;;;;;2019;105;11;Tornado
+53; Nusa Tenggara Timur;6;;;;19;;203;3;;2;;;;;;2019;105;11;Tornado
+63; Kalimantan Selatan;14;;;;903;;265;2;;1;;;;;;2019;105;11;Tornado
+64; Kalimantan Timur;1;;;;;;3;;;;;;;;;2019;105;11;Tornado
+73; Sulawesi Selatan;10;;;;84;;150;;;;;;;;;2019;105;11;Tornado
+74; Sulawesi Tenggara;1;;;;15;;7;1;;;;;;;;2019;105;11;Tornado
+76; Sulawesi Barat;1;;;;;;18;;;;;;;;;2019;105;11;Tornado
+16; Sumatera Selatan;2;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+17; Bengkulu;2;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+18; Lampung;12;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+32; Jawa Barat;7;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+33; Jawa Tengah;3;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+35; Jawa Timur;27;1;;;;;;;;;;;;;;2019;107;11;Forest Fire
+36; Banten;8;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+51; Bali;1;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+63; Kalimantan Selatan;3;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+64; Kalimantan Timur;4;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+73; Sulawesi Selatan;2;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+74; Sulawesi Tenggara;2;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+82; Maluku Utara;1;;;;;;;;;;;;;;;2019;107;11;Forest Fire
+35; Jawa Timur;1;;;;;;9;;;;;;;;;2019;108;11;Earthquake
+71; Sulawesi Utara;2;;;;;;2;;;;;1;;;;2019;108;11;Earthquake
+81; Maluku;4;1;;14;;;124;2;;2;;1;;;;2019;108;11;Earthquake
+82; Maluku Utara;1;;;2;;;39;2;1;3;;1;;;;2019;108;11;Earthquake
+11; Aceh;12;;;;29373;278;6;;;1;;1;6;;;2019;101;12;Flood
+12; Sumatera Utara;7;3;2;;1241;128;55;;;;;;8;;;2019;101;12;Flood
+13; Sumatera Barat;11;2;1;3;12115;1437;130;;;;;;9;;;2019;101;12;Flood
+14; Riau;12;;;;47984;160;;;;;;;2;;;2019;101;12;Flood
+15; Jambi;1;;;;68;;;;;;;;;;;2019;101;12;Flood
+16; Sumatera Selatan;1;;;;;;80;1;;1;;1;1;;;2019;101;12;Flood
+17; Bengkulu;2;;;;1422;1770;27;;1;3;;;;;;2019;101;12;Flood
+18; Lampung;1;;;;;;31;;;;;;;;;2019;101;12;Flood
+19; Bangka Belitung;3;;;;2312;;;;;;;;;;;2019;101;12;Flood
+21; Kepulauan Riau;1;;;;1400;;1;3;;1;;3;;;;2019;101;12;Flood
+32; Jawa Barat;8;;;;26157;1472;3;;;;;;;;;2019;101;12;Flood
+33; Jawa Tengah;5;;;;900;;;;;;;;;;;2019;101;12;Flood
+35; Jawa Timur;3;;;;120;;1;;;;;;;;;2019;101;12;Flood
+36; Banten;3;;;;4337;;3;;;1;;;3;;;2019;101;12;Flood
+52; Nusa Tenggara Barat;3;;;;450;;;;;;;;;;;2019;101;12;Flood
+61; Kalimantan Barat;8;;;;5684;3529;5;;;;;;4;;;2019;101;12;Flood
+63; Kalimantan Selatan;1;;;;118;;;;;;;;;;1;2019;101;12;Flood
+72; Sulawesi Tengah;3;2;;;1403;429;69;;;;;;1;;;2019;101;12;Flood
+74; Sulawesi Tenggara;1;;;;;138;46;;;;;;;;;2019;101;12;Flood
+91; Papua Barat;2;;;;4068;50;;;;;;2;2;;7;2019;101;12;Flood
+12; Sumatera Utara;1;;;;;;3;;;;;;;;;2019;102;12;Land_Slide
+13; Sumatera Barat;2;;1;3;5;;;;;;;;;;;2019;102;12;Land_Slide
+14; Riau;1;2;;;;;;;;;;;;;;2019;102;12;Land_Slide
+15; Jambi;1;;;;7;;2;;;;;;;;;2019;102;12;Land_Slide
+16; Sumatera Selatan;3;;;1;;3;5;;;;;;;;;2019;102;12;Land_Slide
+17; Bengkulu;1;;;;;;1;;;;;;;;;2019;102;12;Land_Slide
+18; Lampung;1;;;;;;9;;;;;;;;;2019;102;12;Land_Slide
+21; Kepulauan Riau;3;;;;15;;9;;;;;;;;;2019;102;12;Land_Slide
+32; Jawa Barat;13;1;;;75;86;35;1;;;;;;;;2019;102;12;Land_Slide
+33; Jawa Tengah;18;1;;3;23;20;27;1;;1;;;;;;2019;102;12;Land_Slide
+35; Jawa Timur;5;;;;44;;5;;;1;;;;;;2019;102;12;Land_Slide
+36; Banten;1;1;;1;;;;;;;;;;;;2019;102;12;Land_Slide
+73; Sulawesi Selatan;1;;;;3;;1;;;;;;;;;2019;102;12;Land_Slide
+81; Maluku;1;;;;;305;62;;;;;;;;;2019;104;12;Abration
+11; Aceh;1;;;;4;;1;;;;;;;;;2019;105;12;Tornado
+13; Sumatera Barat;3;;;;;;8;;;;;;;;;2019;105;12;Tornado
+18; Lampung;1;;;;20;;4;;;;;;;;;2019;105;12;Tornado
+19; Bangka Belitung;1;;;;21;;4;;;;;;;;;2019;105;12;Tornado
+21; Kepulauan Riau;1;;;;;;2;;;;;;;;;2019;105;12;Tornado
+31; Jakarta;1;;;1;;;;;;1;;;;;;2019;105;12;Tornado
+32; Jawa Barat;27;1;;1;1504;43;400;5;;5;;;;;2;2019;105;12;Tornado
+33; Jawa Tengah;95;3;;21;1363;64;1388;8;1;9;;3;;;29;2019;105;12;Tornado
+34; Yogyakarta;2;;;3;;;133;2;;3;;;;;2;2019;105;12;Tornado
+35; Jawa Timur;79;3;;17;920;;1328;12;3;5;;5;1;;37;2019;105;12;Tornado
+36; Banten;6;;;5;213;;252;;;2;;;;;;2019;105;12;Tornado
+51; Bali;5;;;;;;16;;;;;;;;;2019;105;12;Tornado
+52; Nusa Tenggara Barat;10;;;19;1335;16;371;3;;2;;1;;;14;2019;105;12;Tornado
+53; Nusa Tenggara Timur;2;;;1;;;2;;;1;;1;;;;2019;105;12;Tornado
+63; Kalimantan Selatan;5;;;;27;;10;;;;;;;;;2019;105;12;Tornado
+64; Kalimantan Timur;1;;;;4;;1;1;;;;;;;;2019;105;12;Tornado
+71; Sulawesi Utara;2;;;;;;27;;;;;;;;6;2019;105;12;Tornado
+73; Sulawesi Selatan;4;;;;18;;29;;;;;;;;;2019;105;12;Tornado
+74; Sulawesi Tenggara;1;;;;;;3;1;;;;;;;;2019;105;12;Tornado
+33; Jawa Tengah;1;;;;;;;;;;;;;;;2019;107;12;Forest Fire
+35; Jawa Timur;4;;;;;;;;;;;;;;;2019;107;12;Forest Fire
+36; Banten;1;;;;;;;;;;;;;;;2019;107;12;Forest Fire
+32; Jawa Barat;1;;;;;;;1;;;;;;;;2019;108;12;Earthquake
+11; Aceh;4;;;;7115;50;;;;;;;;;;2020;101;1;Flood
+12; Sumatera Utara;7;;;;1013;8985;16;;;;;;1;;;2020;101;1;Flood
+13; Sumatera Barat;15;;;;81;2431;15;2;;3;;1;9;;;2020;101;1;Flood
+14; Riau;1;;;;;;;;;;;;;;;2020;101;1;Flood
+15; Jambi;2;;;;2430;;1;;;;;;;;;2020;101;1;Flood
+16; Sumatera Selatan;6;;;;4120;390;938;;;;;;10;;;2020;101;1;Flood
+17; Bengkulu;3;10;;;480;;;;;2;;;9;;;2020;101;1;Flood
+18; Lampung;8;;;;44;;688;;;;;;;;;2020;101;1;Flood
+31; Jakarta;6;16;;;5126;36558;;;;;;;;;;2020;101;1;Flood
+32; Jawa Barat;26;14;0;0;156648;374364;21;18;0;52;0;0;3;0;0;2020;101;1;Flood
+33; Jawa Tengah;51;6;;1;51083;5409;159;5;1;3;;;2;;1;2020;101;1;Flood
+35; Jawa Timur;13;;;11;45470;856;215;2;;7;;;9;;2;2020;101;1;Flood
+36; Banten;10;10;;1;141734;5475;5064;;;;;1;1;;;2020;101;1;Flood
+52; Nusa Tenggara Barat;5;;;;2208;;;;;;;;1;;;2020;101;1;Flood
+61; Kalimantan Barat;5;;;;648;104;1;;;;;;;;;2020;101;1;Flood
+62; Kalimantan Tengah;3;;;;3112;;1;;;;;;2;;;2020;101;1;Flood
+63; Kalimantan Selatan;9;;;;1364;;;;;;;;;;;2020;101;1;Flood
+64; Kalimantan Timur;2;;;;13510;;;9;5;17;;;;;;2020;101;1;Flood
+72; Sulawesi Tengah;3;;;;4168;1560;2;;;;;;2;;;2020;101;1;Flood
+73; Sulawesi Selatan;6;1;;;805;83;5;7;1;;;3;;;;2020;101;1;Flood
+76; Sulawesi Barat;1;;;;1720;1740;;;;;;;;;;2020;101;1;Flood
+82; Maluku Utara;1;;;;;3335;;;;;;;;;;2020;101;1;Flood
+94; Papua;1;;;;150;;;;;;;;;;;2020;101;1;Flood
+12; Sumatera Utara;2;1;;1;;;;;;;;;1;;;2020;102;1;Land_Slide
+13; Sumatera Barat;10;0;0;0;87;3;23;0;1;0;0;0;1;0;0;2020;102;1;Land_Slide
+16; Sumatera Selatan;3;;;;;;1;;;;;;;;;2020;102;1;Land_Slide
+17; Bengkulu;2;;;;;;3;;;;;;;;;2020;102;1;Land_Slide
+18; Lampung;2;;;;;;2;;;;;;;;;2020;102;1;Land_Slide
+19; Bangka Belitung;1;1;;;;;;;;;;;;;;2020;102;1;Land_Slide
+32; Jawa Barat;41;3;;2;198;11;141;;;1;;;;;;2020;102;1;Land_Slide
+33; Jawa Tengah;77;1;;1;46;23;146;3;;2;;;3;;;2020;102;1;Land_Slide
+34; Yogyakarta;2;;;;12;;2;;;;;;;;;2020;102;1;Land_Slide
+35; Jawa Timur;3;;;;;;1;;;;;;;;;2020;102;1;Land_Slide
+36; Banten;3;;;;12;;9;;;;;;1;;;2020;102;1;Land_Slide
+52; Nusa Tenggara Barat;1;;;;5;;1;;;;;;;;;2020;102;1;Land_Slide
+64; Kalimantan Timur;4;;;;;;4;;;;;;1;;;2020;102;1;Land_Slide
+73; Sulawesi Selatan;4;;;3;445;;2;1;1;;;1;;;;2020;102;1;Land_Slide
+74; Sulawesi Tenggara;1;;;;5;;1;;;;;;;;;2020;102;1;Land_Slide
+76; Sulawesi Barat;1;;;;1310;;;;;;;;;;;2020;102;1;Land_Slide
+12; Sumatera Utara;1;9;;22;;3500;97;;;;;;;;;2020;103;1;Flood and Land Slide
+13; Sumatera Barat;1;;;;;;2;1;;;;;2;;;2020;103;1;Flood and Land Slide
+16; Sumatera Selatan;1;;;;;;7;;;;;;;;;2020;103;1;Flood and Land Slide
+32; Jawa Barat;1;11;;;35738;22504;2361;40;;37;;5;33;;;2020;103;1;Flood and Land Slide
+36; Banten;1;9;2;67;10928;16163;2389;5;;;;27;2;;;2020;103;1;Flood and Land Slide
+52; Nusa Tenggara Barat;1;;;;;;;;;;;;;;;2020;103;1;Flood and Land Slide
+71; Sulawesi Utara;1;3;;6;;412;76;;;1;;;1;;;2020;103;1;Flood and Land Slide
+51; Bali;1;;;;;;9;;;;;;;;;2020;104;1;Abration
+73; Sulawesi Selatan;2;;;;;;1;;;;;;;;;2020;104;1;Abration
+74; Sulawesi Tenggara;1;;;;;;4;;;;;;;;;2020;104;1;Abration
+11; Aceh;8;;;1;84;;30;1;;;;;;;;2020;105;1;Tornado
+12; Sumatera Utara;3;;;;;;8;;;;;;;;;2020;105;1;Tornado
+13; Sumatera Barat;8;;;;15;;26;;;1;;1;;;;2020;105;1;Tornado
+15; Jambi;1;;;;50;;10;;;;;;;;;2020;105;1;Tornado
+16; Sumatera Selatan;1;;;;;;12;;;;;;;;;2020;105;1;Tornado
+18; Lampung;2;;;;;;25;;;;;;;;;2020;105;1;Tornado
+19; Bangka Belitung;2;;;;31;1;7;;;;;;;;;2020;105;1;Tornado
+32; Jawa Barat;33;;;2;793;;278;1;;1;;;;;1;2020;105;1;Tornado
+33; Jawa Tengah;54;1;;7;124;22;240;3;;1;;;;;6;2020;105;1;Tornado
+34; Yogyakarta;4;;;;14;;35;1;;2;;1;;;;2020;105;1;Tornado
+35; Jawa Timur;16;2;;7;5;;448;;;4;;1;;;;2020;105;1;Tornado
+36; Banten;13;;;1;1;;15;;;;;;;;;2020;105;1;Tornado
+51; Bali;13;;;;10;;20;;1;4;;;;;1;2020;105;1;Tornado
+52; Nusa Tenggara Barat;6;;;10;44;;19;;;1;;;;;;2020;105;1;Tornado
+53; Nusa Tenggara Timur;4;;;;40;;56;2;;1;;;;;;2020;105;1;Tornado
+61; Kalimantan Barat;1;;;;;;4;1;;;;;;;;2020;105;1;Tornado
+63; Kalimantan Selatan;7;;;;21;;8;1;;;;;;;;2020;105;1;Tornado
+64; Kalimantan Timur;1;;;;;;3;;;;;;;;;2020;105;1;Tornado
+65; Kalimantan Utara;1;;;;;;1;;;;;;;;;2020;105;1;Tornado
+73; Sulawesi Selatan;26;;;3;1663;1;4402;9;2;2;;4;;;48;2020;105;1;Tornado
+74; Sulawesi Tenggara;3;;;;;;107;;;;;;;;;2020;105;1;Tornado
+76; Sulawesi Barat;1;;;;25;;5;;;;;;;;;2020;105;1;Tornado
+91; Papua Barat;1;;;;;;6;;;;;;;;;2020;105;1;Tornado
+11; Aceh;9;;;;;;;;;;;;;;;2020;107;1;Forest Fire
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2020;107;1;Forest Fire
+14; Riau;13;;;;;;;;;;;;;;;2020;107;1;Forest Fire
+21; Kepulauan Riau;14;;;;;;;;;;;;;;;2020;107;1;Forest Fire
+61; Kalimantan Barat;1;;;;;;;;;;;;;;;2020;107;1;Forest Fire
+62; Kalimantan Tengah;14;;;;;;;;;;;;;;;2020;107;1;Forest Fire
+64; Kalimantan Timur;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2020;107;1;Forest Fire
+65; Kalimantan Utara;7;;;3;;;;;;;;;;;;2020;107;1;Forest Fire
+72; Sulawesi Tengah;1;;;;;;;;;;;;;;;2020;107;1;Forest Fire
+81; Maluku;3;;;;7;;;;;;;;;;;2020;107;1;Forest Fire
+11; Aceh;2;;;;3;;2;;;;;;;;;2020;108;1;Earthquake
+11; Aceh;2;;;;75;;;;;;;;1;;;2020;101;2;Flood
+13; Sumatera Barat;20;3;1;2;5485;2290;7;6;;;;;7;;;2020;101;2;Flood
+14; Riau;3;;;;1110;;;;;;;;;;;2020;101;2;Flood
+15; Jambi;3;;;;355;250;;;;;;;;;;2020;101;2;Flood
+16; Sumatera Selatan;15;;;;19587;11;;6;2;1;;;5;;;2020;101;2;Flood
+18; Lampung;1;;;;;;1;;;;;;;;;2020;101;2;Flood
+19; Bangka Belitung;1;;;;50;20;;;;;;;;;;2020;101;2;Flood
+21; Kepulauan Riau;1;;;;;;;;;;;;;;;2020;101;2;Flood
+31; Jakarta;24;4;;;52853;17329;;;;;;;;;;2020;101;2;Flood
+32; Jawa Barat;52;7;;1;542834;24387;18;;;;;;;;;2020;101;2;Flood
+33; Jawa Tengah;54;3;;;117247;9850;2;;;;;;1;;;2020;101;2;Flood
+35; Jawa Timur;38;;;2;54894;450;2;;;2;;;5;;12;2020;101;2;Flood
+36; Banten;8;2;;;39259;1363;;;;;;;;;;2020;101;2;Flood
+51; Bali;2;;;;;20;1;1;;;;;;;;2020;101;2;Flood
+52; Nusa Tenggara Barat;12;;;2;3167;;4;2;;1;;;4;;;2020;101;2;Flood
+61; Kalimantan Barat;3;;;;;1445;;;;;;;2;;;2020;101;2;Flood
+62; Kalimantan Tengah;9;;;;1778;28;;;;;;;1;;;2020;101;2;Flood
+63; Kalimantan Selatan;25;;;;98440;;;1;1;;;;2;;;2020;101;2;Flood
+64; Kalimantan Timur;2;;;;379;;;;;;;;;;;2020;101;2;Flood
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2020;101;2;Flood
+72; Sulawesi Tengah;2;;;;4865;;;;;;;;;;;2020;101;2;Flood
+73; Sulawesi Selatan;1;;;;;;;;;1;;;;;;2020;101;2;Flood
+74; Sulawesi Tenggara;1;;;;180;;50;;;;;;;;;2020;101;2;Flood
+81; Maluku;1;;;;716;;;;;;;;;;;2020;101;2;Flood
+82; Maluku Utara;1;;;;;;;;;;;;1;;;2020;101;2;Flood
+91; Papua Barat;1;;;;1000;;;;;;;;;;;2020;101;2;Flood
+12; Sumatera Utara;1;;;;;;;;;1;;;;;;2020;102;2;Land_Slide
+13; Sumatera Barat;18;1;;1;8;4;22;1;;;;;;;;2020;102;2;Land_Slide
+16; Sumatera Selatan;2;;;;8;;2;;;;;;;;;2020;102;2;Land_Slide
+17; Bengkulu;1;;;;81;;21;;;1;;;3;;;2020;102;2;Land_Slide
+19; Bangka Belitung;1;1;;;;;;;;;;;;;;2020;102;2;Land_Slide
+32; Jawa Barat;59;6;;5;888;62;140;1;;1;;1;1;;;2020;102;2;Land_Slide
+33; Jawa Tengah;108;1;;6;7528;246;182;1;;3;;;4;;3;2020;102;2;Land_Slide
+35; Jawa Timur;1;1;;;;;1;;;;;;;;;2020;102;2;Land_Slide
+36; Banten;1;;;;;;1;;;;;;;;;2020;102;2;Land_Slide
+51; Bali;7;;;;;;9;;;;;;;;;2020;102;2;Land_Slide
+52; Nusa Tenggara Barat;2;;;;;;1;;;;;;1;;;2020;102;2;Land_Slide
+63; Kalimantan Selatan;2;;;;53;;1;;;;;;;;;2020;102;2;Land_Slide
+71; Sulawesi Utara;1;;;;2;8;2;;;;;;;;;2020;102;2;Land_Slide
+73; Sulawesi Selatan;5;1;;1;15;;6;;;;;;;;;2020;102;2;Land_Slide
+13; Sumatera Barat;1;;;;150;;;;;;;;;;;2020;103;2;Flood and Land Slide
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2020;103;2;Flood and Land Slide
+52; Nusa Tenggara Barat;1;;;;60;;2;;;;;;;;;2020;103;2;Flood and Land Slide
+91; Papua Barat;1;;;;2869;;2;;;;;;;;;2020;103;2;Flood and Land Slide
+11; Aceh;1;;;;1;;1;;;;;;;;;2020;104;2;Abration
+65; Kalimantan Utara;1;;;;;25;8;;;;;;;;;2020;104;2;Abration
+71; Sulawesi Utara;2;;;;50;;10;;;;;;;;;2020;104;2;Abration
+11; Aceh;5;;;;10;;6;;;;;;;;;2020;105;2;Tornado
+12; Sumatera Utara;1;;;;;;62;;;;;;;;;2020;105;2;Tornado
+13; Sumatera Barat;15;;;1;12;;36;1;;;;;;;1;2020;105;2;Tornado
+17; Bengkulu;1;;;;;;1;;;;;;;;;2020;105;2;Tornado
+18; Lampung;1;;;;;;1;;;;;;;;;2020;105;2;Tornado
+19; Bangka Belitung;3;;;;140;3;28;;;;;;;;;2020;105;2;Tornado
+21; Kepulauan Riau;1;;;;;;1;;;;;;;;;2020;105;2;Tornado
+32; Jawa Barat;48;;;4;572;12;239;2;;;;;;;1;2020;105;2;Tornado
+33; Jawa Tengah;56;1;;7;221;33;427;4;;2;;;;;3;2020;105;2;Tornado
+34; Yogyakarta;3;1;;2;;;35;;3;1;;1;;;4;2020;105;2;Tornado
+35; Jawa Timur;11;;;2;235;;169;;;1;;1;;;6;2020;105;2;Tornado
+36; Banten;3;;;1;;;2;2;;;;;;;;2020;105;2;Tornado
+51; Bali;13;;;2;;;15;;;2;;;;;;2020;105;2;Tornado
+52; Nusa Tenggara Barat;1;;;;92;;23;;;;;;;;;2020;105;2;Tornado
+53; Nusa Tenggara Timur;1;;;2;176;;44;1;;;;;;;;2020;105;2;Tornado
+63; Kalimantan Selatan;3;;;;68;;14;;;;;;;;;2020;105;2;Tornado
+65; Kalimantan Utara;1;;;;;;1;;;;;;;;;2020;105;2;Tornado
+73; Sulawesi Selatan;9;;;;29;;11;3;;;;;;;1;2020;105;2;Tornado
+81; Maluku;1;;;;;;1;;;;;;;;;2020;105;2;Tornado
+11; Aceh;1;;;;;;;;;;;;;;;2020;106;2;Drought
+11; Aceh;39;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+12; Sumatera Utara;3;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+13; Sumatera Barat;8;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+14; Riau;2;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+15; Jambi;1;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+19; Bangka Belitung;1;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+21; Kepulauan Riau;17;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+62; Kalimantan Tengah;3;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+64; Kalimantan Timur;10;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+65; Kalimantan Utara;9;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+81; Maluku;3;;;;;;;;;;;;;;;2020;107;2;Forest Fire
+81; Maluku;1;;;;25;;5;;;;;;;;;2020;108;2;Earthquake
+11; Aceh;1;;;;427;;;;;;;;;;;2020;101;3;Flood
+13; Sumatera Barat;6;;;;1075;40;12;2;;3;;;6;;6;2020;101;3;Flood
+15; Jambi;2;;;;525;;;;;;;;;;;2020;101;3;Flood
+16; Sumatera Selatan;8;;;;7297;;;1;;;;;;;;2020;101;3;Flood
+18; Lampung;4;;;;3213;565;968;;;;;;;;;2020;101;3;Flood
+32; Jawa Barat;26;1;;1;254654;6266;18;87;;124;;;3;;;2020;101;3;Flood
+33; Jawa Tengah;34;;1;;3110;342;6;1;;1;;;5;;;2020;101;3;Flood
+34; Yogyakarta;6;;;1;720;;1;;;2;;1;;;;2020;101;3;Flood
+35; Jawa Timur;16;;;1;10381;;156;;;5;;2;6;;1;2020;101;3;Flood
+36; Banten;5;;;;4077;;;;;;;;;;;2020;101;3;Flood
+52; Nusa Tenggara Barat;4;;;2;3486;;4;2;;;;;1;;;2020;101;3;Flood
+61; Kalimantan Barat;2;;;;;6;;;;;;;;;;2020;101;3;Flood
+62; Kalimantan Tengah;4;1;;;280;;;;;;;;6;;;2020;101;3;Flood
+63; Kalimantan Selatan;2;;;;528;;;;;;;;;;;2020;101;3;Flood
+64; Kalimantan Timur;1;;;;;;;;;;;;;;;2020;101;3;Flood
+65; Kalimantan Utara;1;;;;;;;;;;;;1;;;2020;101;3;Flood
+71; Sulawesi Utara;2;2;;;27512;;7169;1;;1;;;;;12;2020;101;3;Flood
+72; Sulawesi Tengah;2;;1;;2165;952;132;;;;;;;;;2020;101;3;Flood
+75; Gorontalo;3;;;;6804;1194;;11;1;1;;1;3;;;2020;101;3;Flood
+81; Maluku;2;;;;86;;;;;;;;;;;2020;101;3;Flood
+82; Maluku Utara;2;;;;;1726;1;;;;;;2;;;2020;101;3;Flood
+91; Papua Barat;1;;;;150;;;;;;;;;;;2020;101;3;Flood
+12; Sumatera Utara;1;;;;;;1;;;;;;;;;2020;102;3;Land_Slide
+14; Riau;1;;;;25;;3;;;;;;;;;2020;102;3;Land_Slide
+19; Bangka Belitung;1;1;;;;;;;;;;;;;;2020;102;3;Land_Slide
+32; Jawa Barat;59;;;4;627;56;158;;1;;;;2;;;2020;102;3;Land_Slide
+33; Jawa Tengah;63;0;0;6;58;282;205;2;1;2;0;0;4;0;0;2020;102;3;Land_Slide
+34; Yogyakarta;4;;;;27;3;7;;;;;;1;;;2020;102;3;Land_Slide
+35; Jawa Timur;4;;;;134;124;20;;;;;;1;;10;2020;102;3;Land_Slide
+36; Banten;3;;;;5;;3;;;;;;;;;2020;102;3;Land_Slide
+51; Bali;4;1;;2;;;3;;;;;;;;;2020;102;3;Land_Slide
+63; Kalimantan Selatan;1;;;;8;;2;;;;;;;;;2020;102;3;Land_Slide
+64; Kalimantan Timur;2;;;;;;1;2;;;;;;;;2020;102;3;Land_Slide
+65; Kalimantan Utara;1;;;;;;1;;;;;;;;;2020;102;3;Land_Slide
+72; Sulawesi Tengah;1;;;;20;16;4;;;;;;;;;2020;102;3;Land_Slide
+73; Sulawesi Selatan;6;3;;1;2;;20;;;;;;1;;1;2020;102;3;Land_Slide
+32; Jawa Barat;2;;;;153;;5;;;;;;;;;2020;103;3;Flood and Land Slide
+33; Jawa Tengah;1;1;;;;;;;;;;;;;;2020;103;3;Flood and Land Slide
+35; Jawa Timur;1;1;;1;;;;;;;;;;;;2020;103;3;Flood and Land Slide
+71; Sulawesi Utara;1;1;;;496;250;174;2;;3;;1;;;;2020;103;3;Flood and Land Slide
+11; Aceh;5;;;;66;10;19;;;;;;;;;2020;105;3;Tornado
+12; Sumatera Utara;2;;;;1;;7;;;;;;;;;2020;105;3;Tornado
+13; Sumatera Barat;8;;;1;3;;17;1;;;;;;;;2020;105;3;Tornado
+16; Sumatera Selatan;2;;;;8;;3;;;;;;;;;2020;105;3;Tornado
+18; Lampung;7;;;1;;;145;1;;;;;;;;2020;105;3;Tornado
+32; Jawa Barat;41;;;;809;49;233;;;1;;;1;;;2020;105;3;Tornado
+33; Jawa Tengah;46;1;;8;317;5;572;3;1;3;;;1;;10;2020;105;3;Tornado
+34; Yogyakarta;4;;;1;21;;17;;;;;;;;;2020;105;3;Tornado
+35; Jawa Timur;13;1;;4;275;;179;4;1;1;;2;;;2;2020;105;3;Tornado
+36; Banten;3;;;;9;15;8;;;;;;;;;2020;105;3;Tornado
+51; Bali;4;;;3;;;4;;;;;;;;;2020;105;3;Tornado
+63; Kalimantan Selatan;5;;;4;122;;32;;;1;;;;;;2020;105;3;Tornado
+73; Sulawesi Selatan;7;;;1;29;;37;;;;;1;;;10;2020;105;3;Tornado
+74; Sulawesi Tenggara;2;;;;;50;13;;;;;;;;;2020;105;3;Tornado
+11; Aceh;64;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+12; Sumatera Utara;9;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+14; Riau;1;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+15; Jambi;1;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+19; Bangka Belitung;1;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+21; Kepulauan Riau;10;;;;;;1;;;;;;;;;2020;107;3;Forest Fire
+61; Kalimantan Barat;2;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+63; Kalimantan Selatan;2;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+64; Kalimantan Timur;13;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+65; Kalimantan Utara;13;;;;;;;;;;;;;;;2020;107;3;Forest Fire
+32; Jawa Barat;3;;;12;3633;379;1337;8;;11;;;;;;2020;108;3;Earthquake
+72; Sulawesi Tengah;1;;;9;;;136;2;;4;;2;;;;2020;108;3;Earthquake
+94; Papua;1;;;;;5;;;;;;;;;;2020;108;3;Earthquake
+33; Jawa Tengah;5;;;1;;;;;;;;;;;;2020;111;3;Volcano Eruption
+11; Aceh;6;;;;11774;5;1;3;;5;;;;;;2020;101;4;Flood
+12; Sumatera Utara;8;1;1;1;1130;;63;10;;9;;1;4;;;2020;101;4;Flood
+13; Sumatera Barat;4;;;;330;4;;;;;;;1;;;2020;101;4;Flood
+14; Riau;2;;;;5722;;;;;;;;;;;2020;101;4;Flood
+15; Jambi;4;;;;2195;;;;;1;;;1;;;2020;101;4;Flood
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2020;101;4;Flood
+17; Bengkulu;2;;;;1200;;10;;;;;;;;;2020;101;4;Flood
+18; Lampung;1;;;;125;;;;;;;;;;;2020;101;4;Flood
+31; Jakarta;5;;;;1646;10;;;;;;;;;;2020;101;4;Flood
+32; Jawa Barat;20;2;;;5219;14;10;;;;;;1;;;2020;101;4;Flood
+33; Jawa Tengah;18;;;;1503;83;9;;;;;;2;;2;2020;101;4;Flood
+35; Jawa Timur;16;;;;32245;22;;;;2;;;;;;2020;101;4;Flood
+36; Banten;1;;;;740;;;;;;;;;;;2020;101;4;Flood
+52; Nusa Tenggara Barat;4;;;;1286;;;;;;;;;;;2020;101;4;Flood
+61; Kalimantan Barat;1;;;;;86;;;;;;;;;;2020;101;4;Flood
+62; Kalimantan Tengah;6;3;3;;28797;;;8;13;4;;;4;;;2020;101;4;Flood
+63; Kalimantan Selatan;3;;;;2045;;;;;;;;;;;2020;101;4;Flood
+64; Kalimantan Timur;3;;;;3435;;;;;;;;;;;2020;101;4;Flood
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2020;101;4;Flood
+72; Sulawesi Tengah;4;;;;8843;37;8;;;;;;;;;2020;101;4;Flood
+73; Sulawesi Selatan;7;;;;5038;147;4;1;;2;;;;;;2020;101;4;Flood
+11; Aceh;1;;;;2;;1;;;;;;;;;2020;102;4;Land_Slide
+12; Sumatera Utara;1;;;;;;1;;;;;;;;;2020;102;4;Land_Slide
+13; Sumatera Barat;5;11;;;16;;6;;;;;;;;;2020;102;4;Land_Slide
+18; Lampung;1;;;;;;2;;;;;;;;;2020;102;4;Land_Slide
+32; Jawa Barat;33;3;;5;189;62;68;;;;;;1;;;2020;102;4;Land_Slide
+33; Jawa Tengah;28;;;;19;214;84;1;;1;;;5;;;2020;102;4;Land_Slide
+35; Jawa Timur;2;;;;;;6;;;;;;;;;2020;102;4;Land_Slide
+51; Bali;3;;;;;;4;;;;;;;;;2020;102;4;Land_Slide
+65; Kalimantan Utara;1;;;;;;1;;;;;;;;;2020;102;4;Land_Slide
+73; Sulawesi Selatan;6;8;;;33;13;11;;;;;;;;;2020;102;4;Land_Slide
+13; Sumatera Barat;1;;;;1415;;;;;;;;;;;2020;103;4;Flood and Land Slide
+15; Jambi;1;;;;;6;2;;;;;;;;;2020;103;4;Flood and Land Slide
+16; Sumatera Selatan;1;;;;;;;;;;;;4;;;2020;103;4;Flood and Land Slide
+17; Bengkulu;1;;;;1595;;;;;;;;;;;2020;103;4;Flood and Land Slide
+32; Jawa Barat;3;;;;78;;;;;;;;;;;2020;103;4;Flood and Land Slide
+72; Sulawesi Tengah;1;;;;148;50;6;;;;;;;;;2020;103;4;Flood and Land Slide
+11; Aceh;3;;;;;;;;;;;;;;;2020;104;4;Abration
+17; Bengkulu;1;;;;;;;;;;;;1;;;2020;104;4;Abration
+11; Aceh;7;;;;74;1;22;;;;;1;1;;7;2020;105;4;Tornado
+13; Sumatera Barat;6;;;;31;;15;;;;;;;;1;2020;105;4;Tornado
+14; Riau;1;;;;;34;;;;;;;;;;2020;105;4;Tornado
+16; Sumatera Selatan;2;;;;4;;2;;;;;;;;;2020;105;4;Tornado
+21; Kepulauan Riau;1;;;;8;4;1;;;;;;;;;2020;105;4;Tornado
+32; Jawa Barat;23;;;;1285;3;301;;;;;;;;;2020;105;4;Tornado
+33; Jawa Tengah;20;;;3;;9;117;2;;;;;;;;2020;105;4;Tornado
+34; Yogyakarta;2;;;;19;;5;;;;;;;;;2020;105;4;Tornado
+35; Jawa Timur;5;;;;;;216;;;;;;;;1;2020;105;4;Tornado
+51; Bali;2;;;;;;4;;;;;;;;;2020;105;4;Tornado
+61; Kalimantan Barat;2;;;;;;42;;;;;;;;;2020;105;4;Tornado
+73; Sulawesi Selatan;5;1;;;3;;17;;;;;;;;;2020;105;4;Tornado
+75; Gorontalo;1;;;;42;;8;;;;;;;;;2020;105;4;Tornado
+53; Nusa Tenggara Timur;1;;;;742657;;;;;;;;;;;2020;106;4;Drought
+11; Aceh;11;;;1;;;;;;;;;;;;2020;107;4;Forest Fire
+12; Sumatera Utara;1;;;;;;;;;;;;;;;2020;107;4;Forest Fire
+14; Riau;3;;;;;;;;;;;;;;;2020;107;4;Forest Fire
+61; Kalimantan Barat;2;;;;;;;;;;;;;;;2020;107;4;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2020;107;4;Forest Fire
+64; Kalimantan Timur;8;;;;;;;;;;;;;;;2020;107;4;Forest Fire
+65; Kalimantan Utara;12;;;;;;;;;;;;;;;2020;107;4;Forest Fire
+12; Sumatera Utara;1;;;;;;4;1;;2;;;;;;2020;108;4;Earthquake
+18; Lampung;1;;;;;;;;;;;;;;;2020;111;4;Volcano Eruption
+11; Aceh;23;1;;;7140;3190;4;1;;;;;2;;;2020;101;5;Flood
+12; Sumatera Utara;4;;;;;;10;;;;;;;;;2020;101;5;Flood
+13; Sumatera Barat;1;;;;8980;;;;;;;;;;;2020;101;5;Flood
+14; Riau;1;;;;105;;;;;;;;;;;2020;101;5;Flood
+15; Jambi;6;;;;4980;;;;;;;;;;;2020;101;5;Flood
+16; Sumatera Selatan;8;1;;;4985;10;38;1;;1;;;11;;;2020;101;5;Flood
+17; Bengkulu;2;;;;;;;;;;;;;;;2020;101;5;Flood
+18; Lampung;6;;;;1030;;;;;1;;;2;;;2020;101;5;Flood
+19; Bangka Belitung;1;;;;25;;;;;;;;;;;2020;101;5;Flood
+31; Jakarta;6;;;;3478;213;;;;;;;;;;2020;101;5;Flood
+32; Jawa Barat;16;;;;74516;319;10;49;;97;;;2;;;2020;101;5;Flood
+33; Jawa Tengah;17;;1;;2130;830;9;;;;;;2;;4;2020;101;5;Flood
+35; Jawa Timur;10;2;;;6485;;6;;;1;;;2;;35;2020;101;5;Flood
+36; Banten;13;;;;7004;2500;;4;2;2;;1;1;;;2020;101;5;Flood
+51; Bali;1;;;;;;1;;;;;;;;;2020;101;5;Flood
+52; Nusa Tenggara Barat;2;;;;4503;;10;1;;;;;;;;2020;101;5;Flood
+53; Nusa Tenggara Timur;2;;;;1380;280;2;;;;;;;;;2020;101;5;Flood
+61; Kalimantan Barat;3;;;;2484;9286;;;;;;;;;;2020;101;5;Flood
+62; Kalimantan Tengah;7;;;;34188;;;;;;;;;;;2020;101;5;Flood
+63; Kalimantan Selatan;6;;;;2102;;;;;;;;;;;2020;101;5;Flood
+64; Kalimantan Timur;3;;;;44678;46420;6;1;;4;;;;;;2020;101;5;Flood
+72; Sulawesi Tengah;7;0;0;0;1489;0;40;0;0;1;0;0;3;0;0;2020;101;5;Flood
+73; Sulawesi Selatan;7;1;;;51132;1281;18;62;31;50;;15;52;;;2020;101;5;Flood
+74; Sulawesi Tenggara;2;;;;750;;;;;;;;;;;2020;101;5;Flood
+76; Sulawesi Barat;2;;;;3548;553;;1;;1;;;;;;2020;101;5;Flood
+11; Aceh;5;;;;2131;214;63;;;;;;;;;2020;102;5;Land_Slide
+16; Sumatera Selatan;4;1;;;17;;10;;;;;;;;;2020;102;5;Land_Slide
+17; Bengkulu;1;;;;;;;;;;;;;;;2020;102;5;Land_Slide
+32; Jawa Barat;27;1;;4;206;311;66;1;;1;;;1;;;2020;102;5;Land_Slide
+33; Jawa Tengah;24;3;;9;32;5;32;1;;;;;;;14;2020;102;5;Land_Slide
+35; Jawa Timur;1;;;;22;;9;;;;;;;;;2020;102;5;Land_Slide
+36; Banten;1;;;;35;;;;;;;;;;;2020;102;5;Land_Slide
+51; Bali;2;;;;;;6;;;;;;;;;2020;102;5;Land_Slide
+64; Kalimantan Timur;3;;;;;;19;;;1;;;;;;2020;102;5;Land_Slide
+65; Kalimantan Utara;1;;;;;;15;;;;;;;;;2020;102;5;Land_Slide
+73; Sulawesi Selatan;1;;;;;;1;;;;;;;;;2020;102;5;Land_Slide
+76; Sulawesi Barat;1;3;;4;;;1;;;;;;;;;2020;102;5;Land_Slide
+16; Sumatera Selatan;1;;;;;;6;;;;;;1;;;2020;103;5;Flood and Land Slide
+61; Kalimantan Barat;1;;;;;2115;1;;;;;;;;;2020;103;5;Flood and Land Slide
+11; Aceh;6;;;;159;223;73;;;;;;;;;2020;104;5;Abration
+12; Sumatera Utara;1;;;;10;;2;;;;;;;;;2020;104;5;Abration
+13; Sumatera Barat;4;;;;;;56;;;;;;;;1;2020;104;5;Abration
+18; Lampung;1;;;;;;;;;;;;;;;2020;104;5;Abration
+32; Jawa Barat;1;;;;370;;;;;;;;;;;2020;104;5;Abration
+34; Yogyakarta;1;;;;;;;;;;;;;;14;2020;104;5;Abration
+11; Aceh;15;1;;;68;;38;;;;;;;;;2020;105;5;Tornado
+12; Sumatera Utara;6;;;3;;;1100;;;;;;;;;2020;105;5;Tornado
+13; Sumatera Barat;10;;;;3;;46;1;;;;;;;;2020;105;5;Tornado
+14; Riau;1;;;;;;11;;;;;;;;;2020;105;5;Tornado
+16; Sumatera Selatan;1;;;;12;;4;;;;;;;;;2020;105;5;Tornado
+17; Bengkulu;2;;;;280;;23;;;;;;;;;2020;105;5;Tornado
+18; Lampung;1;2;;9;;;271;;;;;;;;;2020;105;5;Tornado
+21; Kepulauan Riau;1;;;;6;;1;;;;;;;;;2020;105;5;Tornado
+32; Jawa Barat;16;;;;121;7;114;;;;;;;;;2020;105;5;Tornado
+33; Jawa Tengah;13;;;;17;;63;;;;;;;;;2020;105;5;Tornado
+35; Jawa Timur;1;;;;;;52;;;;;;;;;2020;105;5;Tornado
+36; Banten;4;;;;35;;30;;;;;;;;1;2020;105;5;Tornado
+51; Bali;4;;;;;;6;;;;;;;;;2020;105;5;Tornado
+61; Kalimantan Barat;1;;;;;9;9;;;;;;;;;2020;105;5;Tornado
+63; Kalimantan Selatan;2;;;;28;;5;;;;;;;;;2020;105;5;Tornado
+65; Kalimantan Utara;1;;;;;;9;;;;;;;;5;2020;105;5;Tornado
+71; Sulawesi Utara;1;;;;;;13;;;;;;;;;2020;105;5;Tornado
+73; Sulawesi Selatan;1;;;;40;;8;;;;;;;;;2020;105;5;Tornado
+75; Gorontalo;1;;;2;42;;11;;;;;;;;;2020;105;5;Tornado
+12; Sumatera Utara;1;;;;;;;;;;;;;;;2020;107;5;Forest Fire
+64; Kalimantan Timur;10;;;;;;;;;;;;;;;2020;107;5;Forest Fire
+65; Kalimantan Utara;3;;;;;;;;;;;;;;;2020;107;5;Forest Fire
+11; Aceh;8;;;;9761;1170;17;;;;;;1;;;2020;101;6;Flood
+12; Sumatera Utara;5;;;;11074;;;;;;;;;;;2020;101;6;Flood
+13; Sumatera Barat;2;;;;;;3;;;;;;;;;2020;101;6;Flood
+14; Riau;1;;;;455;;;;;;;;;;;2020;101;6;Flood
+15; Jambi;2;;;;22325;;;;;;;;;;;2020;101;6;Flood
+16; Sumatera Selatan;2;;;;;;1;;;;;;;;;2020;101;6;Flood
+17; Bengkulu;3;;;;3527;;1;1;;;;;1;;;2020;101;6;Flood
+18; Lampung;1;;;;;;;;;;;;;;;2020;101;6;Flood
+21; Kepulauan Riau;1;;;;555;;;;;;;;;;;2020;101;6;Flood
+31; Jakarta;1;;;;200;;;;;;;;;;;2020;101;6;Flood
+32; Jawa Barat;18;2;;;51395;681;187;;;;;;;;10;2020;101;6;Flood
+33; Jawa Tengah;9;;;;21700;369;;;;;;;;;;2020;101;6;Flood
+35; Jawa Timur;1;;;;;;;;;;;;;;;2020;101;6;Flood
+36; Banten;1;;;;545;;;;;;;;;;;2020;101;6;Flood
+51; Bali;1;;;;;;1;;;;;;;;;2020;101;6;Flood
+53; Nusa Tenggara Timur;1;;;;1030;;;;;;;;;;;2020;101;6;Flood
+61; Kalimantan Barat;6;;;;13341;5965;;;;;;;4;;;2020;101;6;Flood
+62; Kalimantan Tengah;11;1;;;50250;845;;;;;;;;;;2020;101;6;Flood
+63; Kalimantan Selatan;3;;;;3140;;;;;;;;;;;2020;101;6;Flood
+71; Sulawesi Utara;1;;;;1100;;;;;;;;;;;2020;101;6;Flood
+72; Sulawesi Tengah;4;;;;2408;;3;;;1;;;;;;2020;101;6;Flood
+73; Sulawesi Selatan;11;1;;;62545;281;2291;20;4;2;;7;8;;;2020;101;6;Flood
+74; Sulawesi Tenggara;1;;;;3691;680;;;;;;;;;;2020;101;6;Flood
+75; Gorontalo;5;;;3;25692;3779;142;1;1;1;;;2;;;2020;101;6;Flood
+82; Maluku Utara;3;;;;425;700;;;;;;;4;;;2020;101;6;Flood
+91; Papua Barat;1;;;;500;;;;;;;;;;;2020;101;6;Flood
+13; Sumatera Barat;7;4;;1;20;17;18;;;3;;;2;;;2020;102;6;Land_Slide
+19; Bangka Belitung;1;1;;;;;;;;;;;;;;2020;102;6;Land_Slide
+32; Jawa Barat;14;;;5;219;4;36;;;;;;;;;2020;102;6;Land_Slide
+33; Jawa Tengah;7;;;;;;9;;;;;;;;;2020;102;6;Land_Slide
+51; Bali;2;;;;;;2;;;;;;;;;2020;102;6;Land_Slide
+64; Kalimantan Timur;2;;;;;;2;;;;;;;;;2020;102;6;Land_Slide
+72; Sulawesi Tengah;1;;;1;22;;3;;;;;;;;;2020;102;6;Land_Slide
+73; Sulawesi Selatan;3;;;;247;35;18;;;;;;;;;2020;102;6;Land_Slide
+74; Sulawesi Tenggara;1;;;;5;;1;;;;;;;;;2020;102;6;Land_Slide
+81; Maluku;1;;;;10;;1;;;;;;;;;2020;102;6;Land_Slide
+16; Sumatera Selatan;1;1;;;;;;;;;;;;;;2020;103;6;Flood and Land Slide
+63; Kalimantan Selatan;1;;;;190;;2;;;;;;;;;2020;103;6;Flood and Land Slide
+73; Sulawesi Selatan;1;4;;4;;235;136;;;;;;;;;2020;103;6;Flood and Land Slide
+33; Jawa Tengah;2;;;;;;;;;;;;;;;2020;104;6;Abration
+11; Aceh;9;;;;109;;14;1;;;;;;;12;2020;105;6;Tornado
+12; Sumatera Utara;5;;;7;1585;145;454;1;;2;;;1;;;2020;105;6;Tornado
+13; Sumatera Barat;4;;;;;;3;;;1;;;;;;2020;105;6;Tornado
+14; Riau;1;;;;;48;;;;;;;;;;2020;105;6;Tornado
+16; Sumatera Selatan;1;;;;;;1;;;;;;;;;2020;105;6;Tornado
+18; Lampung;2;;;;;;27;;;;;;;;;2020;105;6;Tornado
+19; Bangka Belitung;2;;;;115;;23;;;;;;;;;2020;105;6;Tornado
+21; Kepulauan Riau;2;;;;8;;2;;;;;;;;;2020;105;6;Tornado
+32; Jawa Barat;21;;;;404;4;159;;;2;;;;;;2020;105;6;Tornado
+33; Jawa Tengah;6;;;2;;6;6;;;;;;;;;2020;105;6;Tornado
+35; Jawa Timur;3;;;;;;35;;;2;;;;;;2020;105;6;Tornado
+36; Banten;1;;;;4;;1;;;;;;;;;2020;105;6;Tornado
+51; Bali;1;;;;;;6;;;;;;;;;2020;105;6;Tornado
+61; Kalimantan Barat;2;;;;;15;6;;;;;;;;;2020;105;6;Tornado
+63; Kalimantan Selatan;2;;;;42;;11;;;;;;;;;2020;105;6;Tornado
+73; Sulawesi Selatan;3;;;;4;;4;;;;;;;;;2020;105;6;Tornado
+11; Aceh;9;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+15; Jambi;12;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+21; Kepulauan Riau;2;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+33; Jawa Tengah;1;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+36; Banten;1;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+61; Kalimantan Barat;1;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+62; Kalimantan Tengah;1;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+64; Kalimantan Timur;3;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2020;107;6;Forest Fire
+11; Aceh;2;;;;8;;2;;;1;;;;;5;2020;108;6;Earthquake
+52; Nusa Tenggara Barat;2;;;;;;;1;;;;;;;;2020;108;6;Earthquake
+82; Maluku Utara;4;;;;715;;312;;;;;;;;;2020;108;6;Earthquake
+11; Aceh;10;1;;;25457;3116;62;;;1;;;1;;21;2020;101;7;Flood
+12; Sumatera Utara;5;1;1;8;1740;;2;;;;;;3;;;2020;101;7;Flood
+13; Sumatera Barat;7;;;;2137;;1;1;1;;;2;1;;;2020;101;7;Flood
+15; Jambi;1;;;;96;;;;;;;;;;;2020;101;7;Flood
+17; Bengkulu;1;;;;;;;;;;;;;;;2020;101;7;Flood
+32; Jawa Barat;2;;;;349;;;;;;;;;;;2020;101;7;Flood
+52; Nusa Tenggara Barat;1;;;;240;;;;;;;;;;;2020;101;7;Flood
+61; Kalimantan Barat;16;3;;;90240;31301;105;18;;13;;1;11;;;2020;101;7;Flood
+62; Kalimantan Tengah;5;;;;12017;;;;;;;;;;;2020;101;7;Flood
+63; Kalimantan Selatan;4;;;;13465;68;;;;2;;;3;;;2020;101;7;Flood
+64; Kalimantan Timur;1;;;;232;;;;;;;;;;;2020;101;7;Flood
+71; Sulawesi Utara;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;2020;101;7;Flood
+72; Sulawesi Tengah;7;;;;8049;1120;232;1;;1;;;4;;;2020;101;7;Flood
+73; Sulawesi Selatan;9;;;;68197;1526;;83;37;66;;26;;;;2020;101;7;Flood
+74; Sulawesi Tenggara;2;;;;16107;13460;;11;4;62;;;3;;;2020;101;7;Flood
+75; Gorontalo;8;1;;;47807;17002;1491;;;;;;;;;2020;101;7;Flood
+81; Maluku;1;;;;1110;55;;1;1;4;;2;1;;6;2020;101;7;Flood
+82; Maluku Utara;5;;;;;4058;122;;;;;;3;;;2020;101;7;Flood
+94; Papua;1;;;;340;;35;;;2;;1;;;2;2020;101;7;Flood
+11; Aceh;1;;;;132;;37;;;;;;;;;2020;102;7;Land_Slide
+12; Sumatera Utara;2;;;4;;44;21;;;1;;;;;;2020;102;7;Land_Slide
+13; Sumatera Barat;3;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2020;102;7;Land_Slide
+14; Riau;1;;;;;85;10;;;;;;;;;2020;102;7;Land_Slide
+32; Jawa Barat;7;;;;23;7;6;;;;;;;;;2020;102;7;Land_Slide
+33; Jawa Tengah;2;1;;3;;;1;;;;;;;;;2020;102;7;Land_Slide
+51; Bali;2;;;;;;3;;;;;;;;;2020;102;7;Land_Slide
+61; Kalimantan Barat;2;;;;10;80;8;;;;;;;;;2020;102;7;Land_Slide
+64; Kalimantan Timur;1;;;;;;1;;;;;;;;;2020;102;7;Land_Slide
+65; Kalimantan Utara;2;;;;;;2;;;;;;;;;2020;102;7;Land_Slide
+72; Sulawesi Tengah;2;;;;13;;4;;;;;;;;;2020;102;7;Land_Slide
+73; Sulawesi Selatan;1;;;;;;;1;;;;;;;;2020;102;7;Land_Slide
+81; Maluku;1;;;;;;2;;;;;;;;;2020;102;7;Land_Slide
+94; Papua;1;;;;;90;8;1;;1;;;6;;;2020;102;7;Land_Slide
+11; Aceh;2;;;;1346;;;;;;;;;;;2020;103;7;Flood and Land Slide
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2020;103;7;Flood and Land Slide
+61; Kalimantan Barat;1;;;;;54;;1;;;;;2;;;2020;103;7;Flood and Land Slide
+71; Sulawesi Utara;2;1;;;24739;165;119;;;;;;7;;;2020;103;7;Flood and Land Slide
+72; Sulawesi Tengah;1;;;1;3720;;;;;;;;;;;2020;103;7;Flood and Land Slide
+73; Sulawesi Selatan;1;39;9;106;15994;15306;4037;10;5;15;;10;9;;;2020;103;7;Flood and Land Slide
+81; Maluku;1;;;;;;2;1;;;;;1;;;2020;103;7;Flood and Land Slide
+82; Maluku Utara;1;;;;;1459;1;;;;;;4;;;2020;103;7;Flood and Land Slide
+91; Papua Barat;2;7;;7;9579;2084;462;;1;1;;;;;;2020;103;7;Flood and Land Slide
+11; Aceh;1;;;;65;;;;;;;;;;;2020;104;7;Abration
+73; Sulawesi Selatan;1;;;;;;11;;;;;;;;;2020;104;7;Abration
+11; Aceh;11;;;;823;120;198;2;;1;;;;;1;2020;105;7;Tornado
+12; Sumatera Utara;8;1;;;;;407;;;1;;;;;;2020;105;7;Tornado
+13; Sumatera Barat;5;;;;64;;22;;;;;;;;13;2020;105;7;Tornado
+14; Riau;1;;;;;;1;;;;;;;;;2020;105;7;Tornado
+18; Lampung;1;;;;510;70;116;;;;;;;;;2020;105;7;Tornado
+32; Jawa Barat;18;;;3;166;7;45;1;1;;;;;;;2020;105;7;Tornado
+35; Jawa Timur;1;;;1;;;8;;;;;;;;;2020;105;7;Tornado
+36; Banten;1;;;;45;;;1;;;;;;;;2020;105;7;Tornado
+51; Bali;1;;;;;;1;;;;;;;;;2020;105;7;Tornado
+61; Kalimantan Barat;2;;;1;;21;893;;;;;;;;;2020;105;7;Tornado
+62; Kalimantan Tengah;1;;;1;;;;;;;;;;;;2020;105;7;Tornado
+65; Kalimantan Utara;1;;;;;;1;;;;;;;;;2020;105;7;Tornado
+72; Sulawesi Tengah;1;;;;;;11;;;;;;;;;2020;105;7;Tornado
+81; Maluku;1;;;1;13;;1;;;;;;;;;2020;105;7;Tornado
+52; Nusa Tenggara Barat;9;;;;742657;;;;;;;;;;;2020;106;7;Drought
+11; Aceh;9;;;;;;;;;;;;;;;2020;107;7;Forest Fire
+15; Jambi;4;;;;;;;;;;;;;;;2020;107;7;Forest Fire
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2020;107;7;Forest Fire
+35; Jawa Timur;3;;;;;;;;;;;;;;;2020;107;7;Forest Fire
+62; Kalimantan Tengah;1;;;;;;;;;;;;;;;2020;107;7;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2020;107;7;Forest Fire
+64; Kalimantan Timur;2;;;;;;;;;;;;;;;2020;107;7;Forest Fire
+33; Jawa Tengah;1;;;;;;1;;;;;;;;;2020;108;7;Earthquake
+11; Aceh;3;;;;1034;;;1;;;;;;;;2020;101;8;Flood
+18; Lampung;3;;;;5830;380;1178;1;;2;;;;;;2020;101;8;Flood
+32; Jawa Barat;4;;;;294;;;;;;;;;;;2020;101;8;Flood
+61; Kalimantan Barat;1;;;;800;145;;;;;;;;;;2020;101;8;Flood
+71; Sulawesi Utara;1;;;;45;;;;;;;;;;;2020;101;8;Flood
+72; Sulawesi Tengah;4;;;1;3633;821;28;;1;;;2;1;;;2020;101;8;Flood
+73; Sulawesi Selatan;2;;;;700;1008;;;;;;;;;;2020;101;8;Flood
+75; Gorontalo;3;;;;6631;2483;1;6;2;;;;8;;;2020;101;8;Flood
+81; Maluku;2;;;;971;;;;;;;;;;;2020;101;8;Flood
+82; Maluku Utara;2;;;;;2603;50;;;;;;;;;2020;101;8;Flood
+94; Papua;1;;;;;;;;;;;;1;;;2020;101;8;Flood
+11; Aceh;3;1;;;13;;4;;;;;;;;;2020;102;8;Land_Slide
+12; Sumatera Utara;1;2;;1;;;;;;;;;;;;2020;102;8;Land_Slide
+13; Sumatera Barat;4;;;;;;4;;;;;;;;;2020;102;8;Land_Slide
+14; Riau;1;;;;;18;4;;;;;;;;;2020;102;8;Land_Slide
+19; Bangka Belitung;1;6;;;;;;;;;;;;;;2020;102;8;Land_Slide
+32; Jawa Barat;15;;;3;725;23;18;;;;;;;;;2020;102;8;Land_Slide
+33; Jawa Tengah;3;3;;;;;3;;;;;;;;;2020;102;8;Land_Slide
+51; Bali;1;;;;;;1;;;;;;;;;2020;102;8;Land_Slide
+64; Kalimantan Timur;2;;;;4;;3;;;;;;;;;2020;102;8;Land_Slide
+65; Kalimantan Utara;1;;;;;;1;;;;;;;;;2020;102;8;Land_Slide
+13; Sumatera Barat;1;;;;30;;6;;;;;;;;;2020;103;8;Flood and Land Slide
+18; Lampung;1;;;;20;;3;;;1;;;;;;2020;104;8;Abration
+11; Aceh;17;1;6;5;231;30;139;;;1;;;;;;2020;105;8;Tornado
+12; Sumatera Utara;7;;;;;20;96;;;;;;;;;2020;105;8;Tornado
+13; Sumatera Barat;5;;;;15;;10;1;;;;;;;;2020;105;8;Tornado
+14; Riau;2;;;;;;64;;;1;;;;;;2020;105;8;Tornado
+15; Jambi;2;;;;420;;99;;;;;;;;;2020;105;8;Tornado
+21; Kepulauan Riau;2;;;;116;;36;;;;;;;;;2020;105;8;Tornado
+32; Jawa Barat;19;;;2;286;8;109;;;;;;;;;2020;105;8;Tornado
+33; Jawa Tengah;16;;;1;121;5;71;;;;;1;;;;2020;105;8;Tornado
+34; Yogyakarta;1;;;1;;;7;;;;;;;;;2020;105;8;Tornado
+35; Jawa Timur;3;1;;;;;177;;;;;;;;;2020;105;8;Tornado
+51; Bali;1;;;;5;;1;;;;;;;;;2020;105;8;Tornado
+53; Nusa Tenggara Timur;1;;;1;;;40;;;;;;;;;2020;105;8;Tornado
+61; Kalimantan Barat;3;;;;140;;34;;;;;;1;;;2020;105;8;Tornado
+63; Kalimantan Selatan;2;;;;7;;2;;;;;;;;;2020;105;8;Tornado
+73; Sulawesi Selatan;3;;;;10;;3;;;;;;;;;2020;105;8;Tornado
+81; Maluku;1;;;;;;;;1;;;;;;;2020;105;8;Tornado
+32; Jawa Barat;3;;;;66084;;;;;;;;;;;2020;106;8;Drought
+33; Jawa Tengah;3;0;0;0;18859;0;0;0;0;0;0;0;0;0;0;2020;106;8;Drought
+35; Jawa Timur;1;;;;;;;;;;;;;;;2020;106;8;Drought
+11; Aceh;14;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+12; Sumatera Utara;2;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+15; Jambi;17;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+16; Sumatera Selatan;3;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+19; Bangka Belitung;1;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+21; Kepulauan Riau;5;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+32; Jawa Barat;6;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+33; Jawa Tengah;11;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+53; Nusa Tenggara Timur;3;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+62; Kalimantan Tengah;3;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+63; Kalimantan Selatan;21;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+64; Kalimantan Timur;6;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2020;107;8;Forest Fire
+12; Sumatera Utara;2;;;;;;;;;;;;;;;2020;111;8;Volcano Eruption
+11; Aceh;3;;;;2735;;;;;1;;;1;;;2020;101;9;Flood
+12; Sumatera Utara;9;;;;13480;;80;2;1;2;;;;;;2020;101;9;Flood
+13; Sumatera Barat;5;;;;820;;1;;;;;;4;;;2020;101;9;Flood
+15; Jambi;1;;;;310;;;;;;;;;;;2020;101;9;Flood
+17; Bengkulu;2;;;;1845;;322;;;;;;;;;2020;101;9;Flood
+18; Lampung;1;;;;3357;2;1113;;;;;;;;;2020;101;9;Flood
+31; Jakarta;5;;;;;104;;;;;;;;;;2020;101;9;Flood
+32; Jawa Barat;6;3;;20;1165;236;335;;;1;;;12;;1;2020;101;9;Flood
+33; Jawa Tengah;1;;;;;;;;;;;;;;1;2020;101;9;Flood
+35; Jawa Timur;2;;;;;;;1;;;;;;;;2020;101;9;Flood
+61; Kalimantan Barat;12;;;;65674;61296;1;;;;;;1;;;2020;101;9;Flood
+62; Kalimantan Tengah;7;1;;;91384;4381;;8;2;3;;1;;;;2020;101;9;Flood
+63; Kalimantan Selatan;2;;;;15619;221;;;;;;;;;;2020;101;9;Flood
+64; Kalimantan Timur;3;;;;300;;;;;;;;;;;2020;101;9;Flood
+72; Sulawesi Tengah;7;;;;2892;166;22;;;;;;1;;;2020;101;9;Flood
+73; Sulawesi Selatan;1;;;;225;;4;;;;;;;;;2020;101;9;Flood
+75; Gorontalo;2;3;1;;4719;1174;230;;;;;;;;;2020;101;9;Flood
+81; Maluku;1;;;;600;;;;;;;;;;;2020;101;9;Flood
+82; Maluku Utara;2;;;;;16;;;;;;;;;;2020;101;9;Flood
+94; Papua;2;2;;;;90;12;;;;;;;;;2020;101;9;Flood
+13; Sumatera Barat;1;;;;;;2;;;;;;;;;2020;102;9;Land_Slide
+17; Bengkulu;1;;;;;;1;;;;;;;;;2020;102;9;Land_Slide
+32; Jawa Barat;21;;;7;1166;11;45;1;;;;;;;;2020;102;9;Land_Slide
+33; Jawa Tengah;9;0;0;0;7;0;13;1;0;0;0;0;0;0;0;2020;102;9;Land_Slide
+35; Jawa Timur;1;;;;;;16;;;;;;;;;2020;102;9;Land_Slide
+36; Banten;1;;;;;;1;;;;;;;;;2020;102;9;Land_Slide
+51; Bali;1;1;;;;;1;;;;;;;;;2020;102;9;Land_Slide
+61; Kalimantan Barat;1;;;;;125;;;;;;;;;;2020;102;9;Land_Slide
+64; Kalimantan Timur;2;;;;;;4;;;;;;;;;2020;102;9;Land_Slide
+65; Kalimantan Utara;2;11;;3;425;;43;;;;;;2;;;2020;102;9;Land_Slide
+72; Sulawesi Tengah;1;;;;;;6;;;;;;;;;2020;102;9;Land_Slide
+81; Maluku;1;;;2;106;;1;;;;;;;;;2020;102;9;Land_Slide
+91; Papua Barat;1;1;;;;;1;;;;;;;;;2020;102;9;Land_Slide
+13; Sumatera Barat;5;;;;7511;300;2;;;;;;;;;2020;103;9;Flood and Land Slide
+32; Jawa Barat;1;;;;696;;;;;;;;;;;2020;103;9;Flood and Land Slide
+36; Banten;1;;;;205;;1;;;;;;;;;2020;103;9;Flood and Land Slide
+61; Kalimantan Barat;2;1;;;99508;995;19;;;;;;;;;2020;103;9;Flood and Land Slide
+65; Kalimantan Utara;1;;;;275;;4;;;;;;;;;2020;103;9;Flood and Land Slide
+71; Sulawesi Utara;1;;;;976;;56;;;;;;;;;2020;103;9;Flood and Land Slide
+72; Sulawesi Tengah;1;;;;;83;;;;;;;;;;2020;103;9;Flood and Land Slide
+73; Sulawesi Selatan;1;;;;;265;102;;;;;;1;;;2020;103;9;Flood and Land Slide
+76; Sulawesi Barat;1;;;;;75;3;;;2;;;1;;;2020;103;9;Flood and Land Slide
+91; Papua Barat;1;2;;;;;;;;;;;;;;2020;103;9;Flood and Land Slide
+73; Sulawesi Selatan;1;;;;110;;3;;;;;;;;;2020;104;9;Abration
+11; Aceh;8;;;;255;3;71;2;;;;;;;;2020;105;9;Tornado
+12; Sumatera Utara;4;;;5;28;70;374;;;;;;;;;2020;105;9;Tornado
+13; Sumatera Barat;10;;;;14;;12;6;;;;;;;;2020;105;9;Tornado
+16; Sumatera Selatan;5;;;;;;164;8;;;;;;;;2020;105;9;Tornado
+17; Bengkulu;1;;;;;;27;1;;;;;;;;2020;105;9;Tornado
+19; Bangka Belitung;2;;;;25;;1;;;;;;;;;2020;105;9;Tornado
+21; Kepulauan Riau;3;;;3;120;8;28;;;;;;;;;2020;105;9;Tornado
+32; Jawa Barat;37;;;2;2456;78;628;1;;2;;;;;;2020;105;9;Tornado
+33; Jawa Tengah;13;0;0;0;334;17;312;1;0;0;0;0;0;0;4;2020;105;9;Tornado
+35; Jawa Timur;3;;;;210;;51;;;;;;;;1;2020;105;9;Tornado
+36; Banten;4;;;;35;;15;;;;;;;;;2020;105;9;Tornado
+51; Bali;1;;;;5;;1;;;;;;;;;2020;105;9;Tornado
+52; Nusa Tenggara Barat;1;;;;188;;49;;;;;;;;;2020;105;9;Tornado
+61; Kalimantan Barat;3;;;1;;;28;;;;;;;;;2020;105;9;Tornado
+62; Kalimantan Tengah;1;;;;4;;;;;;;;;;;2020;105;9;Tornado
+63; Kalimantan Selatan;2;;;;5;;6;;;;;;;;;2020;105;9;Tornado
+94; Papua;1;1;;;10;;2;;;;;;;;;2020;105;9;Tornado
+16; Sumatera Selatan;1;;;;1000;;;;;;;;;;;2020;106;9;Drought
+32; Jawa Barat;2;;;;12899;;;;;;;;;;;2020;106;9;Drought
+33; Jawa Tengah;3;;;;23714;;;;;;;;;;;2020;106;9;Drought
+11; Aceh;3;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+14; Riau;1;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+15; Jambi;8;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+16; Sumatera Selatan;2;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+21; Kepulauan Riau;3;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+32; Jawa Barat;6;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+33; Jawa Tengah;5;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+35; Jawa Timur;10;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+36; Banten;1;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+52; Nusa Tenggara Barat;1;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+53; Nusa Tenggara Timur;1;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+63; Kalimantan Selatan;32;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+64; Kalimantan Timur;2;;;;;;;;;;;;;;;2020;107;9;Forest Fire
+71; Sulawesi Utara;1;;;2;;;136;2;;7;;2;;;;2020;108;9;Earthquake
+11; Aceh;1;;;;100;;;;;;;;;;;2020;101;10;Flood
+12; Sumatera Utara;4;;;;85293;;;1;;;;;4;;;2020;101;10;Flood
+13; Sumatera Barat;7;;;;1708;70;78;3;;3;;;1;;;2020;101;10;Flood
+15; Jambi;3;;;;3888;;;;;;;;;;;2020;101;10;Flood
+16; Sumatera Selatan;5;;;;20;;;1;;;;;;;;2020;101;10;Flood
+17; Bengkulu;4;;;;11065;;83;10;1;2;;;4;;;2020;101;10;Flood
+19; Bangka Belitung;1;;;;350;;;;;;;;;;;2020;101;10;Flood
+31; Jakarta;6;;;;3581;321;;;;;;;;;;2020;101;10;Flood
+32; Jawa Barat;24;1;;2;77298;1688;1187;15;10;26;;;23;;;2020;101;10;Flood
+33; Jawa Tengah;9;;;;18284;2249;;;;;;;2;;;2020;101;10;Flood
+35; Jawa Timur;6;;;;34258;;;4;;4;;;;;;2020;101;10;Flood
+36; Banten;2;;;;;;1;;;;;;;;;2020;101;10;Flood
+62; Kalimantan Tengah;6;;;;53995;375;;;;;;;;;;2020;101;10;Flood
+63; Kalimantan Selatan;2;;;;3948;;;;;;;;;;;2020;101;10;Flood
+64; Kalimantan Timur;3;;;;3346;;;;;;;;;;;2020;101;10;Flood
+72; Sulawesi Tengah;3;;;;7117;1760;4;;;;;;2;;;2020;101;10;Flood
+13; Sumatera Barat;2;;;;25;25;2;;;;;;;;;2020;102;10;Land_Slide
+16; Sumatera Selatan;3;12;1;;70;;13;;;;;;;;;2020;102;10;Land_Slide
+17; Bengkulu;1;;;;;;3;;;;;;;;;2020;102;10;Land_Slide
+32; Jawa Barat;49;1;;1;617;62;163;1;;;;;1;;;2020;102;10;Land_Slide
+33; Jawa Tengah;48;2;;1;106;44;142;2;;1;;;6;;;2020;102;10;Land_Slide
+34; Yogyakarta;1;;;;;;3;;;;;;;;;2020;102;10;Land_Slide
+35; Jawa Timur;3;;;;210;;44;;;;;;;;;2020;102;10;Land_Slide
+36; Banten;1;;;;;;;1;;1;;;;;;2020;102;10;Land_Slide
+51; Bali;6;1;;1;40;;11;;;2;;;;;;2020;102;10;Land_Slide
+52; Nusa Tenggara Barat;1;;;;4;;1;;;;;;;;;2020;102;10;Land_Slide
+61; Kalimantan Barat;1;;;;;;;;;;;;;;;2020;102;10;Land_Slide
+63; Kalimantan Selatan;1;;;;;3;1;;;;;;;;;2020;102;10;Land_Slide
+64; Kalimantan Timur;3;;;;19;;6;;;;;;;;;2020;102;10;Land_Slide
+65; Kalimantan Utara;2;;;;5;;3;;;;;;1;;;2020;102;10;Land_Slide
+71; Sulawesi Utara;1;;;;9;;3;;;;;;;;;2020;102;10;Land_Slide
+73; Sulawesi Selatan;2;;;;17;;5;;;;;;;;;2020;102;10;Land_Slide
+81; Maluku;2;;;;275;;15;;;;;;;;;2020;102;10;Land_Slide
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2020;103;10;Flood and Land Slide
+17; Bengkulu;1;;;;330;;;;;;;;;;;2020;103;10;Flood and Land Slide
+31; Jakarta;1;1;;2;600;1269;;;;;;;;;;2020;103;10;Flood and Land Slide
+32; Jawa Barat;6;3;;2;5984;312;9;2;;2;;;9;;;2020;103;10;Flood and Land Slide
+33; Jawa Tengah;3;;;;;2108;24;;;;;;5;;;2020;103;10;Flood and Land Slide
+35; Jawa Timur;1;;;;255;;;;;;;;1;;;2020;103;10;Flood and Land Slide
+72; Sulawesi Tengah;1;;;;25;;;;;;;;;;1;2020;103;10;Flood and Land Slide
+76; Sulawesi Barat;1;;;;340;;;;;;;;1;;;2020;103;10;Flood and Land Slide
+81; Maluku;1;;;;;100;9;;;;;;;;;2020;103;10;Flood and Land Slide
+33; Jawa Tengah;1;;;;;;;;;;;;;;37;2020;104;10;Abration
+62; Kalimantan Tengah;1;;;;;;4;;;;;;;;;2020;104;10;Abration
+71; Sulawesi Utara;1;;;;;;14;1;;;;;;;;2020;104;10;Abration
+82; Maluku Utara;1;;;;;180;;;;;;;;;;2020;104;10;Abration
+11; Aceh;9;;;;35;5;12;1;;;;;;;;2020;105;10;Tornado
+12; Sumatera Utara;1;;;5;;;;;;;;;;;;2020;105;10;Tornado
+13; Sumatera Barat;19;;;;37;;31;;1;;;;;;;2020;105;10;Tornado
+14; Riau;2;;;;;;3;1;;;;;;;;2020;105;10;Tornado
+15; Jambi;3;;;;;;76;1;;;;;;;;2020;105;10;Tornado
+16; Sumatera Selatan;2;;;;;;24;;;;;;;;;2020;105;10;Tornado
+17; Bengkulu;1;2;;;;;1;;;;;3;;;;2020;105;10;Tornado
+19; Bangka Belitung;1;;;;175;;2;;;;;;;;;2020;105;10;Tornado
+31; Jakarta;1;;;3;517;;134;;;;;;;;;2020;105;10;Tornado
+32; Jawa Barat;73;;;7;2360;79;629;2;;1;;;;;2;2020;105;10;Tornado
+33; Jawa Tengah;34;;;6;317;9;232;2;;;;;;;1;2020;105;10;Tornado
+34; Yogyakarta;2;;;;531;;162;;;1;;;;;1;2020;105;10;Tornado
+35; Jawa Timur;6;1;;;15;;108;;;;;;;;;2020;105;10;Tornado
+36; Banten;2;;;1;549;;91;1;;4;;;;;4;2020;105;10;Tornado
+51; Bali;6;;;;;;5;;;7;;1;;;;2020;105;10;Tornado
+52; Nusa Tenggara Barat;5;;;;48;;12;;;;;;;;;2020;105;10;Tornado
+53; Nusa Tenggara Timur;1;;;;55;;13;;;;;;;;;2020;105;10;Tornado
+61; Kalimantan Barat;2;;;;;;23;;;;;;;;;2020;105;10;Tornado
+63; Kalimantan Selatan;4;;;;159;;48;;;;;;;;6;2020;105;10;Tornado
+64; Kalimantan Timur;1;;;;10;;1;;;;;;;;;2020;105;10;Tornado
+65; Kalimantan Utara;2;;;;;2;2;;;;;;;;;2020;105;10;Tornado
+71; Sulawesi Utara;2;;;;;;8;1;;;;;;;;2020;105;10;Tornado
+73; Sulawesi Selatan;5;;;;137;;53;;;;;;;;;2020;105;10;Tornado
+76; Sulawesi Barat;1;;;;4;;1;;;;;;;;;2020;105;10;Tornado
+81; Maluku;1;;;;59;;11;;;;;;;;;2020;105;10;Tornado
+33; Jawa Tengah;1;;;;;;;;;;;;;;;2020;106;10;Drought
+35; Jawa Timur;1;;;;;;;;;;;;;;;2020;106;10;Drought
+11; Aceh;2;;;;;;;;;;;;;;;2020;107;10;Forest Fire
+12; Sumatera Utara;1;;;;;;;;;;;;;;;2020;107;10;Forest Fire
+15; Jambi;14;;;;;;;;;;;;;;;2020;107;10;Forest Fire
+32; Jawa Barat;1;;;;;;;;;;;;;;;2020;107;10;Forest Fire
+33; Jawa Tengah;2;;;;;;;;;;;;;;;2020;107;10;Forest Fire
+63; Kalimantan Selatan;26;;;;;;;;;;;;;;;2020;107;10;Forest Fire
+64; Kalimantan Timur;8;;;;;;;;;;;;;;;2020;107;10;Forest Fire
+32; Jawa Barat;6;;;6;112;;102;;;;;;;;;2020;108;10;Earthquake
+76; Sulawesi Barat;1;;;1;44;;13;;;;;;;;;2020;108;10;Earthquake
+11; Aceh;9;;;;23274;20;63;1;;;;;;;;2020;101;11;Flood
+12; Sumatera Utara;19;;;;100762;1100;;;;;;;1;;46;2020;101;11;Flood
+13; Sumatera Barat;8;;;1;1766;286;8;;;2;;1;3;;;2020;101;11;Flood
+14; Riau;7;;;;3520;65;13;;;;;;;;;2020;101;11;Flood
+15; Jambi;9;;;;23603;;2702;;;;;;;;;2020;101;11;Flood
+16; Sumatera Selatan;4;;;;454;;5;1;;1;;;3;;;2020;101;11;Flood
+17; Bengkulu;3;;;;2410;;6;;;;;;;;;2020;101;11;Flood
+31; Jakarta;3;;;;;;;;;;;;;;;2020;101;11;Flood
+32; Jawa Barat;7;;1;;84;25;4;;;;;;;;;2020;101;11;Flood
+33; Jawa Tengah;19;2;;;2454;13;52;1;;;;;3;;;2020;101;11;Flood
+35; Jawa Timur;8;;;;42767;;2;4;;5;;;;;;2020;101;11;Flood
+36; Banten;1;;;;1010;;;;;;;;;;;2020;101;11;Flood
+52; Nusa Tenggara Barat;5;;;;662;;6;1;;;;1;;;;2020;101;11;Flood
+61; Kalimantan Barat;1;;;;41;;;;;;;;;;;2020;101;11;Flood
+62; Kalimantan Tengah;6;;;;12075;601;;;;;;;;;;2020;101;11;Flood
+63; Kalimantan Selatan;5;;;;4627;;;;;;;;;;;2020;101;11;Flood
+64; Kalimantan Timur;2;;;;933;;;;;;;;;;;2020;101;11;Flood
+65; Kalimantan Utara;2;;;;100;;;;;;;;;;;2020;101;11;Flood
+71; Sulawesi Utara;1;;;;413;;;;;;;;;;;2020;101;11;Flood
+81; Maluku;1;;;;66;;;;;;;;;;;2020;101;11;Flood
+11; Aceh;1;;;;;4;1;;;;;;1;;;2020;102;11;Land_Slide
+12; Sumatera Utara;1;;;1;215;90;61;;;;;;;;;2020;102;11;Land_Slide
+13; Sumatera Barat;4;;;;4;;7;;;;;;;;;2020;102;11;Land_Slide
+15; Jambi;1;;;;2;;1;;;;;;;;;2020;102;11;Land_Slide
+17; Bengkulu;1;;;;;;;;;;;;2;;;2020;102;11;Land_Slide
+32; Jawa Barat;29;2;;7;1770;28;52;1;;;;;2;;;2020;102;11;Land_Slide
+33; Jawa Tengah;37;6;;4;79;61;234;1;;3;;;4;;4;2020;102;11;Land_Slide
+35; Jawa Timur;4;;;;2;;15;;;;;;;;;2020;102;11;Land_Slide
+36; Banten;3;;;;65;;22;;;;;;;;;2020;102;11;Land_Slide
+51; Bali;3;;;;;;3;;;;;;;;;2020;102;11;Land_Slide
+62; Kalimantan Tengah;1;3;7;;;;;;;;;;;;;2020;102;11;Land_Slide
+64; Kalimantan Timur;1;;;;58;;14;;;1;;;;;;2020;102;11;Land_Slide
+73; Sulawesi Selatan;1;;;;;;1;;;;;;;;;2020;102;11;Land_Slide
+11; Aceh;1;;;;3437;;;;;;;;;;;2020;103;11;Flood and Land Slide
+13; Sumatera Barat;1;;;;3250;;;;;;;;;;;2020;103;11;Flood and Land Slide
+15; Jambi;2;;;;2483;;;;;;;;;;;2020;103;11;Flood and Land Slide
+32; Jawa Barat;1;;;;365;;;;;;;;;;;2020;103;11;Flood and Land Slide
+33; Jawa Tengah;2;2;;;10196;4624;141;2;;1;;;;;;2020;103;11;Flood and Land Slide
+35; Jawa Timur;1;;;;57;85;;;;;;;;;;2020;103;11;Flood and Land Slide
+11; Aceh;2;;;2;5;;2;;;;;;;;;2020;105;11;Tornado
+12; Sumatera Utara;2;;;;;;127;;;;;;;;;2020;105;11;Tornado
+13; Sumatera Barat;3;;;;;;3;;;;;;;;;2020;105;11;Tornado
+14; Riau;2;;;1;5;;2;;;;;;;;;2020;105;11;Tornado
+15; Jambi;1;1;;;;;1;;;;;;;;;2020;105;11;Tornado
+17; Bengkulu;1;;;;;;9;;;;;;;;;2020;105;11;Tornado
+19; Bangka Belitung;3;;;;53;;44;;;;;;;;;2020;105;11;Tornado
+32; Jawa Barat;57;2;;4;3540;38;1170;;;1;;;;;;2020;105;11;Tornado
+33; Jawa Tengah;31;;;7;542;14;312;3;;1;;;;;4;2020;105;11;Tornado
+34; Yogyakarta;7;;;;18;;72;;;;;;;;;2020;105;11;Tornado
+35; Jawa Timur;14;;;1;895;62;238;1;;4;;;;;4;2020;105;11;Tornado
+36; Banten;2;;;;;;7;;;;;;;;;2020;105;11;Tornado
+51; Bali;2;;;;;;13;;;;;;;;;2020;105;11;Tornado
+52; Nusa Tenggara Barat;10;;;9;1266;;309;1;1;2;;1;;;;2020;105;11;Tornado
+53; Nusa Tenggara Timur;1;;;;15;;5;;;;;;;;;2020;105;11;Tornado
+61; Kalimantan Barat;1;1;;1;;;34;;;1;;;;;;2020;105;11;Tornado
+63; Kalimantan Selatan;5;;;1;72;;15;;;;;;;;;2020;105;11;Tornado
+64; Kalimantan Timur;2;;;;;;12;;;;;;;;;2020;105;11;Tornado
+65; Kalimantan Utara;2;;;;2;4;2;;;;;;;;;2020;105;11;Tornado
+71; Sulawesi Utara;1;;;;;;20;1;;;;;;;;2020;105;11;Tornado
+73; Sulawesi Selatan;5;;;;337;;25;;;;;;;;;2020;105;11;Tornado
+74; Sulawesi Tenggara;1;;;;25;;5;;;;;;;;;2020;105;11;Tornado
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2020;107;11;Forest Fire
+52; Nusa Tenggara Barat;2;;;;;;;;;;;;;;;2020;107;11;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2020;107;11;Forest Fire
+64; Kalimantan Timur;1;;;;;;;;;;;;;;;2020;107;11;Forest Fire
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2020;107;11;Forest Fire
+32; Jawa Barat;1;;;;;;2;;;;;;;;;2020;108;11;Earthquake
+33; Jawa Tengah;3;;;;;911;;;;;;;;;;2020;111;11;Volcano Eruption
+34; Yogyakarta;1;;;;;225;;;;;;;;;;2020;111;11;Volcano Eruption
+53; Nusa Tenggara Timur;1;;;;;9028;;;;;;;;;;2020;111;11;Volcano Eruption
+11; Aceh;11;1;;;44776;4728;42;;;;;;3;;;2020;101;12;Flood
+12; Sumatera Utara;15;11;2;;126958;12607;209;5;;;;;;;;2020;101;12;Flood
+14; Riau;4;;;;4060;75;;;;;;;;;;2020;101;12;Flood
+15; Jambi;3;;;;2175;;;;;;;;;;;2020;101;12;Flood
+16; Sumatera Selatan;2;;;;;;;;;;;;;;;2020;101;12;Flood
+31; Jakarta;2;;;;1067;;;;;;;;;;;2020;101;12;Flood
+32; Jawa Barat;16;;;;49170;50;56;;;;;;;;;2020;101;12;Flood
+33; Jawa Tengah;42;;;3;47394;2345;289;;;;;;2;;;2020;101;12;Flood
+35; Jawa Timur;26;4;1;;70053;10;;;;11;;;;;;2020;101;12;Flood
+36; Banten;6;;;;56369;15305;;;;;;;;;;2020;101;12;Flood
+52; Nusa Tenggara Barat;7;3;;;10388;;3;2;1;;;1;1;;;2020;101;12;Flood
+63; Kalimantan Selatan;3;;;;2818;;;;;;;;;;;2020;101;12;Flood
+64; Kalimantan Timur;2;;;;4235;;;;;;;;;;;2020;101;12;Flood
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2020;101;12;Flood
+73; Sulawesi Selatan;5;;;;1230;445;;;;;;;;;;2020;101;12;Flood
+75; Gorontalo;2;;;;5266;;1;;;;;;;;;2020;101;12;Flood
+94; Papua;1;;;;;450;;;;;;;;;;2020;101;12;Flood
+11; Aceh;8;1;;;39;;9;;;;;;2;;;2020;102;12;Land_Slide
+12; Sumatera Utara;2;1;;1;1555;;;;;;;;;;;2020;102;12;Land_Slide
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2020;102;12;Land_Slide
+14; Riau;2;;;;10;;7;;;;;;;;;2020;102;12;Land_Slide
+32; Jawa Barat;53;1;;3;2317;895;231;;;;;;;;;2020;102;12;Land_Slide
+33; Jawa Tengah;56;2;;3;1919;1887;437;6;;5;;1;2;;1;2020;102;12;Land_Slide
+34; Yogyakarta;1;;;;;;1;;;;;;;;;2020;102;12;Land_Slide
+36; Banten;1;;;;20;;8;;;;;;;;;2020;102;12;Land_Slide
+51; Bali;2;;;;;;8;;;;;;;;;2020;102;12;Land_Slide
+52; Nusa Tenggara Barat;3;;;2;;;4;;;;;;;;;2020;102;12;Land_Slide
+64; Kalimantan Timur;2;;;;;;2;;;;;;;;;2020;102;12;Land_Slide
+65; Kalimantan Utara;3;;;;;;1;;;;;;;;;2020;102;12;Land_Slide
+73; Sulawesi Selatan;1;;;;15;;3;;;;;;;;;2020;102;12;Land_Slide
+11; Aceh;3;5;;;27157;42625;6;;;;;;2;;;2020;103;12;Flood and Land Slide
+12; Sumatera Utara;1;;;;3815;;;;;;;;;;;2020;103;12;Flood and Land Slide
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2020;103;12;Flood and Land Slide
+21; Kepulauan Riau;1;;;;1905;8;12;;1;;;;;;;2020;103;12;Flood and Land Slide
+32; Jawa Barat;3;;;;39651;122;12;1;;;;;;;;2020;103;12;Flood and Land Slide
+33; Jawa Tengah;3;;;;2741;7500;4;2;;;;;;;;2020;103;12;Flood and Land Slide
+35; Jawa Timur;1;;;;2945;;;;;;;;;;;2020;103;12;Flood and Land Slide
+36; Banten;1;4;2;;27662;;96;2;;8;;13;1;;;2020;103;12;Flood and Land Slide
+11; Aceh;1;;;;10;;;;;;;;;;;2020;104;12;Abration
+33; Jawa Tengah;4;;;;690;;1;;;;;;1;;22;2020;104;12;Abration
+61; Kalimantan Barat;1;;;;;;11;;;;;;;;;2020;104;12;Abration
+63; Kalimantan Selatan;1;;;;41;;10;;;;;;;;;2020;104;12;Abration
+73; Sulawesi Selatan;1;;;;1000;;;;;;;;;;;2020;104;12;Abration
+11; Aceh;2;;;;3;1;2;;;;;;;;;2020;105;12;Tornado
+12; Sumatera Utara;1;;;;;;14;;;1;;;;;;2020;105;12;Tornado
+16; Sumatera Selatan;1;;;;;;23;;;;;;;;;2020;105;12;Tornado
+17; Bengkulu;2;;;;;;9;;;;;;;;;2020;105;12;Tornado
+18; Lampung;1;;;;105;;21;;;;;;;;;2020;105;12;Tornado
+19; Bangka Belitung;2;;;;;;19;;;;;;;;;2020;105;12;Tornado
+32; Jawa Barat;66;2;;13;813;19;393;4;;1;;;;;;2020;105;12;Tornado
+33; Jawa Tengah;17;;;1;45;7;94;1;;1;;;;;5;2020;105;12;Tornado
+35; Jawa Timur;6;;;;;;97;;;2;;;;;4;2020;105;12;Tornado
+36; Banten;5;;;;65;;15;;;;;;;;;2020;105;12;Tornado
+51; Bali;9;;;2;125;;43;;;;;;;;;2020;105;12;Tornado
+52; Nusa Tenggara Barat;5;;;;60;;46;;;1;;;;;;2020;105;12;Tornado
+61; Kalimantan Barat;1;;;;10;;2;;;;;;;;;2020;105;12;Tornado
+63; Kalimantan Selatan;10;;;;65;;51;;;1;;;;;3;2020;105;12;Tornado
+64; Kalimantan Timur;3;;;;;;52;;;1;;;;;;2020;105;12;Tornado
+72; Sulawesi Tengah;1;;;;20;;;;;;;;;;;2020;105;12;Tornado
+73; Sulawesi Selatan;14;;;;323;;75;1;1;;;;;;;2020;105;12;Tornado
+74; Sulawesi Tenggara;1;;;;75;;28;;;;;;;;;2020;105;12;Tornado
+76; Sulawesi Barat;1;;;;34;;6;;;;;;;;;2020;105;12;Tornado
+81; Maluku;1;;;;20;;1;;;;;;;;;2020;105;12;Tornado
+14; Riau;1;;;;;;;;;;;;;;;2020;107;12;Forest Fire
+64; Kalimantan Timur;1;;;;;;;;;;;;;;;2020;107;12;Forest Fire
+32; Jawa Barat;1;;;;;;23;;;;;;;;;2020;108;12;Earthquake
+35; Jawa Timur;1;;1;;6490;335;;;;;;;;;;2020;111;12;Volcano Eruption
+11; Aceh;23;;;;68781;10493;19;;;;;;1;;;2021;101;1;Flood
+12; Sumatera Utara;1;;;;2310;;;;;;;;;;;2021;101;1;Flood
+13; Sumatera Barat;3;;;;15099;;;;;;;;;;;2021;101;1;Flood
+14; Riau;1;;;;1360;;;;;;;;;;;2021;101;1;Flood
+15; Jambi;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;1;Flood
+16; Sumatera Selatan;1;0;0;0;0;50;0;0;0;0;0;0;0;0;0;2021;101;1;Flood
+18; Lampung;5;0;0;0;0;0;100;0;0;0;0;0;0;0;0;2021;101;1;Flood
+19; Bangka Belitung;20;0;0;0;2570;150;255;0;0;0;0;0;1;0;0;2021;101;1;Flood
+21; Kepulauan Riau;4;;;;5677;1540;;;;;;;;;;2021;101;1;Flood
+31; Jakarta;2;;;;185;;;;;;;;;;;2021;101;1;Flood
+32; Jawa Barat;15;0;0;0;127485;448;11;0;0;0;0;0;1;0;0;2021;101;1;Flood
+33; Jawa Tengah;63;0;0;0;109413;576;73;0;0;0;1;0;2;0;0;2021;101;1;Flood
+34; Yogyakarta;1;;;;335;;;;;;;;1;;;2021;101;1;Flood
+35; Jawa Timur;38;0;1;0;139112;1537;26;0;0;0;0;0;0;0;0;2021;101;1;Flood
+36; Banten;6;;;;4454;;;;;;;;;;;2021;101;1;Flood
+51; Bali;2;;;;;;4;;;;;;;;;2021;101;1;Flood
+52; Nusa Tenggara Barat;15;4;1;;45846;100;3;;;;;;;;;2021;101;1;Flood
+53; Nusa Tenggara Timur;3;;;;80;;;;;;;;;;;2021;101;1;Flood
+61; Kalimantan Barat;6;0;0;0;2857;32;0;0;0;0;0;0;2;0;0;2021;101;1;Flood
+63; Kalimantan Selatan;12;28;;871;616230;177129;21270;585;126;496;;196;38;;;2021;101;1;Flood
+64; Kalimantan Timur;2;;;;147;;;;;;;;;;;2021;101;1;Flood
+65; Kalimantan Utara;1;;;;2752;;;;;;;;;;;2021;101;1;Flood
+71; Sulawesi Utara;4;6;;;2481;500;;;;;;;;;;2021;101;1;Flood
+72; Sulawesi Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;1;Flood
+73; Sulawesi Selatan;1;;;;1710;;;;;;;;;;;2021;101;1;Flood
+82; Maluku Utara;2;;;;3913;1801;5;;;;;;1;;;2021;101;1;Flood
+94; Papua;2;;;;1230;780;11;1;;;;;;;;2021;101;1;Flood
+11; Aceh;2;;;;5;;1;;;;;;;;;2021;102;1;Land_Slide
+12; Sumatera Utara;12;0;0;0;0;0;78;0;0;0;0;0;2;0;0;2021;102;1;Land_Slide
+18; Lampung;2;0;0;0;0;0;3;0;0;0;0;0;1;0;0;2021;102;1;Land_Slide
+32; Jawa Barat;20;40;0;25;781;2297;170;0;0;1;0;0;1;0;0;2021;102;1;Land_Slide
+33; Jawa Tengah;119;1;0;6;165;47;128;1;0;0;3;0;6;0;0;2021;102;1;Land_Slide
+35; Jawa Timur;8;0;0;0;219;0;3;0;0;0;7;0;0;0;0;2021;102;1;Land_Slide
+51; Bali;3;;;;;;1;;;;;;;;;2021;102;1;Land_Slide
+61; Kalimantan Barat;2;0;0;0;4;0;1;0;0;0;0;0;0;0;0;2021;102;1;Land_Slide
+63; Kalimantan Selatan;1;9;1;;22;;;;;;;;;;;2021;102;1;Land_Slide
+64; Kalimantan Timur;3;;;;72;15;5;;;;;;;;;2021;102;1;Land_Slide
+73; Sulawesi Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;1;Land_Slide
+74; Sulawesi Tenggara;1;;;;35;;7;;;;;;;;;2021;102;1;Land_Slide
+76; Sulawesi Barat;1;;;;;;7;;;;;;;;;2021;102;1;Land_Slide
+81; Maluku;1;;;;4;;1;;;;;;;;;2021;102;1;Land_Slide
+11; Aceh;3;3;;;8742;1121;2;;;;;;;;;2021;103;1;Flood and Land Slide
+13; Sumatera Barat;1;;;;15;;3;;;;;;3;;;2021;103;1;Flood and Land Slide
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;103;1;Flood and Land Slide
+21; Kepulauan Riau;1;;;;3210;411;;;;;;;;;;2021;103;1;Flood and Land Slide
+32; Jawa Barat;1;;;;20;;;;;;;;;;;2021;103;1;Flood and Land Slide
+33; Jawa Tengah;1;;;1;;;1;;;;;;;;;2021;103;1;Flood and Land Slide
+61; Kalimantan Barat;1;;;;;;;;;;;;1;;;2021;103;1;Flood and Land Slide
+63; Kalimantan Selatan;1;7;;5;142579;13062;1;;;;;;19;;;2021;103;1;Flood and Land Slide
+71; Sulawesi Utara;2;3;;2;;3136;13;;;;;;;;;2021;103;1;Flood and Land Slide
+76; Sulawesi Barat;1;;;;35;;7;;;;;;1;;;2021;103;1;Flood and Land Slide
+14; Riau;2;;;;;;36;;;;;;;;;2021;104;1;Abration
+19; Bangka Belitung;1;0;0;0;45;0;8;0;0;0;0;0;0;0;0;2021;104;1;Abration
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;1;Abration
+61; Kalimantan Barat;1;;;;190;;45;;;;;;;;29;2021;104;1;Abration
+62; Kalimantan Tengah;1;;;;35;;7;;;;;;;;;2021;104;1;Abration
+71; Sulawesi Utara;2;;;;82;;29;;;;;;;;;2021;104;1;Abration
+11; Aceh;2;;;;9;5;15;;;;;;;;;2021;105;1;Tornado
+12; Sumatera Utara;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+13; Sumatera Barat;1;;;1;;;1;;;;;;;;;2021;105;1;Tornado
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+18; Lampung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+19; Bangka Belitung;2;0;0;0;9;0;2;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+21; Kepulauan Riau;2;;;;;;14;;;;;;;;;2021;105;1;Tornado
+32; Jawa Barat;16;;;6;1291;24;363;;;3;;;;;;2021;105;1;Tornado
+33; Jawa Tengah;18;0;0;1;200;0;128;0;0;0;1;0;0;0;1;2021;105;1;Tornado
+35; Jawa Timur;9;0;0;5;780;0;252;1;0;1;0;0;0;0;1;2021;105;1;Tornado
+36; Banten;1;;;;5;;1;;;;;;;;;2021;105;1;Tornado
+51; Bali;2;;;;;;2;;;;;;;;8;2021;105;1;Tornado
+52; Nusa Tenggara Barat;2;;;;10;;7;;;;;;;;;2021;105;1;Tornado
+53; Nusa Tenggara Timur;2;0;0;0;0;0;19;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+61; Kalimantan Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+71; Sulawesi Utara;3;;;;;63;7;;;;;;;;;2021;105;1;Tornado
+72; Sulawesi Tengah;2;0;0;0;0;0;6;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+73; Sulawesi Selatan;5;0;0;0;0;0;18;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+74; Sulawesi Tenggara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;1;Tornado
+82; Maluku Utara;1;;;;;;11;;;;;;;;;2021;105;1;Tornado
+33; Jawa Tengah;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;1;Forest Fire
+62; Kalimantan Tengah;1;;;;;;;;;;;;;;;2021;107;1;Forest Fire
+18; Lampung;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;108;1;Earthquake
+71; Sulawesi Utara;1;;;;40;;8;;2;2;;1;;;;2021;108;1;Earthquake
+76; Sulawesi Barat;5;107;3;11124;20448;95057;16116;231;48;99;;81;7;;5;2021;108;1;Earthquake
+81; Maluku;1;;;;;;;;;;;;;;;2021;108;1;Earthquake
+91; Papua Barat;1;;;;;;;;;;;;;;;2021;108;1;Earthquake
+94; Papua;1;;;;;;;;;;;;;;;2021;108;1;Earthquake
+18; Lampung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;110;1;Earthquake and Tsunami
+11; Aceh;2;;;;375;;;;;;;;;;;2021;101;2;Flood
+12; Sumatera Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;2;Flood
+16; Sumatera Selatan;4;0;0;0;1970;5;0;0;0;0;0;0;0;0;0;2021;101;2;Flood
+18; Lampung;3;0;0;0;1417;0;708;0;0;0;0;0;0;0;0;2021;101;2;Flood
+31; Jakarta;9;4;1;;29460;7190;;;;;;;;;;2021;101;2;Flood
+32; Jawa Barat;27;11;;269;618442;96428;131;27;5;36;;7;;;;2021;101;2;Flood
+33; Jawa Tengah;66;0;0;1;598957;11010;474;0;0;0;1;0;0;0;0;2021;101;2;Flood
+35; Jawa Timur;20;2;1;;70677;1070;73;;;;;;3;;;2021;101;2;Flood
+36; Banten;14;;;11;47387;7096;;;;;;;;;;2021;101;2;Flood
+52; Nusa Tenggara Barat;16;1;;;18194;400;66;;;1;;;4;;;2021;101;2;Flood
+53; Nusa Tenggara Timur;5;;;;461;;3;;;;;;1;;;2021;101;2;Flood
+61; Kalimantan Barat;4;0;0;0;2052;148;0;0;0;0;0;0;0;0;0;2021;101;2;Flood
+62; Kalimantan Tengah;4;;;;1095;;;;;;;;;;;2021;101;2;Flood
+63; Kalimantan Selatan;1;;;;1843;;;;;;;;;;;2021;101;2;Flood
+72; Sulawesi Tengah;1;;;;363;23;8;;;;;;;;;2021;101;2;Flood
+75; Gorontalo;1;;;;35;;;;;;;;;;;2021;101;2;Flood
+82; Maluku Utara;2;;;;1533;;20;;;;;;;;;2021;101;2;Flood
+94; Papua;3;;;;370;4506;2;;;;;;1;;;2021;101;2;Flood
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2021;102;2;Land_Slide
+16; Sumatera Selatan;4;0;0;0;4;0;1;0;0;0;0;0;0;0;0;2021;102;2;Land_Slide
+18; Lampung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;2;Land_Slide
+31; Jakarta;1;;;;20;;;;;;;;;;;2021;102;2;Land_Slide
+32; Jawa Barat;64;;;10;930;661;172;1;;1;;1;;;1;2021;102;2;Land_Slide
+33; Jawa Tengah;106;5;0;10;41;10;78;0;0;3;1;0;1;0;0;2021;102;2;Land_Slide
+35; Jawa Timur;10;29;0;22;416;418;29;2;0;0;0;0;0;0;0;2021;102;2;Land_Slide
+36; Banten;1;;;;2;;1;;;;;;;;;2021;102;2;Land_Slide
+53; Nusa Tenggara Timur;1;;;;20;;;;;;;;;;;2021;102;2;Land_Slide
+61; Kalimantan Barat;2;0;0;0;0;30;12;0;0;0;0;0;0;0;0;2021;102;2;Land_Slide
+72; Sulawesi Tengah;1;6;1;3;;;;;;;;;;;;2021;102;2;Land_Slide
+32; Jawa Barat;4;3;3;;396105;39069;24;;;;;;2;;;2021;103;2;Flood and Land Slide
+33; Jawa Tengah;3;7;;;85315;1270;13;1;;;;;;;;2021;103;2;Flood and Land Slide
+35; Jawa Timur;1;;;;85;;15;;;;;;;;;2021;103;2;Flood and Land Slide
+36; Banten;1;;;;25580;40;;;;;;;;;;2021;103;2;Flood and Land Slide
+52; Nusa Tenggara Barat;1;;;;60;;1;;;;;;;;;2021;103;2;Flood and Land Slide
+82; Maluku Utara;1;;;;2645;;49;;;;;;;;;2021;103;2;Flood and Land Slide
+53; Nusa Tenggara Timur;1;;;;65;;;;;;;;;;;2021;104;2;Abration
+71; Sulawesi Utara;1;;;;;175;2;1;;;;;;;;2021;104;2;Abration
+73; Sulawesi Selatan;1;;;;30;;;;;;;;;;;2021;104;2;Abration
+81; Maluku;1;;;;;;28;;;;;;;;;2021;104;2;Abration
+82; Maluku Utara;2;;;;1395;;57;;;;;;;;;2021;104;2;Abration
+11; Aceh;4;0;0;0;33;0;4;0;0;0;0;0;0;0;0;2021;105;2;Tornado
+13; Sumatera Barat;1;;;;5;;1;;;;;;;;;2021;105;2;Tornado
+16; Sumatera Selatan;1;;;;;;28;;;;;;;;;2021;105;2;Tornado
+17; Bengkulu;1;;;;3;;1;;;;;;;;;2021;105;2;Tornado
+18; Lampung;6;0;0;3;142;0;72;0;0;0;0;0;0;0;0;2021;105;2;Tornado
+32; Jawa Barat;38;;;2;543;26;123;;;;;;;;1;2021;105;2;Tornado
+33; Jawa Tengah;44;0;0;6;1755;49;898;3;1;7;0;1;0;2;11;2021;105;2;Tornado
+35; Jawa Timur;18;0;0;3;500;0;227;1;0;3;12;0;0;0;7;2021;105;2;Tornado
+36; Banten;8;;;2;407;;122;1;;;;;;;;2021;105;2;Tornado
+52; Nusa Tenggara Barat;2;;;;344;;25;1;;;;;;;;2021;105;2;Tornado
+63; Kalimantan Selatan;2;0;0;0;15;0;6;0;0;0;0;0;0;0;0;2021;105;2;Tornado
+64; Kalimantan Timur;1;;;;;;12;;;;;;;;;2021;105;2;Tornado
+73; Sulawesi Selatan;4;1;0;7;20;250;118;0;0;0;0;0;0;0;17;2021;105;2;Tornado
+13; Sumatera Barat;1;;;;1280;;;;;;;;;;;2021;106;2;Drought
+11; Aceh;17;;;;;;;;;;;;;;;2021;107;2;Forest Fire
+12; Sumatera Utara;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;2;Forest Fire
+13; Sumatera Barat;7;;;;;;;;;;;;;;;2021;107;2;Forest Fire
+14; Riau;26;;;;4;;;;;;;;;;;2021;107;2;Forest Fire
+16; Sumatera Selatan;1;;;4;50;;11;;;;;;;;;2021;107;2;Forest Fire
+33; Jawa Tengah;3;1;0;0;0;2;3;0;0;0;0;0;0;0;0;2021;107;2;Forest Fire
+61; Kalimantan Barat;7;0;0;2;0;1;0;0;0;0;0;0;0;0;0;2021;107;2;Forest Fire
+62; Kalimantan Tengah;7;;;;;;;;;;;;;;;2021;107;2;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2021;107;2;Forest Fire
+17; Bengkulu;3;;;;;;;;;;;;;;;2021;108;2;Earthquake
+71; Sulawesi Utara;1;;;;;;;;;;;;;;;2021;108;2;Earthquake
+76; Sulawesi Barat;1;;;;;;;;;;;;;;;2021;108;2;Earthquake
+82; Maluku Utara;1;;;10;;169;890;3;2;6;;3;1;;;2021;108;2;Earthquake
+11; Aceh;8;;1;;3373;286;21;;;;;;;;10;2021;101;3;Flood
+12; Sumatera Utara;5;1;0;0;53456;125;38;0;0;0;0;0;3;0;0;2021;101;3;Flood
+13; Sumatera Barat;7;;;;3830;;2;;;;;;3;;;2021;101;3;Flood
+14; Riau;1;;;;1895;;;;;;;;;;;2021;101;3;Flood
+16; Sumatera Selatan;6;0;0;0;55;0;0;0;0;0;0;0;0;0;0;2021;101;3;Flood
+18; Lampung;3;;;;2360;;;;;;;;;;;2021;101;3;Flood
+19; Bangka Belitung;8;0;0;0;0;0;140;0;0;0;0;0;0;0;0;2021;101;3;Flood
+32; Jawa Barat;23;0;0;0;91678;222;7;0;0;0;0;0;1;0;0;2021;101;3;Flood
+33; Jawa Tengah;18;0;0;0;298156;37;450;6;0;14;0;3;5;0;0;2021;101;3;Flood
+35; Jawa Timur;32;0;0;0;43664;56;16;0;0;0;0;0;0;0;0;2021;101;3;Flood
+36; Banten;2;;;;198;;;;;;;;;;;2021;101;3;Flood
+51; Bali;2;;;;;;;;;;;;;;;2021;101;3;Flood
+52; Nusa Tenggara Barat;6;;;;10866;;6;;;;;;2;;;2021;101;3;Flood
+53; Nusa Tenggara Timur;1;;;;;;;;;;;;;;;2021;101;3;Flood
+61; Kalimantan Barat;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;3;Flood
+62; Kalimantan Tengah;3;;;;3215;;;;;;;;;;;2021;101;3;Flood
+63; Kalimantan Selatan;5;;;;7476;306;1;1;1;1;;1;;;;2021;101;3;Flood
+64; Kalimantan Timur;1;;;;975;;;;;;;;;;;2021;101;3;Flood
+65; Kalimantan Utara;1;;;;1201;;;;;;;;;;;2021;101;3;Flood
+71; Sulawesi Utara;4;;;;600;163;3;;;;;;;;;2021;101;3;Flood
+72; Sulawesi Tengah;2;0;0;0;0;899;292;0;0;0;0;0;0;0;0;2021;101;3;Flood
+73; Sulawesi Selatan;4;;;;3749;;;;;;;;2;;;2021;101;3;Flood
+75; Gorontalo;3;;;;3547;;10;;;;;;1;;;2021;101;3;Flood
+81; Maluku;1;;;;50;;;;;;;;;;;2021;101;3;Flood
+82; Maluku Utara;1;;;;150;;2;;;;;;;;;2021;101;3;Flood
+94; Papua;1;;;;40040;;;;;;;;13;;;2021;101;3;Flood
+11; Aceh;3;2;;4;;;;1;;;;;;;;2021;102;3;Land_Slide
+12; Sumatera Utara;10;0;0;0;0;14;17;0;0;0;0;0;0;0;0;2021;102;3;Land_Slide
+13; Sumatera Barat;1;;;;2500;;;;;;;;;;;2021;102;3;Land_Slide
+18; Lampung;1;;;;;;;;;;;;;;;2021;102;3;Land_Slide
+32; Jawa Barat;57;;;3;1233;529;213;;;;;;;;;2021;102;3;Land_Slide
+33; Jawa Tengah;30;0;0;3;45;14;25;0;0;0;0;0;0;0;0;2021;102;3;Land_Slide
+35; Jawa Timur;7;0;0;0;110;65;6;0;0;0;0;0;0;0;0;2021;102;3;Land_Slide
+36; Banten;1;;;;500;;;;;;;;;;;2021;102;3;Land_Slide
+52; Nusa Tenggara Barat;1;;;;;;2;;;;;;;;;2021;102;3;Land_Slide
+61; Kalimantan Barat;3;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;102;3;Land_Slide
+64; Kalimantan Timur;1;;;;10;;;;;;;;;;;2021;102;3;Land_Slide
+73; Sulawesi Selatan;1;;;;;;;;;;;;;;;2021;102;3;Land_Slide
+32; Jawa Barat;1;1;;4;5;;49;;;;;;;;;2021;103;3;Flood and Land Slide
+33; Jawa Tengah;1;;;;32;;;;;;;;;;;2021;103;3;Flood and Land Slide
+35; Jawa Timur;3;;;;1983;11;9;;;;;;;;;2021;103;3;Flood and Land Slide
+53; Nusa Tenggara Timur;1;;;;;;1;;;;;;;;;2021;103;3;Flood and Land Slide
+76; Sulawesi Barat;1;1;;2;;;;;;;;;;;;2021;103;3;Flood and Land Slide
+82; Maluku Utara;1;;;;;;2;;;;;;;;;2021;104;3;Abration
+11; Aceh;2;;;;10;;2;;;;;;;;;2021;105;3;Tornado
+12; Sumatera Utara;17;0;0;0;330;1;161;1;1;1;0;3;0;0;0;2021;105;3;Tornado
+13; Sumatera Barat;7;;;1;1657;;24;;;;;;;;;2021;105;3;Tornado
+14; Riau;2;;;;;;10;;;1;;;;;;2021;105;3;Tornado
+16; Sumatera Selatan;2;0;0;0;55;0;11;0;0;0;0;0;0;0;0;2021;105;3;Tornado
+17; Bengkulu;1;;;;;;;;;;;;;;;2021;105;3;Tornado
+18; Lampung;4;;;;430;;79;;;;;;;;1;2021;105;3;Tornado
+19; Bangka Belitung;2;;;;399;1;82;;;;;;;;;2021;105;3;Tornado
+32; Jawa Barat;47;;;8;1739;45;483;;1;4;;;;;;2021;105;3;Tornado
+33; Jawa Tengah;23;4;0;7;372;5;215;0;0;1;0;0;0;0;0;2021;105;3;Tornado
+34; Yogyakarta;1;;;;990;;;;;;;;;;;2021;105;3;Tornado
+35; Jawa Timur;17;0;0;8;281;0;126;0;0;0;0;1;0;0;0;2021;105;3;Tornado
+52; Nusa Tenggara Barat;1;;;1;250;;50;;;;;;;;;2021;105;3;Tornado
+61; Kalimantan Barat;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;3;Tornado
+63; Kalimantan Selatan;6;;;;161;;43;;;;;;;;2;2021;105;3;Tornado
+73; Sulawesi Selatan;6;;;4;566;;186;2;1;;;2;;;;2021;105;3;Tornado
+74; Sulawesi Tenggara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;3;Tornado
+81; Maluku;1;;;;75;;15;1;;;;;;;;2021;105;3;Tornado
+11; Aceh;8;;;;;;;;;;;;;;;2021;107;3;Forest Fire
+12; Sumatera Utara;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;3;Forest Fire
+14; Riau;6;;;;;;;;;;;;;;;2021;107;3;Forest Fire
+19; Bangka Belitung;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;3;Forest Fire
+33; Jawa Tengah;2;0;0;0;0;0;1;0;0;0;0;0;0;0;1;2021;107;3;Forest Fire
+61; Kalimantan Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;3;Forest Fire
+62; Kalimantan Tengah;4;;;;;;;;;;;;;;;2021;107;3;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2021;107;3;Forest Fire
+64; Kalimantan Timur;1;;;;;;;;;;;;;;;2021;107;3;Forest Fire
+65; Kalimantan Utara;1;;;;;;;;;;;;;;;2021;107;3;Forest Fire
+13; Sumatera Barat;1;;;;500;;;;1;;;;;;;2021;108;3;Earthquake
+33; Jawa Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;108;3;Earthquake
+72; Sulawesi Tengah;1;;;;;;;;;;;;;;;2021;108;3;Earthquake
+73; Sulawesi Selatan;1;;;;;;;;;;;;;;;2021;108;3;Earthquake
+81; Maluku;1;;;;;;;;;;;;;;;2021;108;3;Earthquake
+12; Sumatera Utara;1;;;;;;;;;;;;;;;2021;111;3;Volcano Eruption
+11; Aceh;4;;;;1762;15;3;;;;;;;;;2021;101;4;Flood
+12; Sumatera Utara;8;0;0;0;0;35;107;1;0;0;1;0;0;0;0;2021;101;4;Flood
+13; Sumatera Barat;1;;;;;;;;;;;;;;;2021;101;4;Flood
+14; Riau;7;;;;4166;200;;;;;;;;;;2021;101;4;Flood
+18; Lampung;1;0;0;0;904;0;0;0;0;0;0;0;0;0;0;2021;101;4;Flood
+19; Bangka Belitung;11;0;0;0;0;0;93;0;0;0;0;0;0;0;0;2021;101;4;Flood
+32; Jawa Barat;12;;;;1861;202;48;;;;;;;;;2021;101;4;Flood
+33; Jawa Tengah;15;40;0;0;2125;4;213;0;0;0;0;1;1;0;0;2021;101;4;Flood
+35; Jawa Timur;10;;;;17160;480;1;;;;;;;;;2021;101;4;Flood
+36; Banten;3;1;;;265;;;;;;;;;;;2021;101;4;Flood
+52; Nusa Tenggara Barat;5;2;;;32991;1880;5698;49;29;25;;30;15;;;2021;101;4;Flood
+53; Nusa Tenggara Timur;18;182;47;217;557941;61092;53797;229;98;239;0;92;131;0;15;2021;101;4;Flood
+61; Kalimantan Barat;1;;;;640;;;;;;;;;;;2021;101;4;Flood
+62; Kalimantan Tengah;1;;;;816;;;;;;;;;;;2021;101;4;Flood
+63; Kalimantan Selatan;1;;;;5388;;;;;;;;;;;2021;101;4;Flood
+64; Kalimantan Timur;1;;;;25;;;;;;;;;;;2021;101;4;Flood
+73; Sulawesi Selatan;1;;;;265;;;;;;;;;;;2021;101;4;Flood
+81; Maluku;1;;;;69;;;;;;;;;;;2021;101;4;Flood
+94; Papua;1;;;;65;;;;;;;;;;;2021;101;4;Flood
+12; Sumatera Utara;5;5;8;0;0;0;2;0;1;0;0;0;1;1;0;2021;102;4;Land_Slide
+32; Jawa Barat;24;1;0;5;495;151;63;1;0;0;0;0;0;0;1;2021;102;4;Land_Slide
+33; Jawa Tengah;11;0;0;0;25;0;2;0;0;0;0;0;1;0;1;2021;102;4;Land_Slide
+35; Jawa Timur;3;1;;;10;;3;;;;;;;;;2021;102;4;Land_Slide
+36; Banten;1;;;;2;;1;;;;;;;;;2021;102;4;Land_Slide
+72; Sulawesi Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;4;Land_Slide
+33; Jawa Tengah;1;;;;;;2;;;;;;2;;;2021;103;4;Flood and Land Slide
+53; Nusa Tenggara Timur;2;;;;11183;1464;569;1;;2;;;11;;;2021;103;4;Flood and Land Slide
+14; Riau;1;;;;36;;10;;;;;;;;;2021;104;4;Abration
+53; Nusa Tenggara Timur;2;1;;5;991;;;;;;;;;;;2021;104;4;Abration
+62; Kalimantan Tengah;1;;;;31;;8;;;;;;;;;2021;104;4;Abration
+11; Aceh;6;;;;160;;33;;;;;;;;2;2021;105;4;Tornado
+12; Sumatera Utara;17;0;0;0;1167;0;351;0;0;1;0;0;0;0;0;2021;105;4;Tornado
+13; Sumatera Barat;8;;;1;430;;215;2;;1;;1;;;;2021;105;4;Tornado
+14; Riau;2;1;;2;95;;2;;;;;;;;;2021;105;4;Tornado
+15; Jambi;1;;;;4;;1;;;;;;;;;2021;105;4;Tornado
+16; Sumatera Selatan;4;;;;3124;;652;1;;;;;;;;2021;105;4;Tornado
+18; Lampung;13;0;0;0;2823;0;576;1;0;0;0;0;0;0;0;2021;105;4;Tornado
+19; Bangka Belitung;31;0;0;3;6;15;40;0;0;0;0;0;0;0;0;2021;105;4;Tornado
+32; Jawa Barat;35;;;;418;18;111;3;;;;;;;;2021;105;4;Tornado
+33; Jawa Tengah;9;0;0;0;511;6;132;0;0;1;0;0;0;0;0;2021;105;4;Tornado
+34; Yogyakarta;1;;;1;10;;;;;;;;;;;2021;105;4;Tornado
+35; Jawa Timur;13;0;0;3;237;0;135;1;1;3;0;0;0;0;1;2021;105;4;Tornado
+36; Banten;1;;;;5;;1;;;;;;;;;2021;105;4;Tornado
+53; Nusa Tenggara Timur;2;;;4;1332;625;1986;14;1;11;;8;6;;1;2021;105;4;Tornado
+61; Kalimantan Barat;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;105;4;Tornado
+64; Kalimantan Timur;2;;;;;;8;;;;;;;;;2021;105;4;Tornado
+71; Sulawesi Utara;2;;;;7;;6;;;1;;3;;;2;2021;105;4;Tornado
+72; Sulawesi Tengah;2;2;0;0;10;0;0;0;1;1;0;0;0;0;0;2021;105;4;Tornado
+73; Sulawesi Selatan;13;;;;;;0;0;;;;;;;;2021;105;4;Tornado
+74; Sulawesi Tenggara;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;4;Tornado
+76; Sulawesi Barat;1;;;;2;;2;;;;;;;;;2021;105;4;Tornado
+81; Maluku;1;;;;45;5;;;;;;;;;;2021;105;4;Tornado
+82; Maluku Utara;1;;;;35;;7;;;;;;;;;2021;105;4;Tornado
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;4;Forest Fire
+14; Riau;2;;;;;;;;;;;;;;;2021;107;4;Forest Fire
+16; Sumatera Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;4;Forest Fire
+33; Jawa Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2021;107;4;Forest Fire
+61; Kalimantan Barat;2;;;;;;;;;;;;;;;2021;107;4;Forest Fire
+62; Kalimantan Tengah;3;;;;;;;;;;;;;;;2021;107;4;Forest Fire
+63; Kalimantan Selatan;1;;;;;;;;;;;;;;;2021;107;4;Forest Fire
+32; Jawa Barat;2;;;;;;13;;;;;;;;;2021;108;4;Earthquake
+35; Jawa Timur;18;10;;115;;2074;16528;197;29;255;;64;;;4;2021;108;4;Earthquake
+11; Aceh;9;;;;6969;;2;;;;;;;;;2021;101;5;Flood
+12; Sumatera Utara;6;0;0;0;2525;0;342;0;0;0;0;0;1;1;0;2021;101;5;Flood
+13; Sumatera Barat;4;;;;4297;;6;;;;;;;;;2021;101;5;Flood
+14; Riau;4;;;;3649;400;;;;;;;;;;2021;101;5;Flood
+16; Sumatera Selatan;4;0;0;0;3490;50;2;0;0;0;0;0;0;0;0;2021;101;5;Flood
+17; Bengkulu;1;;;;2250;;;;;;;;;;;2021;101;5;Flood
+19; Bangka Belitung;3;0;0;0;1;28;0;0;0;0;0;0;0;0;0;2021;101;5;Flood
+31; Jakarta;4;;;;1056;;;;;;;;;;;2021;101;5;Flood
+32; Jawa Barat;12;;;;87929;510;140;;;1;;;;;;2021;101;5;Flood
+33; Jawa Tengah;9;0;0;0;11198;0;0;0;0;0;0;0;0;0;0;2021;101;5;Flood
+35; Jawa Timur;2;0;0;0;50;0;0;0;0;0;0;0;0;0;0;2021;101;5;Flood
+36; Banten;2;;;1;7670;59;;;;;;;;;;2021;101;5;Flood
+52; Nusa Tenggara Barat;4;;;;1533;30;11;;;;;;1;;;2021;101;5;Flood
+61; Kalimantan Barat;4;0;0;0;4118;0;0;0;0;0;0;0;0;0;0;2021;101;5;Flood
+62; Kalimantan Tengah;7;;;;39446;;;1;;1;;1;;;;2021;101;5;Flood
+63; Kalimantan Selatan;4;;;;16927;360;;;;;;;;;;2021;101;5;Flood
+64; Kalimantan Timur;2;;;;15080;15;;;;;;;;;;2021;101;5;Flood
+65; Kalimantan Utara;4;;;;23864;;3;;;;;;;;;2021;101;5;Flood
+72; Sulawesi Tengah;3;0;0;0;0;30;0;0;0;0;0;0;0;0;0;2021;101;5;Flood
+73; Sulawesi Selatan;4;;;;13513;;;;;;;;1;;;2021;101;5;Flood
+81; Maluku;2;;;;14312;;;;;;;;;;;2021;101;5;Flood
+82; Maluku Utara;1;;;;396;;;;;;;;;;;2021;101;5;Flood
+12; Sumatera Utara;12;0;0;0;0;0;12;0;1;1;0;0;0;0;0;2021;102;5;Land_Slide
+13; Sumatera Barat;2;8;;9;;;1;;;;;;;;;2021;102;5;Land_Slide
+16; Sumatera Selatan;1;;;;5;;;;;;;;;;;2021;102;5;Land_Slide
+32; Jawa Barat;28;1;;2;136;30;24;4;;;;;;;;2021;102;5;Land_Slide
+33; Jawa Tengah;3;0;0;0;29;79;11;0;0;0;0;0;0;0;0;2021;102;5;Land_Slide
+35; Jawa Timur;2;;;2;;;2;;;;;;;;;2021;102;5;Land_Slide
+36; Banten;1;;;;12;;3;;;;;;;;;2021;102;5;Land_Slide
+53; Nusa Tenggara Timur;1;;;;;38;;;;;;;;;;2021;102;5;Land_Slide
+61; Kalimantan Barat;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;5;Land_Slide
+64; Kalimantan Timur;1;;;;;;1;;;;;;;;;2021;102;5;Land_Slide
+73; Sulawesi Selatan;2;;;;25;;5;;;;;;;;;2021;102;5;Land_Slide
+81; Maluku;1;;;1;;;;;;;;;;;;2021;102;5;Land_Slide
+11; Aceh;3;;;;9570;;;;;;;;;;;2021;103;5;Flood and Land Slide
+12; Sumatera Utara;1;;;;270;;1;;;;;;;;;2021;103;5;Flood and Land Slide
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2021;103;5;Flood and Land Slide
+32; Jawa Barat;2;;;;773;;1;;;;;;;;;2021;103;5;Flood and Land Slide
+61; Kalimantan Barat;1;;;;350;;;;;;;;;;;2021;103;5;Flood and Land Slide
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;5;Abration
+33; Jawa Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;5;Abration
+35; Jawa Timur;19;0;0;0;7;0;3;0;0;0;0;0;0;0;0;2021;104;5;Abration
+51; Bali;1;;;;115;;16;;;;;;;;;2021;104;5;Abration
+62; Kalimantan Tengah;1;;;;;;;;;;;;;;;2021;104;5;Abration
+74; Sulawesi Tenggara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;5;Abration
+11; Aceh;2;;;;2;;4;;;;;;;;4;2021;105;5;Tornado
+12; Sumatera Utara;3;0;0;1;322;0;76;0;0;1;0;0;0;0;0;2021;105;5;Tornado
+14; Riau;1;;;;;20;25;;;;;;;;;2021;105;5;Tornado
+16; Sumatera Selatan;2;0;0;0;10;0;0;0;0;0;0;0;0;0;0;2021;105;5;Tornado
+18; Lampung;2;;;;20;;4;;;;;;;;;2021;105;5;Tornado
+19; Bangka Belitung;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;5;Tornado
+32; Jawa Barat;16;;;;77;5;19;;;;;;;;1;2021;105;5;Tornado
+33; Jawa Tengah;15;0;0;0;197;0;51;0;0;0;0;0;0;0;0;2021;105;5;Tornado
+35; Jawa Timur;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;5;Tornado
+36; Banten;2;;;;5;;3;;;;;;;;;2021;105;5;Tornado
+63; Kalimantan Selatan;2;;;;35;;16;;;1;;;;;;2021;105;5;Tornado
+71; Sulawesi Utara;1;;;;125;;1;;;;;;;;;2021;105;5;Tornado
+72; Sulawesi Tengah;2;0;0;0;0;0;6;0;0;0;0;0;0;0;0;2021;105;5;Tornado
+73; Sulawesi Selatan;1;;;;20;;4;;;;;;;;;2021;105;5;Tornado
+81; Maluku;2;;;;93;;16;;;;;;;;;2021;105;5;Tornado
+94; Papua;1;;;10;140;150;28;;;;;;;;;2021;105;5;Tornado
+33; Jawa Tengah;1;;;;450;;;;;;;;;;;2021;106;5;Drought
+33; Jawa Tengah;7;0;0;0;0;0;4;0;0;0;0;0;0;0;0;2021;107;5;Forest Fire
+36; Banten;2;;;;;;;;;;;;;;;2021;107;5;Forest Fire
+61; Kalimantan Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;5;Forest Fire
+62; Kalimantan Tengah;2;;;;;;;;;;;;;;;2021;107;5;Forest Fire
+35; Jawa Timur;8;;;2;;;1408;;1;;;;;;;2021;108;5;Earthquake
+11; Aceh;1;;;;27;;;;;;;;;;;2021;101;6;Flood
+13; Sumatera Barat;2;;;;604;;2;;;;;;;;7;2021;101;6;Flood
+14; Riau;1;;;;;;;;;;;;;;;2021;101;6;Flood
+17; Bengkulu;1;;;;125;;;;;;;;;;;2021;101;6;Flood
+19; Bangka Belitung;3;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2021;101;6;Flood
+21; Kepulauan Riau;1;;;;30;;;;;;;;;;;2021;101;6;Flood
+31; Jakarta;1;;;;148;;;;;;;;;;;2021;101;6;Flood
+32; Jawa Barat;11;;;6;61826;108;95;;;;;;;;;2021;101;6;Flood
+33; Jawa Tengah;4;1;0;0;251;0;0;0;0;0;0;0;0;0;0;2021;101;6;Flood
+35; Jawa Timur;6;0;0;0;11879;0;3;0;0;0;0;0;0;0;0;2021;101;6;Flood
+51; Bali;1;;;;15;;3;;;;;;;;;2021;101;6;Flood
+61; Kalimantan Barat;1;;;;1355;;;;;;;;;;;2021;101;6;Flood
+72; Sulawesi Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;6;Flood
+73; Sulawesi Selatan;1;;;;276;7;54;;;;;;;;;2021;101;6;Flood
+74; Sulawesi Tenggara;5;;;;620;;;;;;;;3;;;2021;101;6;Flood
+75; Gorontalo;1;;;;23;;;;;;;;;;;2021;101;6;Flood
+11; Aceh;1;;;;5;;1;;;;;;;;;2021;102;6;Land_Slide
+12; Sumatera Utara;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;6;Land_Slide
+14; Riau;2;;;;20;;4;;;1;;;;;1;2021;102;6;Land_Slide
+32; Jawa Barat;37;;;8;321;328;69;;;;;;;;4;2021;102;6;Land_Slide
+33; Jawa Tengah;11;0;0;0;20;0;9;0;0;0;0;0;0;0;0;2021;102;6;Land_Slide
+35; Jawa Timur;4;1;;6;625;5;30;;;;;;1;;;2021;102;6;Land_Slide
+51; Bali;1;;;;4;;;;;;;;;;;2021;102;6;Land_Slide
+63; Kalimantan Selatan;1;;;;3;;1;;;;;;;;;2021;102;6;Land_Slide
+74; Sulawesi Tenggara;2;0;0;0;11;0;2;0;0;0;0;0;0;0;0;2021;102;6;Land_Slide
+81; Maluku;1;;;2;3;;1;;;;;;;;;2021;102;6;Land_Slide
+36; Banten;1;;;2;968;90;3;;;;;;;;;2021;103;6;Flood and Land Slide
+51; Bali;1;;;;15;;3;;;;;;;;;2021;104;6;Abration
+11; Aceh;4;;;;54;;12;;;;;;;;;2021;105;6;Tornado
+12; Sumatera Utara;3;1;0;7;1649;0;356;0;0;0;3;0;0;0;0;2021;105;6;Tornado
+13; Sumatera Barat;4;;;;18;;4;;;;;;;;;2021;105;6;Tornado
+15; Jambi;1;;;;13;;5;;;;;;;;;2021;105;6;Tornado
+16; Sumatera Selatan;3;;;;17;;15;;;;;;;;;2021;105;6;Tornado
+18; Lampung;1;;;;;;9;;;;;;;;;2021;105;6;Tornado
+19; Bangka Belitung;1;;;;260;;;;;;;;;;;2021;105;6;Tornado
+32; Jawa Barat;26;;;;173;7;54;;;1;;;;;;2021;105;6;Tornado
+33; Jawa Tengah;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2021;105;6;Tornado
+35; Jawa Timur;2;;;;330;;76;;;;;;;;;2021;105;6;Tornado
+36; Banten;5;;;;398;;64;;;;;;;;;2021;105;6;Tornado
+63; Kalimantan Selatan;1;;;;150;;30;;;;;;;;;2021;105;6;Tornado
+71; Sulawesi Utara;1;;;1;;25;49;;;;;;;;;2021;105;6;Tornado
+72; Sulawesi Tengah;2;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2021;105;6;Tornado
+73; Sulawesi Selatan;2;;;;100;;20;;;1;;;;;;2021;105;6;Tornado
+74; Sulawesi Tenggara;1;;;2;45;;3;;;;;;;;;2021;105;6;Tornado
+11; Aceh;2;;;;;;;;;;;;;;;2021;107;6;Forest Fire
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;6;Forest Fire
+14; Riau;3;;;;;;;;;;;;;;;2021;107;6;Forest Fire
+16; Sumatera Selatan;1;;;;;;;;;;;;;;;2021;107;6;Forest Fire
+19; Bangka Belitung;1;;;;;;;;;;;;;;;2021;107;6;Forest Fire
+33; Jawa Tengah;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;107;6;Forest Fire
+62; Kalimantan Tengah;1;;;;;;;;;;;;;;;2021;107;6;Forest Fire
+63; Kalimantan Selatan;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;6;Forest Fire
+64; Kalimantan Timur;2;;;;;;;;;;;;;;;2021;107;6;Forest Fire
+34; Yogyakarta;2;;;;;;17;;;;;;;;;2021;108;6;Earthquake
+81; Maluku;4;;;;;8803;233;;;3;;;;;;2021;108;6;Earthquake
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;111;6;Volcano Eruption
+11; Aceh;9;;;;37840;438;4;1;;;;;3;;;2021;101;7;Flood
+12; Sumatera Utara;2;0;0;0;14615;0;26;0;0;0;0;0;0;0;0;2021;101;7;Flood
+17; Bengkulu;1;;;;603;;;;;;;;1;;;2021;101;7;Flood
+19; Bangka Belitung;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;7;Flood
+32; Jawa Barat;2;;;;26;;;;;;;;;;;2021;101;7;Flood
+33; Jawa Tengah;2;0;0;0;1159;80;0;0;0;0;0;0;0;0;0;2021;101;7;Flood
+61; Kalimantan Barat;6;;;;86828;4657;10;;;;;;2;;;2021;101;7;Flood
+62; Kalimantan Tengah;5;;;;2471;;5;;;;;;;;;2021;101;7;Flood
+63; Kalimantan Selatan;1;;;;20;;;;;;;;;;;2021;101;7;Flood
+64; Kalimantan Timur;1;;;;968;35;;;;;;;;;;2021;101;7;Flood
+71; Sulawesi Utara;1;;;;425;;;;;;;;;;;2021;101;7;Flood
+72; Sulawesi Tengah;7;0;0;0;1843;0;65;0;0;2;0;0;4;0;0;2021;101;7;Flood
+73; Sulawesi Selatan;4;;;;9140;;;;;;;;;;;2021;101;7;Flood
+74; Sulawesi Tenggara;4;0;0;0;1185;15;15;1;0;0;0;0;1;0;0;2021;101;7;Flood
+75; Gorontalo;1;;;;2355;185;;;;;;;2;;;2021;101;7;Flood
+81; Maluku;1;;;;50;;;;;;;;;;;2021;101;7;Flood
+94; Papua;1;;;;;151;;;;;;;;;;2021;101;7;Flood
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;7;Land_Slide
+14; Riau;1;;;;10;;2;;;;;;;;;2021;102;7;Land_Slide
+32; Jawa Barat;7;;;;107;;6;;;;;;;;;2021;102;7;Land_Slide
+33; Jawa Tengah;1;1;;;;;;;;;;;;;;2021;102;7;Land_Slide
+62; Kalimantan Tengah;1;;;;5;;1;;;;;;;;;2021;102;7;Land_Slide
+63; Kalimantan Selatan;1;;;;15;;6;;;;;;;;;2021;102;7;Land_Slide
+64; Kalimantan Timur;1;;;;40;;5;;;;;;;;;2021;102;7;Land_Slide
+74; Sulawesi Tenggara;2;;;;11;;2;;;;;;;;;2021;102;7;Land_Slide
+75; Gorontalo;1;;;1;13;;2;;;;;;;;;2021;102;7;Land_Slide
+17; Bengkulu;1;;;;85;;;;;;;;1;;;2021;103;7;Flood and Land Slide
+61; Kalimantan Barat;2;1;1;2;26152;;1;;;;;;8;;;2021;103;7;Flood and Land Slide
+71; Sulawesi Utara;1;;;;6251;;6;;;;;;;;;2021;103;7;Flood and Land Slide
+73; Sulawesi Selatan;4;;;;11432;36;112;;;;;;5;;;2021;103;7;Flood and Land Slide
+74; Sulawesi Tenggara;1;;;;2547;111;4;;1;;;;;;;2021;103;7;Flood and Land Slide
+81; Maluku;3;;;;1468;;161;;;;;;2;;;2021;103;7;Flood and Land Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;7;Abration
+11; Aceh;6;;;;64;9;144;;;;;;;;;2021;105;7;Tornado
+12; Sumatera Utara;7;0;0;0;1301;0;223;0;0;0;1;0;0;0;0;2021;105;7;Tornado
+13; Sumatera Barat;2;;;;49;;13;;;;;;;;2;2021;105;7;Tornado
+14; Riau;1;;;;225;;;;;;;;;;;2021;105;7;Tornado
+16; Sumatera Selatan;2;0;0;0;0;0;24;0;0;2;0;0;0;0;0;2021;105;7;Tornado
+17; Bengkulu;1;2;;;;;1;;;;;;;;;2021;105;7;Tornado
+21; Kepulauan Riau;1;;;1;90;;18;;;;;1;;;;2021;105;7;Tornado
+32; Jawa Barat;5;;;;58;;14;1;;;;;;;;2021;105;7;Tornado
+33; Jawa Tengah;1;;;;5;;1;;;;;;;;;2021;105;7;Tornado
+35; Jawa Timur;2;0;0;0;110;0;35;0;0;2;0;0;0;0;0;2021;105;7;Tornado
+61; Kalimantan Barat;2;0;0;0;25;5;12;0;0;0;0;0;0;0;0;2021;105;7;Tornado
+73; Sulawesi Selatan;2;;;;;4;16;;;;;;;;;2021;105;7;Tornado
+32; Jawa Barat;1;;;;830;;;;;;;;;;;2021;106;7;Drought
+11; Aceh;10;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;7;Forest Fire
+14; Riau;4;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+16; Sumatera Selatan;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;7;Forest Fire
+19; Bangka Belitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;7;Forest Fire
+36; Banten;1;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+53; Nusa Tenggara Timur;1;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+61; Kalimantan Barat;2;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+62; Kalimantan Tengah;7;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+63; Kalimantan Selatan;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;7;Forest Fire
+64; Kalimantan Timur;2;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+65; Kalimantan Utara;2;;;;;;;;;;;;;;;2021;107;7;Forest Fire
+72; Sulawesi Tengah;2;;;;;;11;1;;3;;;;;;2021;108;7;Earthquake
+12; Sumatera Utara;6;0;0;6;28100;430;3327;7;2;2;6;3;1;0;0;2021;101;8;Flood
+18; Lampung;2;0;0;0;180;0;20;0;0;0;0;0;1;0;0;2021;101;8;Flood
+32; Jawa Barat;3;;;;266;;1;;;;;;;;;2021;101;8;Flood
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;8;Flood
+36; Banten;1;;;;115;20;;;;;;;;;;2021;101;8;Flood
+61; Kalimantan Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;8;Flood
+72; Sulawesi Tengah;12;0;0;0;0;6;73;0;0;0;0;0;1;0;0;2021;101;8;Flood
+32; Jawa Barat;3;0;0;0;7;0;0;0;0;0;0;0;0;0;0;2021;102;8;Land_Slide
+61; Kalimantan Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;8;Land_Slide
+72; Sulawesi Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;8;Land_Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40;2021;104;8;Abration
+11; Aceh;2;;;;9;;2;;;;;;;;;2021;105;8;Tornado
+12; Sumatera Utara;4;0;0;0;104;0;52;0;0;0;0;0;0;0;0;2021;105;8;Tornado
+18; Lampung;1;0;0;0;6;0;1;0;0;0;0;0;0;0;0;2021;105;8;Tornado
+33; Jawa Tengah;1;0;0;0;0;0;7;0;0;0;0;0;0;0;0;2021;105;8;Tornado
+35; Jawa Timur;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;8;Tornado
+72; Sulawesi Tengah;2;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2021;105;8;Tornado
+33; Jawa Tengah;2;0;0;0;2843;0;0;0;0;0;0;0;0;0;0;2021;106;8;Drought
+11; Aceh;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;8;Forest Fire
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;8;Forest Fire
+19; Bangka Belitung;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;8;Forest Fire
+33; Jawa Tengah;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2021;107;8;Forest Fire
+61; Kalimantan Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;8;Forest Fire
+63; Kalimantan Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;8;Forest Fire
+12; Sumatera Utara;8;0;0;5;1329;375;1203;0;0;0;0;0;0;0;0;2021;101;9;Flood
+15; Jambi;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;9;Flood
+18; Lampung;1;0;0;0;0;0;259;0;0;0;0;0;0;0;0;2021;101;9;Flood
+19; Bangka Belitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;9;Flood
+33; Jawa Tengah;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;9;Flood
+53; Nusa Tenggara Timur;2;2;1;1;0;0;5;0;0;0;14;0;1;0;0;2021;101;9;Flood
+61; Kalimantan Barat;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;9;Flood
+72; Sulawesi Tengah;13;0;0;0;0;0;0;0;0;0;0;0;4;0;0;2021;101;9;Flood
+74; Sulawesi Tenggara;1;0;0;0;0;0;21;0;0;0;0;0;0;0;0;2021;101;9;Flood
+12; Sumatera Utara;7;1;3;1;16;0;16;0;0;0;0;0;0;0;0;2021;102;9;Land_Slide
+33; Jawa Tengah;7;0;0;0;0;0;-1;0;0;0;0;0;1;0;0;2021;102;9;Land_Slide
+61; Kalimantan Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;9;Land_Slide
+74; Sulawesi Tenggara;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2021;104;9;Abration
+12; Sumatera Utara;1;0;0;0;20;0;4;0;0;0;0;0;0;0;0;2021;105;9;Tornado
+16; Sumatera Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;9;Tornado
+33; Jawa Tengah;13;1;0;0;0;0;36;1;0;0;0;0;0;0;0;2021;105;9;Tornado
+61; Kalimantan Barat;2;0;0;0;0;5;1;0;0;0;0;0;0;0;0;2021;105;9;Tornado
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;9;Drought
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;9;Drought
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;9;Forest Fire
+19; Bangka Belitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;9;Forest Fire
+33; Jawa Tengah;6;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2021;107;9;Forest Fire
+33; Jawa Tengah;1;0;0;0;0;0;13;0;0;0;0;0;0;0;0;2021;108;9;Earthquake
+12; Sumatera Utara;5;0;0;0;0;0;1121;0;0;0;0;0;1;0;0;2021;101;10;Flood
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;10;Flood
+32; Jawa Barat;4;0;0;0;0;60;0;0;0;0;0;0;0;0;0;2021;101;10;Flood
+33; Jawa Tengah;21;50;0;0;2;4;4;0;0;0;0;0;0;0;0;2021;101;10;Flood
+35; Jawa Timur;1;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2021;101;10;Flood
+61; Kalimantan Barat;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;10;Flood
+63; Kalimantan Selatan;1;0;0;0;250;0;0;0;0;0;0;0;0;0;0;2021;101;10;Flood
+64; Kalimantan Timur;1;0;0;0;459;15;0;0;0;0;0;0;0;0;0;2021;101;10;Flood
+72; Sulawesi Tengah;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;10;Flood
+12; Sumatera Utara;4;3;0;2;0;0;2;0;0;0;0;0;0;0;0;2021;102;10;Land_Slide
+33; Jawa Tengah;40;2;0;12;33;123;27;1;0;1;8;0;1;0;1;2021;102;10;Land_Slide
+35; Jawa Timur;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;10;Land_Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;10;Abration
+65; Kalimantan Utara;1;0;0;0;0;0;9;0;0;0;0;0;0;0;0;2021;104;10;Abration
+11; Aceh;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+12; Sumatera Utara;2;0;0;0;0;0;13;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+16; Sumatera Selatan;1;0;0;0;0;0;13;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+18; Lampung;1;0;0;0;92;0;23;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+32; Jawa Barat;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+33; Jawa Tengah;41;0;0;5;0;0;395;1;0;0;0;0;0;0;2;2021;105;10;Tornado
+35; Jawa Timur;2;0;0;0;0;0;39;2;0;1;1;0;0;0;2;2021;105;10;Tornado
+61; Kalimantan Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+71; Sulawesi Utara;1;0;0;0;0;0;18;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+72; Sulawesi Tengah;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;10;Tornado
+74; Sulawesi Tenggara;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2021;105;10;Tornado
+32; Jawa Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;10;Drought
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;10;Drought
+12; Sumatera Utara;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;10;Forest Fire
+33; Jawa Tengah;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;10;Forest Fire
+35; Jawa Timur;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;10;Forest Fire
+63; Kalimantan Selatan;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;10;Forest Fire
+12; Sumatera Utara;12;0;0;0;0;0;2836;0;0;0;0;0;0;0;0;2021;101;11;Flood
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;11;Flood
+18; Lampung;2;0;0;0;576;0;0;0;0;0;0;0;0;0;0;2021;101;11;Flood
+19; Bangka Belitung;20;0;0;0;0;0;296;0;0;0;0;0;1;0;0;2021;101;11;Flood
+32; Jawa Barat;9;0;0;0;35;0;5;0;0;0;0;0;1;1;0;2021;101;11;Flood
+33; Jawa Tengah;52;0;0;1;26;0;107;0;0;0;2;0;149;0;0;2021;101;11;Flood
+35; Jawa Timur;10;0;0;0;0;409;7;0;0;0;0;0;0;0;0;2021;101;11;Flood
+53; Nusa Tenggara Timur;2;55;0;0;0;0;40;0;0;0;0;0;0;0;0;2021;101;11;Flood
+61; Kalimantan Barat;19;0;0;0;0;7042;8;1;1;0;0;1;7;0;0;2021;101;11;Flood
+71; Sulawesi Utara;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;11;Flood
+72; Sulawesi Tengah;9;0;0;0;0;0;10;0;0;0;0;0;0;0;0;2021;101;11;Flood
+76; Sulawesi Barat;2;0;0;0;0;337;40;0;0;0;20;0;2;0;0;2021;101;11;Flood
+82; Maluku Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;11;Flood
+12; Sumatera Utara;3;0;0;0;0;0;4;0;0;0;0;0;0;0;0;2021;102;11;Land_Slide
+18; Lampung;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;102;11;Land_Slide
+32; Jawa Barat;28;0;0;0;13;289;15;0;0;0;0;0;0;0;0;2021;102;11;Land_Slide
+33; Jawa Tengah;128;5;0;2;76;34;97;1;0;0;20;0;1;1;1;2021;102;11;Land_Slide
+35; Jawa Timur;9;0;0;0;0;0;1;0;0;1;0;0;0;0;0;2021;102;11;Land_Slide
+61; Kalimantan Barat;4;0;0;1;0;0;2;0;0;0;0;0;0;0;0;2021;102;11;Land_Slide
+65; Kalimantan Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;11;Land_Slide
+71; Sulawesi Utara;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;11;Land_Slide
+18; Lampung;1;0;0;0;0;19;10;0;0;0;0;0;0;0;0;2021;104;11;Abration
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0;2021;104;11;Abration
+12; Sumatera Utara;1;0;0;0;7;0;7;0;0;0;0;0;0;0;0;2021;105;11;Tornado
+32; Jawa Barat;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;11;Tornado
+33; Jawa Tengah;17;0;0;1;1;22;43;0;0;0;2;0;0;0;0;2021;105;11;Tornado
+35; Jawa Timur;8;0;0;0;0;0;20;2;0;0;0;0;0;0;0;2021;105;11;Tornado
+61; Kalimantan Barat;1;0;0;0;0;0;42;0;0;0;0;0;0;0;0;2021;105;11;Tornado
+72; Sulawesi Tengah;3;1;0;0;0;1;4;0;0;0;0;0;0;0;0;2021;105;11;Tornado
+33; Jawa Tengah;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;11;Drought
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;106;11;Drought
+33; Jawa Tengah;3;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;107;11;Forest Fire
+62; Kalimantan Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;107;11;Forest Fire
+74; Sulawesi Tenggara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;108;11;Earthquake
+12; Sumatera Utara;10;0;0;0;444;50;1131;3;0;0;2;0;0;0;0;2021;101;12;Flood
+16; Sumatera Selatan;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;12;Flood
+18; Lampung;3;0;0;0;0;0;5;0;0;0;0;0;1;0;0;2021;101;12;Flood
+19; Bangka Belitung;4;0;0;0;0;1751;974;0;0;0;0;0;0;0;0;2021;101;12;Flood
+32; Jawa Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;12;Flood
+33; Jawa Tengah;22;0;0;0;0;0;581;0;0;0;2;0;1;0;2;2021;101;12;Flood
+35; Jawa Timur;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;12;Flood
+53; Nusa Tenggara Timur;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;12;Flood
+65; Kalimantan Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;12;Flood
+72; Sulawesi Tengah;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;101;12;Flood
+76; Sulawesi Barat;1;0;0;0;0;21;0;0;0;0;0;0;0;0;0;2021;101;12;Flood
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;12;Land_Slide
+13; Sumatera Barat;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;102;12;Land_Slide
+16; Sumatera Selatan;2;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2021;102;12;Land_Slide
+18; Lampung;2;0;0;0;0;0;14;0;0;0;0;0;0;0;0;2021;102;12;Land_Slide
+19; Bangka Belitung;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;102;12;Land_Slide
+33; Jawa Tengah;105;0;0;0;43;15;44;1;0;1;13;0;4;0;1;2021;102;12;Land_Slide
+35; Jawa Timur;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;2021;102;12;Land_Slide
+33; Jawa Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;104;12;Abration
+62; Kalimantan Tengah;1;0;0;0;0;0;8;0;0;0;0;0;0;0;0;2021;104;12;Abration
+71; Sulawesi Utara;1;0;0;0;1;25;0;0;0;0;0;0;0;0;0;2021;104;12;Abration
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;12;Tornado
+16; Sumatera Selatan;3;0;0;0;4;0;1;0;0;0;0;1;0;0;0;2021;105;12;Tornado
+19; Bangka Belitung;3;0;0;1;0;7;1;0;0;0;0;0;0;0;0;2021;105;12;Tornado
+33; Jawa Tengah;28;0;0;2;0;0;109;0;0;1;0;0;0;3;0;2021;105;12;Tornado
+35; Jawa Timur;13;0;0;0;0;0;527;2;0;3;0;0;0;0;0;2021;105;12;Tornado
+61; Kalimantan Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;105;12;Tornado
+71; Sulawesi Utara;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;12;Tornado
+72; Sulawesi Tengah;3;0;0;0;0;0;21;0;0;0;0;0;0;0;0;2021;105;12;Tornado
+76; Sulawesi Barat;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;2021;105;12;Tornado
+82; Maluku Utara;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2021;105;12;Tornado
+33; Jawa Tengah;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2021;107;12;Forest Fire
+53; Nusa Tenggara Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2021;108;12;Earthquake
+35; Jawa Timur;1;34;0;169;5205;4350;0;0;0;0;0;0;1;0;0;2021;111;12;Volcano Eruption
+16; Sumatera Selatan;23;0;0;0;1022;22;12;0;0;0;3;0;5;0;0;2022;101;1;Flood
+18; Lampung;4;0;0;0;0;0;4;0;0;0;0;0;0;0;0;2022;101;1;Flood
+19; Bangka Belitung;3;0;0;0;0;792;200;0;0;0;0;0;0;0;0;2022;101;1;Flood
+32; Jawa Barat;6;0;0;0;1740;0;0;0;0;0;0;0;0;0;0;2022;101;1;Flood
+33; Jawa Tengah;25;0;0;0;1800;0;525;0;0;0;0;0;10;0;0;2022;101;1;Flood
+35; Jawa Timur;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;1;Flood
+61; Kalimantan Barat;1;0;0;0;192;0;192;2;1;3;0;1;0;0;0;2022;101;1;Flood
+64; Kalimantan Timur;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;1;Flood
+65; Kalimantan Utara;2;0;0;0;0;342;114;0;0;0;0;0;0;0;0;2022;101;1;Flood
+71; Sulawesi Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;1;Flood
+72; Sulawesi Tengah;6;1;0;0;0;0;15;0;0;0;0;0;0;0;0;2022;101;1;Flood
+74; Sulawesi Tenggara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;1;Flood
+94; Papua;1;0;0;0;0;48;42;0;0;1;1;0;0;0;0;2022;101;1;Flood
+12; Sumatera Utara;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0;2022;102;1;Land_Slide
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+16; Sumatera Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+18; Lampung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+32; Jawa Barat;3;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+33; Jawa Tengah;134;0;0;6;13;3;25;4;0;0;3;0;5;0;0;2022;102;1;Land_Slide
+35; Jawa Timur;11;0;0;0;0;0;0;0;0;0;2;0;1;0;0;2022;102;1;Land_Slide
+64; Kalimantan Timur;1;0;0;0;6;0;0;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+65; Kalimantan Utara;1;0;0;0;0;6;1;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+71; Sulawesi Utara;7;0;0;0;0;0;2;0;0;0;1;0;0;0;0;2022;102;1;Land_Slide
+72; Sulawesi Tengah;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+74; Sulawesi Tenggara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+94; Papua;1;0;0;0;0;40;0;0;0;0;0;0;0;0;0;2022;102;1;Land_Slide
+33; Jawa Tengah;1;0;0;0;3;0;1;0;0;0;0;0;0;0;0;2022;103;1;Flood and Land Slide
+65; Kalimantan Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;1;Flood and Land Slide
+94; Papua;4;8;0;6;0;11880;729;1;1;0;3;1;0;0;0;2022;103;1;Flood and Land Slide
+12; Sumatera Utara;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;105;1;Tornado
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;1;Tornado
+16; Sumatera Selatan;5;0;0;1;2;13;61;0;0;0;0;0;0;0;0;2022;105;1;Tornado
+32; Jawa Barat;8;0;0;0;95;0;252;0;0;0;0;0;0;0;0;2022;105;1;Tornado
+33; Jawa Tengah;71;0;0;2;33;31;85;3;0;2;2;0;0;5;1;2022;105;1;Tornado
+35; Jawa Timur;21;0;0;3;0;0;52;0;0;0;1;2;0;0;3;2022;105;1;Tornado
+65; Kalimantan Utara;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;105;1;Tornado
+71; Sulawesi Utara;4;0;0;0;1;4;4;0;0;0;0;0;0;0;0;2022;105;1;Tornado
+72; Sulawesi Tengah;5;0;0;0;0;0;5;0;0;3;0;0;0;0;0;2022;105;1;Tornado
+94; Papua;1;0;0;0;0;0;4;0;0;0;0;0;0;0;0;2022;105;1;Tornado
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;1;Forest Fire
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;1;Forest Fire
+64; Kalimantan Timur;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;1;Forest Fire
+16; Sumatera Selatan;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;108;1;Earthquake
+32; Jawa Barat;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;108;1;Earthquake
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;111;1;Volcano Eruption
+12; Sumatera Utara;1;0;0;0;0;0;781;0;0;0;0;0;0;0;0;2022;101;2;Flood
+16; Sumatera Selatan;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;2;Flood
+18; Lampung;3;0;0;0;672;0;0;0;0;0;0;0;1;0;0;2022;101;2;Flood
+19; Bangka Belitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;2;Flood
+32; Jawa Barat;12;0;0;0;5;90;6;0;0;0;6;0;0;0;0;2022;101;2;Flood
+33; Jawa Tengah;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;2;Flood
+35; Jawa Timur;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;2;Flood
+61; Kalimantan Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;2;Flood
+71; Sulawesi Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;2;Flood
+72; Sulawesi Tengah;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;2;Flood
+94; Papua;3;0;0;0;0;28;1;0;0;0;0;0;0;0;0;2022;101;2;Flood
+12; Sumatera Utara;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;2;Land_Slide
+16; Sumatera Selatan;7;0;0;0;0;0;1;0;0;0;6;0;0;0;0;2022;102;2;Land_Slide
+18; Lampung;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;102;2;Land_Slide
+32; Jawa Barat;26;0;0;0;0;0;59;0;0;1;3;0;2;0;0;2022;102;2;Land_Slide
+33; Jawa Tengah;48;0;0;0;1;1;4;0;0;2;0;0;0;0;0;2022;102;2;Land_Slide
+35; Jawa Timur;7;0;0;0;1;0;1;0;0;0;0;0;1;0;0;2022;102;2;Land_Slide
+64; Kalimantan Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;2;Land_Slide
+71; Sulawesi Utara;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2022;102;2;Land_Slide
+72; Sulawesi Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;2;Land_Slide
+94; Papua;1;0;0;0;0;63;27;0;0;1;0;0;0;0;0;2022;102;2;Land_Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;2;Flood and Land Slide
+65; Kalimantan Utara;1;0;0;0;0;292;10;2;1;1;5;0;0;0;0;2022;103;2;Flood and Land Slide
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;2;Abration
+16; Sumatera Selatan;11;0;0;7;3;17;142;2;0;0;0;0;0;0;0;2022;105;2;Tornado
+19; Bangka Belitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;2;Tornado
+32; Jawa Barat;45;0;0;0;0;0;132;0;0;0;2;0;0;0;0;2022;105;2;Tornado
+33; Jawa Tengah;60;0;0;2;0;0;540;7;3;2;1;0;0;0;0;2022;105;2;Tornado
+35; Jawa Timur;11;0;0;1;0;0;81;1;0;2;0;0;0;0;10;2022;105;2;Tornado
+65; Kalimantan Utara;1;0;0;0;0;3;1;0;0;0;0;0;0;0;0;2022;105;2;Tornado
+74; Sulawesi Tenggara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;2;Tornado
+32; Jawa Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;2;Drought
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;2;Forest Fire
+15; Jambi;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;2;Forest Fire
+19; Bangka Belitung;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;2;Forest Fire
+62; Kalimantan Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;2;Forest Fire
+64; Kalimantan Timur;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;2;Forest Fire
+16; Sumatera Selatan;9;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;101;3;Flood
+18; Lampung;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2022;101;3;Flood
+32; Jawa Barat;13;0;0;0;22921;254;0;0;0;0;0;0;0;0;0;2022;101;3;Flood
+33; Jawa Tengah;36;0;0;0;2;1775;19;5;0;0;0;0;2;0;0;2022;101;3;Flood
+35; Jawa Timur;13;0;0;4;23890;674;6;3;0;0;0;0;4;0;0;2022;101;3;Flood
+63; Kalimantan Selatan;4;0;0;0;2835;0;0;0;0;0;0;0;0;0;0;2022;101;3;Flood
+64; Kalimantan Timur;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;3;Flood
+71; Sulawesi Utara;3;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2022;101;3;Flood
+72; Sulawesi Tengah;3;0;0;0;0;0;59;0;0;0;50;0;2;0;0;2022;101;3;Flood
+94; Papua;1;0;0;0;0;22;0;0;0;0;0;0;0;0;0;2022;101;3;Flood
+12; Sumatera Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;3;Land_Slide
+16; Sumatera Selatan;5;0;0;0;34;0;6;0;1;0;0;0;0;0;0;2022;102;3;Land_Slide
+32; Jawa Barat;11;0;0;0;116;0;7;0;0;0;0;0;1;0;0;2022;102;3;Land_Slide
+33; Jawa Tengah;75;0;0;0;0;65;236;6;0;6;108;0;4;9;2;2022;102;3;Land_Slide
+35; Jawa Timur;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;3;Land_Slide
+94; Papua;1;0;0;-1;0;0;0;0;0;0;0;0;0;0;0;2022;102;3;Land_Slide
+16; Sumatera Selatan;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;3;Flood and Land Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;3;Flood and Land Slide
+72; Sulawesi Tengah;1;0;0;0;0;0;15;0;0;0;0;0;3;0;0;2022;103;3;Flood and Land Slide
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;3;Tornado
+16; Sumatera Selatan;11;0;0;2;117;0;169;0;1;0;2;0;0;0;0;2022;105;3;Tornado
+18; Lampung;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;105;3;Tornado
+19; Bangka Belitung;7;0;0;0;0;3;88;1;0;1;0;0;0;0;0;2022;105;3;Tornado
+32; Jawa Barat;31;0;0;1;168;4;143;0;0;0;3;0;0;0;7;2022;105;3;Tornado
+33; Jawa Tengah;33;1;0;0;0;0;270;3;0;4;25;0;1;0;10;2022;105;3;Tornado
+35; Jawa Timur;7;0;0;0;0;0;28;0;0;0;0;0;0;0;3;2022;105;3;Tornado
+65; Kalimantan Utara;2;0;0;0;0;4;1;0;0;0;0;0;0;0;0;2022;105;3;Tornado
+72; Sulawesi Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;3;Tornado
+32; Jawa Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;3;Drought
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;3;Forest Fire
+16; Sumatera Selatan;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;3;Forest Fire
+32; Jawa Barat;3;0;0;0;3;3;0;0;0;0;0;0;0;0;0;2022;107;3;Forest Fire
+63; Kalimantan Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;3;Forest Fire
+71; Sulawesi Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;108;3;Earthquake
+12; Sumatera Utara;1;0;0;0;14;0;4;0;0;0;0;0;0;0;0;2022;101;4;Flood
+16; Sumatera Selatan;2;0;0;0;1625;1625;0;1;0;0;0;0;0;0;0;2022;101;4;Flood
+18; Lampung;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;4;Flood
+33; Jawa Tengah;9;0;0;0;0;0;2;0;0;0;0;0;2;0;0;2022;101;4;Flood
+64; Kalimantan Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;4;Flood
+65; Kalimantan Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;4;Flood
+71; Sulawesi Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;4;Flood
+12; Sumatera Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;4;Land_Slide
+13; Sumatera Barat;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;4;Land_Slide
+16; Sumatera Selatan;4;0;0;0;1;1;1;0;0;0;3;0;0;0;0;2022;102;4;Land_Slide
+18; Lampung;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;102;4;Land_Slide
+32; Jawa Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;4;Land_Slide
+33; Jawa Tengah;19;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;102;4;Land_Slide
+71; Sulawesi Utara;4;0;0;0;0;3;2;0;0;0;0;0;0;0;0;2022;102;4;Land_Slide
+12; Sumatera Utara;1;0;0;0;45072;0;0;0;0;0;0;0;0;0;0;2022;104;4;Abration
+12; Sumatera Utara;2;0;0;0;244;0;66;0;0;0;1;0;0;0;0;2022;105;4;Tornado
+13; Sumatera Barat;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;4;Tornado
+16; Sumatera Selatan;4;0;0;0;44;5;81;0;1;0;4;14;0;0;2;2022;105;4;Tornado
+19; Bangka Belitung;7;0;0;0;0;177;72;0;0;0;0;1;0;0;0;2022;105;4;Tornado
+33; Jawa Tengah;11;0;0;0;0;0;80;0;0;1;0;0;0;0;0;2022;105;4;Tornado
+12; Sumatera Utara;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;4;Forest Fire
+18; Lampung;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;4;Forest Fire
+62; Kalimantan Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;4;Forest Fire
+65; Kalimantan Utara;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;4;Forest Fire
+12; Sumatera Utara;1;0;0;0;120;0;0;0;0;0;0;0;0;0;0;2022;101;5;Flood
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;5;Flood
+33; Jawa Tengah;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;5;Flood
+35; Jawa Timur;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2022;101;5;Flood
+64; Kalimantan Timur;1;0;0;0;6092;0;0;0;0;0;0;0;0;0;0;2022;101;5;Flood
+65; Kalimantan Utara;3;0;0;0;0;0;920;0;0;0;0;0;0;0;0;2022;101;5;Flood
+71; Sulawesi Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;5;Flood
+16; Sumatera Selatan;5;0;0;0;2;0;0;0;0;0;2;0;0;0;0;2022;102;5;Land_Slide
+33; Jawa Tengah;39;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;5;Land_Slide
+35; Jawa Timur;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;5;Land_Slide
+64; Kalimantan Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;5;Land_Slide
+65; Kalimantan Utara;1;0;0;0;0;19;3;0;0;0;0;0;0;0;0;2022;102;5;Land_Slide
+71; Sulawesi Utara;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;102;5;Land_Slide
+73; Sulawesi Selatan;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;5;Land_Slide
+12; Sumatera Utara;1;0;0;0;45072;0;0;0;0;0;0;0;0;0;0;2022;104;5;Abration
+18; Lampung;1;0;0;0;0;0;6;0;0;0;0;0;0;0;0;2022;104;5;Abration
+33; Jawa Tengah;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;5;Abration
+11; Aceh;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;5;Tornado
+12; Sumatera Utara;7;0;0;0;3358;0;719;0;0;0;7;0;0;0;0;2022;105;5;Tornado
+13; Sumatera Barat;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;5;Tornado
+16; Sumatera Selatan;5;0;0;1;4;0;33;0;0;0;0;0;0;0;0;2022;105;5;Tornado
+19; Bangka Belitung;5;0;0;0;4;0;1;0;0;0;0;0;0;0;0;2022;105;5;Tornado
+21; Kepulauan Riau;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;105;5;Tornado
+33; Jawa Tengah;19;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;105;5;Tornado
+35; Jawa Timur;4;0;0;0;0;0;9;0;0;0;0;0;0;0;0;2022;105;5;Tornado
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;5;Forest Fire
+16; Sumatera Selatan;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;5;Forest Fire
+19; Bangka Belitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;5;Forest Fire
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;5;Forest Fire
+35; Jawa Timur;3;0;0;0;0;0;2;0;0;0;0;0;0;1;0;2022;107;5;Forest Fire
+64; Kalimantan Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;5;Forest Fire
+65; Kalimantan Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;5;Forest Fire
+72; Sulawesi Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;5;Forest Fire
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;108;5;Earthquake
+12; Sumatera Utara;3;0;0;0;854;15;0;0;0;0;0;0;0;0;0;2022;101;6;Flood
+16; Sumatera Selatan;5;0;0;0;304;0;1;2;0;0;0;1;0;0;2;2022;101;6;Flood
+19; Bangka Belitung;3;0;0;0;840;0;0;0;0;0;0;0;0;0;0;2022;101;6;Flood
+32; Jawa Barat;2;0;0;3;0;0;0;1;0;0;1;0;0;0;0;2022;101;6;Flood
+33; Jawa Tengah;14;0;0;0;0;0;13;0;0;0;0;0;0;0;0;2022;101;6;Flood
+35; Jawa Timur;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;6;Flood
+62; Kalimantan Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;6;Flood
+71; Sulawesi Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;6;Flood
+74; Sulawesi Tenggara;14;0;0;0;5;81;10;0;0;0;0;0;0;0;0;2022;101;6;Flood
+12; Sumatera Utara;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;6;Land_Slide
+13; Sumatera Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;6;Land_Slide
+16; Sumatera Selatan;5;0;0;0;4;0;4;0;0;0;1;0;1;0;0;2022;102;6;Land_Slide
+19; Bangka Belitung;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;6;Land_Slide
+32; Jawa Barat;1;1;1;3;0;175;20;0;0;0;0;0;2;0;0;2022;102;6;Land_Slide
+33; Jawa Tengah;34;0;0;0;0;10;10;0;0;1;1;0;0;0;0;2022;102;6;Land_Slide
+71; Sulawesi Utara;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;102;6;Land_Slide
+13; Sumatera Barat;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;6;Tornado
+16; Sumatera Selatan;2;0;0;0;0;0;35;0;0;0;0;0;0;0;0;2022;105;6;Tornado
+33; Jawa Tengah;14;0;0;0;0;0;38;0;0;0;0;0;0;0;0;2022;105;6;Tornado
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2022;105;6;Tornado
+12; Sumatera Utara;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;6;Forest Fire
+16; Sumatera Selatan;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;6;Forest Fire
+33; Jawa Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;6;Forest Fire
+65; Kalimantan Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;6;Forest Fire
+16; Sumatera Selatan;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;7;Flood
+18; Lampung;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;7;Flood
+19; Bangka Belitung;2;0;0;0;300;0;0;0;0;0;0;0;0;0;0;2022;101;7;Flood
+33; Jawa Tengah;4;0;0;0;0;0;50;1;0;0;0;1;0;0;0;2022;101;7;Flood
+35; Jawa Timur;2;0;0;0;0;606;0;0;0;0;0;0;0;0;0;2022;101;7;Flood
+72; Sulawesi Tengah;11;0;0;0;0;0;15;0;0;0;0;0;0;0;0;2022;101;7;Flood
+94; Papua;1;0;0;0;0;288;288;0;0;0;0;0;0;0;0;2022;101;7;Flood
+16; Sumatera Selatan;5;0;0;4;81;16;2;0;0;0;3;0;0;1;0;2022;102;7;Land_Slide
+32; Jawa Barat;6;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2022;102;7;Land_Slide
+33; Jawa Tengah;10;0;0;0;0;0;3;0;0;0;6;0;0;0;0;2022;102;7;Land_Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;7;Flood and Land Slide
+12; Sumatera Utara;3;0;0;0;40;0;10;0;0;0;0;0;0;0;0;2022;105;7;Tornado
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;7;Tornado
+16; Sumatera Selatan;2;0;0;0;0;0;1;0;0;0;1;0;0;0;0;2022;105;7;Tornado
+19; Bangka Belitung;2;0;0;0;30;0;9;0;0;0;0;0;0;0;0;2022;105;7;Tornado
+33; Jawa Tengah;7;0;0;0;0;0;5;0;0;0;0;0;0;1;0;2022;105;7;Tornado
+35; Jawa Timur;1;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2022;105;7;Tornado
+71; Sulawesi Utara;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;105;7;Tornado
+94; Papua;1;4;0;0;6;2740;0;0;0;0;0;0;0;0;0;2022;106;7;Drought
+12; Sumatera Utara;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;7;Forest Fire
+16; Sumatera Selatan;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;7;Forest Fire
+18; Lampung;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;7;Forest Fire
+33; Jawa Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;7;Forest Fire
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;7;Forest Fire
+64; Kalimantan Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;7;Forest Fire
+72; Sulawesi Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;7;Forest Fire
+11; Aceh;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;8;Flood
+12; Sumatera Utara;4;0;0;0;6055;20;0;3;0;0;0;0;0;0;0;2022;101;8;Flood
+16; Sumatera Selatan;3;0;0;0;188;0;0;0;0;0;0;0;0;0;0;2022;101;8;Flood
+18; Lampung;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;8;Flood
+33; Jawa Tengah;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;8;Flood
+65; Kalimantan Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;8;Flood
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;8;Land_Slide
+13; Sumatera Barat;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;8;Land_Slide
+16; Sumatera Selatan;4;0;0;0;0;0;2;0;0;0;1;0;0;0;0;2022;102;8;Land_Slide
+18; Lampung;2;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;102;8;Land_Slide
+33; Jawa Tengah;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;8;Land_Slide
+71; Sulawesi Utara;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;102;8;Land_Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;8;Flood and Land Slide
+33; Jawa Tengah;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;8;Abration
+35; Jawa Timur;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;8;Abration
+13; Sumatera Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;8;Tornado
+16; Sumatera Selatan;4;0;0;0;0;42;118;0;0;1;0;1;0;0;0;2022;105;8;Tornado
+33; Jawa Tengah;5;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;105;8;Tornado
+35; Jawa Timur;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;105;8;Tornado
+71; Sulawesi Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;8;Tornado
+33; Jawa Tengah;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;8;Drought
+35; Jawa Timur;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;8;Drought
+11; Aceh;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+12; Sumatera Utara;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+16; Sumatera Selatan;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+18; Lampung;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+33; Jawa Tengah;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+35; Jawa Timur;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+61; Kalimantan Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+65; Kalimantan Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;8;Forest Fire
+18; Lampung;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2022;108;8;Earthquake
+32; Jawa Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;111;8;Volcano Eruption
+12; Sumatera Utara;3;0;0;0;1410;0;0;0;0;0;0;0;0;0;0;2022;101;9;Flood
+15; Jambi;1;0;0;0;26;26;0;0;0;0;0;0;0;0;0;2022;101;9;Flood
+16; Sumatera Selatan;6;2;0;0;346;0;0;0;0;0;0;0;0;0;0;2022;101;9;Flood
+18; Lampung;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;101;9;Flood
+33; Jawa Tengah;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;9;Flood
+35; Jawa Timur;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;9;Flood
+72; Sulawesi Tengah;10;0;0;1;0;0;164;0;0;0;2;0;1;0;0;2022;101;9;Flood
+12; Sumatera Utara;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;9;Land_Slide
+15; Jambi;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;2022;102;9;Land_Slide
+16; Sumatera Selatan;2;0;0;0;0;2;0;0;0;0;0;0;1;0;0;2022;102;9;Land_Slide
+32; Jawa Barat;5;0;0;0;0;0;10;0;0;0;0;0;0;0;0;2022;102;9;Land_Slide
+33; Jawa Tengah;33;0;0;0;0;0;13;0;0;2;4;0;2;0;0;2022;102;9;Land_Slide
+71; Sulawesi Utara;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;102;9;Land_Slide
+35; Jawa Timur;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;104;9;Abration
+12; Sumatera Utara;1;0;0;0;10;0;2;0;0;0;0;0;0;0;0;2022;105;9;Tornado
+16; Sumatera Selatan;5;0;0;0;0;6;28;0;0;0;0;0;0;0;0;2022;105;9;Tornado
+19; Bangka Belitung;1;0;0;0;1;3;0;0;0;0;0;0;0;0;0;2022;105;9;Tornado
+33; Jawa Tengah;10;0;0;0;0;0;34;0;0;0;0;0;0;0;0;2022;105;9;Tornado
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;9;Tornado
+71; Sulawesi Utara;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2022;105;9;Tornado
+72; Sulawesi Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;105;9;Tornado
+33; Jawa Tengah;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;9;Drought
+35; Jawa Timur;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;106;9;Drought
+12; Sumatera Utara;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;9;Forest Fire
+16; Sumatera Selatan;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;9;Forest Fire
+35; Jawa Timur;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;107;9;Forest Fire
+18; Lampung;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;108;9;Earthquake
+73; Sulawesi Selatan;2;0;0;0;0;0;8;0;0;0;0;0;0;0;0;2022;108;9;Earthquake
+94; Papua;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2022;108;9;Earthquake
+15; Jambi;1;0;0;0;680;0;0;0;0;0;0;0;1;0;0;2022;101;10;Flood
+16; Sumatera Selatan;3;0;0;0;264;21;0;0;0;0;0;0;0;0;0;2022;101;10;Flood
+18; Lampung;5;0;0;1;0;0;3;4;0;0;2;0;0;0;0;2022;101;10;Flood
+32; Jawa Barat;3;0;0;0;42;0;2;0;0;0;1;0;0;0;0;2022;101;10;Flood
+33; Jawa Tengah;21;2;0;0;0;72;132;2;0;0;0;0;0;0;0;2022;101;10;Flood
+35; Jawa Timur;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;10;Flood
+52; Nusa Tenggara Barat;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;101;10;Flood
+72; Sulawesi Tengah;5;0;0;0;0;0;5;0;0;0;0;0;0;0;0;2022;101;10;Flood
+16; Sumatera Selatan;6;0;0;0;15;12;3;0;0;0;0;0;1;0;0;2022;102;10;Land_Slide
+32; Jawa Barat;8;0;0;0;10;0;0;0;0;0;0;0;0;0;0;2022;102;10;Land_Slide
+33; Jawa Tengah;42;0;0;0;0;0;63;2;0;0;3;0;1;0;0;2022;102;10;Land_Slide
+16; Sumatera Selatan;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2022;103;10;Flood and Land Slide
+33; Jawa Tengah;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2022;103;10;Flood and Land Slide
+16; Sumatera Selatan;3;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2022;105;10;Tornado
+33; Jawa Tengah;18;0;0;1;0;0;19;0;0;0;1;1;0;0;0;2022;105;10;Tornado
+35; Jawa Timur;4;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2022;105;10;Tornado
+52; Nusa Tenggara Barat;1;0;0;0;0;10;10;0;0;0;0;0;0;0;0;2022;105;10;Tornado
+12; Sumatera Utara;1;0;0;0;0;0;1323;33;17;71;0;25;9;0;0;2022;108;10;Earthquake
