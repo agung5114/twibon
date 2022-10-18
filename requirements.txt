@@ -8,8 +8,8 @@ plotly-express
 joblib
 # neattext
 # seaborn
-wordcloud
-# git+https://github.com/JustAnotherArchivist/snscrape.git
-nltk
+#wordcloud
+git+https://github.com/JustAnotherArchivist/snscrape.git
+#nltk
 # gensim
-networkx
+#networkx
