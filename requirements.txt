@@ -9,7 +9,7 @@ plotly-express
 joblib
 # neattext
 # seaborn
-#wordcloud
+wordcloud
 git+https://github.com/JustAnotherArchivist/snscrape.git
 #nltk
 # gensim
