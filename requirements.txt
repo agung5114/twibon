@@ -3,6 +3,7 @@ scikit-learn
 tweepy==3.10.0
 textblob
 pillow
+plotly
 plotly-express
 # altair
 joblib
