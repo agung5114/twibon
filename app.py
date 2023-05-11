@@ -41,7 +41,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 # Utils
 from tweets import api, get_tweet, get_tags
 from textprep import tweet_sentiment, cleandf
-from network import networkFig
+# from network import networkFig
 import joblib
 
 pipe_lr = joblib.load(open("modelnlp.pkl", "rb"))
